@@ -1,0 +1,96 @@
+{
+  "groups": [
+    {
+      "name": "ser - Conjugations",
+      "entries": [
+        { "spanish": "yo soy",        "english": "I am" },
+        { "spanish": "tú eres",       "english": "you are" },
+        { "spanish": "él es",         "english": "he is" },
+        { "spanish": "ella es",       "english": "she is" },
+        { "spanish": "usted es",      "english": "you are (formal)" },
+        { "spanish": "nosotros somos", "english": "we are" },
+        { "spanish": "ellos son",     "english": "they are" },
+        { "spanish": "ustedes son",   "english": "you all are" }
+      ]
+    },
+    {
+      "name": "ser - Past Tense Conjugations",
+      "entries": [
+        { "spanish": "yo fui",          "english": "I was" },
+        { "spanish": "tú fuiste",       "english": "you were" },
+        { "spanish": "él fue",          "english": "he was" },
+        { "spanish": "ella fue",        "english": "she was" },
+        { "spanish": "usted fue",       "english": "you were (formal)" },
+        { "spanish": "nosotros fuimos", "english": "we were" },
+        { "spanish": "ellos fueron",    "english": "they were" },
+        { "spanish": "ustedes fueron",  "english": "you all were" }
+      ]
+    },
+    {
+      "name": "ser - Future Tense Conjugations",
+      "entries": [
+        { "spanish": "yo seré",          "english": "I will be" },
+        { "spanish": "tú serás",         "english": "you will be" },
+        { "spanish": "él será",          "english": "he will be" },
+        { "spanish": "ella será",        "english": "she will be" },
+        { "spanish": "usted será",       "english": "you will be (formal)" },
+        { "spanish": "nosotros seremos", "english": "we will be" },
+        { "spanish": "ellos serán",      "english": "they will be" },
+        { "spanish": "ustedes serán",    "english": "you all will be" }
+      ]
+    },
+    {
+      "name": "ser - Sentences",
+      "entries": [
+        { "spanish": "Dios es bueno.",                                        "english": "God is good." },
+        { "spanish": "Moisés es un líder importante en la Biblia.",           "english": "Moses is an important leader in the Bible." },
+        { "spanish": "Somos miembros de esta iglesia.",                       "english": "We are members of this church." },
+        { "spanish": "¿De dónde eres tú?",                                   "english": "Where are you from?" },
+        { "spanish": "El restaurante es muy popular en este barrio.",         "english": "The restaurant is very popular in this neighborhood." },
+        { "spanish": "El arroz con pollo es mi plato favorito.",              "english": "Chicken and rice is my favorite dish." },
+        { "spanish": "Nuestra casa es grande y cómoda.",                      "english": "Our house is big and comfortable." },
+        { "spanish": "Mi mamá es maestra.",                                   "english": "My mom is a teacher." },
+        { "spanish": "Mis amigos son muy divertidos.",                        "english": "My friends are a lot of fun." },
+        { "spanish": "Mi perro es muy inteligente.",                          "english": "My dog is very intelligent." },
+        { "spanish": "El doctor es especialista en cardiología.",             "english": "The doctor is a heart specialist." },
+        { "spanish": "Soy ingeniero de software.",                            "english": "I am a software engineer." },
+        { "spanish": "Esta canción es de un cantante colombiano.",            "english": "This song is by a Colombian singer." },
+        { "spanish": "La directora de la escuela es muy amable.",             "english": "The school principal is very kind." }
+      ]
+    },
+    {
+      "name": "ser - Past Tense Sentences",
+      "entries": [
+        { "spanish": "La historia de José fue un milagro de Dios.",          "english": "The story of Joseph was a miracle from God." },
+        { "spanish": "El servicio fue muy especial el domingo pasado.",       "english": "The service was very special last Sunday." },
+        { "spanish": "El viaje a Perú fue increíble.",                        "english": "The trip to Peru was incredible." },
+        { "spanish": "La cena fue deliciosa anoche.",                         "english": "Dinner was delicious last night." },
+        { "spanish": "El pastel fue el postre favorito de todos.",            "english": "The cake was everyone's favorite dessert." },
+        { "spanish": "La reunión familiar fue en nuestra casa.",              "english": "The family gathering was at our house." },
+        { "spanish": "Mi abuelo fue pastor por muchos años.",                 "english": "My grandfather was a pastor for many years." },
+        { "spanish": "La fiesta con mis amigos fue muy divertida.",           "english": "The party with my friends was a lot of fun." },
+        { "spanish": "El examen fue muy difícil.",                            "english": "The exam was very difficult." },
+        { "spanish": "La operación fue un éxito.",                            "english": "The surgery was a success." },
+        { "spanish": "La presentación en el trabajo fue muy bien.",           "english": "The presentation at work went very well." },
+        { "spanish": "El concierto fue increíble.",                           "english": "The concert was incredible." }
+      ]
+    },
+    {
+      "name": "ser - Future Tense Sentences",
+      "entries": [
+        { "spanish": "La palabra de Dios siempre será verdad.",               "english": "The word of God will always be truth." },
+        { "spanish": "El nuevo pastor será un gran líder.",                   "english": "The new pastor will be a great leader." },
+        { "spanish": "El próximo verano será perfecto para viajar.",          "english": "Next summer will be perfect for traveling." },
+        { "spanish": "El restaurante nuevo será muy popular.",                "english": "The new restaurant will be very popular." },
+        { "spanish": "La cena de Navidad será especial este año.",            "english": "The Christmas dinner will be special this year." },
+        { "spanish": "Nuestra casa nueva será más grande.",                   "english": "Our new house will be bigger." },
+        { "spanish": "Mi hermana será mamá en marzo.",                        "english": "My sister will be a mom in March." },
+        { "spanish": "El próximo semestre será más fácil.",                   "english": "Next semester will be easier." },
+        { "spanish": "La recuperación será lenta pero segura.",               "english": "The recovery will be slow but sure." },
+        { "spanish": "Seré el gerente del proyecto el próximo año.",          "english": "I will be the project manager next year." },
+        { "spanish": "El concierto será el sábado por la noche.",             "english": "The concert will be on Saturday night." },
+        { "spanish": "Será un honor conocer a tus amigos.",                   "english": "It will be an honor to meet your friends." }
+      ]
+    }
+  ]
+}

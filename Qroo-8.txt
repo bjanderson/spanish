@@ -1,0 +1,35 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Qroo_Exercises-Ir-Future
+#tags column:3
+Do you want to sing?	¿Quieres cantar?	Qroo-8 sentences
+I want to eat.	Quiero comer.	Qroo-8 sentences
+Do you want to drink water?	¿Quieres beber agua? / ¿Quieres tomar agua?	Qroo-8 sentences
+I want to read a book.	Quiero leer un libro.	Qroo-8 sentences
+What do you want to write?	¿Qué quieres escribir?	Qroo-8 sentences
+I want to run.	Quiero correr.	Qroo-8 sentences
+Do you want to walk?	¿Quieres caminar?	Qroo-8 sentences
+I want to travel.	Quiero viajar.	Qroo-8 sentences
+Do you want to work?	¿Quieres trabajar?	Qroo-8 sentences
+I want to practice Spanish.	Quiero practicar español.	Qroo-8 sentences
+Do you have to sell a book?	¿Tienes que vender un libro?	Qroo-8 sentences
+I have to work.	Tengo que trabajar.	Qroo-8 sentences
+Do you have to buy a car?	¿Tienes que comprar un carro?	Qroo-8 sentences
+I have to sell some books.	Tengo que vender unos libros.	Qroo-8 sentences
+Do you have to buy some books?	¿Tienes que comprar unos libros?	Qroo-8 sentences
+I have to practice Spanish.	Tengo que practicar español.	Qroo-8 sentences
+Do you have to run?	¿Tienes que correr?	Qroo-8 sentences
+I have to write.	Tengo que escribir.	Qroo-8 sentences
+What are you going to sing?	¿Qué vas a cantar?	Qroo-8 sentences
+I can run.	Puedo correr.	Qroo-8 sentences
+Can you walk?	¿Puedes caminar?	Qroo-8 sentences
+I can walk.	Puedo caminar.	Qroo-8 sentences
+Can you write?	¿Puedes escribir?	Qroo-8 sentences
+I can draw a car.	Puedo dibujar un carro.	Qroo-8 sentences
+Are you going to drink water?	¿Vas a beber agua? / ¿Vas a tomar agua?	Qroo-8 sentences
+I am going to rest.	Voy a descansar.	Qroo-8 sentences
+Where are you going to work?	¿Dónde vas a trabajar?	Qroo-8 sentences
+I am going to travel.	Voy a viajar.	Qroo-8 sentences
+When are you going to rest?	¿Cuándo vas a descansar?	Qroo-8 sentences
+What are you going to draw?	¿Qué vas a dibujar?	Qroo-8 sentences

@@ -1,0 +1,35 @@
+#separator:Tab
+#html:false
+#notetype:Basic
+#deck:Qroo_Exercises-Ir-Preterit
+#columns:Front	Back	Tags
+Did you go to the store?	¿Fuiste a la tienda?	Qroo Exercises - Ir Preterit
+I went to the pharmacy.	Fui a la farmacia.	Qroo Exercises - Ir Preterit
+Did you go to the park?	¿Fuiste al parque?	Qroo Exercises - Ir Preterit
+I went to the hospital.	Fui al hospital.	Qroo Exercises - Ir Preterit
+Did you go to school?	¿Fuiste a la escuela?	Qroo Exercises - Ir Preterit
+I went to the cinema.	Fui al cine.	Qroo Exercises - Ir Preterit
+Did you go to the restaurant?	¿Fuiste al restaurante?	Qroo Exercises - Ir Preterit
+I went to the supermarket.	Fui al supermercado.	Qroo Exercises - Ir Preterit
+Did you go to the gym?	¿Fuiste al gimnasio?	Qroo Exercises - Ir Preterit
+I went to the beach.	Fui a la playa.	Qroo Exercises - Ir Preterit
+When did you go to the store?	¿Cuándo fuiste a la tienda?	Qroo Exercises - Ir Preterit
+I went to the park two hours ago.	Fui al parque hace dos horas.	Qroo Exercises - Ir Preterit
+Did you already go to the hospital?	¿Ya fuiste al hospital?	Qroo Exercises - Ir Preterit
+I already went to the store.	Ya fui a la tienda.	Qroo Exercises - Ir Preterit
+Did you already go to the beach?	¿Ya fuiste a la playa?	Qroo Exercises - Ir Preterit
+I went to the restaurant two days ago.	Fui al restaurante hace dos días.	Qroo Exercises - Ir Preterit
+When did you go to the pharmacy?	¿Cuándo fuiste a la farmacia?	Qroo Exercises - Ir Preterit
+I went to the library yesterday.	Fui a la biblioteca ayer.	Qroo Exercises - Ir Preterit
+Did you already go to the office?	¿Ya fuiste a la oficina?	Qroo Exercises - Ir Preterit
+I went to the gym three days ago.	Fui al gimnasio hace tres días.	Qroo Exercises - Ir Preterit
+When did you go to the school?	¿Cuándo fuiste a la escuela?	Qroo Exercises - Ir Preterit
+I already went to the supermarket.	Ya fui al supermercado.	Qroo Exercises - Ir Preterit
+Did you go to the airport?	¿Fuiste al aeropuerto?	Qroo Exercises - Ir Preterit
+I went to the bank an hour ago.	Fui al banco hace una hora.	Qroo Exercises - Ir Preterit
+When did you go to the cinema?	¿Cuándo fuiste al cine?	Qroo Exercises - Ir Preterit
+I already went to the park.	Ya fui al parque.	Qroo Exercises - Ir Preterit
+Did you already go to the store?	¿Ya fuiste a la tienda?	Qroo Exercises - Ir Preterit
+I went to the office last week.	Fui a la oficina la semana pasada.	Qroo Exercises - Ir Preterit
+When did you go to the library?	¿Cuándo fuiste a la biblioteca?	Qroo Exercises - Ir Preterit
+I went to the hospital five days ago.	Fui al hospital hace cinco días.	Qroo Exercises - Ir Preterit

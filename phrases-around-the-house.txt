@@ -1,0 +1,45 @@
+#separator:semicolon
+#html:false
+#notetype:Basic
+#deck:Phrases - Around the house
+I open the door.;Abro la puerta.
+I close the door.;Cierro la puerta.
+I turn on the light.;Enciendo la luz.
+I turn off the light.;Apago la luz.
+I sit on the sofa.;Me siento en el sofá.
+I stand up.;Me levanto.
+I walk to the kitchen.;Camino a la cocina.
+I drink water.;Bebo agua.
+I eat breakfast.;Desayuno.
+I eat lunch.;Almuerzo.
+I eat dinner.;Ceno.
+I wash the dishes.;Lavo los platos.
+I cook food.;Cocino.
+I open the fridge.;Abro el refrigerador.
+I close the fridge.;Cierro el refrigerador.
+I make coffee.;Hago café.
+I brush my teeth.;Me cepillo los dientes.
+I wash my face.;Me lavo la cara.
+I take a shower.;Me ducho.
+I dry my hands.;Me seco las manos.
+I make the bed.;Hago la cama.
+I fold the clothes.;Doblo la ropa.
+I open the window.;Abro la ventana.
+I close the window.;Cierro la ventana.
+I water the plants.;Riego las plantas.
+I read a book.;Leo un libro.
+I watch TV.;Veo la televisión.
+I charge my phone.;Cargo mi teléfono.
+I clean the table.;Limpio la mesa.
+I sweep the floor.;Barro el suelo.
+I vacuum the carpet.;Aspiro la alfombra.
+I throw out the trash.;Saco la basura.
+I go to the bathroom.;Voy al baño.
+I wash my hands.;Me lavo las manos.
+I turn on the faucet.;Abro el grifo.
+I turn off the faucet.;Cierro el grifo.
+I hang the towel.;Cuelgo la toalla.
+I put on my shoes.;Me pongo los zapatos.
+I take off my shoes.;Me quito los zapatos.
+I'm going to sleep.;Me voy a dormir.
+I wake up.;Me despierto.

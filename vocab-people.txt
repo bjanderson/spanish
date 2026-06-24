@@ -1,0 +1,105 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Vocab-People
+#tags column:3
+hombre	man	vocab-people
+mujer	woman	vocab-people
+niño	boy / child	vocab-people
+niña	girl	vocab-people
+bebé	baby	vocab-people
+persona	person	vocab-people
+adulto	adult (adulta f.)	vocab-people
+joven	young person	vocab-people
+anciano	elderly man	vocab-people
+anciana	elderly woman	vocab-people
+adolescente	teenager	vocab-people
+niñero	babysitter (male)	vocab-people
+niñera	babysitter (female)	vocab-people
+gemelo	twin (gemela f.)	vocab-people
+huérfano	orphan (huérfana f.)	vocab-people
+ciudadano	citizen (ciudadana f.)	vocab-people
+extranjero	foreigner (extranjera f.)	vocab-people
+turista	tourist	vocab-people
+inmigrante	immigrant	vocab-people
+refugiado	refugee (refugiada f.)	vocab-people
+vecino	neighbor (male)	vocab-people
+vecina	neighbor (female)	vocab-people
+amigo	friend (male)	vocab-people
+amiga	friend (female)	vocab-people
+conocido	acquaintance (conocida f.)	vocab-people
+compañero	companion (compañera f.)	vocab-people
+líder	leader	vocab-people
+jefe	boss (jefa f.)	vocab-people
+empleado	employee (empleada f.)	vocab-people
+trabajador	worker (trabajadora f.)	vocab-people
+voluntario	volunteer (voluntaria f.)	vocab-people
+estudiante	student	vocab-people
+maestro	teacher (maestra f.)	vocab-people
+profesor	professor (profesora f.)	vocab-people
+doctor	doctor (doctora f.)	vocab-people
+médico	physician (médica f.)	vocab-people
+enfermero	nurse (male)	vocab-people
+enfermera	nurse (female)	vocab-people
+abogado	lawyer (abogada f.)	vocab-people
+ingeniero	engineer (ingeniera f.)	vocab-people
+arquitecto	architect (arquitecta f.)	vocab-people
+mecánico	mechanic (mecánica f.)	vocab-people
+conductor	driver (conductora f.)	vocab-people
+piloto	pilot	vocab-people
+cocinero	cook (cocinera f.)	vocab-people
+chef	chef	vocab-people
+vendedor	salesperson (vendedora f.)	vocab-people
+policía	police officer	vocab-people
+bombero	firefighter (bombera f.)	vocab-people
+soldado	soldier	vocab-people
+músico	musician (música f.)	vocab-people
+cantante	singer	vocab-people
+actor	actor	vocab-people
+actriz	actress	vocab-people
+escritor	writer (escritora f.)	vocab-people
+artista	artist	vocab-people
+deportista	athlete	vocab-people
+periodista	journalist	vocab-people
+fotógrafo	photographer (fotógrafa f.)	vocab-people
+diseñador	designer (diseñadora f.)	vocab-people
+programador	programmer (programadora f.)	vocab-people
+científico	scientist (científica f.)	vocab-people
+veterinario	veterinarian (veterinaria f.)	vocab-people
+dentista	dentist	vocab-people
+farmacéutico	pharmacist (farmacéutica f.)	vocab-people
+contador	accountant (contadora f.)	vocab-people
+secretario	secretary (secretaria f.)	vocab-people
+guía	guide	vocab-people
+presidente	president (presidenta f.)	vocab-people
+alcalde	mayor (alcaldesa f.)	vocab-people
+juez	judge (jueza f.)	vocab-people
+pastor	pastor	vocab-people
+misionero	missionary (misionera f.)	vocab-people
+sacerdote	priest	vocab-people
+profeta	prophet	vocab-people
+discípulo	disciple (discípula f.)	vocab-people
+apóstol	apostle	vocab-people
+creyente	believer	vocab-people
+cristiano	Christian (cristiana f.)	vocab-people
+pecador	sinner (pecadora f.)	vocab-people
+santo	saint (santa f.)	vocab-people
+ángel	angel	vocab-people
+rey	king	vocab-people
+reina	queen	vocab-people
+príncipe	prince	vocab-people
+princesa	princess	vocab-people
+héroe	hero (heroína f.)	vocab-people
+villano	villain (villana f.)	vocab-people
+víctima	victim	vocab-people
+sobreviviente	survivor	vocab-people
+mártir	martyr	vocab-people
+mediador	mediator (mediadora f.)	vocab-people
+testigo	witness	vocab-people
+aliado	ally (aliada f.)	vocab-people
+anfitrión	host (anfitriona f.)	vocab-people
+invitado	guest (invitada f.)	vocab-people
+inquilino	tenant (inquilina f.)	vocab-people
+casero	landlord (casera f.)	vocab-people
+socio	business partner (socia f.)	vocab-people
+colega	colleague	vocab-people

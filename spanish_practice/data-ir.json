@@ -1,0 +1,101 @@
+{
+  "groups": [
+    {
+      "name": "ir - Conjugations",
+      "entries": [
+        { "spanish": "yo voy",       "english": "I go / I am going" },
+        { "spanish": "tú vas",       "english": "you go / you are going" },
+        { "spanish": "él va",        "english": "he goes / he is going" },
+        { "spanish": "ella va",      "english": "she goes / she is going" },
+        { "spanish": "usted va",     "english": "you go / you are going (formal)" },
+        { "spanish": "nosotros vamos", "english": "we go / we are going" },
+        { "spanish": "ellos van",    "english": "they go / they are going" },
+        { "spanish": "ustedes van",  "english": "you all go / you all are going" }
+      ]
+    },
+    {
+      "name": "ir - Past Tense Conjugations",
+      "entries": [
+        { "spanish": "yo fui",          "english": "I went" },
+        { "spanish": "tú fuiste",       "english": "you went" },
+        { "spanish": "él fue",          "english": "he went" },
+        { "spanish": "ella fue",        "english": "she went" },
+        { "spanish": "usted fue",       "english": "you went (formal)" },
+        { "spanish": "nosotros fuimos", "english": "we went" },
+        { "spanish": "ellos fueron",    "english": "they went" },
+        { "spanish": "ustedes fueron",  "english": "you all went" }
+      ]
+    },
+    {
+      "name": "ir - Future Tense Conjugations",
+      "entries": [
+        { "spanish": "yo iré",          "english": "I will go" },
+        { "spanish": "tú irás",         "english": "you will go" },
+        { "spanish": "él irá",          "english": "he will go" },
+        { "spanish": "ella irá",        "english": "she will go" },
+        { "spanish": "usted irá",       "english": "you will go (formal)" },
+        { "spanish": "nosotros iremos", "english": "we will go" },
+        { "spanish": "ellos irán",      "english": "they will go" },
+        { "spanish": "ustedes irán",    "english": "you all will go" }
+      ]
+    },
+    {
+      "name": "ir - Sentences",
+      "entries": [
+        { "spanish": "Voy a casa ahora.",                          "english": "I am going home now." },
+        { "spanish": "¿Tú vas a la escuela hoy?",                  "english": "Are you going to school today?" },
+        { "spanish": "Mi mamá va al supermercado.",                "english": "My mom is going to the supermarket." },
+        { "spanish": "Mi papá va al trabajo en carro.",            "english": "My dad goes to work by car." },
+        { "spanish": "Nosotros vamos a la iglesia los domingos.",  "english": "We go to church on Sundays." },
+        { "spanish": "Los niños van a la escuela en autobús.",     "english": "The children go to school by bus." },
+        { "spanish": "¿Ustedes van a la oficina mañana?",         "english": "Are you all going to the office tomorrow?" },
+        { "spanish": "Voy al aeropuerto esta tarde.",              "english": "I am going to the airport this afternoon." },
+        { "spanish": "Vamos de vacaciones a México.",              "english": "We are going on vacation to Mexico." },
+        { "spanish": "Mi perro va al veterinario hoy.",            "english": "My dog is going to the vet today." },
+        { "spanish": "¿Vas a la farmacia?",                        "english": "Are you going to the pharmacy?" },
+        { "spanish": "Mi abuela va al médico esta semana.",        "english": "My grandmother is going to the doctor this week." },
+        { "spanish": "Vamos a un restaurante esta noche.",         "english": "We are going to a restaurant tonight." },
+        { "spanish": "Ellos van al parque los sábados.",           "english": "They go to the park on Saturdays." },
+        { "spanish": "¿Vas al gimnasio hoy?",                      "english": "Are you going to the gym today?" },
+        { "spanish": "Mi hermana va a la universidad el próximo año.", "english": "My sister is going to college next year." },
+        { "spanish": "Vamos al servicio esta mañana.",             "english": "We are going to the service this morning." },
+        { "spanish": "¿Tus papás van de viaje?",                   "english": "Are your parents going on a trip?" }
+      ]
+    }
+    ,
+    {
+      "name": "ir - Past Tense Sentences",
+      "entries": [
+        { "spanish": "Fui a Colombia el año pasado.",                    "english": "I went to Colombia last year." },
+        { "spanish": "¿Tú fuiste a la oficina ayer?",                   "english": "Did you go to the office yesterday?" },
+        { "spanish": "Mi familia fue a un restaurante anoche.",          "english": "My family went to a restaurant last night." },
+        { "spanish": "Fuimos a la iglesia el domingo pasado.",           "english": "We went to church last Sunday." },
+        { "spanish": "Los niños fueron a casa después de la escuela.",   "english": "The children went home after school." },
+        { "spanish": "¿Adónde fueron ustedes de vacaciones?",           "english": "Where did you all go on vacation?" },
+        { "spanish": "Mi perro fue al veterinario la semana pasada.",    "english": "My dog went to the vet last week." },
+        { "spanish": "Fui a la escuela a pie esta mañana.",             "english": "I went to school on foot this morning." },
+        { "spanish": "Mi abuelo fue al hospital ayer.",                  "english": "My grandfather went to the hospital yesterday." },
+        { "spanish": "Fuimos al parque el sábado pasado.",              "english": "We went to the park last Saturday." },
+        { "spanish": "¿Adónde fue tu mamá ayer?",                       "english": "Where did your mom go yesterday?" },
+        { "spanish": "Ellos fueron al gimnasio esta mañana.",           "english": "They went to the gym this morning." }
+      ]
+    },
+    {
+      "name": "ir - Future Tense Sentences",
+      "entries": [
+        { "spanish": "Iré a México el próximo verano.",                  "english": "I will go to Mexico next summer." },
+        { "spanish": "¿Irás a la iglesia este domingo?",                 "english": "Will you go to church this Sunday?" },
+        { "spanish": "Mi gato irá al veterinario mañana.",              "english": "My cat will go to the vet tomorrow." },
+        { "spanish": "Iremos a un restaurante para el cumpleaños de mi mamá.", "english": "We will go to a restaurant for my mom's birthday." },
+        { "spanish": "Los niños irán a casa a las tres.",               "english": "The children will go home at three." },
+        { "spanish": "¿Irás a la universidad el próximo año?",           "english": "Will you go to college next year?" },
+        { "spanish": "Mi mamá irá al médico mañana.",                   "english": "My mom will go to the doctor tomorrow." },
+        { "spanish": "¿Irán ustedes a la oficina el lunes?",            "english": "Will you all go to the office on Monday?" },
+        { "spanish": "Iremos a visitar a mis abuelos en Navidad.",      "english": "We will go visit my grandparents at Christmas." },
+        { "spanish": "¿Adónde irás de vacaciones este año?",            "english": "Where will you go on vacation this year?" },
+        { "spanish": "Iré a la reunión a las dos.",                     "english": "I will go to the meeting at two." },
+        { "spanish": "Iremos al parque si no llueve.",                  "english": "We will go to the park if it doesn't rain." }
+      ]
+    }
+  ]
+}

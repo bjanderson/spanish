@@ -1,0 +1,1742 @@
+{
+  "groups": [
+    {
+      "name": "Basics",
+      "entries": [
+        {
+          "spanish": "Buenos días",
+          "english": "Good morning"
+        },
+        {
+          "spanish": "Buenas noches",
+          "english": "Good night"
+        },
+        {
+          "spanish": "Por favor",
+          "english": "Please"
+        },
+        {
+          "spanish": "Gracias",
+          "english": "Thank you"
+        },
+        {
+          "spanish": "De nada",
+          "english": "You're welcome"
+        },
+        {
+          "spanish": "Lo siento",
+          "english": "I'm sorry"
+        }
+      ]
+    },
+    {
+      "name": "estar - Conjugations",
+      "entries": [
+        {
+          "spanish": "yo estoy",
+          "english": "I am"
+        },
+        {
+          "spanish": "tú estás",
+          "english": "you are"
+        },
+        {
+          "spanish": "él está",
+          "english": "he is"
+        },
+        {
+          "spanish": "ella está",
+          "english": "she is"
+        },
+        {
+          "spanish": "usted está",
+          "english": "you are (formal)"
+        },
+        {
+          "spanish": "nosotros estamos",
+          "english": "we are"
+        },
+        {
+          "spanish": "ellos están",
+          "english": "they are"
+        },
+        {
+          "spanish": "ustedes están",
+          "english": "you all are"
+        }
+      ]
+    },
+    {
+      "name": "estar - Future Tense Conjugations",
+      "entries": [
+        {
+          "spanish": "yo estaré",
+          "english": "I will be"
+        },
+        {
+          "spanish": "tú estarás",
+          "english": "you will be"
+        },
+        {
+          "spanish": "él estará",
+          "english": "he will be"
+        },
+        {
+          "spanish": "ella estará",
+          "english": "she will be"
+        },
+        {
+          "spanish": "usted estará",
+          "english": "you will be (formal)"
+        },
+        {
+          "spanish": "nosotros estaremos",
+          "english": "we will be"
+        },
+        {
+          "spanish": "ellos estarán",
+          "english": "they will be"
+        },
+        {
+          "spanish": "ustedes estarán",
+          "english": "you all will be"
+        }
+      ]
+    },
+    {
+      "name": "estar - Future Tense Sentences",
+      "entries": [
+        {
+          "spanish": "Estaré en Guatemala por una semana.",
+          "english": "I will be in Guatemala for a week."
+        },
+        {
+          "spanish": "¿Estarás en la iglesia el domingo?",
+          "english": "Will you be at church on Sunday?"
+        },
+        {
+          "spanish": "El restaurante estará cerrado el lunes.",
+          "english": "The restaurant will be closed on Monday."
+        },
+        {
+          "spanish": "Mi mamá estará en casa esta tarde.",
+          "english": "My mom will be home this afternoon."
+        },
+        {
+          "spanish": "Mis papás estarán con nosotros en Navidad.",
+          "english": "My parents will be with us at Christmas."
+        },
+        {
+          "spanish": "El veterinario estará disponible mañana.",
+          "english": "The vet will be available tomorrow."
+        },
+        {
+          "spanish": "Los estudiantes estarán de vacaciones la próxima semana.",
+          "english": "The students will be on break next week."
+        },
+        {
+          "spanish": "El doctor estará en el consultorio hasta las cinco.",
+          "english": "The doctor will be in the office until five."
+        },
+        {
+          "spanish": "¿Estarán ustedes en la oficina el lunes?",
+          "english": "Will you all be at the office on Monday?"
+        },
+        {
+          "spanish": "La banda estará en el concierto el sábado.",
+          "english": "The band will be at the concert on Saturday."
+        },
+        {
+          "spanish": "Estaremos en el estudio bíblico el jueves.",
+          "english": "We will be at Bible study on Thursday."
+        },
+        {
+          "spanish": "¿Estarás listo para el viaje mañana?",
+          "english": "Will you be ready for the trip tomorrow?"
+        }
+      ]
+    },
+    {
+      "name": "estar - Past Tense Conjugations",
+      "entries": [
+        {
+          "spanish": "yo estuve",
+          "english": "I was"
+        },
+        {
+          "spanish": "tú estuviste",
+          "english": "you were"
+        },
+        {
+          "spanish": "él estuvo",
+          "english": "he was"
+        },
+        {
+          "spanish": "ella estuvo",
+          "english": "she was"
+        },
+        {
+          "spanish": "usted estuvo",
+          "english": "you were (formal)"
+        },
+        {
+          "spanish": "nosotros estuvimos",
+          "english": "we were"
+        },
+        {
+          "spanish": "ellos estuvieron",
+          "english": "they were"
+        },
+        {
+          "spanish": "ustedes estuvieron",
+          "english": "you all were"
+        }
+      ]
+    },
+    {
+      "name": "estar - Past Tense Sentences",
+      "entries": [
+        {
+          "spanish": "Estuve en México por dos semanas.",
+          "english": "I was in Mexico for two weeks."
+        },
+        {
+          "spanish": "¿Dónde estuviste el domingo?",
+          "english": "Where were you on Sunday?"
+        },
+        {
+          "spanish": "Estuvimos en el estudio bíblico el miércoles.",
+          "english": "We were at Bible study on Wednesday."
+        },
+        {
+          "spanish": "Mis amigos estuvieron aquí toda la tarde.",
+          "english": "My friends were here all afternoon."
+        },
+        {
+          "spanish": "Mi papá estuvo en casa todo el día.",
+          "english": "My dad was home all day."
+        },
+        {
+          "spanish": "Mis tíos estuvieron con nosotros en Navidad.",
+          "english": "My aunt and uncle were with us at Christmas."
+        },
+        {
+          "spanish": "Estuve muy enfermo la semana pasada.",
+          "english": "I was very sick last week."
+        },
+        {
+          "spanish": "Los niños estuvieron en la escuela hasta las tres.",
+          "english": "The children were at school until three."
+        },
+        {
+          "spanish": "¿Estuviste en la oficina ayer?",
+          "english": "Were you at the office yesterday?"
+        },
+        {
+          "spanish": "Estuvimos en un restaurante anoche.",
+          "english": "We were at a restaurant last night."
+        },
+        {
+          "spanish": "El pastor estuvo muy ocupado esta semana.",
+          "english": "The pastor was very busy this week."
+        },
+        {
+          "spanish": "La comida estuvo deliciosa.",
+          "english": "The food was delicious."
+        }
+      ]
+    },
+    {
+      "name": "estar - Sentences",
+      "entries": [
+        {
+          "spanish": "La Biblia está sobre la mesa.",
+          "english": "The Bible is on the table."
+        },
+        {
+          "spanish": "Estamos en la iglesia ahora.",
+          "english": "We are at church now."
+        },
+        {
+          "spanish": "Estoy en el aeropuerto.",
+          "english": "I am at the airport."
+        },
+        {
+          "spanish": "¿Dónde está el mesero?",
+          "english": "Where is the waiter?"
+        },
+        {
+          "spanish": "La sopa está muy caliente.",
+          "english": "The soup is very hot."
+        },
+        {
+          "spanish": "Mi mamá está en la cocina.",
+          "english": "My mom is in the kitchen."
+        },
+        {
+          "spanish": "¿Cómo está tu papá?",
+          "english": "How is your dad?"
+        },
+        {
+          "spanish": "Mis amigos están en el parque.",
+          "english": "My friends are at the park."
+        },
+        {
+          "spanish": "Mi perro está muy cansado hoy.",
+          "english": "My dog is very tired today."
+        },
+        {
+          "spanish": "Los estudiantes están en clase.",
+          "english": "The students are in class."
+        },
+        {
+          "spanish": "Mi abuela está enferma esta semana.",
+          "english": "My grandmother is sick this week."
+        },
+        {
+          "spanish": "El jefe está en una reunión.",
+          "english": "The boss is in a meeting."
+        },
+        {
+          "spanish": "La música está muy alta.",
+          "english": "The music is very loud."
+        },
+        {
+          "spanish": "¿Estás listo para salir?",
+          "english": "Are you ready to go?"
+        }
+      ]
+    },
+    {
+      "name": "hacer - Conjugations",
+      "entries": [
+        {
+          "spanish": "yo hago",
+          "english": "I do / I make"
+        },
+        {
+          "spanish": "tú haces",
+          "english": "you do / you make"
+        },
+        {
+          "spanish": "él hace",
+          "english": "he does / he makes"
+        },
+        {
+          "spanish": "ella hace",
+          "english": "she does / she makes"
+        },
+        {
+          "spanish": "usted hace",
+          "english": "you do / you make (formal)"
+        },
+        {
+          "spanish": "nosotros hacemos",
+          "english": "we do / we make"
+        },
+        {
+          "spanish": "ellos hacen",
+          "english": "they do / they make"
+        },
+        {
+          "spanish": "ustedes hacen",
+          "english": "you all do / you all make"
+        }
+      ]
+    },
+    {
+      "name": "hacer - Future Tense Conjugations",
+      "entries": [
+        {
+          "spanish": "yo haré",
+          "english": "I will do / I will make"
+        },
+        {
+          "spanish": "tú harás",
+          "english": "you will do / you will make"
+        },
+        {
+          "spanish": "él hará",
+          "english": "he will do / he will make"
+        },
+        {
+          "spanish": "ella hará",
+          "english": "she will do / she will make"
+        },
+        {
+          "spanish": "usted hará",
+          "english": "you will do / you will make (formal)"
+        },
+        {
+          "spanish": "nosotros haremos",
+          "english": "we will do / we will make"
+        },
+        {
+          "spanish": "ellos harán",
+          "english": "they will do / they will make"
+        },
+        {
+          "spanish": "ustedes harán",
+          "english": "you all will do / you all will make"
+        }
+      ]
+    },
+    {
+      "name": "hacer - Future Tense Sentences",
+      "entries": [
+        {
+          "spanish": "Haremos un estudio sobre el libro de Juan.",
+          "english": "We will do a study on the book of John."
+        },
+        {
+          "spanish": "El pastor hará un anuncio especial el domingo.",
+          "english": "The pastor will make a special announcement on Sunday."
+        },
+        {
+          "spanish": "¿Qué harás durante tus vacaciones?",
+          "english": "What will you do during your vacation?"
+        },
+        {
+          "spanish": "El chef hará un menú especial para la cena.",
+          "english": "The chef will make a special menu for dinner."
+        },
+        {
+          "spanish": "Haremos una cena especial para celebrar.",
+          "english": "We will make a special dinner to celebrate."
+        },
+        {
+          "spanish": "Haré las compras del supermercado mañana.",
+          "english": "I will do the grocery shopping tomorrow."
+        },
+        {
+          "spanish": "Mi hermano hará una sorpresa para el cumpleaños de mi mamá.",
+          "english": "My brother will make a surprise for my mom's birthday."
+        },
+        {
+          "spanish": "Mis amigos harán una reunión el próximo sábado.",
+          "english": "My friends will have a get-together next Saturday."
+        },
+        {
+          "spanish": "Los estudiantes harán un proyecto en grupo.",
+          "english": "The students will do a group project."
+        },
+        {
+          "spanish": "El doctor hará una cirugía la próxima semana.",
+          "english": "The doctor will perform surgery next week."
+        },
+        {
+          "spanish": "¿Qué harán ustedes para mejorar las ventas?",
+          "english": "What will you all do to improve sales?"
+        },
+        {
+          "spanish": "El coro hará una presentación especial en Navidad.",
+          "english": "The choir will do a special performance at Christmas."
+        }
+      ]
+    },
+    {
+      "name": "hacer - Past Tense Conjugations",
+      "entries": [
+        {
+          "spanish": "yo hice",
+          "english": "I did / I made"
+        },
+        {
+          "spanish": "tú hiciste",
+          "english": "you did / you made"
+        },
+        {
+          "spanish": "él hizo",
+          "english": "he did / he made"
+        },
+        {
+          "spanish": "ella hizo",
+          "english": "she did / she made"
+        },
+        {
+          "spanish": "usted hizo",
+          "english": "you did / you made (formal)"
+        },
+        {
+          "spanish": "nosotros hicimos",
+          "english": "we did / we made"
+        },
+        {
+          "spanish": "ellos hicieron",
+          "english": "they did / they made"
+        },
+        {
+          "spanish": "ustedes hicieron",
+          "english": "you all did / you all made"
+        }
+      ]
+    },
+    {
+      "name": "hacer - Past Tense Sentences",
+      "entries": [
+        {
+          "spanish": "David hizo lo que Dios le pidió.",
+          "english": "David did what God asked him to do."
+        },
+        {
+          "spanish": "¿Qué hiciste después del servicio?",
+          "english": "What did you do after the service?"
+        },
+        {
+          "spanish": "Hicimos un recorrido por toda la ciudad.",
+          "english": "We took a tour of the entire city."
+        },
+        {
+          "spanish": "El chef hizo un plato especial para nosotros.",
+          "english": "The chef made a special dish for us."
+        },
+        {
+          "spanish": "Mi abuela hizo arroz con leche para el postre.",
+          "english": "My grandmother made rice pudding for dessert."
+        },
+        {
+          "spanish": "Hice la limpieza de la casa el sábado.",
+          "english": "I cleaned the house on Saturday."
+        },
+        {
+          "spanish": "Mi papá hizo un asado para toda la familia.",
+          "english": "My dad made a barbecue for the whole family."
+        },
+        {
+          "spanish": "Mis amigos hicieron una fiesta sorpresa para mí.",
+          "english": "My friends threw a surprise party for me."
+        },
+        {
+          "spanish": "Los estudiantes hicieron una presentación muy buena.",
+          "english": "The students gave a very good presentation."
+        },
+        {
+          "spanish": "El doctor hizo todos los exámenes necesarios.",
+          "english": "The doctor ran all the necessary tests."
+        },
+        {
+          "spanish": "Hicieron muchos cambios en la oficina.",
+          "english": "They made a lot of changes at the office."
+        },
+        {
+          "spanish": "El grupo hizo una canción nueva para la iglesia.",
+          "english": "The group made a new song for the church."
+        }
+      ]
+    },
+    {
+      "name": "hacer - Sentences",
+      "entries": [
+        {
+          "spanish": "Hacemos estudio bíblico los miércoles.",
+          "english": "We have Bible study on Wednesdays."
+        },
+        {
+          "spanish": "¿Qué hace el pastor después del servicio?",
+          "english": "What does the pastor do after the service?"
+        },
+        {
+          "spanish": "Mi mamá hace tamales en Navidad.",
+          "english": "My mom makes tamales at Christmas."
+        },
+        {
+          "spanish": "Hago la cena todas las noches.",
+          "english": "I make dinner every night."
+        },
+        {
+          "spanish": "¿Qué haces cuando llegas a un nuevo país?",
+          "english": "What do you do when you arrive in a new country?"
+        },
+        {
+          "spanish": "El chef hace la mejor sopa de la ciudad.",
+          "english": "The chef makes the best soup in the city."
+        },
+        {
+          "spanish": "Mi papá hace ejercicio por las mañanas.",
+          "english": "My dad exercises in the mornings."
+        },
+        {
+          "spanish": "Mis amigos y yo hacemos planes para el fin de semana.",
+          "english": "My friends and I make plans for the weekend."
+        },
+        {
+          "spanish": "Mi perro hace mucho ruido cuando llegan visitas.",
+          "english": "My dog makes a lot of noise when guests arrive."
+        },
+        {
+          "spanish": "Los estudiantes hacen la tarea en la biblioteca.",
+          "english": "The students do their homework at the library."
+        },
+        {
+          "spanish": "El doctor hace un chequeo completo cada año.",
+          "english": "The doctor does a complete checkup every year."
+        },
+        {
+          "spanish": "¿Qué haces en tu trabajo?",
+          "english": "What do you do at your job?"
+        },
+        {
+          "spanish": "Ella hace música con su familia.",
+          "english": "She makes music with her family."
+        },
+        {
+          "spanish": "Hace mucho calor hoy.",
+          "english": "It is very hot today."
+        }
+      ]
+    },
+    {
+      "name": "ir - Conjugations",
+      "entries": [
+        {
+          "spanish": "yo voy",
+          "english": "I go / I am going"
+        },
+        {
+          "spanish": "tú vas",
+          "english": "you go / you are going"
+        },
+        {
+          "spanish": "él va",
+          "english": "he goes / he is going"
+        },
+        {
+          "spanish": "ella va",
+          "english": "she goes / she is going"
+        },
+        {
+          "spanish": "usted va",
+          "english": "you go / you are going (formal)"
+        },
+        {
+          "spanish": "nosotros vamos",
+          "english": "we go / we are going"
+        },
+        {
+          "spanish": "ellos van",
+          "english": "they go / they are going"
+        },
+        {
+          "spanish": "ustedes van",
+          "english": "you all go / you all are going"
+        }
+      ]
+    },
+    {
+      "name": "ir - Future Tense Conjugations",
+      "entries": [
+        {
+          "spanish": "yo iré",
+          "english": "I will go"
+        },
+        {
+          "spanish": "tú irás",
+          "english": "you will go"
+        },
+        {
+          "spanish": "él irá",
+          "english": "he will go"
+        },
+        {
+          "spanish": "ella irá",
+          "english": "she will go"
+        },
+        {
+          "spanish": "usted irá",
+          "english": "you will go (formal)"
+        },
+        {
+          "spanish": "nosotros iremos",
+          "english": "we will go"
+        },
+        {
+          "spanish": "ellos irán",
+          "english": "they will go"
+        },
+        {
+          "spanish": "ustedes irán",
+          "english": "you all will go"
+        }
+      ]
+    },
+    {
+      "name": "ir - Future Tense Sentences",
+      "entries": [
+        {
+          "spanish": "Iré a México el próximo verano.",
+          "english": "I will go to Mexico next summer."
+        },
+        {
+          "spanish": "¿Irás a la iglesia este domingo?",
+          "english": "Will you go to church this Sunday?"
+        },
+        {
+          "spanish": "Mi gato irá al veterinario mañana.",
+          "english": "My cat will go to the vet tomorrow."
+        },
+        {
+          "spanish": "Iremos a un restaurante para el cumpleaños de mi mamá.",
+          "english": "We will go to a restaurant for my mom's birthday."
+        },
+        {
+          "spanish": "Los niños irán a casa a las tres.",
+          "english": "The children will go home at three."
+        },
+        {
+          "spanish": "¿Irás a la universidad el próximo año?",
+          "english": "Will you go to college next year?"
+        },
+        {
+          "spanish": "Mi mamá irá al médico mañana.",
+          "english": "My mom will go to the doctor tomorrow."
+        },
+        {
+          "spanish": "¿Irán ustedes a la oficina el lunes?",
+          "english": "Will you all go to the office on Monday?"
+        },
+        {
+          "spanish": "Iremos a visitar a mis abuelos en Navidad.",
+          "english": "We will go visit my grandparents at Christmas."
+        },
+        {
+          "spanish": "¿Adónde irás de vacaciones este año?",
+          "english": "Where will you go on vacation this year?"
+        },
+        {
+          "spanish": "Iré a la reunión a las dos.",
+          "english": "I will go to the meeting at two."
+        },
+        {
+          "spanish": "Iremos al parque si no llueve.",
+          "english": "We will go to the park if it doesn't rain."
+        }
+      ]
+    },
+    {
+      "name": "ir - Past Tense Conjugations",
+      "entries": [
+        {
+          "spanish": "yo fui",
+          "english": "I went"
+        },
+        {
+          "spanish": "tú fuiste",
+          "english": "you went"
+        },
+        {
+          "spanish": "él fue",
+          "english": "he went"
+        },
+        {
+          "spanish": "ella fue",
+          "english": "she went"
+        },
+        {
+          "spanish": "usted fue",
+          "english": "you went (formal)"
+        },
+        {
+          "spanish": "nosotros fuimos",
+          "english": "we went"
+        },
+        {
+          "spanish": "ellos fueron",
+          "english": "they went"
+        },
+        {
+          "spanish": "ustedes fueron",
+          "english": "you all went"
+        }
+      ]
+    },
+    {
+      "name": "ir - Past Tense Sentences",
+      "entries": [
+        {
+          "spanish": "Fui a Colombia el año pasado.",
+          "english": "I went to Colombia last year."
+        },
+        {
+          "spanish": "¿Tú fuiste a la oficina ayer?",
+          "english": "Did you go to the office yesterday?"
+        },
+        {
+          "spanish": "Mi familia fue a un restaurante anoche.",
+          "english": "My family went to a restaurant last night."
+        },
+        {
+          "spanish": "Fuimos a la iglesia el domingo pasado.",
+          "english": "We went to church last Sunday."
+        },
+        {
+          "spanish": "Los niños fueron a casa después de la escuela.",
+          "english": "The children went home after school."
+        },
+        {
+          "spanish": "¿Adónde fueron ustedes de vacaciones?",
+          "english": "Where did you all go on vacation?"
+        },
+        {
+          "spanish": "Mi perro fue al veterinario la semana pasada.",
+          "english": "My dog went to the vet last week."
+        },
+        {
+          "spanish": "Fui a la escuela a pie esta mañana.",
+          "english": "I went to school on foot this morning."
+        },
+        {
+          "spanish": "Mi abuelo fue al hospital ayer.",
+          "english": "My grandfather went to the hospital yesterday."
+        },
+        {
+          "spanish": "Fuimos al parque el sábado pasado.",
+          "english": "We went to the park last Saturday."
+        },
+        {
+          "spanish": "¿Adónde fue tu mamá ayer?",
+          "english": "Where did your mom go yesterday?"
+        },
+        {
+          "spanish": "Ellos fueron al gimnasio esta mañana.",
+          "english": "They went to the gym this morning."
+        }
+      ]
+    },
+    {
+      "name": "ir - Sentences",
+      "entries": [
+        {
+          "spanish": "Voy a casa ahora.",
+          "english": "I am going home now."
+        },
+        {
+          "spanish": "¿Tú vas a la escuela hoy?",
+          "english": "Are you going to school today?"
+        },
+        {
+          "spanish": "Mi mamá va al supermercado.",
+          "english": "My mom is going to the supermarket."
+        },
+        {
+          "spanish": "Mi papá va al trabajo en carro.",
+          "english": "My dad goes to work by car."
+        },
+        {
+          "spanish": "Nosotros vamos a la iglesia los domingos.",
+          "english": "We go to church on Sundays."
+        },
+        {
+          "spanish": "Los niños van a la escuela en autobús.",
+          "english": "The children go to school by bus."
+        },
+        {
+          "spanish": "¿Ustedes van a la oficina mañana?",
+          "english": "Are you all going to the office tomorrow?"
+        },
+        {
+          "spanish": "Voy al aeropuerto esta tarde.",
+          "english": "I am going to the airport this afternoon."
+        },
+        {
+          "spanish": "Vamos de vacaciones a México.",
+          "english": "We are going on vacation to Mexico."
+        },
+        {
+          "spanish": "Mi perro va al veterinario hoy.",
+          "english": "My dog is going to the vet today."
+        },
+        {
+          "spanish": "¿Vas a la farmacia?",
+          "english": "Are you going to the pharmacy?"
+        },
+        {
+          "spanish": "Mi abuela va al médico esta semana.",
+          "english": "My grandmother is going to the doctor this week."
+        },
+        {
+          "spanish": "Vamos a un restaurante esta noche.",
+          "english": "We are going to a restaurant tonight."
+        },
+        {
+          "spanish": "Ellos van al parque los sábados.",
+          "english": "They go to the park on Saturdays."
+        },
+        {
+          "spanish": "¿Vas al gimnasio hoy?",
+          "english": "Are you going to the gym today?"
+        },
+        {
+          "spanish": "Mi hermana va a la universidad el próximo año.",
+          "english": "My sister is going to college next year."
+        },
+        {
+          "spanish": "Vamos al servicio esta mañana.",
+          "english": "We are going to the service this morning."
+        },
+        {
+          "spanish": "¿Tus papás van de viaje?",
+          "english": "Are your parents going on a trip?"
+        }
+      ]
+    },
+    {
+      "name": "Phrases",
+      "entries": [
+        {
+          "spanish": "¿Cómo estás?",
+          "english": "How are you?"
+        },
+        {
+          "spanish": "Me llamo",
+          "english": "My name is"
+        },
+        {
+          "spanish": "¿Dónde está el baño?",
+          "english": "Where is the bathroom?"
+        },
+        {
+          "spanish": "No entiendo",
+          "english": "I don't understand"
+        },
+        {
+          "spanish": "pero no puedo",
+          "english": "but I can't"
+        }
+      ]
+    },
+    {
+      "name": "poder - Conjugations",
+      "entries": [
+        {
+          "spanish": "yo puedo",
+          "english": "I can / I am able to"
+        },
+        {
+          "spanish": "tú puedes",
+          "english": "you can / you are able to"
+        },
+        {
+          "spanish": "él puede",
+          "english": "he can / he is able to"
+        },
+        {
+          "spanish": "ella puede",
+          "english": "she can / she is able to"
+        },
+        {
+          "spanish": "usted puede",
+          "english": "you can / you are able to (formal)"
+        },
+        {
+          "spanish": "nosotros podemos",
+          "english": "we can / we are able to"
+        },
+        {
+          "spanish": "ellos pueden",
+          "english": "they can / they are able to"
+        },
+        {
+          "spanish": "ustedes pueden",
+          "english": "you all can / you all are able to"
+        }
+      ]
+    },
+    {
+      "name": "poder - Future Tense Conjugations",
+      "entries": [
+        {
+          "spanish": "yo podré",
+          "english": "I will be able to"
+        },
+        {
+          "spanish": "tú podrás",
+          "english": "you will be able to"
+        },
+        {
+          "spanish": "él podrá",
+          "english": "he will be able to"
+        },
+        {
+          "spanish": "ella podrá",
+          "english": "she will be able to"
+        },
+        {
+          "spanish": "usted podrá",
+          "english": "you will be able to (formal)"
+        },
+        {
+          "spanish": "nosotros podremos",
+          "english": "we will be able to"
+        },
+        {
+          "spanish": "ellos podrán",
+          "english": "they will be able to"
+        },
+        {
+          "spanish": "ustedes podrán",
+          "english": "you all will be able to"
+        }
+      ]
+    },
+    {
+      "name": "poder - Future Tense Sentences",
+      "entries": [
+        {
+          "spanish": "¿Podrás viajar a Guatemala el próximo año?",
+          "english": "Will you be able to travel to Guatemala next year?"
+        },
+        {
+          "spanish": "Podremos ir al retiro de la iglesia en agosto.",
+          "english": "We will be able to go to the church retreat in August."
+        },
+        {
+          "spanish": "¿Podrán ustedes hacernos una reservación para diez personas?",
+          "english": "Will you all be able to make us a reservation for ten people?"
+        },
+        {
+          "spanish": "Podré limpiar el garaje este fin de semana.",
+          "english": "I will be able to clean the garage this weekend."
+        },
+        {
+          "spanish": "Mis tíos podrán visitarnos en diciembre.",
+          "english": "My aunt and uncle will be able to visit us in December."
+        },
+        {
+          "spanish": "El veterinario podrá ver a mi perro mañana.",
+          "english": "The vet will be able to see my dog tomorrow."
+        },
+        {
+          "spanish": "¿Podrás terminar el proyecto para el lunes?",
+          "english": "Will you be able to finish the project by Monday?"
+        },
+        {
+          "spanish": "El doctor podrá darte los resultados la próxima semana.",
+          "english": "The doctor will be able to give you the results next week."
+        },
+        {
+          "spanish": "Podremos contratar más empleados el próximo trimestre.",
+          "english": "We will be able to hire more employees next quarter."
+        },
+        {
+          "spanish": "¿Podrás ir al partido de fútbol el sábado?",
+          "english": "Will you be able to go to the soccer game on Saturday?"
+        }
+      ]
+    },
+    {
+      "name": "poder - Past Tense Conjugations",
+      "entries": [
+        {
+          "spanish": "yo pude",
+          "english": "I could / I was able to"
+        },
+        {
+          "spanish": "tú pudiste",
+          "english": "you could / you were able to"
+        },
+        {
+          "spanish": "él pudo",
+          "english": "he could / he was able to"
+        },
+        {
+          "spanish": "ella pudo",
+          "english": "she could / she was able to"
+        },
+        {
+          "spanish": "usted pudo",
+          "english": "you could / you were able to (formal)"
+        },
+        {
+          "spanish": "nosotros pudimos",
+          "english": "we could / we were able to"
+        },
+        {
+          "spanish": "ellos pudieron",
+          "english": "they could / they were able to"
+        },
+        {
+          "spanish": "ustedes pudieron",
+          "english": "you all could / you all were able to"
+        }
+      ]
+    },
+    {
+      "name": "poder - Past Tense Sentences",
+      "entries": [
+        {
+          "spanish": "Pude cambiar mi vuelo sin problema.",
+          "english": "I was able to change my flight without any problem."
+        },
+        {
+          "spanish": "No pudimos ir al servicio el domingo pasado.",
+          "english": "We were not able to go to the service last Sunday."
+        },
+        {
+          "spanish": "¿Pudiste pedir el postre?",
+          "english": "Were you able to order dessert?"
+        },
+        {
+          "spanish": "Mi papá pudo arreglar el lavaplatos.",
+          "english": "My dad was able to fix the dishwasher."
+        },
+        {
+          "spanish": "Mis primos no pudieron venir a la reunión familiar.",
+          "english": "My cousins were not able to come to the family gathering."
+        },
+        {
+          "spanish": "Mi gato no pudo salir afuera ayer.",
+          "english": "My cat was not able to go outside yesterday."
+        },
+        {
+          "spanish": "Pude terminar el examen a tiempo.",
+          "english": "I was able to finish the exam on time."
+        },
+        {
+          "spanish": "No pude ir al médico porque trabajé todo el día.",
+          "english": "I was not able to go to the doctor because I worked all day."
+        },
+        {
+          "spanish": "Pudimos terminar el informe antes de la reunión.",
+          "english": "We were able to finish the report before the meeting."
+        },
+        {
+          "spanish": "¿Pudiste aprender a nadar este verano?",
+          "english": "Were you able to learn to swim this summer?"
+        }
+      ]
+    },
+    {
+      "name": "poder - Sentences",
+      "entries": [
+        {
+          "spanish": "Puedo ir a la iglesia este domingo.",
+          "english": "I can go to church this Sunday."
+        },
+        {
+          "spanish": "¿Puedes llevarme al aeropuerto?",
+          "english": "Can you take me to the airport?"
+        },
+        {
+          "spanish": "¿Podemos ver el menú?",
+          "english": "Can we see the menu?"
+        },
+        {
+          "spanish": "No puedo encontrar mis llaves.",
+          "english": "I can't find my keys."
+        },
+        {
+          "spanish": "Mi abuela no puede caminar bien.",
+          "english": "My grandmother can't walk well."
+        },
+        {
+          "spanish": "Mi perro puede aprender trucos nuevos.",
+          "english": "My dog can learn new tricks."
+        },
+        {
+          "spanish": "¿Puedes ayudarme con la tarea?",
+          "english": "Can you help me with my homework?"
+        },
+        {
+          "spanish": "No puedo dormir bien últimamente.",
+          "english": "I can't sleep well lately."
+        },
+        {
+          "spanish": "¿Pueden ustedes terminar el proyecto para el viernes?",
+          "english": "Can you all finish the project by Friday?"
+        },
+        {
+          "spanish": "Puedo jugar al fútbol los sábados.",
+          "english": "I can play soccer on Saturdays."
+        },
+        {
+          "spanish": "¿Podemos cambiar la reservación del hotel?",
+          "english": "Can we change the hotel reservation?"
+        },
+        {
+          "spanish": "El pastor puede hablar tres idiomas.",
+          "english": "The pastor can speak three languages."
+        }
+      ]
+    },
+    {
+      "name": "querer - Conjugations",
+      "entries": [
+        {
+          "spanish": "yo quiero",
+          "english": "I want / I love"
+        },
+        {
+          "spanish": "tú quieres",
+          "english": "you want / you love"
+        },
+        {
+          "spanish": "él quiere",
+          "english": "he wants / he loves"
+        },
+        {
+          "spanish": "ella quiere",
+          "english": "she wants / she loves"
+        },
+        {
+          "spanish": "usted quiere",
+          "english": "you want / you love (formal)"
+        },
+        {
+          "spanish": "nosotros queremos",
+          "english": "we want / we love"
+        },
+        {
+          "spanish": "ellos quieren",
+          "english": "they want / they love"
+        },
+        {
+          "spanish": "ustedes quieren",
+          "english": "you all want / you all love"
+        }
+      ]
+    },
+    {
+      "name": "querer - Future Tense Conjugations",
+      "entries": [
+        {
+          "spanish": "yo querré",
+          "english": "I will want"
+        },
+        {
+          "spanish": "tú querrás",
+          "english": "you will want"
+        },
+        {
+          "spanish": "él querrá",
+          "english": "he will want"
+        },
+        {
+          "spanish": "ella querrá",
+          "english": "she will want"
+        },
+        {
+          "spanish": "usted querrá",
+          "english": "you will want (formal)"
+        },
+        {
+          "spanish": "nosotros querremos",
+          "english": "we will want"
+        },
+        {
+          "spanish": "ellos querrán",
+          "english": "they will want"
+        },
+        {
+          "spanish": "ustedes querrán",
+          "english": "you all will want"
+        }
+      ]
+    },
+    {
+      "name": "querer - Future Tense Sentences",
+      "entries": [
+        {
+          "spanish": "¿Querrás volver a visitar México?",
+          "english": "Will you want to visit Mexico again?"
+        },
+        {
+          "spanish": "Querremos llevar a los niños a la iglesia.",
+          "english": "We will want to take the children to church."
+        },
+        {
+          "spanish": "¿Querrán ustedes una mesa afuera?",
+          "english": "Will you all want a table outside?"
+        },
+        {
+          "spanish": "Ella querrá descansar cuando llegue a casa.",
+          "english": "She will want to rest when she gets home."
+        },
+        {
+          "spanish": "Mis papás querrán saber cómo nos fue.",
+          "english": "My parents will want to know how it went for us."
+        },
+        {
+          "spanish": "El perro querrá comer cuando lleguemos.",
+          "english": "The dog will want to eat when we get home."
+        },
+        {
+          "spanish": "Los estudiantes querrán un descanso después del examen.",
+          "english": "The students will want a break after the exam."
+        },
+        {
+          "spanish": "El médico querrá ver los resultados mañana.",
+          "english": "The doctor will want to see the results tomorrow."
+        },
+        {
+          "spanish": "¿Querrás trabajar horas extra esta semana?",
+          "english": "Will you want to work extra hours this week?"
+        },
+        {
+          "spanish": "Querremos ir a acampar este verano.",
+          "english": "We will want to go camping this summer."
+        }
+      ]
+    },
+    {
+      "name": "querer - Past Tense Conjugations",
+      "entries": [
+        {
+          "spanish": "yo quise",
+          "english": "I wanted"
+        },
+        {
+          "spanish": "tú quisiste",
+          "english": "you wanted"
+        },
+        {
+          "spanish": "él quiso",
+          "english": "he wanted"
+        },
+        {
+          "spanish": "ella quiso",
+          "english": "she wanted"
+        },
+        {
+          "spanish": "usted quiso",
+          "english": "you wanted (formal)"
+        },
+        {
+          "spanish": "nosotros quisimos",
+          "english": "we wanted"
+        },
+        {
+          "spanish": "ellos quisieron",
+          "english": "they wanted"
+        },
+        {
+          "spanish": "ustedes quisieron",
+          "english": "you all wanted"
+        }
+      ]
+    },
+    {
+      "name": "querer - Past Tense Sentences",
+      "entries": [
+        {
+          "spanish": "Quise viajar a Perú el año pasado.",
+          "english": "I wanted to travel to Peru last year."
+        },
+        {
+          "spanish": "¿Tú quisiste ordenar el pescado?",
+          "english": "Did you want to order the fish?"
+        },
+        {
+          "spanish": "Mi mamá quiso limpiar la casa antes de la visita.",
+          "english": "My mom wanted to clean the house before the visit."
+        },
+        {
+          "spanish": "Quisimos ir al servicio el domingo, pero llovió.",
+          "english": "We wanted to go to the service on Sunday, but it rained."
+        },
+        {
+          "spanish": "Mis abuelos quisieron vernos en Navidad.",
+          "english": "My grandparents wanted to see us at Christmas."
+        },
+        {
+          "spanish": "Mi perro quiso jugar en el parque toda la tarde.",
+          "english": "My dog wanted to play at the park all afternoon."
+        },
+        {
+          "spanish": "Los estudiantes quisieron más tiempo para el examen.",
+          "english": "The students wanted more time for the exam."
+        },
+        {
+          "spanish": "El doctor quiso hacerme más exámenes.",
+          "english": "The doctor wanted to run more tests on me."
+        },
+        {
+          "spanish": "Mi jefe quiso tener una reunión el viernes.",
+          "english": "My boss wanted to have a meeting on Friday."
+        },
+        {
+          "spanish": "Quise aprender a tocar la guitarra el año pasado.",
+          "english": "I wanted to learn to play the guitar last year."
+        }
+      ]
+    },
+    {
+      "name": "querer - Sentences",
+      "entries": [
+        {
+          "spanish": "Quiero viajar a Costa Rica.",
+          "english": "I want to travel to Costa Rica."
+        },
+        {
+          "spanish": "¿Tú quieres ir al aeropuerto conmigo?",
+          "english": "Do you want to go to the airport with me?"
+        },
+        {
+          "spanish": "Mis papás quieren visitar a la familia en Colombia.",
+          "english": "My parents want to visit family in Colombia."
+        },
+        {
+          "spanish": "Quiero pedir la sopa de pollo.",
+          "english": "I want to order the chicken soup."
+        },
+        {
+          "spanish": "¿Qué quieres comer esta noche?",
+          "english": "What do you want to eat tonight?"
+        },
+        {
+          "spanish": "Ellos quieren una mesa para cuatro personas.",
+          "english": "They want a table for four people."
+        },
+        {
+          "spanish": "Quiero limpiar la casa hoy.",
+          "english": "I want to clean the house today."
+        },
+        {
+          "spanish": "¿Quieres ayudarme en la cocina?",
+          "english": "Do you want to help me in the kitchen?"
+        },
+        {
+          "spanish": "Te quiero mucho, mamá.",
+          "english": "I love you so much, Mom."
+        },
+        {
+          "spanish": "Mi abuela quiere vernos este fin de semana.",
+          "english": "My grandmother wants to see us this weekend."
+        },
+        {
+          "spanish": "Queremos tener más tiempo con la familia.",
+          "english": "We want to have more time with family."
+        },
+        {
+          "spanish": "Mi gato quiere salir afuera.",
+          "english": "My cat wants to go outside."
+        },
+        {
+          "spanish": "¿Quieres adoptar un perro?",
+          "english": "Do you want to adopt a dog?"
+        },
+        {
+          "spanish": "Quiero sacar buenas notas este semestre.",
+          "english": "I want to get good grades this semester."
+        },
+        {
+          "spanish": "¿Qué quieres estudiar en la universidad?",
+          "english": "What do you want to study in college?"
+        },
+        {
+          "spanish": "Los estudiantes quieren más tiempo para el proyecto.",
+          "english": "The students want more time for the project."
+        },
+        {
+          "spanish": "Quiero comer más saludable.",
+          "english": "I want to eat healthier."
+        },
+        {
+          "spanish": "El doctor quiere hacerme unos exámenes.",
+          "english": "The doctor wants to run some tests on me."
+        },
+        {
+          "spanish": "Quiero pedir un aumento.",
+          "english": "I want to ask for a raise."
+        },
+        {
+          "spanish": "¿Cuándo quieres tener la reunión?",
+          "english": "When do you want to have the meeting?"
+        },
+        {
+          "spanish": "Quiero aprender a tocar la guitarra.",
+          "english": "I want to learn to play the guitar."
+        },
+        {
+          "spanish": "¿Quieres ir al parque este fin de semana?",
+          "english": "Do you want to go to the park this weekend?"
+        },
+        {
+          "spanish": "Queremos aprender más sobre la Biblia.",
+          "english": "We want to learn more about the Bible."
+        },
+        {
+          "spanish": "Ellos quieren unirse al equipo de fútbol.",
+          "english": "They want to join the soccer team."
+        }
+      ]
+    },
+    {
+      "name": "ser - Conjugations",
+      "entries": [
+        {
+          "spanish": "yo soy",
+          "english": "I am"
+        },
+        {
+          "spanish": "tú eres",
+          "english": "you are"
+        },
+        {
+          "spanish": "él es",
+          "english": "he is"
+        },
+        {
+          "spanish": "ella es",
+          "english": "she is"
+        },
+        {
+          "spanish": "usted es",
+          "english": "you are (formal)"
+        },
+        {
+          "spanish": "nosotros somos",
+          "english": "we are"
+        },
+        {
+          "spanish": "ellos son",
+          "english": "they are"
+        },
+        {
+          "spanish": "ustedes son",
+          "english": "you all are"
+        }
+      ]
+    },
+    {
+      "name": "ser - Future Tense Conjugations",
+      "entries": [
+        {
+          "spanish": "yo seré",
+          "english": "I will be"
+        },
+        {
+          "spanish": "tú serás",
+          "english": "you will be"
+        },
+        {
+          "spanish": "él será",
+          "english": "he will be"
+        },
+        {
+          "spanish": "ella será",
+          "english": "she will be"
+        },
+        {
+          "spanish": "usted será",
+          "english": "you will be (formal)"
+        },
+        {
+          "spanish": "nosotros seremos",
+          "english": "we will be"
+        },
+        {
+          "spanish": "ellos serán",
+          "english": "they will be"
+        },
+        {
+          "spanish": "ustedes serán",
+          "english": "you all will be"
+        }
+      ]
+    },
+    {
+      "name": "ser - Future Tense Sentences",
+      "entries": [
+        {
+          "spanish": "La palabra de Dios siempre será verdad.",
+          "english": "The word of God will always be truth."
+        },
+        {
+          "spanish": "El nuevo pastor será un gran líder.",
+          "english": "The new pastor will be a great leader."
+        },
+        {
+          "spanish": "El próximo verano será perfecto para viajar.",
+          "english": "Next summer will be perfect for traveling."
+        },
+        {
+          "spanish": "El restaurante nuevo será muy popular.",
+          "english": "The new restaurant will be very popular."
+        },
+        {
+          "spanish": "La cena de Navidad será especial este año.",
+          "english": "The Christmas dinner will be special this year."
+        },
+        {
+          "spanish": "Nuestra casa nueva será más grande.",
+          "english": "Our new house will be bigger."
+        },
+        {
+          "spanish": "Mi hermana será mamá en marzo.",
+          "english": "My sister will be a mom in March."
+        },
+        {
+          "spanish": "El próximo semestre será más fácil.",
+          "english": "Next semester will be easier."
+        },
+        {
+          "spanish": "La recuperación será lenta pero segura.",
+          "english": "The recovery will be slow but sure."
+        },
+        {
+          "spanish": "Seré el gerente del proyecto el próximo año.",
+          "english": "I will be the project manager next year."
+        },
+        {
+          "spanish": "El concierto será el sábado por la noche.",
+          "english": "The concert will be on Saturday night."
+        },
+        {
+          "spanish": "Será un honor conocer a tus amigos.",
+          "english": "It will be an honor to meet your friends."
+        }
+      ]
+    },
+    {
+      "name": "ser - Past Tense Conjugations",
+      "entries": [
+        {
+          "spanish": "yo fui",
+          "english": "I was"
+        },
+        {
+          "spanish": "tú fuiste",
+          "english": "you were"
+        },
+        {
+          "spanish": "él fue",
+          "english": "he was"
+        },
+        {
+          "spanish": "ella fue",
+          "english": "she was"
+        },
+        {
+          "spanish": "usted fue",
+          "english": "you were (formal)"
+        },
+        {
+          "spanish": "nosotros fuimos",
+          "english": "we were"
+        },
+        {
+          "spanish": "ellos fueron",
+          "english": "they were"
+        },
+        {
+          "spanish": "ustedes fueron",
+          "english": "you all were"
+        }
+      ]
+    },
+    {
+      "name": "ser - Past Tense Sentences",
+      "entries": [
+        {
+          "spanish": "La historia de José fue un milagro de Dios.",
+          "english": "The story of Joseph was a miracle from God."
+        },
+        {
+          "spanish": "El servicio fue muy especial el domingo pasado.",
+          "english": "The service was very special last Sunday."
+        },
+        {
+          "spanish": "El viaje a Perú fue increíble.",
+          "english": "The trip to Peru was incredible."
+        },
+        {
+          "spanish": "La cena fue deliciosa anoche.",
+          "english": "Dinner was delicious last night."
+        },
+        {
+          "spanish": "El pastel fue el postre favorito de todos.",
+          "english": "The cake was everyone's favorite dessert."
+        },
+        {
+          "spanish": "La reunión familiar fue en nuestra casa.",
+          "english": "The family gathering was at our house."
+        },
+        {
+          "spanish": "Mi abuelo fue pastor por muchos años.",
+          "english": "My grandfather was a pastor for many years."
+        },
+        {
+          "spanish": "La fiesta con mis amigos fue muy divertida.",
+          "english": "The party with my friends was a lot of fun."
+        },
+        {
+          "spanish": "El examen fue muy difícil.",
+          "english": "The exam was very difficult."
+        },
+        {
+          "spanish": "La operación fue un éxito.",
+          "english": "The surgery was a success."
+        },
+        {
+          "spanish": "La presentación en el trabajo fue muy bien.",
+          "english": "The presentation at work went very well."
+        },
+        {
+          "spanish": "El concierto fue increíble.",
+          "english": "The concert was incredible."
+        }
+      ]
+    },
+    {
+      "name": "ser - Sentences",
+      "entries": [
+        {
+          "spanish": "Dios es bueno.",
+          "english": "God is good."
+        },
+        {
+          "spanish": "Moisés es un líder importante en la Biblia.",
+          "english": "Moses is an important leader in the Bible."
+        },
+        {
+          "spanish": "Somos miembros de esta iglesia.",
+          "english": "We are members of this church."
+        },
+        {
+          "spanish": "¿De dónde eres tú?",
+          "english": "Where are you from?"
+        },
+        {
+          "spanish": "El restaurante es muy popular en este barrio.",
+          "english": "The restaurant is very popular in this neighborhood."
+        },
+        {
+          "spanish": "El arroz con pollo es mi plato favorito.",
+          "english": "Chicken and rice is my favorite dish."
+        },
+        {
+          "spanish": "Nuestra casa es grande y cómoda.",
+          "english": "Our house is big and comfortable."
+        },
+        {
+          "spanish": "Mi mamá es maestra.",
+          "english": "My mom is a teacher."
+        },
+        {
+          "spanish": "Mis amigos son muy divertidos.",
+          "english": "My friends are a lot of fun."
+        },
+        {
+          "spanish": "Mi perro es muy inteligente.",
+          "english": "My dog is very intelligent."
+        },
+        {
+          "spanish": "El doctor es especialista en cardiología.",
+          "english": "The doctor is a heart specialist."
+        },
+        {
+          "spanish": "Soy ingeniero de software.",
+          "english": "I am a software engineer."
+        },
+        {
+          "spanish": "Esta canción es de un cantante colombiano.",
+          "english": "This song is by a Colombian singer."
+        },
+        {
+          "spanish": "La directora de la escuela es muy amable.",
+          "english": "The school principal is very kind."
+        }
+      ]
+    }
+  ]
+}

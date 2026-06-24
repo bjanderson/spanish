@@ -1,0 +1,363 @@
+{
+  "groups": [
+    {
+      "name": "hablar - Conjugations",
+      "entries": [
+        { "spanish": "yo hablo", "english": "I speak" },
+        { "spanish": "tú hablas", "english": "you speak" },
+        {
+          "spanish": "él/ella/usted habla",
+          "english": "he/she/you speaks"
+        },
+        {
+          "spanish": "nosotros/nosotras hablamos",
+          "english": "we speak"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes hablan",
+          "english": "they/you all speak"
+        },
+
+        { "spanish": "yo hablé", "english": "I spoke" },
+        { "spanish": "tú hablaste", "english": "you spoke" },
+        {
+          "spanish": "él/ella/usted habló",
+          "english": "he/she/you spoke"
+        },
+        {
+          "spanish": "nosotros/nosotras hablamos",
+          "english": "we spoke"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes hablaron",
+          "english": "they/you all spoke"
+        },
+
+        {
+          "spanish": "yo hablaba",
+          "english": "I spoke/used to speak"
+        },
+        {
+          "spanish": "tú hablabas",
+          "english": "you spoke/used to speak"
+        },
+        {
+          "spanish": "él/ella/usted hablaba",
+          "english": "he/she/you spoke/used to speak"
+        },
+        {
+          "spanish": "nosotros/nosotras hablábamos",
+          "english": "we spoke/used to speak"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes hablaban",
+          "english": "they/you all spoke/used to speak"
+        },
+
+        { "spanish": "yo hablaré", "english": "I will speak" },
+        { "spanish": "tú hablarás", "english": "you will speak" },
+        {
+          "spanish": "él/ella/usted hablará",
+          "english": "he/she/you will speak"
+        },
+        {
+          "spanish": "nosotros/nosotras hablaremos",
+          "english": "we will speak"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes hablarán",
+          "english": "they/you all will speak"
+        }
+      ]
+    },
+    {
+      "name": "pensar - Conjugations",
+      "entries": [
+        { "spanish": "yo pienso", "english": "I think" },
+        { "spanish": "tú piensas", "english": "you think" },
+        {
+          "spanish": "él/ella/usted piensa",
+          "english": "he/she/you thinks"
+        },
+        {
+          "spanish": "nosotros/nosotras pensamos",
+          "english": "we think"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes piensan",
+          "english": "they/you all think"
+        },
+
+        { "spanish": "yo pensé", "english": "I thought" },
+        { "spanish": "tú pensaste", "english": "you thought" },
+        {
+          "spanish": "él/ella/usted pensó",
+          "english": "he/she/you thought"
+        },
+        {
+          "spanish": "nosotros/nosotras pensamos",
+          "english": "we thought"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes pensaron",
+          "english": "they/you all thought"
+        },
+
+        {
+          "spanish": "yo pensaba",
+          "english": "I thought/used to think"
+        },
+        {
+          "spanish": "tú pensabas",
+          "english": "you thought/used to think"
+        },
+        {
+          "spanish": "él/ella/usted pensaba",
+          "english": "he/she/you thought/used to think"
+        },
+        {
+          "spanish": "nosotros/nosotras pensábamos",
+          "english": "we thought/used to think"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes pensaban",
+          "english": "they/you all thought/used to think"
+        },
+
+        { "spanish": "yo pensaré", "english": "I will think" },
+        { "spanish": "tú pensarás", "english": "you will think" },
+        {
+          "spanish": "él/ella/usted pensará",
+          "english": "he/she/you will think"
+        },
+        {
+          "spanish": "nosotros/nosotras pensaremos",
+          "english": "we will think"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes pensarán",
+          "english": "they/you all will think"
+        }
+      ]
+    },
+    {
+      "name": "volver - Conjugations",
+      "entries": [
+        { "spanish": "yo vuelvo", "english": "I return" },
+        { "spanish": "tú vuelves", "english": "you return" },
+        {
+          "spanish": "él/ella/usted vuelve",
+          "english": "he/she/you returns"
+        },
+        {
+          "spanish": "nosotros/nosotras volvemos",
+          "english": "we return"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes vuelven",
+          "english": "they/you all return"
+        },
+
+        { "spanish": "yo volví", "english": "I returned" },
+        { "spanish": "tú volviste", "english": "you returned" },
+        {
+          "spanish": "él/ella/usted volvió",
+          "english": "he/she/you returned"
+        },
+        {
+          "spanish": "nosotros/nosotras volvimos",
+          "english": "we returned"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes volvieron",
+          "english": "they/you all returned"
+        },
+
+        {
+          "spanish": "yo volvía",
+          "english": "I returned/used to return"
+        },
+        {
+          "spanish": "tú volvías",
+          "english": "you returned/used to return"
+        },
+        {
+          "spanish": "él/ella/usted volvía",
+          "english": "he/she/you returned/used to return"
+        },
+        {
+          "spanish": "nosotros/nosotras volvíamos",
+          "english": "we returned/used to return"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes volvían",
+          "english": "they/you all returned/used to return"
+        },
+
+        { "spanish": "yo volveré", "english": "I will return" },
+        { "spanish": "tú volverás", "english": "you will return" },
+        {
+          "spanish": "él/ella/usted volverá",
+          "english": "he/she/you will return"
+        },
+        {
+          "spanish": "nosotros/nosotras volveremos",
+          "english": "we will return"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes volverán",
+          "english": "they/you all will return"
+        }
+      ]
+    },
+    {
+      "name": "conocer - Conjugations",
+      "entries": [
+        {
+          "spanish": "yo conozco",
+          "english": "I know (a person/place)"
+        },
+        { "spanish": "tú conoces", "english": "you know" },
+        {
+          "spanish": "él/ella/usted conoce",
+          "english": "he/she/you knows"
+        },
+        {
+          "spanish": "nosotros/nosotras conocemos",
+          "english": "we know"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes conocen",
+          "english": "they/you all know"
+        },
+
+        { "spanish": "yo conocí", "english": "I met/knew" },
+        { "spanish": "tú conociste", "english": "you met/knew" },
+        {
+          "spanish": "él/ella/usted conoció",
+          "english": "he/she/you met/knew"
+        },
+        {
+          "spanish": "nosotros/nosotras conocimos",
+          "english": "we met/knew"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes conocieron",
+          "english": "they/you all met/knew"
+        },
+
+        {
+          "spanish": "yo conocía",
+          "english": "I knew/used to know"
+        },
+        {
+          "spanish": "tú conocías",
+          "english": "you knew/used to know"
+        },
+        {
+          "spanish": "él/ella/usted conocía",
+          "english": "he/she/you knew/used to know"
+        },
+        {
+          "spanish": "nosotros/nosotras conocíamos",
+          "english": "we knew/used to know"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes conocían",
+          "english": "they/you all knew/used to know"
+        },
+
+        { "spanish": "yo conoceré", "english": "I will know/meet" },
+        { "spanish": "tú conocerás", "english": "you will know/meet" },
+        {
+          "spanish": "él/ella/usted conocerá",
+          "english": "he/she/you will know/meet"
+        },
+        {
+          "spanish": "nosotros/nosotras conoceremos",
+          "english": "we will know/meet"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes conocerán",
+          "english": "they/you all will know/meet"
+        }
+      ]
+    },
+    {
+      "name": "salir - Conjugations",
+      "entries": [
+        { "spanish": "yo salgo", "english": "I leave/go out" },
+        { "spanish": "tú sales", "english": "you leave/go out" },
+        {
+          "spanish": "él/ella/usted sale",
+          "english": "he/she/you leaves/goes out"
+        },
+        {
+          "spanish": "nosotros/nosotras salimos",
+          "english": "we leave/go out"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes salen",
+          "english": "they/you all leave/go out"
+        },
+
+        { "spanish": "yo salí", "english": "I left/went out" },
+        { "spanish": "tú saliste", "english": "you left/went out" },
+        {
+          "spanish": "él/ella/usted salió",
+          "english": "he/she/you left/went out"
+        },
+        {
+          "spanish": "nosotros/nosotras salimos",
+          "english": "we left/went out"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes salieron",
+          "english": "they/you all left/went out"
+        },
+
+        {
+          "spanish": "yo salía",
+          "english": "I left/used to leave"
+        },
+        {
+          "spanish": "tú salías",
+          "english": "you left/used to leave"
+        },
+        {
+          "spanish": "él/ella/usted salía",
+          "english": "he/she/you left/used to leave"
+        },
+        {
+          "spanish": "nosotros/nosotras salíamos",
+          "english": "we left/used to leave"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes salían",
+          "english": "they/you all left/used to leave"
+        },
+
+        { "spanish": "yo saldré", "english": "I will leave" },
+        { "spanish": "tú saldrás", "english": "you will leave" },
+        {
+          "spanish": "él/ella/usted saldrá",
+          "english": "he/she/you will leave"
+        },
+        {
+          "spanish": "nosotros/nosotras saldremos",
+          "english": "we will leave"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes saldrán",
+          "english": "they/you all will leave"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "part": "4 of 5 (Verbs 16-20)",
+    "verbs_in_this_part": ["hablar", "pensar", "volver", "conocer", "salir"],
+    "tenses": ["Present", "Preterite", "Imperfect", "Future"],
+    "vosotros": "excluded"
+  }
+}

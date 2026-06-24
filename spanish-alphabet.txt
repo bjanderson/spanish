@@ -1,0 +1,32 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#tags column:5
+Basic	Spanish Alphabet	A a	a (ah) a in father 	Alphabet Spanish
+Basic	Spanish Alphabet	B b	be (beh) b in boy (softens between vowels) 	Alphabet Spanish
+Basic	Spanish Alphabet	C c	ce (say)  k in cat (before a,o,u); s in sun (LatAm) before e,i 	Alphabet Spanish
+Basic	Spanish Alphabet	D d	de (deh) d in day (softer, tongue touches teeth) 	Alphabet Spanish
+Basic	Spanish Alphabet	E e	e (eh) e in bet	Alphabet Spanish
+Basic	Spanish Alphabet	F f	efe (EH-feh) f in fall 	Alphabet Spanish
+Basic	Spanish Alphabet	G g	ge (heh) (guttural) g in go (before a,o,u); h in hot (strong/guttural) before e,i	Alphabet Spanish
+Basic	Spanish Alphabet	H h	hache (AH-cheh) Silent (e.g., hola)	Alphabet Spanish
+Basic	Spanish Alphabet	I i	(ee) ee in see (shorter)	Alphabet Spanish
+Basic	Spanish Alphabet	J j	jota (HOH-tah) h in hot (strong/guttural)	Alphabet Spanish
+Basic	Spanish Alphabet	K k	ka (kah) c in cat	Alphabet Spanish
+Basic	Spanish Alphabet	L l	ele (EH-leh) l in love 	Alphabet Spanish
+Basic	Spanish Alphabet	M m	eme (EH-meh) m in Mary 	Alphabet Spanish
+Basic	Spanish Alphabet	N n	ene (EH-neh) n in Nancy	Alphabet Spanish
+Basic	Spanish Alphabet	Ñ ñ	eñe (EN-yeh) ny in canyon	Alphabet Spanish
+Basic	Spanish Alphabet	O o	o (oh) o in go (shorter, no glide) 	Alphabet Spanish
+Basic	Spanish Alphabet	P p	pe (peh) p in pay (less breath)	Alphabet Spanish
+Basic	Spanish Alphabet	Q q	cu (koo) k in cool (always followed by silent u) 	Alphabet Spanish
+Basic	Spanish Alphabet	R r	ere (EH-reh) tt in butter (tap); rolled r at start of word 	Alphabet Spanish
+Basic	Spanish Alphabet	S s	ese (EH-seh) s in Sally	Alphabet Spanish
+Basic	Spanish Alphabet	T t	te (teh) t in tea (tongue touches teeth) 	Alphabet Spanish
+Basic	Spanish Alphabet	U u	u (oo) oo in food	Alphabet Spanish
+Basic	Spanish Alphabet	V v	uve (OO-beh) Same as B (b in boy)	Alphabet Spanish
+Basic	Spanish Alphabet	W w	uve (oo-beh DOH-bleh) w in water (mostly in loanwords) 	Alphabet Spanish
+Basic	Spanish Alphabet	X x	equis (EH-kees) x in taxi (ks); h in México (in some names)	Alphabet Spanish
+Basic	Spanish Alphabet	Y y	ye (yeh) y in yes; ee in see at end of words 	Alphabet Spanish
+Basic	Spanish Alphabet	Z z	zeta (SEH-tah) s in sun	Alphabet Spanish

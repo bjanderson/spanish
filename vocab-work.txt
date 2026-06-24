@@ -1,0 +1,109 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Vocab-Work
+#tags column:3
+el trabajo	work / job
+la oficina	office
+la empresa	company
+el negocio	business
+el empleado	employee
+el jefe	boss
+el gerente	manager
+el supervisor	supervisor
+el director	director
+el colega	colleague
+el compañero de trabajo	coworker
+el cliente	client
+el proveedor	supplier / vendor
+la reunión	meeting
+el proyecto	project
+la tarea	task
+el informe	report
+la presentación	presentation
+el contrato	contract
+el acuerdo	agreement
+el horario	schedule
+el turno	shift
+el tiempo extra	overtime
+el descanso	break
+el salario	salary
+el sueldo	wage
+el bono	bonus
+el beneficio	benefit
+el seguro	insurance
+las vacaciones	vacation
+el permiso	leave / permission
+la licencia médica	medical leave
+la jubilación	retirement
+la entrevista	interview
+el currículum	resume
+la solicitud	application
+la contratación	hiring
+el despido	firing / layoff
+la renuncia	resignation
+el ascenso	promotion
+la capacitación	training
+el curso	course
+la habilidad	skill
+la experiencia	experience
+el título	degree / title
+la carrera	career
+la profesión	profession
+el médico	doctor
+el maestro	teacher
+el ingeniero	engineer
+el abogado	lawyer
+el contador	accountant
+el vendedor	salesperson
+el diseñador	designer
+el programador	programmer
+el electricista	electrician
+el plomero	plumber
+el carpintero	carpenter
+el mecánico	mechanic
+el enfermero	nurse
+el policía	police officer
+el bombero	firefighter
+el cocinero	cook / chef
+el chofer	driver
+el arquitecto	architect
+el secretario	secretary
+el piloto	pilot
+la computadora	computer
+el teléfono	phone
+el correo electrónico	email
+la impresora	printer
+el escritorio	desk
+la silla	chair
+la sala de conferencias	conference room
+el archivo	file
+el presupuesto	budget
+la factura	invoice
+el pago	payment
+la ganancia	profit
+la pérdida	loss
+las ventas	sales
+el inventario	inventory
+el mercado	market
+el recurso	resource
+el equipo	team
+el sindicato	union
+la política	policy
+el procedimiento	procedure
+la regla	rule
+el impuesto	tax
+la nómina	payroll
+el banco	bank
+la cuenta bancaria	bank account
+el cheque	check
+la inversión	investment
+el préstamo	loan
+la deuda	debt
+el presupuesto	budget
+el plazo	deadline
+el objetivo	goal / objective
+el logro	achievement
+la retroalimentación	feedback
+la evaluación	performance review
+el aumento	raise (in salary)

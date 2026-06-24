@@ -1,0 +1,1058 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#tags column:5
+Basic	Spanish Practice	all, every	todo	100_Most_Common_Words_-_Adjectives
+Basic	Spanish Practice	other	otro	100_Most_Common_Words_-_Adjectives
+Basic	Spanish Practice	big, large	grande	100_Most_Common_Words_-_Adjectives
+Basic	Spanish Practice	good	bueno	100_Most_Common_Words_-_Adjectives
+Basic	Spanish Practice	much, many	mucho	100_Most_Common_Words_-_Adjectives
+Basic	Spanish Practice	same	mismo	100_Most_Common_Words_-_Adjectives
+Basic	Spanish Practice	first	primero	100_Most_Common_Words_-_Adjectives
+Basic	Spanish Practice	new	nuevo	100_Most_Common_Words_-_Adjectives
+Basic	Spanish Practice	little, few	poco	100_Most_Common_Words_-_Adjectives
+Basic	Spanish Practice	no, not	no	100_Most_Common_Words_-_Adverbs
+Basic	Spanish Practice	yes	sí	100_Most_Common_Words_-_Adverbs
+Basic	Spanish Practice	already, now	ya	100_Most_Common_Words_-_Adverbs
+Basic	Spanish Practice	very	muy	100_Most_Common_Words_-_Adverbs
+Basic	Spanish Practice	more	más	100_Most_Common_Words_-_Adverbs
+Basic	Spanish Practice	well	bien	100_Most_Common_Words_-_Adverbs
+Basic	Spanish Practice	also, too	también	100_Most_Common_Words_-_Adverbs
+Basic	Spanish Practice	so, like this	así	100_Most_Common_Words_-_Adverbs
+Basic	Spanish Practice	then, so	entonces	100_Most_Common_Words_-_Adverbs
+Basic	Spanish Practice	now	ahora	100_Most_Common_Words_-_Adverbs
+Basic	Spanish Practice	only, alone	solo	100_Most_Common_Words_-_Adverbs
+Basic	Spanish Practice	here	aquí	100_Most_Common_Words_-_Adverbs
+Basic	Spanish Practice	never	nunca	100_Most_Common_Words_-_Adverbs
+Basic	Spanish Practice	always	siempre	100_Most_Common_Words_-_Adverbs
+Basic	Spanish Practice	less	menos	100_Most_Common_Words_-_Adverbs
+Basic	Spanish Practice	the (masc.)	el	100_Most_Common_Words_-_Articles
+Basic	Spanish Practice	the (fem.)	la	100_Most_Common_Words_-_Articles
+Basic	Spanish Practice	the (masc. pl.)	los	100_Most_Common_Words_-_Articles
+Basic	Spanish Practice	the (fem. pl.)	las	100_Most_Common_Words_-_Articles
+Basic	Spanish Practice	a, an (masc.)	un	100_Most_Common_Words_-_Articles
+Basic	Spanish Practice	a, an (fem.)	una	100_Most_Common_Words_-_Articles
+Basic	Spanish Practice	year	año	100_Most_Common_Words_-_Common_Nouns
+Basic	Spanish Practice	day	día	100_Most_Common_Words_-_Common_Nouns
+Basic	Spanish Practice	time, weather	tiempo	100_Most_Common_Words_-_Common_Nouns
+Basic	Spanish Practice	thing	cosa	100_Most_Common_Words_-_Common_Nouns
+Basic	Spanish Practice	life	vida	100_Most_Common_Words_-_Common_Nouns
+Basic	Spanish Practice	world	mundo	100_Most_Common_Words_-_Common_Nouns
+Basic	Spanish Practice	time (instance)	vez	100_Most_Common_Words_-_Common_Nouns
+Basic	Spanish Practice	that, which	que	100_Most_Common_Words_-_Conjunctions
+Basic	Spanish Practice	and	y	100_Most_Common_Words_-_Conjunctions
+Basic	Spanish Practice	or	o	100_Most_Common_Words_-_Conjunctions
+Basic	Spanish Practice	but	pero	100_Most_Common_Words_-_Conjunctions
+Basic	Spanish Practice	if	si	100_Most_Common_Words_-_Conjunctions
+Basic	Spanish Practice	because	porque	100_Most_Common_Words_-_Conjunctions
+Basic	Spanish Practice	like, as, how	como	100_Most_Common_Words_-_Conjunctions
+Basic	Spanish Practice	when	cuando	100_Most_Common_Words_-_Conjunctions
+Basic	Spanish Practice	nor, neither	ni	100_Most_Common_Words_-_Conjunctions
+Basic	Spanish Practice	of the (de + el)	del	100_Most_Common_Words_-_Contractions
+Basic	Spanish Practice	to the (a + el)	al	100_Most_Common_Words_-_Contractions
+Basic	Spanish Practice	this (masc.)	este	100_Most_Common_Words_-_Demonstratives
+Basic	Spanish Practice	this (fem.)	esta	100_Most_Common_Words_-_Demonstratives
+Basic	Spanish Practice	that (masc.)	ese	100_Most_Common_Words_-_Demonstratives
+Basic	Spanish Practice	that (fem.)	esa	100_Most_Common_Words_-_Demonstratives
+Basic	Spanish Practice	me	me	100_Most_Common_Words_-_Object_Pronouns
+Basic	Spanish Practice	you (informal, obj.)	te	100_Most_Common_Words_-_Object_Pronouns
+Basic	Spanish Practice	himself/herself/itself/each other	se	100_Most_Common_Words_-_Object_Pronouns
+Basic	Spanish Practice	to him/her	le	100_Most_Common_Words_-_Object_Pronouns
+Basic	Spanish Practice	him/it (direct obj.)	lo	100_Most_Common_Words_-_Object_Pronouns
+Basic	Spanish Practice	us	nos	100_Most_Common_Words_-_Object_Pronouns
+Basic	Spanish Practice	I	yo	100_Most_Common_Words_-_Personal_Pronouns
+Basic	Spanish Practice	you (informal)	tú	100_Most_Common_Words_-_Personal_Pronouns
+Basic	Spanish Practice	he	él	100_Most_Common_Words_-_Personal_Pronouns
+Basic	Spanish Practice	she	ella	100_Most_Common_Words_-_Personal_Pronouns
+Basic	Spanish Practice	we	nosotros	100_Most_Common_Words_-_Personal_Pronouns
+Basic	Spanish Practice	they (masc.)	ellos	100_Most_Common_Words_-_Personal_Pronouns
+Basic	Spanish Practice	they (fem.)	ellas	100_Most_Common_Words_-_Personal_Pronouns
+Basic	Spanish Practice	my	mi	100_Most_Common_Words_-_Possessives
+Basic	Spanish Practice	your (informal)	tu	100_Most_Common_Words_-_Possessives
+Basic	Spanish Practice	his/her/their/your (formal)	su	100_Most_Common_Words_-_Possessives
+Basic	Spanish Practice	our	nuestro	100_Most_Common_Words_-_Possessives
+Basic	Spanish Practice	of, from	de	100_Most_Common_Words_-_Prepositions
+Basic	Spanish Practice	to, at	a	100_Most_Common_Words_-_Prepositions
+Basic	Spanish Practice	in, on, at	en	100_Most_Common_Words_-_Prepositions
+Basic	Spanish Practice	for, by, through	por	100_Most_Common_Words_-_Prepositions
+Basic	Spanish Practice	with	con	100_Most_Common_Words_-_Prepositions
+Basic	Spanish Practice	for, in order to	para	100_Most_Common_Words_-_Prepositions
+Basic	Spanish Practice	on, about, over	sobre	100_Most_Common_Words_-_Prepositions
+Basic	Spanish Practice	without	sin	100_Most_Common_Words_-_Prepositions
+Basic	Spanish Practice	between	entre	100_Most_Common_Words_-_Prepositions
+Basic	Spanish Practice	from, since	desde	100_Most_Common_Words_-_Prepositions
+Basic	Spanish Practice	until, up to	hasta	100_Most_Common_Words_-_Prepositions
+Basic	Spanish Practice	to be (permanent)	ser	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	to be (temporary/location)	estar	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	to have (auxiliary)	haber	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	to have	tener	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	to do, to make	hacer	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	to go	ir	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	to be able to, can	poder	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	to say	decir	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	to see	ver	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	to give	dar	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	to know	saber	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	to want, to love	querer	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	to arrive	llegar	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	to pass, to spend (time)	pasar	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	should, must	deber	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	to put	poner	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	to come	venir	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	to carry, to wear	llevar	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	to believe	creer	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	to speak	hablar	100_Most_Common_Words_-_Verbs
+Basic	Spanish Practice	I want to eat. Quiero comer. Qroo Exercises - Querer
+Basic	Spanish Practice	Can you confirm the reservation? ¿Puedes confirmar la reserva/ la reservación? Qroo Exercises - Querer
+Basic	Spanish Practice	Do you want to study with me? ¿Quieres estudiar conmigo? Qroo Exercises - Querer
+Basic	Spanish Practice	I can work tomorrow. Puedo trabajar mañana. Qroo Exercises - Querer
+Basic	Spanish Practice	Can I make a reservation? ¿Puedo hacer una reservación/ una reserva? Qroo Exercises - Querer
+Basic	Spanish Practice	I want to work on Monday. Quiero trabajar el lunes. Qroo Exercises - Querer
+Basic	Spanish Practice	Can you help me with the project? ¿Puedes ayudarme con el proyecto? / ¿Me puedes ayudar con el proyecto? Qroo Exercises - Querer
+Basic	Spanish Practice	I can study Spanish with you tomorrow. Puedo estudiar español contigo mañana. Qroo Exercises - Querer
+Basic	Spanish Practice	Do you want to collaborate with me? ¿Quieres colaborar conmigo? Qroo Exercises - Querer
+Basic	Spanish Practice	I want to speak with you. Quiero hablar contigo. Qroo Exercises - Querer
+Basic	Spanish Practice	Can you work on Saturday? ¿Puedes trabajar el sábado? Qroo Exercises - Querer
+Basic	Spanish Practice	I can verify the information. Puedo verificar la información. Qroo Exercises - Querer
+Basic	Spanish Practice	Do you want to work tomorrow? ¿Quieres trabajar mañana? Qroo Exercises - Querer
+Basic	Spanish Practice	I want to confirm the information. Quiero confirmar la información. Qroo Exercises - Querer
+Basic	Spanish Practice	Can you study Spanish with me today? ¿Puedes estudiar español conmigo hoy? Qroo Exercises - Querer
+Basic	Spanish Practice	Can you help me study on Thursday? ¿Puedes ayudarme a estudiar el jueves? / ¿Me puedes ayudar a estudiar el jueves? Qroo Exercises - Querer
+Basic	Spanish Practice	Can I speak with you? ¿Puedo hablar contigo? Qroo Exercises - Querer
+Basic	Spanish Practice	I can make a reservation. Puedo hacer una reserva /reservación. Qroo Exercises - Querer
+Basic	Spanish Practice	Do you want to eat now? ¿Quieres comer ahora? Qroo Exercises - Querer
+Basic	Spanish Practice	I want to read a book. Quiero leer un libro. Qroo Exercises - Querer
+Basic	Spanish Practice	Can you help me with my computer? ¿Puedes ayudarme con mi computadora? / ¿Me puedes ayudar con mi computadora? Qroo Exercises - Querer
+Basic	Spanish Practice	I can decorate the house. Puedo decorar la casa. Qroo Exercises - Querer
+Basic	Spanish Practice	Do you want to work this weekend? ¿Quieres trabajar este fin de semana? Qroo Exercises - Querer
+Basic	Spanish Practice	I want to collaborate on the video. Quiero colaborar en el video. Qroo Exercises - Querer
+Basic	Spanish Practice	Can you help me confirm the reservation? ¿Puedes ayudarme a confirmar la reserva? / ¿Me puedes ayudar a confirmar la reserva? (la reservación) Qroo Exercises - Querer
+Basic	Qroo_Exercises-Querer	I want to eat.	Quiero comer.	Qroo-8 sentences
+Basic	Qroo_Exercises-Querer	Can you confirm the reservation?	¿Puedes confirmar la reserva/ la reservación?	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Querer	Do you want to study with me?	¿Quieres estudiar conmigo?	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Querer	I can work tomorrow.	Puedo trabajar mañana.	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Querer	Can I make a reservation?	¿Puedo hacer una reservación/ una reserva?	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Querer	I want to work on Monday.	Quiero trabajar el lunes.	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Querer	Can you help me with the project?	¿Puedes ayudarme con el proyecto? / ¿Me puedes ayudar con el proyecto?	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Querer	I can study Spanish with you tomorrow.	Puedo estudiar español contigo mañana.	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Querer	Do you want to collaborate with me?	¿Quieres colaborar conmigo?	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Querer	I want to speak with you.	Quiero hablar contigo.	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Querer	Can you work on Saturday?	¿Puedes trabajar el sábado?	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Querer	I can verify the information.	Puedo verificar la información.	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Querer	Do you want to work tomorrow?	¿Quieres trabajar mañana?	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Querer	I want to confirm the information.	Quiero confirmar la información.	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Querer	Can you study Spanish with me today?	¿Puedes estudiar español conmigo hoy?	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Querer	Can you help me study on Thursday?	¿Puedes ayudarme a estudiar el jueves? / ¿Me puedes ayudar a estudiar el jueves?	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Querer	Can I speak with you?	¿Puedo hablar contigo?	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Querer	I can make a reservation.	Puedo hacer una reserva /reservación.	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Querer	Do you want to eat now?	¿Quieres comer ahora?	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Querer	I want to read a book.	Quiero leer un libro.	Qroo-8 sentences
+Basic	Qroo_Exercises-Querer	Can you help me with my computer?	¿Puedes ayudarme con mi computadora? / ¿Me puedes ayudar con mi computadora?	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Querer	I can decorate the house.	Puedo decorar la casa.	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Querer	Do you want to work this weekend?	¿Quieres trabajar este fin de semana?	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Querer	I want to collaborate on the video.	Quiero colaborar en el video.	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Querer	Can you help me confirm the reservation?	¿Puedes ayudarme a confirmar la reserva? / ¿Me puedes ayudar a confirmar la reserva? (la reservación)	- Exercises Qroo Querer
+Basic	Qroo_Exercises-Tener	I have to eat.	Tengo que comer.	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	You have to work.	Tienes que trabajar.	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	I have to study with you.	Tengo que estudiar contigo.	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	Do you have to study with me?	¿Tienes que estudiar conmigo?	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	I have to confirm the information.	Tengo que confirmar la información.	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	Do you have to work tomorrow?	¿Tienes que trabajar mañana?	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	I can study with you tomorrow.	Puedo estudiar contigo mañana.	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	Can you work today?	¿Puedes trabajar hoy?	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	I want to study Spanish.	Quiero estudiar español.	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	Do you want to confirm the reservation?	¿Quieres confirmar la reserva / reservación?	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	I have to work tomorrow.	Tengo que trabajar mañana.	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	Do you have to eat now?	¿Tienes que comer ahora?	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	I want to study with you tomorrow.	Quiero estudiar contigo mañana.	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	Can you confirm the information?	¿Puedes confirmar la información?	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	I have to verify the information.	Tengo que verificar la información.	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	Can you study with me today?	¿Puedes estudiar conmigo hoy?	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	I have to organize the meeting.	Tengo que organizar la reunión.	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	Do you want to study Spanish today?	¿Quieres estudiar español hoy?	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	I want to confirm the reservation.	Quiero confirmar la reserva / reservación.	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	Do you have to organize the party?	¿Tienes que organizar la fiesta?	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	I can work with you tomorrow.	Puedo trabajar contigo mañana.	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	Do you want to verify the information?	¿Quieres verificar la información?	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	I have to work today.	Tengo que trabajar hoy.	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	Do you have to study Spanish tomorrow?	¿Tienes que estudiar español mañana?	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	I want to eat with you.	Quiero comer contigo.	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Tener	Can you work with me tomorrow?	¿Puedes trabajar conmigo mañana?	- Exercises Qroo Tener
+Basic	Qroo_Exercises-Ir	I am going to the store.	Voy a la tienda.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Do you have to go to the pharmacy?	¿Tienes que ir a la farmacia?	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I have to go to the park.	Tengo que ir al parque.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I am going to the school.	Voy a la escuela.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Do you want to go to the hospital?	¿Quieres ir al hospital?	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I want to go to the library.	Quiero ir a la biblioteca.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I can go to the restaurant.	Puedo ir al restaurante.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Can you go to the supermarket?	¿Puedes ir al supermercado?	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I can go to the bank.	Puedo ir al banco.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I am going to the cinema.	Voy al cine.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Do you have to go to the gym?	¿Tienes que ir al gimnasio?	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I have to go to the beach.	Tengo que ir a la playa.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I want to go to the airport.	Quiero ir al aeropuerto.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Do you want to go to the office?	¿Quieres ir a la oficina?	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I want to go to the store.	Quiero ir a la tienda.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I am going to the pharmacy.	Voy a la farmacia.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Can you go to the park?	¿Puedes ir al parque?	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I can go to the school.	Puedo ir a la escuela.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I have to go to the hospital.	Tengo que ir al hospital.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Do you have to go to the library?	¿Tienes que ir a la biblioteca?	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I have to go to the restaurant.	Tengo que ir al restaurante.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I am going to the supermarket.	Voy al supermercado.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Do you want to go to the bank?	¿Quieres ir al banco?	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I want to go to the cinema.	Quiero ir al cine.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I can go to the gym.	Puedo ir al gimnasio.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I have to go to the store to buy bread.	Tengo que ir a la tienda a comprar pan.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Do you have to go to the store to buy milk?	¿Tienes que ir a la tienda a comprar leche?	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I have to go to the store to buy eggs.	Tengo que ir a la tienda a comprar huevos.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I am going to the store to buy cheese.	Voy a la tienda a comprar queso.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Do you want to go to the store to buy apples?	¿Quieres ir a la tienda a comprar manzanas?	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I want to go to the store to buy oranges.	Quiero ir a la tienda a comprar naranjas.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I am going to the store to buy lettuce.	Voy a la tienda a comprar lechuga.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Can you go to the store to buy grapes?	¿Puedes ir a la tienda a comprar uvas?	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I can go to the store to buy tomatoes.	Puedo ir a la tienda a comprar tomates.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I have to go to the store to buy onions.	Tengo que ir a la tienda a comprar cebollas.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Do you have to go to the store to buy potatoes?	¿Tienes que ir a la tienda a comprar papas?	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I have to go to the store to buy carrots.	Tengo que ir a la tienda a comprar zanahorias.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Do you want to go to the store to buy cucumbers?	¿Quieres ir a la tienda a comprar pepinos?	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I want to go to the store to buy peppers.	Quiero ir a la tienda a comprar pimientos.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I can go to the store to buy garlic.	Puedo ir a la tienda a comprar ajo.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Can you go to the store to buy bread?	¿Puedes ir a la tienda a comprar pan?	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I can go to the store to buy milk.	Puedo ir a la tienda a comprar leche.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I am going to the store to buy eggs.	Voy a la tienda a comprar huevos.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Do you have to go to the store to buy cheese?	¿Tienes que ir a la tienda a comprar queso?	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I have to go to the store to buy apples.	Tengo que ir a la tienda a comprar manzanas.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Do you want to go to the store to buy plantains?	¿Quieres ir a la tienda a comprar plátanos?	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	I want to go to the store to buy grapes.	Quiero ir a la tienda a comprar uvas.	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Bread	Pan	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Milk	Leche	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Eggs	Huevos	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Cheese	Queso	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Apples	Manzanas	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Oranges	Naranjas	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Plantain	Plátanos	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Grapes	Uvas	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Tomatoes	Tomates	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Onions	Cebollas	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Potatoes	Papas/Patatas	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Carrots	Zanahorias	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Lettuce	Lechuga	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Cucumbers	Pepinos	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Peppers	Pimientos	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir	Garlic	Ajo	- Exercises Ir Qroo
+Basic	Qroo_Exercises-Ir-Preterit	Did you go to the store?	¿Fuiste a la tienda?	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	I went to the pharmacy.	Fui a la farmacia.	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	Did you go to the park?	¿Fuiste al parque?	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	I went to the hospital.	Fui al hospital.	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	Did you go to school?	¿Fuiste a la escuela?	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	I went to the cinema.	Fui al cine.	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	Did you go to the restaurant?	¿Fuiste al restaurante?	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	I went to the supermarket.	Fui al supermercado.	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	Did you go to the gym?	¿Fuiste al gimnasio?	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	I went to the beach.	Fui a la playa.	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	When did you go to the store?	¿Cuándo fuiste a la tienda?	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	I went to the park two hours ago.	Fui al parque hace dos horas.	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	Did you already go to the hospital?	¿Ya fuiste al hospital?	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	I already went to the store.	Ya fui a la tienda.	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	Did you already go to the beach?	¿Ya fuiste a la playa?	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	I went to the restaurant two days ago.	Fui al restaurante hace dos días.	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	When did you go to the pharmacy?	¿Cuándo fuiste a la farmacia?	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	I went to the library yesterday.	Fui a la biblioteca ayer.	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	Did you already go to the office?	¿Ya fuiste a la oficina?	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	I went to the gym three days ago.	Fui al gimnasio hace tres días.	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	When did you go to the school?	¿Cuándo fuiste a la escuela?	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	I already went to the supermarket.	Ya fui al supermercado.	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	Did you go to the airport?	¿Fuiste al aeropuerto?	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	I went to the bank an hour ago.	Fui al banco hace una hora.	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	When did you go to the cinema?	¿Cuándo fuiste al cine?	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	I already went to the park.	Ya fui al parque.	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	Did you already go to the store?	¿Ya fuiste a la tienda?	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	I went to the office last week.	Fui a la oficina la semana pasada.	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	When did you go to the library?	¿Cuándo fuiste a la biblioteca?	- Exercises Ir Preterit Qroo
+Basic	Qroo_Exercises-Ir-Preterit	I went to the hospital five days ago.	Fui al hospital hace cinco días.	- Exercises Ir Preterit Qroo
+Basic	Spanish Alphabet	A a	a (ah) a in father 	Alphabet Spanish
+Basic	Spanish Alphabet	B b	be (beh) b in boy (softens between vowels) 	Alphabet Spanish
+Basic	Spanish Alphabet	C c	ce (say)  k in cat (before a,o,u); s in sun (LatAm) before e,i 	Alphabet Spanish
+Basic	Spanish Alphabet	D d	de (deh) d in day (softer, tongue touches teeth) 	Alphabet Spanish
+Basic	Spanish Alphabet	E e	e (eh) e in bet	Alphabet Spanish
+Basic	Spanish Alphabet	F f	efe (EH-feh) f in fall 	Alphabet Spanish
+Basic	Spanish Alphabet	G g	ge (heh) (guttural) g in go (before a,o,u); h in hot (strong/guttural) before e,i	Alphabet Spanish
+Basic	Spanish Alphabet	H h	hache (AH-cheh) Silent (e.g., hola)	Alphabet Spanish
+Basic	Spanish Alphabet	I i	(ee) ee in see (shorter)	Alphabet Spanish
+Basic	Spanish Alphabet	J j	jota (HOH-tah) h in hot (strong/guttural)	Alphabet Spanish
+Basic	Spanish Alphabet	K k	ka (kah) c in cat	Alphabet Spanish
+Basic	Spanish Alphabet	L l	ele (EH-leh) l in love 	Alphabet Spanish
+Basic	Spanish Alphabet	M m	eme (EH-meh) m in Mary 	Alphabet Spanish
+Basic	Spanish Alphabet	N n	ene (EH-neh) n in Nancy	Alphabet Spanish
+Basic	Spanish Alphabet	Ñ ñ	eñe (EN-yeh) ny in canyon	Alphabet Spanish
+Basic	Spanish Alphabet	O o	o (oh) o in go (shorter, no glide) 	Alphabet Spanish
+Basic	Spanish Alphabet	P p	pe (peh) p in pay (less breath)	Alphabet Spanish
+Basic	Spanish Alphabet	Q q	cu (koo) k in cool (always followed by silent u) 	Alphabet Spanish
+Basic	Spanish Alphabet	R r	ere (EH-reh) tt in butter (tap); rolled r at start of word 	Alphabet Spanish
+Basic	Spanish Alphabet	S s	ese (EH-seh) s in Sally	Alphabet Spanish
+Basic	Spanish Alphabet	T t	te (teh) t in tea (tongue touches teeth) 	Alphabet Spanish
+Basic	Spanish Alphabet	U u	u (oo) oo in food	Alphabet Spanish
+Basic	Spanish Alphabet	V v	uve (OO-beh) Same as B (b in boy)	Alphabet Spanish
+Basic	Spanish Alphabet	W w	uve (oo-beh DOH-bleh) w in water (mostly in loanwords) 	Alphabet Spanish
+Basic	Spanish Alphabet	X x	equis (EH-kees) x in taxi (ks); h in México (in some names)	Alphabet Spanish
+Basic	Spanish Alphabet	Y y	ye (yeh) y in yes; ee in see at end of words 	Alphabet Spanish
+Basic	Spanish Alphabet	Z z	zeta (SEH-tah) s in sun	Alphabet Spanish
+Basic	Qroo_Exercises-Ir-Future	cantar	to sing	Qroo-8 vocabulary
+Basic	Qroo_Exercises-Ir-Future	comer	to eat	Qroo-8 vocabulary
+Basic	Qroo_Exercises-Ir-Future	beber	to drink	Qroo-8 vocabulary
+Basic	Qroo_Exercises-Ir-Future	leer	to read	Qroo-8 vocabulary
+Basic	Qroo_Exercises-Ir-Future	escribir	to write	Qroo-8 vocabulary
+Basic	Qroo_Exercises-Ir-Future	correr	to run	Qroo-8 vocabulary
+Basic	Qroo_Exercises-Ir-Future	caminar	to walk	Qroo-8 vocabulary
+Basic	Qroo_Exercises-Ir-Future	viajar	to travel	Qroo-8 vocabulary
+Basic	Qroo_Exercises-Ir-Future	trabajar	to work	Qroo-8 vocabulary
+Basic	Qroo_Exercises-Ir-Future	practicar	to practice	Qroo-8 vocabulary
+Basic	Qroo_Exercises-Ir-Future	comprar	to buy	Qroo-8 vocabulary
+Basic	Qroo_Exercises-Ir-Future	escuchar	to listen	Qroo-8 vocabulary
+Basic	Qroo_Exercises-Ir-Future	vender	to sell	Qroo-8 vocabulary
+Basic	Qroo_Exercises-Ir-Future	descansar	to rest	Qroo-8 vocabulary
+Basic	Qroo_Exercises-Ir-Future	dibujar	to draw	Qroo-8 vocabulary
+Basic	Qroo_Exercises-Ir-Future	Do you want to sing?	¿Quieres cantar?	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	Do you want to drink water?	¿Quieres beber agua? / ¿Quieres tomar agua?	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	What do you want to write?	¿Qué quieres escribir?	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	I want to run.	Quiero correr.	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	Do you want to walk?	¿Quieres caminar?	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	I want to travel.	Quiero viajar.	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	Do you want to work?	¿Quieres trabajar?	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	I want to practice Spanish.	Quiero practicar español.	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	Do you have to sell a book?	¿Tienes que vender un libro?	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	I have to work.	Tengo que trabajar.	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	Do you have to buy a car?	¿Tienes que comprar un carro?	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	I have to sell some books.	Tengo que vender unos libros.	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	Do you have to buy some books?	¿Tienes que comprar unos libros?	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	I have to practice Spanish.	Tengo que practicar español.	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	Do you have to run?	¿Tienes que correr?	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	I have to write.	Tengo que escribir.	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	What are you going to sing?	¿Qué vas a cantar?	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	I can run.	Puedo correr.	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	Can you walk?	¿Puedes caminar?	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	I can walk.	Puedo caminar.	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	Can you write?	¿Puedes escribir?	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	I can draw a car.	Puedo dibujar un carro.	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	Are you going to drink water?	¿Vas a beber agua? / ¿Vas a tomar agua?	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	I am going to rest.	Voy a descansar.	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	Where are you going to work?	¿Dónde vas a trabajar?	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	I am going to travel.	Voy a viajar.	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	When are you going to rest?	¿Cuándo vas a descansar?	Qroo-8 sentences
+Basic	Qroo_Exercises-Ir-Future	What are you going to draw?	¿Qué vas a dibujar?	Qroo-8 sentences
+Basic	Vocabulary::Vocab-Bible	Dios	God	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Jesús	Jesus	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Cristo	Christ	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Espíritu Santo	Holy Spirit	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Trinidad	Trinity	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Biblia	Bible	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Escrituras	Scriptures	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Antiguo Testamento	Old Testament	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Nuevo Testamento	New Testament	vocab-bible
+Basic	Vocabulary::Vocab-Bible	evangelio	gospel	vocab-bible
+Basic	Vocabulary::Vocab-Bible	fe	faith	vocab-life
+Basic	Vocabulary::Vocab-Bible	salvación	salvation	vocab-bible
+Basic	Vocabulary::Vocab-Bible	gracia	grace	vocab-bible
+Basic	Vocabulary::Vocab-Bible	pecado	sin	vocab-bible
+Basic	Vocabulary::Vocab-Bible	arrepentimiento	repentance	vocab-bible
+Basic	Vocabulary::Vocab-Bible	bautismo	baptism	vocab-bible
+Basic	Vocabulary::Vocab-Bible	oración	prayer	vocab-life
+Basic	Vocabulary::Vocab-Bible	alabanza	praise	vocab-bible
+Basic	Vocabulary::Vocab-Bible	adoración	worship	vocab-bible
+Basic	Vocabulary::Vocab-Bible	templo	temple	vocab-bible
+Basic	Vocabulary::Vocab-Bible	iglesia	church	vocab-bible
+Basic	Vocabulary::Vocab-Bible	cielo	heaven	vocab-bible
+Basic	Vocabulary::Vocab-Bible	infierno	hell	vocab-bible
+Basic	Vocabulary::Vocab-Bible	ángel	angel	vocab-people
+Basic	Vocabulary::Vocab-Bible	demonio	demon	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Satanás	Satan	vocab-bible
+Basic	Vocabulary::Vocab-Bible	diablo	devil	vocab-bible
+Basic	Vocabulary::Vocab-Bible	profeta	prophet	vocab-people
+Basic	Vocabulary::Vocab-Bible	apóstol	apostle	vocab-people
+Basic	Vocabulary::Vocab-Bible	discípulo	disciple (discípula f.)	vocab-people
+Basic	Vocabulary::Vocab-Bible	pastor	pastor	vocab-people
+Basic	Vocabulary::Vocab-Bible	sacerdote	priest	vocab-people
+Basic	Vocabulary::Vocab-Bible	levita	Levite	vocab-bible
+Basic	Vocabulary::Vocab-Bible	rey	king	vocab-people
+Basic	Vocabulary::Vocab-Bible	siervo	servant	vocab-bible
+Basic	Vocabulary::Vocab-Bible	juez	judge (jueza f.)	vocab-people
+Basic	Vocabulary::Vocab-Bible	guerrero	warrior	vocab-bible
+Basic	Vocabulary::Vocab-Bible	mártir	martyr	vocab-people
+Basic	Vocabulary::Vocab-Bible	misionero	missionary (misionera f.)	vocab-people
+Basic	Vocabulary::Vocab-Bible	milagro	miracle	vocab-bible
+Basic	Vocabulary::Vocab-Bible	parábola	parable	vocab-bible
+Basic	Vocabulary::Vocab-Bible	promesa	promise	vocab-bible
+Basic	Vocabulary::Vocab-Bible	pacto	covenant	vocab-bible
+Basic	Vocabulary::Vocab-Bible	ley	law	vocab-life
+Basic	Vocabulary::Vocab-Bible	mandamiento	commandment	vocab-bible
+Basic	Vocabulary::Vocab-Bible	amor	love	vocab-relationships
+Basic	Vocabulary::Vocab-Bible	misericordia	mercy	vocab-bible
+Basic	Vocabulary::Vocab-Bible	perdón	forgiveness	vocab-life
+Basic	Vocabulary::Vocab-Bible	redención	redemption	vocab-bible
+Basic	Vocabulary::Vocab-Bible	eternidad	eternity	vocab-bible
+Basic	Vocabulary::Vocab-Bible	resurrección	resurrection	vocab-bible
+Basic	Vocabulary::Vocab-Bible	cruz	cross	vocab-bible
+Basic	Vocabulary::Vocab-Bible	cordero	lamb	vocab-bible
+Basic	Vocabulary::Vocab-Bible	pastor de ovejas	shepherd	vocab-bible
+Basic	Vocabulary::Vocab-Bible	pan	bread	vocab-bible
+Basic	Vocabulary::Vocab-Bible	vino	wine	vocab-bible
+Basic	Vocabulary::Vocab-Bible	desierto	desert / wilderness	vocab-bible
+Basic	Vocabulary::Vocab-Bible	montaña	mountain	vocab-travel
+Basic	Vocabulary::Vocab-Bible	río	river	vocab-bible
+Basic	Vocabulary::Vocab-Bible	tierra prometida	promised land	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Génesis	Genesis	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Éxodo	Exodus	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Salmos	Psalms	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Proverbios	Proverbs	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Isaías	Isaiah	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Mateo	Matthew	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Marcos	Mark	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Lucas	Luke	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Juan	John	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Hechos	Acts	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Romanos	Romans	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Apocalipsis	Revelation	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Abraham	Abraham	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Moisés	Moses	vocab-bible
+Basic	Vocabulary::Vocab-Bible	David	David	vocab-bible
+Basic	Vocabulary::Vocab-Bible	María	Mary	vocab-bible
+Basic	Vocabulary::Vocab-Bible	José	Joseph	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Pedro	Peter	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Pablo	Paul	vocab-bible
+Basic	Vocabulary::Vocab-Bible	creación	creation	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Adán	Adam	vocab-bible
+Basic	Vocabulary::Vocab-Bible	Eva	Eve	vocab-bible
+Basic	Vocabulary::Vocab-Bible	paraíso	paradise	vocab-bible
+Basic	Vocabulary::Vocab-Bible	bendición	blessing	vocab-bible
+Basic	Vocabulary::Vocab-Bible	maldición	curse	vocab-bible
+Basic	Vocabulary::Vocab-Bible	profecía	prophecy	vocab-bible
+Basic	Vocabulary::Vocab-Bible	visión	vision	vocab-bible
+Basic	Vocabulary::Vocab-Bible	sueño	dream	vocab-life
+Basic	Vocabulary::Vocab-Bible	sabiduría	wisdom	vocab-bible
+Basic	Vocabulary::Vocab-Bible	conocimiento	knowledge	vocab-bible
+Basic	Vocabulary::Vocab-Bible	verdad	truth	vocab-bible
+Basic	Vocabulary::Vocab-Bible	luz	light	vocab-bible
+Basic	Vocabulary::Vocab-Bible	tinieblas	darkness	vocab-bible
+Basic	Vocabulary::Vocab-Bible	espada	sword	vocab-bible
+Basic	Vocabulary::Vocab-Bible	escudo	shield	vocab-bible
+Basic	Vocabulary::Vocab-Bible	armadura espiritual	spiritual armor	vocab-bible
+Basic	Vocabulary::Vocab-Bible	comunión	communion	vocab-bible
+Basic	Vocabulary::Vocab-Bible	ofrenda	offering	vocab-bible
+Basic	Vocabulary::Vocab-Bible	diezmo	tithe	vocab-bible
+Basic	Vocabulary::Vocab-Bible	gloria	glory	vocab-bible
+Basic	Vocabulary::Vocab-Car	carro	car	vocab-car
+Basic	Vocabulary::Vocab-Car	coche	car (alternate)	vocab-car
+Basic	Vocabulary::Vocab-Car	vehículo	vehicle	vocab-car
+Basic	Vocabulary::Vocab-Car	camioneta	pickup truck / SUV	vocab-car
+Basic	Vocabulary::Vocab-Car	camión	truck	vocab-car
+Basic	Vocabulary::Vocab-Car	autobús	bus	vocab-travel
+Basic	Vocabulary::Vocab-Car	motocicleta	motorcycle	vocab-car
+Basic	Vocabulary::Vocab-Car	bicicleta	bicycle	vocab-car
+Basic	Vocabulary::Vocab-Car	motor	engine	vocab-car
+Basic	Vocabulary::Vocab-Car	volante	steering wheel	vocab-car
+Basic	Vocabulary::Vocab-Car	asiento	seat	vocab-travel
+Basic	Vocabulary::Vocab-Car	cinturón de seguridad	seatbelt	vocab-car
+Basic	Vocabulary::Vocab-Car	freno	brake	vocab-car
+Basic	Vocabulary::Vocab-Car	acelerador	gas pedal / accelerator	vocab-car
+Basic	Vocabulary::Vocab-Car	embrague	clutch	vocab-car
+Basic	Vocabulary::Vocab-Car	palanca de cambios	gear shift	vocab-car
+Basic	Vocabulary::Vocab-Car	velocímetro	speedometer	vocab-car
+Basic	Vocabulary::Vocab-Car	tablero	dashboard	vocab-car
+Basic	Vocabulary::Vocab-Car	espejo retrovisor	rearview mirror	vocab-car
+Basic	Vocabulary::Vocab-Car	espejo lateral	side mirror	vocab-car
+Basic	Vocabulary::Vocab-Car	llave	key	vocab-home
+Basic	Vocabulary::Vocab-Car	encendido	ignition	vocab-car
+Basic	Vocabulary::Vocab-Car	puerta	door	vocab-home
+Basic	Vocabulary::Vocab-Car	manija	door handle	vocab-car
+Basic	Vocabulary::Vocab-Car	parabrisas	windshield	vocab-car
+Basic	Vocabulary::Vocab-Car	limpiaparabrisas	windshield wiper	vocab-car
+Basic	Vocabulary::Vocab-Car	capó	hood	vocab-car
+Basic	Vocabulary::Vocab-Car	cajuela	trunk (Mexico)	vocab-car
+Basic	Vocabulary::Vocab-Car	maletero	trunk (other regions)	vocab-car
+Basic	Vocabulary::Vocab-Car	llanta	tire	vocab-car
+Basic	Vocabulary::Vocab-Car	llanta de repuesto	spare tire	vocab-car
+Basic	Vocabulary::Vocab-Car	rin	rim / wheel	vocab-car
+Basic	Vocabulary::Vocab-Car	gasolina	gasoline	vocab-car
+Basic	Vocabulary::Vocab-Car	tanque de gasolina	gas tank	vocab-car
+Basic	Vocabulary::Vocab-Car	gasolinera	gas station	vocab-car
+Basic	Vocabulary::Vocab-Car	aceite	oil	vocab-car
+Basic	Vocabulary::Vocab-Car	batería	battery	vocab-car
+Basic	Vocabulary::Vocab-Car	alternador	alternator	vocab-car
+Basic	Vocabulary::Vocab-Car	radiador	radiator	vocab-car
+Basic	Vocabulary::Vocab-Car	manguera	hose	vocab-car
+Basic	Vocabulary::Vocab-Car	faro	headlight	vocab-car
+Basic	Vocabulary::Vocab-Car	luz trasera	tail light	vocab-car
+Basic	Vocabulary::Vocab-Car	luz de freno	brake light	vocab-car
+Basic	Vocabulary::Vocab-Car	intermitente	turn signal / blinker	vocab-car
+Basic	Vocabulary::Vocab-Car	claxon	horn	vocab-car
+Basic	Vocabulary::Vocab-Car	silenciador	muffler	vocab-car
+Basic	Vocabulary::Vocab-Car	tubo de escape	exhaust pipe	vocab-car
+Basic	Vocabulary::Vocab-Car	transmisión	transmission	vocab-car
+Basic	Vocabulary::Vocab-Car	suspensión	suspension	vocab-car
+Basic	Vocabulary::Vocab-Car	amortiguador	shock absorber	vocab-car
+Basic	Vocabulary::Vocab-Car	freno de mano	parking brake	vocab-car
+Basic	Vocabulary::Vocab-Car	carretera	highway / road	vocab-car
+Basic	Vocabulary::Vocab-Car	autopista	freeway / expressway	vocab-car
+Basic	Vocabulary::Vocab-Car	calle	street	vocab-car
+Basic	Vocabulary::Vocab-Car	avenida	avenue	vocab-car
+Basic	Vocabulary::Vocab-Car	semáforo	traffic light	vocab-car
+Basic	Vocabulary::Vocab-Car	señal de tráfico	traffic sign	vocab-car
+Basic	Vocabulary::Vocab-Car	límite de velocidad	speed limit	vocab-car
+Basic	Vocabulary::Vocab-Car	tráfico	traffic	vocab-car
+Basic	Vocabulary::Vocab-Car	embotellamiento	traffic jam	vocab-car
+Basic	Vocabulary::Vocab-Car	accidente	accident	vocab-car
+Basic	Vocabulary::Vocab-Car	multa	traffic ticket / fine	vocab-car
+Basic	Vocabulary::Vocab-Car	licencia de conducir	"driver&#x27;s license"	vocab-car
+Basic	Vocabulary::Vocab-Car	placa	license plate	vocab-car
+Basic	Vocabulary::Vocab-Car	seguro	insurance	vocab-car
+Basic	Vocabulary::Vocab-Car	registro	vehicle registration	vocab-car
+Basic	Vocabulary::Vocab-Car	mecánico	mechanic (mecánica f.)	vocab-people
+Basic	Vocabulary::Vocab-Car	taller mecánico	repair shop	vocab-car
+Basic	Vocabulary::Vocab-Car	reparación	repair	vocab-car
+Basic	Vocabulary::Vocab-Car	estacionamiento	parking lot	vocab-car
+Basic	Vocabulary::Vocab-Car	parquímetro	parking meter	vocab-car
+Basic	Vocabulary::Vocab-Car	peaje	toll	vocab-car
+Basic	Vocabulary::Vocab-Car	GPS	GPS	vocab-car
+Basic	Vocabulary::Vocab-Car	gasolina regular	regular gas	vocab-car
+Basic	Vocabulary::Vocab-Car	gasolina premium	premium gas	vocab-car
+Basic	Vocabulary::Vocab-Car	diésel	diesel	vocab-car
+Basic	Vocabulary::Vocab-Car	carro eléctrico	electric car	vocab-car
+Basic	Vocabulary::Vocab-Car	carro híbrido	hybrid car	vocab-car
+Basic	Vocabulary::Vocab-Car	asiento delantero	front seat	vocab-car
+Basic	Vocabulary::Vocab-Car	asiento trasero	back seat	vocab-car
+Basic	Vocabulary::Vocab-Car	pasajero	passenger	vocab-car
+Basic	Vocabulary::Vocab-Car	conductor	driver (conductora f.)	vocab-people
+Basic	Vocabulary::Vocab-Car	guardabarros	fender	vocab-car
+Basic	Vocabulary::Vocab-Car	parachoque	bumper	vocab-car
+Basic	Vocabulary::Vocab-Car	llanta ponchada	flat tire	vocab-car
+Basic	Vocabulary::Vocab-Car	grúa	tow truck	vocab-car
+Basic	Vocabulary::Vocab-Car	control de crucero	cruise control	vocab-car
+Basic	Vocabulary::Vocab-Car	aire acondicionado	air conditioner	vocab-home
+Basic	Vocabulary::Vocab-Car	velocidad	speed	vocab-car
+Basic	Vocabulary::Vocab-Car	marcha atrás	reverse	vocab-car
+Basic	Vocabulary::Vocab-Car	carril	lane	vocab-car
+Basic	Vocabulary::Vocab-Car	vuelta en U	U-turn	vocab-car
+Basic	Vocabulary::Vocab-Car	tope	speed bump	vocab-car
+Basic	Vocabulary::Vocab-Car	desvío	detour	vocab-car
+Basic	Vocabulary::Vocab-Car	puente	bridge	vocab-car
+Basic	Vocabulary::Vocab-Car	túnel	tunnel	vocab-car
+Basic	Vocabulary::Vocab-Car	estacionar	to park	vocab-car
+Basic	Vocabulary::Vocab-Car	manejar	to drive	vocab-car
+Basic	Vocabulary::Vocab-Car	arrancar	to start (engine)	vocab-car
+Basic	Vocabulary::Vocab-Car	llenar el tanque	to fill up the tank	vocab-car
+Basic	Vocabulary::Vocab-Home	casa	house	vocab-home
+Basic	Vocabulary::Vocab-Home	hogar	home	vocab-life
+Basic	Vocabulary::Vocab-Home	apartamento	apartment	vocab-home
+Basic	Vocabulary::Vocab-Home	departamento	apartment (Mexico)	vocab-home
+Basic	Vocabulary::Vocab-Home	cuarto	room	vocab-home
+Basic	Vocabulary::Vocab-Home	sala	living room	vocab-home
+Basic	Vocabulary::Vocab-Home	comedor	dining room	vocab-home
+Basic	Vocabulary::Vocab-Home	cocina	kitchen	vocab-home
+Basic	Vocabulary::Vocab-Home	baño	bathroom	vocab-home
+Basic	Vocabulary::Vocab-Home	recámara	bedroom (Latin America)	vocab-home
+Basic	Vocabulary::Vocab-Home	habitación	room	vocab-travel
+Basic	Vocabulary::Vocab-Home	estudio	study / home office	vocab-home
+Basic	Vocabulary::Vocab-Home	cuarto de lavado	laundry room	vocab-home
+Basic	Vocabulary::Vocab-Home	sótano	basement	vocab-home
+Basic	Vocabulary::Vocab-Home	ático	attic	vocab-home
+Basic	Vocabulary::Vocab-Home	garaje	garage	vocab-home
+Basic	Vocabulary::Vocab-Home	jardín	garden / yard	vocab-home
+Basic	Vocabulary::Vocab-Home	patio	patio / courtyard	vocab-home
+Basic	Vocabulary::Vocab-Home	porche	porch	vocab-home
+Basic	Vocabulary::Vocab-Home	balcón	balcony	vocab-home
+Basic	Vocabulary::Vocab-Home	entrada	entryway	vocab-home
+Basic	Vocabulary::Vocab-Home	pasillo	hallway	vocab-home
+Basic	Vocabulary::Vocab-Home	escalera	staircase	vocab-home
+Basic	Vocabulary::Vocab-Home	techo	roof / ceiling	vocab-home
+Basic	Vocabulary::Vocab-Home	piso	floor	vocab-home
+Basic	Vocabulary::Vocab-Home	pared	wall	vocab-home
+Basic	Vocabulary::Vocab-Home	ventana	window	vocab-home
+Basic	Vocabulary::Vocab-Home	cama	bed	vocab-home
+Basic	Vocabulary::Vocab-Home	sofá	sofa / couch	vocab-home
+Basic	Vocabulary::Vocab-Home	sillón	armchair	vocab-home
+Basic	Vocabulary::Vocab-Home	mesa	table	vocab-home
+Basic	Vocabulary::Vocab-Home	silla	chair	vocab-home
+Basic	Vocabulary::Vocab-Home	escritorio	desk	vocab-home
+Basic	Vocabulary::Vocab-Home	estante	shelf	vocab-home
+Basic	Vocabulary::Vocab-Home	librero	bookshelf	vocab-home
+Basic	Vocabulary::Vocab-Home	ropero	wardrobe	vocab-home
+Basic	Vocabulary::Vocab-Home	clóset	closet	vocab-home
+Basic	Vocabulary::Vocab-Home	cajón	drawer	vocab-home
+Basic	Vocabulary::Vocab-Home	alfombra	rug / carpet	vocab-home
+Basic	Vocabulary::Vocab-Home	cortina	curtain	vocab-home
+Basic	Vocabulary::Vocab-Home	persiana	blinds	vocab-home
+Basic	Vocabulary::Vocab-Home	lámpara	lamp	vocab-home
+Basic	Vocabulary::Vocab-Home	foco	light bulb	vocab-home
+Basic	Vocabulary::Vocab-Home	espejo	mirror	vocab-home
+Basic	Vocabulary::Vocab-Home	cuadro	picture / painting	vocab-home
+Basic	Vocabulary::Vocab-Home	televisión	television	vocab-home
+Basic	Vocabulary::Vocab-Home	refrigerador	refrigerator	vocab-home
+Basic	Vocabulary::Vocab-Home	estufa	stove	vocab-home
+Basic	Vocabulary::Vocab-Home	horno	oven	vocab-home
+Basic	Vocabulary::Vocab-Home	microondas	microwave	vocab-home
+Basic	Vocabulary::Vocab-Home	lavadora	washing machine	vocab-home
+Basic	Vocabulary::Vocab-Home	secadora	dryer	vocab-home
+Basic	Vocabulary::Vocab-Home	lavavajillas	dishwasher	vocab-home
+Basic	Vocabulary::Vocab-Home	fregadero	kitchen sink	vocab-home
+Basic	Vocabulary::Vocab-Home	lavabo	bathroom sink	vocab-home
+Basic	Vocabulary::Vocab-Home	inodoro	toilet	vocab-home
+Basic	Vocabulary::Vocab-Home	regadera	shower	vocab-home
+Basic	Vocabulary::Vocab-Home	bañera	bathtub	vocab-home
+Basic	Vocabulary::Vocab-Home	toalla	towel	vocab-home
+Basic	Vocabulary::Vocab-Home	jabón	soap	vocab-home
+Basic	Vocabulary::Vocab-Home	champú	shampoo	vocab-home
+Basic	Vocabulary::Vocab-Home	almohada	pillow	vocab-home
+Basic	Vocabulary::Vocab-Home	cobija	blanket	vocab-home
+Basic	Vocabulary::Vocab-Home	sábana	sheet	vocab-home
+Basic	Vocabulary::Vocab-Home	colchón	mattress	vocab-home
+Basic	Vocabulary::Vocab-Home	percha	hanger	vocab-home
+Basic	Vocabulary::Vocab-Home	cerradura	lock	vocab-home
+Basic	Vocabulary::Vocab-Home	timbre	doorbell	vocab-home
+Basic	Vocabulary::Vocab-Home	interruptor	light switch	vocab-home
+Basic	Vocabulary::Vocab-Home	enchufe	electrical outlet	vocab-home
+Basic	Vocabulary::Vocab-Home	abanico	ceiling fan	vocab-home
+Basic	Vocabulary::Vocab-Home	calentador	heater	vocab-home
+Basic	Vocabulary::Vocab-Home	bote de basura	trash can	vocab-home
+Basic	Vocabulary::Vocab-Home	escoba	broom	vocab-home
+Basic	Vocabulary::Vocab-Home	trapeador	mop	vocab-home
+Basic	Vocabulary::Vocab-Home	aspiradora	vacuum cleaner	vocab-home
+Basic	Vocabulary::Vocab-Home	detergente	detergent	vocab-home
+Basic	Vocabulary::Vocab-Home	limpiador	cleaner	vocab-home
+Basic	Vocabulary::Vocab-Home	esponja	sponge	vocab-home
+Basic	Vocabulary::Vocab-Home	trapo	cleaning rag	vocab-home
+Basic	Vocabulary::Vocab-Home	cubeta	bucket	vocab-home
+Basic	Vocabulary::Vocab-Home	maceta	flowerpot	vocab-home
+Basic	Vocabulary::Vocab-Home	cerca	fence	vocab-home
+Basic	Vocabulary::Vocab-Home	buzón	mailbox	vocab-home
+Basic	Vocabulary::Vocab-Home	terraza	terrace / deck	vocab-home
+Basic	Vocabulary::Vocab-Home	chimenea	fireplace	vocab-home
+Basic	Vocabulary::Vocab-Home	calentador de agua	water heater	vocab-home
+Basic	Vocabulary::Vocab-Home	llave de agua	faucet / water tap	vocab-home
+Basic	Vocabulary::Vocab-Home	alberca	swimming pool (Mexico)	vocab-home
+Basic	Vocabulary::Vocab-Home	piscina	swimming pool	vocab-home
+Basic	Vocabulary::Vocab-Home	parrilla	grill / barbecue	vocab-home
+Basic	Vocabulary::Vocab-Home	herramienta	tool	vocab-home
+Basic	Vocabulary::Vocab-Home	martillo	hammer	vocab-home
+Basic	Vocabulary::Vocab-Home	clavo	nail	vocab-home
+Basic	Vocabulary::Vocab-Home	pintura	paint	vocab-home
+Basic	Vocabulary::Vocab-Home	ventilador	fan	vocab-home
+Basic	Vocabulary::Vocab-Home	puerta trasera	back door	vocab-home
+Basic	Vocabulary::Vocab-Life	vida	life	vocab-life
+Basic	Vocabulary::Vocab-Life	muerte	death	vocab-life
+Basic	Vocabulary::Vocab-Life	nacimiento	birth	vocab-life
+Basic	Vocabulary::Vocab-Life	infancia	childhood	vocab-life
+Basic	Vocabulary::Vocab-Life	adolescencia	adolescence	vocab-life
+Basic	Vocabulary::Vocab-Life	juventud	youth	vocab-life
+Basic	Vocabulary::Vocab-Life	adultez	adulthood	vocab-life
+Basic	Vocabulary::Vocab-Life	vejez	old age	vocab-life
+Basic	Vocabulary::Vocab-Life	salud	health	vocab-life
+Basic	Vocabulary::Vocab-Life	enfermedad	illness / disease	vocab-life
+Basic	Vocabulary::Vocab-Life	medicina	medicine	vocab-life
+Basic	Vocabulary::Vocab-Life	cita médica	"doctor&#x27;s appointment"	vocab-life
+Basic	Vocabulary::Vocab-Life	trabajo	work / job	vocab-life
+Basic	Vocabulary::Vocab-Life	carrera	career	vocab-life
+Basic	Vocabulary::Vocab-Life	educación	education	vocab-life
+Basic	Vocabulary::Vocab-Life	escuela	school	vocab-life
+Basic	Vocabulary::Vocab-Life	universidad	university	vocab-life
+Basic	Vocabulary::Vocab-Life	graduación	graduation	vocab-life
+Basic	Vocabulary::Vocab-Life	matrimonio	marriage	vocab-life
+Basic	Vocabulary::Vocab-Life	divorcio	divorce	vocab-life
+Basic	Vocabulary::Vocab-Life	familia	family	vocab-relationships
+Basic	Vocabulary::Vocab-Life	dinero	money	vocab-life
+Basic	Vocabulary::Vocab-Life	deuda	debt	vocab-life
+Basic	Vocabulary::Vocab-Life	ahorro	savings	vocab-life
+Basic	Vocabulary::Vocab-Life	presupuesto	budget	vocab-life
+Basic	Vocabulary::Vocab-Life	meta	goal	vocab-life
+Basic	Vocabulary::Vocab-Life	éxito	success	vocab-life
+Basic	Vocabulary::Vocab-Life	fracaso	failure	vocab-life
+Basic	Vocabulary::Vocab-Life	felicidad	happiness	vocab-life
+Basic	Vocabulary::Vocab-Life	tristeza	sadness	vocab-life
+Basic	Vocabulary::Vocab-Life	odio	hate	vocab-life
+Basic	Vocabulary::Vocab-Life	miedo	fear	vocab-life
+Basic	Vocabulary::Vocab-Life	esperanza	hope	vocab-life
+Basic	Vocabulary::Vocab-Life	paz	peace	vocab-life
+Basic	Vocabulary::Vocab-Life	guerra	war	vocab-life
+Basic	Vocabulary::Vocab-Life	libertad	freedom	vocab-life
+Basic	Vocabulary::Vocab-Life	justicia	justice	vocab-life
+Basic	Vocabulary::Vocab-Life	gobierno	government	vocab-life
+Basic	Vocabulary::Vocab-Life	política	politics	vocab-life
+Basic	Vocabulary::Vocab-Life	religión	religion	vocab-life
+Basic	Vocabulary::Vocab-Life	comunidad	community	vocab-relationships
+Basic	Vocabulary::Vocab-Life	tiempo	time	vocab-life
+Basic	Vocabulary::Vocab-Life	pasado	past	vocab-life
+Basic	Vocabulary::Vocab-Life	presente	present	vocab-life
+Basic	Vocabulary::Vocab-Life	futuro	future	vocab-life
+Basic	Vocabulary::Vocab-Life	rutina	routine	vocab-life
+Basic	Vocabulary::Vocab-Life	hábito	habit	vocab-life
+Basic	Vocabulary::Vocab-Life	costumbre	custom / tradition	vocab-life
+Basic	Vocabulary::Vocab-Life	tradición	tradition	vocab-life
+Basic	Vocabulary::Vocab-Life	cultura	culture	vocab-travel
+Basic	Vocabulary::Vocab-Life	música	music	vocab-life
+Basic	Vocabulary::Vocab-Life	arte	art	vocab-life
+Basic	Vocabulary::Vocab-Life	deporte	sport	vocab-life
+Basic	Vocabulary::Vocab-Life	ejercicio	exercise	vocab-life
+Basic	Vocabulary::Vocab-Life	descanso	rest	vocab-life
+Basic	Vocabulary::Vocab-Life	vacaciones	vacation	vocab-life
+Basic	Vocabulary::Vocab-Life	comida	food	vocab-life
+Basic	Vocabulary::Vocab-Life	agua	water	vocab-life
+Basic	Vocabulary::Vocab-Life	sueño (dormir)	sleep	vocab-life
+Basic	Vocabulary::Vocab-Life	energía	energy	vocab-life
+Basic	Vocabulary::Vocab-Life	estrés	stress	vocab-life
+Basic	Vocabulary::Vocab-Life	ansiedad	anxiety	vocab-life
+Basic	Vocabulary::Vocab-Life	alegría	joy	vocab-life
+Basic	Vocabulary::Vocab-Life	gratitud	gratitude	vocab-life
+Basic	Vocabulary::Vocab-Life	paciencia	patience	vocab-life
+Basic	Vocabulary::Vocab-Life	fortaleza	strength	vocab-life
+Basic	Vocabulary::Vocab-Life	debilidad	weakness	vocab-life
+Basic	Vocabulary::Vocab-Life	cambio	change	vocab-life
+Basic	Vocabulary::Vocab-Life	decisión	decision	vocab-life
+Basic	Vocabulary::Vocab-Life	elección	choice	vocab-life
+Basic	Vocabulary::Vocab-Life	responsabilidad	responsibility	vocab-life
+Basic	Vocabulary::Vocab-Life	oportunidad	opportunity	vocab-life
+Basic	Vocabulary::Vocab-Life	desafío	challenge	vocab-life
+Basic	Vocabulary::Vocab-Life	problema	problem	vocab-life
+Basic	Vocabulary::Vocab-Life	solución	solution	vocab-life
+Basic	Vocabulary::Vocab-Life	logro	achievement	vocab-life
+Basic	Vocabulary::Vocab-Life	experiencia	experience	vocab-life
+Basic	Vocabulary::Vocab-Life	recuerdo	souvenir	vocab-travel
+Basic	Vocabulary::Vocab-Life	amistad	friendship	vocab-relationships
+Basic	Vocabulary::Vocab-Life	confianza	trust	vocab-relationships
+Basic	Vocabulary::Vocab-Life	respeto	respect	vocab-relationships
+Basic	Vocabulary::Vocab-Life	honestidad	honesty	vocab-life
+Basic	Vocabulary::Vocab-Life	voluntad	willpower / will	vocab-life
+Basic	Vocabulary::Vocab-Life	propósito	purpose	vocab-life
+Basic	Vocabulary::Vocab-Life	significado	meaning	vocab-life
+Basic	Vocabulary::Vocab-Life	carácter	character	vocab-life
+Basic	Vocabulary::Vocab-Life	valores	values	vocab-life
+Basic	Vocabulary::Vocab-Life	moral	morals / ethics	vocab-life
+Basic	Vocabulary::Vocab-Life	actitud	attitude	vocab-life
+Basic	Vocabulary::Vocab-Life	bienestar	well-being / wellness	vocab-life
+Basic	Vocabulary::Vocab-Life	equilibrio	balance	vocab-life
+Basic	Vocabulary::Vocab-Life	crecimiento	growth	vocab-life
+Basic	Vocabulary::Vocab-Life	perseverancia	perseverance	vocab-life
+Basic	Vocabulary::Vocab-People	hombre	man	vocab-people
+Basic	Vocabulary::Vocab-People	mujer	woman	vocab-people
+Basic	Vocabulary::Vocab-People	niño	boy / child	vocab-people
+Basic	Vocabulary::Vocab-People	niña	girl	vocab-people
+Basic	Vocabulary::Vocab-People	bebé	baby	vocab-people
+Basic	Vocabulary::Vocab-People	persona	person	vocab-people
+Basic	Vocabulary::Vocab-People	adulto	adult (adulta f.)	vocab-people
+Basic	Vocabulary::Vocab-People	joven	young person	vocab-people
+Basic	Vocabulary::Vocab-People	anciano	elderly man	vocab-people
+Basic	Vocabulary::Vocab-People	anciana	elderly woman	vocab-people
+Basic	Vocabulary::Vocab-People	adolescente	teenager	vocab-people
+Basic	Vocabulary::Vocab-People	niñero	babysitter (male)	vocab-people
+Basic	Vocabulary::Vocab-People	niñera	babysitter (female)	vocab-people
+Basic	Vocabulary::Vocab-People	gemelo	identical twin (male)	vocab-relationships
+Basic	Vocabulary::Vocab-People	huérfano	orphan	vocab-relationships
+Basic	Vocabulary::Vocab-People	ciudadano	citizen (ciudadana f.)	vocab-people
+Basic	Vocabulary::Vocab-People	extranjero	foreigner (extranjera f.)	vocab-people
+Basic	Vocabulary::Vocab-People	turista	tourist	vocab-travel
+Basic	Vocabulary::Vocab-People	inmigrante	immigrant	vocab-people
+Basic	Vocabulary::Vocab-People	refugiado	refugee (refugiada f.)	vocab-people
+Basic	Vocabulary::Vocab-People	vecino	neighbor (male)	vocab-relationships
+Basic	Vocabulary::Vocab-People	vecina	neighbor (female)	vocab-relationships
+Basic	Vocabulary::Vocab-People	amigo	friend (male)	vocab-people
+Basic	Vocabulary::Vocab-People	amiga	friend (female)	vocab-people
+Basic	Vocabulary::Vocab-People	conocido	acquaintance (conocida f.)	vocab-people
+Basic	Vocabulary::Vocab-People	compañero	companion (compañera f.)	vocab-people
+Basic	Vocabulary::Vocab-People	líder	leader	vocab-people
+Basic	Vocabulary::Vocab-People	jefe	boss (jefa f.)	vocab-people
+Basic	Vocabulary::Vocab-People	empleado	employee (empleada f.)	vocab-people
+Basic	Vocabulary::Vocab-People	trabajador	worker (trabajadora f.)	vocab-people
+Basic	Vocabulary::Vocab-People	voluntario	volunteer (voluntaria f.)	vocab-people
+Basic	Vocabulary::Vocab-People	estudiante	student	vocab-people
+Basic	Vocabulary::Vocab-People	maestro	teacher (maestra f.)	vocab-people
+Basic	Vocabulary::Vocab-People	profesor	professor (profesora f.)	vocab-people
+Basic	Vocabulary::Vocab-People	doctor	doctor (doctora f.)	vocab-people
+Basic	Vocabulary::Vocab-People	médico	physician (médica f.)	vocab-people
+Basic	Vocabulary::Vocab-People	enfermero	nurse (male)	vocab-people
+Basic	Vocabulary::Vocab-People	enfermera	nurse (female)	vocab-people
+Basic	Vocabulary::Vocab-People	abogado	lawyer (abogada f.)	vocab-people
+Basic	Vocabulary::Vocab-People	ingeniero	engineer (ingeniera f.)	vocab-people
+Basic	Vocabulary::Vocab-People	arquitecto	architect (arquitecta f.)	vocab-people
+Basic	Vocabulary::Vocab-People	piloto	pilot	vocab-people
+Basic	Vocabulary::Vocab-People	cocinero	cook (cocinera f.)	vocab-people
+Basic	Vocabulary::Vocab-People	chef	chef	vocab-people
+Basic	Vocabulary::Vocab-People	vendedor	salesperson (vendedora f.)	vocab-people
+Basic	Vocabulary::Vocab-People	policía	police officer	vocab-people
+Basic	Vocabulary::Vocab-People	bombero	firefighter (bombera f.)	vocab-people
+Basic	Vocabulary::Vocab-People	soldado	soldier	vocab-people
+Basic	Vocabulary::Vocab-People	músico	musician (música f.)	vocab-people
+Basic	Vocabulary::Vocab-People	cantante	singer	vocab-people
+Basic	Vocabulary::Vocab-People	actor	actor	vocab-people
+Basic	Vocabulary::Vocab-People	actriz	actress	vocab-people
+Basic	Vocabulary::Vocab-People	escritor	writer (escritora f.)	vocab-people
+Basic	Vocabulary::Vocab-People	artista	artist	vocab-people
+Basic	Vocabulary::Vocab-People	deportista	athlete	vocab-people
+Basic	Vocabulary::Vocab-People	periodista	journalist	vocab-people
+Basic	Vocabulary::Vocab-People	fotógrafo	photographer (fotógrafa f.)	vocab-people
+Basic	Vocabulary::Vocab-People	diseñador	designer (diseñadora f.)	vocab-people
+Basic	Vocabulary::Vocab-People	programador	programmer (programadora f.)	vocab-people
+Basic	Vocabulary::Vocab-People	científico	scientist (científica f.)	vocab-people
+Basic	Vocabulary::Vocab-People	veterinario	veterinarian (veterinaria f.)	vocab-people
+Basic	Vocabulary::Vocab-People	dentista	dentist	vocab-people
+Basic	Vocabulary::Vocab-People	farmacéutico	pharmacist (farmacéutica f.)	vocab-people
+Basic	Vocabulary::Vocab-People	contador	accountant (contadora f.)	vocab-people
+Basic	Vocabulary::Vocab-People	secretario	secretary (secretaria f.)	vocab-people
+Basic	Vocabulary::Vocab-People	guía	guide	vocab-people
+Basic	Vocabulary::Vocab-People	presidente	president (presidenta f.)	vocab-people
+Basic	Vocabulary::Vocab-People	alcalde	mayor (alcaldesa f.)	vocab-people
+Basic	Vocabulary::Vocab-People	creyente	believer	vocab-people
+Basic	Vocabulary::Vocab-People	cristiano	Christian (cristiana f.)	vocab-people
+Basic	Vocabulary::Vocab-People	pecador	sinner (pecadora f.)	vocab-people
+Basic	Vocabulary::Vocab-People	santo	saint (santa f.)	vocab-people
+Basic	Vocabulary::Vocab-People	reina	queen	vocab-people
+Basic	Vocabulary::Vocab-People	príncipe	prince	vocab-people
+Basic	Vocabulary::Vocab-People	princesa	princess	vocab-people
+Basic	Vocabulary::Vocab-People	héroe	hero (heroína f.)	vocab-people
+Basic	Vocabulary::Vocab-People	villano	villain (villana f.)	vocab-people
+Basic	Vocabulary::Vocab-People	víctima	victim	vocab-people
+Basic	Vocabulary::Vocab-People	sobreviviente	survivor	vocab-people
+Basic	Vocabulary::Vocab-People	mediador	mediator (male)	vocab-relationships
+Basic	Vocabulary::Vocab-People	testigo	witness	vocab-people
+Basic	Vocabulary::Vocab-People	aliado	ally (male)	vocab-relationships
+Basic	Vocabulary::Vocab-People	anfitrión	host (anfitriona f.)	vocab-people
+Basic	Vocabulary::Vocab-People	invitado	guest (invitada f.)	vocab-people
+Basic	Vocabulary::Vocab-People	inquilino	tenant (male)	vocab-relationships
+Basic	Vocabulary::Vocab-People	casero	landlord	vocab-relationships
+Basic	Vocabulary::Vocab-People	socio	business partner (socia f.)	vocab-people
+Basic	Vocabulary::Vocab-People	colega	colleague	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	padre	father	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	madre	mother	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	papá	dad	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	mamá	mom	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	hijo	son	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	hija	daughter	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	hermano	brother	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	hermana	sister	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	esposo	husband	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	esposa	wife	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	abuelo	grandfather	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	abuela	grandmother	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	nieto	grandson	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	nieta	granddaughter	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	bisabuelo	great-grandfather	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	bisabuela	great-grandmother	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	tío	uncle	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	tía	aunt	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	primo	cousin (male)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	prima	cousin (female)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	sobrino	nephew	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	sobrina	niece	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	cuñado	brother-in-law	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	cuñada	sister-in-law	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	suegro	father-in-law	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	suegra	mother-in-law	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	yerno	son-in-law	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	nuera	daughter-in-law	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	padrastro	stepfather	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	madrastra	stepmother	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	hijastro	stepson	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	hijastra	stepdaughter	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	hermanastro	stepbrother	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	hermanastra	stepsister	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	novio	boyfriend	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	novia	girlfriend	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	prometido	fiancé	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	prometida	fiancée	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	pareja	partner / couple	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	pariente	relative	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	familiar	family member	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	mellizo	fraternal twin (male)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	viudo	widower	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	viuda	widow	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	soltero	single (male)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	soltera	single (female)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	divorciado	divorced (male)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	divorciada	divorced (female)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	padrino	godfather	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	madrina	godmother	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	ahijado	godson	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	ahijada	goddaughter	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	lealtad	loyalty	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	cariño	affection	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	apoyo	support	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	compañerismo	fellowship / companionship	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	congregación	congregation	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	hermano en la fe	brother in faith	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	hermana en la fe	sister in faith	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	mentor	mentor (male)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	mentora	mentor (female)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	consejero	counselor (male)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	consejera	counselor (female)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	compañero de trabajo	coworker (male)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	compañera de trabajo	coworker (female)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	cliente	client / customer	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	rival	rival	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	enemigo	enemy (male)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	enemiga	enemy (female)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	desconocido	stranger (male)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	desconocida	stranger (female)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	árbitro	referee / arbitrator	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	mediadora	mediator (female)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	protector	protector (male)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	protectora	protector (female)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	cuidador	caregiver (male)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	cuidadora	caregiver (female)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	compañero de cuarto	roommate (male)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	compañera de cuarto	roommate (female)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	inquilina	tenant (female)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	casera	landlady	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	compatriota	fellow countryman	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	aliada	ally (female)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	seguidor	follower (male)	vocab-relationships
+Basic	Vocabulary::Vocab-Relationships	seguidora	follower (female)	vocab-relationships
+Basic	Vocabulary::Vocab-Travel	viaje	trip / journey	vocab-travel
+Basic	Vocabulary::Vocab-Travel	pasaporte	passport	vocab-travel
+Basic	Vocabulary::Vocab-Travel	visa	visa	vocab-travel
+Basic	Vocabulary::Vocab-Travel	vuelo	flight	vocab-travel
+Basic	Vocabulary::Vocab-Travel	avión	airplane	vocab-travel
+Basic	Vocabulary::Vocab-Travel	aeropuerto	airport	vocab-travel
+Basic	Vocabulary::Vocab-Travel	boleto	ticket	vocab-travel
+Basic	Vocabulary::Vocab-Travel	equipaje	luggage	vocab-travel
+Basic	Vocabulary::Vocab-Travel	maleta	suitcase	vocab-travel
+Basic	Vocabulary::Vocab-Travel	mochila	backpack	vocab-travel
+Basic	Vocabulary::Vocab-Travel	hotel	hotel	vocab-travel
+Basic	Vocabulary::Vocab-Travel	reservación	reservation	vocab-travel
+Basic	Vocabulary::Vocab-Travel	recepción	front desk / reception	vocab-travel
+Basic	Vocabulary::Vocab-Travel	llave de cuarto	room key	vocab-travel
+Basic	Vocabulary::Vocab-Travel	turismo	tourism	vocab-travel
+Basic	Vocabulary::Vocab-Travel	guía turístico	tour guide	vocab-travel
+Basic	Vocabulary::Vocab-Travel	mapa	map	vocab-travel
+Basic	Vocabulary::Vocab-Travel	itinerario	itinerary	vocab-travel
+Basic	Vocabulary::Vocab-Travel	excursión	excursion / tour	vocab-travel
+Basic	Vocabulary::Vocab-Travel	playa	beach	vocab-travel
+Basic	Vocabulary::Vocab-Travel	ciudad	city	vocab-travel
+Basic	Vocabulary::Vocab-Travel	pueblo	town / village	vocab-travel
+Basic	Vocabulary::Vocab-Travel	museo	museum	vocab-travel
+Basic	Vocabulary::Vocab-Travel	catedral	cathedral	vocab-travel
+Basic	Vocabulary::Vocab-Travel	parque	park	vocab-travel
+Basic	Vocabulary::Vocab-Travel	mercado	market	vocab-travel
+Basic	Vocabulary::Vocab-Travel	restaurante	restaurant	vocab-travel
+Basic	Vocabulary::Vocab-Travel	café	café / coffee shop	vocab-travel
+Basic	Vocabulary::Vocab-Travel	tienda	store / shop	vocab-travel
+Basic	Vocabulary::Vocab-Travel	farmacia	pharmacy	vocab-travel
+Basic	Vocabulary::Vocab-Travel	hospital	hospital	vocab-travel
+Basic	Vocabulary::Vocab-Travel	embajada	embassy	vocab-travel
+Basic	Vocabulary::Vocab-Travel	consulado	consulate	vocab-travel
+Basic	Vocabulary::Vocab-Travel	cambio de moneda	currency exchange	vocab-travel
+Basic	Vocabulary::Vocab-Travel	cajero automático	ATM	vocab-travel
+Basic	Vocabulary::Vocab-Travel	tarjeta de crédito	credit card	vocab-travel
+Basic	Vocabulary::Vocab-Travel	efectivo	cash	vocab-travel
+Basic	Vocabulary::Vocab-Travel	propina	tip	vocab-travel
+Basic	Vocabulary::Vocab-Travel	recibo	receipt	vocab-travel
+Basic	Vocabulary::Vocab-Travel	taxi	taxi	vocab-travel
+Basic	Vocabulary::Vocab-Travel	metro	subway / metro	vocab-travel
+Basic	Vocabulary::Vocab-Travel	tren	train	vocab-travel
+Basic	Vocabulary::Vocab-Travel	estación de tren	train station	vocab-travel
+Basic	Vocabulary::Vocab-Travel	puerto	port	vocab-travel
+Basic	Vocabulary::Vocab-Travel	barco	boat / ship	vocab-travel
+Basic	Vocabulary::Vocab-Travel	crucero	cruise ship	vocab-travel
+Basic	Vocabulary::Vocab-Travel	carro rentado	rental car	vocab-travel
+Basic	Vocabulary::Vocab-Travel	agencia de viajes	travel agency	vocab-travel
+Basic	Vocabulary::Vocab-Travel	seguro de viaje	travel insurance	vocab-travel
+Basic	Vocabulary::Vocab-Travel	aduana	customs	vocab-travel
+Basic	Vocabulary::Vocab-Travel	frontera	border	vocab-travel
+Basic	Vocabulary::Vocab-Travel	inmigración	immigration	vocab-travel
+Basic	Vocabulary::Vocab-Travel	aventura	adventure	vocab-travel
+Basic	Vocabulary::Vocab-Travel	relajación	relaxation	vocab-travel
+Basic	Vocabulary::Vocab-Travel	idioma	language	vocab-travel
+Basic	Vocabulary::Vocab-Travel	traducción	translation	vocab-travel
+Basic	Vocabulary::Vocab-Travel	fotografía	photograph	vocab-travel
+Basic	Vocabulary::Vocab-Travel	postal	postcard	vocab-travel
+Basic	Vocabulary::Vocab-Travel	dirección	address / directions	vocab-travel
+Basic	Vocabulary::Vocab-Travel	norte	north	vocab-travel
+Basic	Vocabulary::Vocab-Travel	sur	south	vocab-travel
+Basic	Vocabulary::Vocab-Travel	este	east	vocab-travel
+Basic	Vocabulary::Vocab-Travel	oeste	west	vocab-travel
+Basic	Vocabulary::Vocab-Travel	a la derecha	to the right	vocab-travel
+Basic	Vocabulary::Vocab-Travel	a la izquierda	to the left	vocab-travel
+Basic	Vocabulary::Vocab-Travel	recto	straight ahead	vocab-travel
+Basic	Vocabulary::Vocab-Travel	cruce	intersection	vocab-travel
+Basic	Vocabulary::Vocab-Travel	señal	sign	vocab-travel
+Basic	Vocabulary::Vocab-Travel	bienvenida	welcome	vocab-travel
+Basic	Vocabulary::Vocab-Travel	despedida	farewell	vocab-travel
+Basic	Vocabulary::Vocab-Travel	llegada	arrival	vocab-travel
+Basic	Vocabulary::Vocab-Travel	salida	departure	vocab-travel
+Basic	Vocabulary::Vocab-Travel	horario	schedule	vocab-travel
+Basic	Vocabulary::Vocab-Travel	retraso	delay	vocab-travel
+Basic	Vocabulary::Vocab-Travel	cancelación	cancellation	vocab-travel
+Basic	Vocabulary::Vocab-Travel	escala	layover / stopover	vocab-travel
+Basic	Vocabulary::Vocab-Travel	ida y vuelta	round trip	vocab-travel
+Basic	Vocabulary::Vocab-Travel	solo de ida	one way	vocab-travel
+Basic	Vocabulary::Vocab-Travel	temporada alta	high season	vocab-travel
+Basic	Vocabulary::Vocab-Travel	temporada baja	low season	vocab-travel
+Basic	Vocabulary::Vocab-Travel	clima	weather	vocab-travel
+Basic	Vocabulary::Vocab-Travel	temperatura	temperature	vocab-travel
+Basic	Vocabulary::Vocab-Travel	lluvia	rain	vocab-travel
+Basic	Vocabulary::Vocab-Travel	sol	sun	vocab-travel
+Basic	Vocabulary::Vocab-Travel	albergue	hostel	vocab-travel
+Basic	Vocabulary::Vocab-Travel	cabaña	cabin	vocab-travel
+Basic	Vocabulary::Vocab-Travel	campamento	campsite	vocab-travel
+Basic	Vocabulary::Vocab-Travel	tienda de campaña	tent	vocab-travel
+Basic	Vocabulary::Vocab-Travel	naturaleza	nature	vocab-travel
+Basic	Vocabulary::Vocab-Travel	selva	jungle / rainforest	vocab-travel
+Basic	Vocabulary::Vocab-Travel	zona arqueológica	archaeological site	vocab-travel
+Basic	Vocabulary::Vocab-Travel	volcán	volcano	vocab-travel
+Basic	Vocabulary::Vocab-Travel	lago	lake	vocab-travel
+Basic	Daily Use Phrases	I will be back.	Ya vuelvo.	DailyUse
+Basic	Daily Use Phrases	I don't know.	No sé.	DailyUse
+Basic	Daily Use Phrases	I will let the dog out.	Sacaré al perro.	DailyUse
+Basic	Daily Use Phrases	I will let the dog in.	Dejaré entrar al perro.	DailyUse
+Basic	Daily Use Phrases	Let the dog in.	Deja entrar al perro.	DailyUse
+Basic	Daily Use Phrases	Let the dog out.	Deja salir al perro.	DailyUse
+Basic	Daily Use Phrases	Take out the trash.	Saca la basura.	DailyUse
+Basic	Daily Use Phrases	Take out the recycling.	Saca el reciclaje.	DailyUse
+Basic	Daily Use Phrases	Did you sleep well?	¿Dormiste bien?	DailyUse
+Basic	Daily Use Phrases	Turn on the light.	Encender la luz.	DailyUse
+Basic	Daily Use Phrases	Turn off the light.	Apagar la luz.	DailyUse
+Basic	Daily Use Phrases	Open the door.	Abrir la puerta.	DailyUse
+Basic	Daily Use Phrases	Close the door.	Cierre la puerta.	DailyUse
+Basic	Daily Use Phrases	Flush the toilet.	Tira de la cadena del inodoro.	DailyUse
+Basic	Daily Use Phrases	Pick up your clothes.	Recoge tu ropa.	DailyUse
+Basic	Daily Use Phrases	Turn on the fan.	Enciende el ventilador.	DailyUse
+Basic	Daily Use Phrases	Turn off the fan.	Apaga el ventilador.	DailyUse
+Basic	Phrases - Around the house	I open the door.	Abro la puerta.
+Basic	Phrases - Around the house	I close the door.	Cierro la puerta.
+Basic	Phrases - Around the house	I turn on the light.	Enciendo la luz.
+Basic	Phrases - Around the house	I turn off the light.	Apago la luz.
+Basic	Phrases - Around the house	I sit on the sofa.	Me siento en el sofá.
+Basic	Phrases - Around the house	I stand up.	Me levanto.
+Basic	Phrases - Around the house	I walk to the kitchen.	Camino a la cocina.
+Basic	Phrases - Around the house	I drink water.	Bebo agua.
+Basic	Phrases - Around the house	I eat breakfast.	Desayuno.
+Basic	Phrases - Around the house	I eat lunch.	Almuerzo.
+Basic	Phrases - Around the house	I eat dinner.	Ceno.
+Basic	Phrases - Around the house	I wash the dishes.	Lavo los platos.
+Basic	Phrases - Around the house	I cook food.	Cocino.
+Basic	Phrases - Around the house	I open the fridge.	Abro el refrigerador.
+Basic	Phrases - Around the house	I close the fridge.	Cierro el refrigerador.
+Basic	Phrases - Around the house	I make coffee.	Hago café.
+Basic	Phrases - Around the house	I brush my teeth.	Me cepillo los dientes.
+Basic	Phrases - Around the house	I wash my face.	Me lavo la cara.
+Basic	Phrases - Around the house	I take a shower.	Me ducho.
+Basic	Phrases - Around the house	I dry my hands.	Me seco las manos.
+Basic	Phrases - Around the house	I make the bed.	Hago la cama.
+Basic	Phrases - Around the house	I fold the clothes.	Doblo la ropa.
+Basic	Phrases - Around the house	I open the window.	Abro la ventana.
+Basic	Phrases - Around the house	I close the window.	Cierro la ventana.
+Basic	Phrases - Around the house	I water the plants.	Riego las plantas.
+Basic	Phrases - Around the house	I read a book.	Leo un libro.
+Basic	Phrases - Around the house	I watch TV.	Veo la televisión.
+Basic	Phrases - Around the house	I charge my phone.	Cargo mi teléfono.
+Basic	Phrases - Around the house	I clean the table.	Limpio la mesa.
+Basic	Phrases - Around the house	I sweep the floor.	Barro el suelo.
+Basic	Phrases - Around the house	I vacuum the carpet.	Aspiro la alfombra.
+Basic	Phrases - Around the house	I throw out the trash.	Saco la basura.
+Basic	Phrases - Around the house	I go to the bathroom.	Voy al baño.
+Basic	Phrases - Around the house	I wash my hands.	Me lavo las manos.
+Basic	Phrases - Around the house	I turn on the faucet.	Abro el grifo.
+Basic	Phrases - Around the house	I turn off the faucet.	Cierro el grifo.
+Basic	Phrases - Around the house	I hang the towel.	Cuelgo la toalla.
+Basic	Phrases - Around the house	I put on my shoes.	Me pongo los zapatos.
+Basic	Phrases - Around the house	I take off my shoes.	Me quito los zapatos.
+Basic	Phrases - Around the house	"I&#x27;m going to sleep."	Me voy a dormir.
+Basic	Phrases - Around the house	I wake up.	Me despierto.

@@ -1,0 +1,164 @@
+{
+  "groups": [
+    {
+      "name": "100 Most Common Words - Articles",
+      "entries": [
+        { "spanish": "el",  "english": "the (masc.)" },
+        { "spanish": "la",  "english": "the (fem.)" },
+        { "spanish": "los", "english": "the (masc. pl.)" },
+        { "spanish": "las", "english": "the (fem. pl.)" },
+        { "spanish": "un",  "english": "a, an (masc.)" },
+        { "spanish": "una", "english": "a, an (fem.)" }
+      ]
+    },
+    {
+      "name": "100 Most Common Words - Contractions",
+      "entries": [
+        { "spanish": "del", "english": "of the (de + el)" },
+        { "spanish": "al",  "english": "to the (a + el)" }
+      ]
+    },
+    {
+      "name": "100 Most Common Words - Prepositions",
+      "entries": [
+        { "spanish": "de",    "english": "of, from" },
+        { "spanish": "a",     "english": "to, at" },
+        { "spanish": "en",    "english": "in, on, at" },
+        { "spanish": "por",   "english": "for, by, through" },
+        { "spanish": "con",   "english": "with" },
+        { "spanish": "para",  "english": "for, in order to" },
+        { "spanish": "sobre", "english": "on, about, over" },
+        { "spanish": "sin",   "english": "without" },
+        { "spanish": "entre", "english": "between" },
+        { "spanish": "desde", "english": "from, since" },
+        { "spanish": "hasta", "english": "until, up to" }
+      ]
+    },
+    {
+      "name": "100 Most Common Words - Conjunctions",
+      "entries": [
+        { "spanish": "que",    "english": "that, which" },
+        { "spanish": "y",      "english": "and" },
+        { "spanish": "o",      "english": "or" },
+        { "spanish": "pero",   "english": "but" },
+        { "spanish": "si",     "english": "if" },
+        { "spanish": "porque", "english": "because" },
+        { "spanish": "como",   "english": "like, as, how" },
+        { "spanish": "cuando", "english": "when" },
+        { "spanish": "ni",     "english": "nor, neither" }
+      ]
+    },
+    {
+      "name": "100 Most Common Words - Personal Pronouns",
+      "entries": [
+        { "spanish": "yo",       "english": "I" },
+        { "spanish": "tú",       "english": "you (informal)" },
+        { "spanish": "él",       "english": "he" },
+        { "spanish": "ella",     "english": "she" },
+        { "spanish": "nosotros", "english": "we" },
+        { "spanish": "ellos",    "english": "they (masc.)" },
+        { "spanish": "ellas",    "english": "they (fem.)" }
+      ]
+    },
+    {
+      "name": "100 Most Common Words - Object Pronouns",
+      "entries": [
+        { "spanish": "me",  "english": "me" },
+        { "spanish": "te",  "english": "you (informal, obj.)" },
+        { "spanish": "se",  "english": "himself/herself/itself/each other" },
+        { "spanish": "le",  "english": "to him/her" },
+        { "spanish": "lo",  "english": "him/it (direct obj.)" },
+        { "spanish": "nos", "english": "us" }
+      ]
+    },
+    {
+      "name": "100 Most Common Words - Possessives",
+      "entries": [
+        { "spanish": "mi",      "english": "my" },
+        { "spanish": "tu",      "english": "your (informal)" },
+        { "spanish": "su",      "english": "his/her/their/your (formal)" },
+        { "spanish": "nuestro", "english": "our" }
+      ]
+    },
+    {
+      "name": "100 Most Common Words - Demonstratives",
+      "entries": [
+        { "spanish": "este", "english": "this (masc.)" },
+        { "spanish": "esta", "english": "this (fem.)" },
+        { "spanish": "ese",  "english": "that (masc.)" },
+        { "spanish": "esa",  "english": "that (fem.)" }
+      ]
+    },
+    {
+      "name": "100 Most Common Words - Verbs",
+      "entries": [
+        { "spanish": "ser",    "english": "to be (permanent)" },
+        { "spanish": "estar",  "english": "to be (temporary/location)" },
+        { "spanish": "haber",  "english": "to have (auxiliary)" },
+        { "spanish": "tener",  "english": "to have" },
+        { "spanish": "hacer",  "english": "to do, to make" },
+        { "spanish": "ir",     "english": "to go" },
+        { "spanish": "poder",  "english": "to be able to, can" },
+        { "spanish": "decir",  "english": "to say" },
+        { "spanish": "ver",    "english": "to see" },
+        { "spanish": "dar",    "english": "to give" },
+        { "spanish": "saber",  "english": "to know" },
+        { "spanish": "querer", "english": "to want, to love" },
+        { "spanish": "llegar", "english": "to arrive" },
+        { "spanish": "pasar",  "english": "to pass, to spend (time)" },
+        { "spanish": "deber",  "english": "should, must" },
+        { "spanish": "poner",  "english": "to put" },
+        { "spanish": "venir",  "english": "to come" },
+        { "spanish": "llevar", "english": "to carry, to wear" },
+        { "spanish": "creer",  "english": "to believe" },
+        { "spanish": "hablar", "english": "to speak" }
+      ]
+    },
+    {
+      "name": "100 Most Common Words - Adverbs",
+      "entries": [
+        { "spanish": "no",      "english": "no, not" },
+        { "spanish": "sí",      "english": "yes" },
+        { "spanish": "ya",      "english": "already, now" },
+        { "spanish": "muy",     "english": "very" },
+        { "spanish": "más",     "english": "more" },
+        { "spanish": "bien",    "english": "well" },
+        { "spanish": "también", "english": "also, too" },
+        { "spanish": "así",     "english": "so, like this" },
+        { "spanish": "entonces","english": "then, so" },
+        { "spanish": "ahora",   "english": "now" },
+        { "spanish": "solo",    "english": "only, alone" },
+        { "spanish": "aquí",    "english": "here" },
+        { "spanish": "nunca",   "english": "never" },
+        { "spanish": "siempre", "english": "always" },
+        { "spanish": "menos",   "english": "less" }
+      ]
+    },
+    {
+      "name": "100 Most Common Words - Adjectives",
+      "entries": [
+        { "spanish": "todo",    "english": "all, every" },
+        { "spanish": "otro",    "english": "other" },
+        { "spanish": "grande",  "english": "big, large" },
+        { "spanish": "bueno",   "english": "good" },
+        { "spanish": "mucho",   "english": "much, many" },
+        { "spanish": "mismo",   "english": "same" },
+        { "spanish": "primero", "english": "first" },
+        { "spanish": "nuevo",   "english": "new" },
+        { "spanish": "poco",    "english": "little, few" }
+      ]
+    },
+    {
+      "name": "100 Most Common Words - Common Nouns",
+      "entries": [
+        { "spanish": "año",    "english": "year" },
+        { "spanish": "día",    "english": "day" },
+        { "spanish": "tiempo", "english": "time, weather" },
+        { "spanish": "cosa",   "english": "thing" },
+        { "spanish": "vida",   "english": "life" },
+        { "spanish": "mundo",  "english": "world" },
+        { "spanish": "vez",    "english": "time (instance)" }
+      ]
+    }
+  ]
+}

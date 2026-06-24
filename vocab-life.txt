@@ -1,0 +1,105 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Vocab-Life
+#tags column:3
+vida	life	vocab-life
+muerte	death	vocab-life
+nacimiento	birth	vocab-life
+infancia	childhood	vocab-life
+adolescencia	adolescence	vocab-life
+juventud	youth	vocab-life
+adultez	adulthood	vocab-life
+vejez	old age	vocab-life
+salud	health	vocab-life
+enfermedad	illness / disease	vocab-life
+medicina	medicine	vocab-life
+cita médica	doctor's appointment	vocab-life
+trabajo	work / job	vocab-life
+carrera	career	vocab-life
+educación	education	vocab-life
+escuela	school	vocab-life
+universidad	university	vocab-life
+graduación	graduation	vocab-life
+matrimonio	marriage	vocab-life
+divorcio	divorce	vocab-life
+familia	family	vocab-life
+hogar	home	vocab-life
+dinero	money	vocab-life
+deuda	debt	vocab-life
+ahorro	savings	vocab-life
+presupuesto	budget	vocab-life
+sueño	dream	vocab-life
+meta	goal	vocab-life
+éxito	success	vocab-life
+fracaso	failure	vocab-life
+felicidad	happiness	vocab-life
+tristeza	sadness	vocab-life
+amor	love	vocab-life
+odio	hate	vocab-life
+miedo	fear	vocab-life
+esperanza	hope	vocab-life
+paz	peace	vocab-life
+guerra	war	vocab-life
+libertad	freedom	vocab-life
+justicia	justice	vocab-life
+ley	law	vocab-life
+gobierno	government	vocab-life
+política	politics	vocab-life
+religión	religion	vocab-life
+fe	faith	vocab-life
+oración	prayer	vocab-life
+comunidad	community	vocab-life
+tiempo	time	vocab-life
+pasado	past	vocab-life
+presente	present	vocab-life
+futuro	future	vocab-life
+rutina	routine	vocab-life
+hábito	habit	vocab-life
+costumbre	custom / tradition	vocab-life
+tradición	tradition	vocab-life
+cultura	culture	vocab-life
+música	music	vocab-life
+arte	art	vocab-life
+deporte	sport	vocab-life
+ejercicio	exercise	vocab-life
+descanso	rest	vocab-life
+vacaciones	vacation	vocab-life
+comida	food	vocab-life
+agua	water	vocab-life
+sueño (dormir)	sleep	vocab-life
+energía	energy	vocab-life
+estrés	stress	vocab-life
+ansiedad	anxiety	vocab-life
+alegría	joy	vocab-life
+gratitud	gratitude	vocab-life
+perdón	forgiveness	vocab-life
+paciencia	patience	vocab-life
+fortaleza	strength	vocab-life
+debilidad	weakness	vocab-life
+cambio	change	vocab-life
+decisión	decision	vocab-life
+elección	choice	vocab-life
+responsabilidad	responsibility	vocab-life
+oportunidad	opportunity	vocab-life
+desafío	challenge	vocab-life
+problema	problem	vocab-life
+solución	solution	vocab-life
+logro	achievement	vocab-life
+experiencia	experience	vocab-life
+recuerdo	memory	vocab-life
+amistad	friendship	vocab-life
+confianza	trust	vocab-life
+respeto	respect	vocab-life
+honestidad	honesty	vocab-life
+voluntad	willpower / will	vocab-life
+propósito	purpose	vocab-life
+significado	meaning	vocab-life
+carácter	character	vocab-life
+valores	values	vocab-life
+moral	morals / ethics	vocab-life
+actitud	attitude	vocab-life
+bienestar	well-being / wellness	vocab-life
+equilibrio	balance	vocab-life
+crecimiento	growth	vocab-life
+perseverancia	perseverance	vocab-life

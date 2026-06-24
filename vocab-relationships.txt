@@ -1,0 +1,105 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Vocab-Relationships
+#tags column:3
+familia	family	vocab-relationships
+padre	father	vocab-relationships
+madre	mother	vocab-relationships
+papá	dad	vocab-relationships
+mamá	mom	vocab-relationships
+hijo	son	vocab-relationships
+hija	daughter	vocab-relationships
+hermano	brother	vocab-relationships
+hermana	sister	vocab-relationships
+esposo	husband	vocab-relationships
+esposa	wife	vocab-relationships
+abuelo	grandfather	vocab-relationships
+abuela	grandmother	vocab-relationships
+nieto	grandson	vocab-relationships
+nieta	granddaughter	vocab-relationships
+bisabuelo	great-grandfather	vocab-relationships
+bisabuela	great-grandmother	vocab-relationships
+tío	uncle	vocab-relationships
+tía	aunt	vocab-relationships
+primo	cousin (male)	vocab-relationships
+prima	cousin (female)	vocab-relationships
+sobrino	nephew	vocab-relationships
+sobrina	niece	vocab-relationships
+cuñado	brother-in-law	vocab-relationships
+cuñada	sister-in-law	vocab-relationships
+suegro	father-in-law	vocab-relationships
+suegra	mother-in-law	vocab-relationships
+yerno	son-in-law	vocab-relationships
+nuera	daughter-in-law	vocab-relationships
+padrastro	stepfather	vocab-relationships
+madrastra	stepmother	vocab-relationships
+hijastro	stepson	vocab-relationships
+hijastra	stepdaughter	vocab-relationships
+hermanastro	stepbrother	vocab-relationships
+hermanastra	stepsister	vocab-relationships
+novio	boyfriend	vocab-relationships
+novia	girlfriend	vocab-relationships
+prometido	fiancé	vocab-relationships
+prometida	fiancée	vocab-relationships
+pareja	partner / couple	vocab-relationships
+pariente	relative	vocab-relationships
+familiar	family member	vocab-relationships
+gemelo	identical twin (male)	vocab-relationships
+mellizo	fraternal twin (male)	vocab-relationships
+huérfano	orphan	vocab-relationships
+viudo	widower	vocab-relationships
+viuda	widow	vocab-relationships
+soltero	single (male)	vocab-relationships
+soltera	single (female)	vocab-relationships
+divorciado	divorced (male)	vocab-relationships
+divorciada	divorced (female)	vocab-relationships
+padrino	godfather	vocab-relationships
+madrina	godmother	vocab-relationships
+ahijado	godson	vocab-relationships
+ahijada	goddaughter	vocab-relationships
+amor	love	vocab-relationships
+amistad	friendship	vocab-relationships
+confianza	trust	vocab-relationships
+lealtad	loyalty	vocab-relationships
+respeto	respect	vocab-relationships
+cariño	affection	vocab-relationships
+apoyo	support	vocab-relationships
+compañerismo	fellowship / companionship	vocab-relationships
+comunidad	community	vocab-relationships
+congregación	congregation	vocab-relationships
+hermano en la fe	brother in faith	vocab-relationships
+hermana en la fe	sister in faith	vocab-relationships
+mentor	mentor (male)	vocab-relationships
+mentora	mentor (female)	vocab-relationships
+consejero	counselor (male)	vocab-relationships
+consejera	counselor (female)	vocab-relationships
+compañero de trabajo	coworker (male)	vocab-relationships
+compañera de trabajo	coworker (female)	vocab-relationships
+colega	colleague	vocab-relationships
+cliente	client / customer	vocab-relationships
+rival	rival	vocab-relationships
+enemigo	enemy (male)	vocab-relationships
+enemiga	enemy (female)	vocab-relationships
+desconocido	stranger (male)	vocab-relationships
+desconocida	stranger (female)	vocab-relationships
+árbitro	referee / arbitrator	vocab-relationships
+mediador	mediator (male)	vocab-relationships
+mediadora	mediator (female)	vocab-relationships
+protector	protector (male)	vocab-relationships
+protectora	protector (female)	vocab-relationships
+cuidador	caregiver (male)	vocab-relationships
+cuidadora	caregiver (female)	vocab-relationships
+compañero de cuarto	roommate (male)	vocab-relationships
+compañera de cuarto	roommate (female)	vocab-relationships
+inquilino	tenant (male)	vocab-relationships
+inquilina	tenant (female)	vocab-relationships
+casero	landlord	vocab-relationships
+casera	landlady	vocab-relationships
+compatriota	fellow countryman	vocab-relationships
+aliado	ally (male)	vocab-relationships
+aliada	ally (female)	vocab-relationships
+seguidor	follower (male)	vocab-relationships
+seguidora	follower (female)	vocab-relationships
+vecino	neighbor (male)	vocab-relationships
+vecina	neighbor (female)	vocab-relationships

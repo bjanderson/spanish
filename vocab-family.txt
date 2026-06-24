@@ -1,0 +1,106 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Vocab-Family
+#tags column:3
+la familia	family
+el padre	father
+la madre	mother
+el hijo	son
+la hija	daughter
+el hermano	brother
+la hermana	sister
+el abuelo	grandfather
+la abuela	grandmother
+el nieto	grandson
+la nieta	granddaughter
+el bisabuelo	great-grandfather
+la bisabuela	great-grandmother
+el tío	uncle
+la tía	aunt
+el primo	cousin (male)
+la prima	cousin (female)
+el sobrino	nephew
+la sobrina	niece
+el esposo	husband
+la esposa	wife
+el novio	boyfriend / fiancé
+la novia	girlfriend / fiancée
+el suegro	father-in-law
+la suegra	mother-in-law
+el cuñado	brother-in-law
+la cuñada	sister-in-law
+el yerno	son-in-law
+la nuera	daughter-in-law
+el padrastro	stepfather
+la madrastra	stepmother
+el hijastro	stepson
+la hijastra	stepdaughter
+el hermanastro	stepbrother
+la hermanastra	stepsister
+el medio hermano	half-brother
+la media hermana	half-sister
+el gemelo	twin (male)
+la gemela	twin (female)
+el padrino	godfather
+la madrina	godmother
+el ahijado	godson
+la ahijada	goddaughter
+el pariente	relative
+el familiar	family member
+el antepasado	ancestor
+los padres	parents
+los hijos	children
+los hermanos	siblings
+los abuelos	grandparents
+el bebé	baby
+el recién nacido	newborn
+el niño pequeño	toddler
+el niño	child / boy
+la niña	girl / child
+el adolescente	teenager
+el adulto	adult
+el anciano	elderly man
+la anciana	elderly woman
+la boda	wedding
+el matrimonio	marriage
+el divorcio	divorce
+el bautismo	baptism
+la quinceañera	quinceañera
+el cumpleaños	birthday
+el aniversario	anniversary
+la reunión familiar	family gathering
+la cena familiar	family dinner
+el árbol genealógico	family tree
+el apellido	last name / surname
+la herencia	heritage / inheritance
+el hogar	home
+el amor	love
+el cariño	affection
+el abrazo	hug
+el beso	kiss
+el apoyo	support
+la confianza	trust
+el respeto	respect
+la responsabilidad	responsibility
+la crianza	upbringing / parenting
+los valores	values
+las tradiciones	traditions
+la fe	faith
+la oración	prayer
+la bendición	blessing
+la iglesia	church
+la comunidad	community
+el vecino	neighbor
+la vida familiar	family life
+el tiempo en familia	family time
+la unidad familiar	family unit
+la genealogía	genealogy
+el apellido materno	maternal last name
+el apellido paterno	paternal last name
+el heredero	heir
+la guardería	daycare
+la niñera	babysitter
+el orfanato	orphanage
+la adopción	adoption
+el huérfano	orphan

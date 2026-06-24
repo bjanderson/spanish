@@ -1,0 +1,116 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Vocab-Food
+#tags column:3
+el desayuno	breakfast
+el almuerzo	lunch
+la cena	dinner
+la merienda	snack
+el antojito	appetizer / snack
+el platillo	dish / plate
+la receta	recipe
+el ingrediente	ingredient
+el sabor	flavor / taste
+el olor	smell / aroma
+el arroz	rice
+los frijoles	beans
+el maíz	corn
+el pan	bread
+la tortilla	tortilla
+la carne	meat
+el pollo	chicken
+el pescado	fish
+el cerdo	pork
+la res	beef
+el camarón	shrimp
+el huevo	egg
+la leche	milk
+el queso	cheese
+la mantequilla	butter
+la crema	sour cream / cream
+el aceite	oil
+la sal	salt
+el azúcar	sugar
+la pimienta	pepper
+el ajo	garlic
+la cebolla	onion
+el jitomate	tomato
+la papa	potato
+la zanahoria	carrot
+el brócoli	broccoli
+la lechuga	lettuce
+el aguacate	avocado
+el limón	lime / lemon
+la naranja	orange
+el mango	mango
+la piña	pineapple
+la fresa	strawberry
+el plátano	banana
+la uva	grape
+la manzana	apple
+la sandía	watermelon
+el melón	melon
+el pepino	cucumber
+el chile	chili pepper
+el jalapeño	jalapeño
+el chipotle	chipotle
+el cilantro	cilantro
+el comino	cumin
+el orégano	oregano
+la canela	cinnamon
+la vainilla	vanilla
+la sopa	soup
+el caldo	broth
+la ensalada	salad
+el taco	taco
+la quesadilla	quesadilla
+el tamal	tamale
+la enchilada	enchilada
+el burrito	burrito
+el ceviche	ceviche
+la empanada	empanada
+el pozole	pozole
+el mole	mole sauce
+la salsa	salsa / sauce
+el guacamole	guacamole
+los elotes	corn on the cob
+el camote	sweet potato
+la calabaza	squash / pumpkin
+la yuca	cassava / yuca
+la jícama	jicama
+el nopal	cactus paddle
+el tomatillo	tomatillo
+el agua	water
+el jugo	juice
+el refresco	soda / soft drink
+el café	coffee
+el té	tea
+la horchata	horchata (rice drink)
+el licuado	smoothie / blended drink
+el helado	ice cream
+el pastel	cake
+la galleta	cookie
+el pan dulce	sweet bread
+el churro	churro
+el chocolate	chocolate
+el postre	dessert
+el buffet	buffet
+el menú	menu
+la cuenta	the bill / check
+la propina	tip
+la orden	order
+el mesero	waiter
+la cocina	kitchen
+el horno	oven
+la estufa	stove
+el refrigerador	refrigerator
+la olla	pot
+la sartén	frying pan
+el cuchillo	knife
+el tenedor	fork
+la cuchara	spoon
+el plato	plate
+el vaso	glass
+la taza	cup / mug
+la servilleta	napkin

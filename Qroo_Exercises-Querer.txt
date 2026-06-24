@@ -1,0 +1,30 @@
+#separator:Tab
+#html:false
+#notetype:Basic
+#deck:Qroo_Exercises-Querer
+#columns:Front	Back	Tags
+I want to eat.	Quiero comer.	Qroo Exercises - Querer
+Can you confirm the reservation?	¿Puedes confirmar la reserva/ la reservación?	Qroo Exercises - Querer
+Do you want to study with me?	¿Quieres estudiar conmigo?	Qroo Exercises - Querer
+I can work tomorrow.	Puedo trabajar mañana.	Qroo Exercises - Querer
+Can I make a reservation?	¿Puedo hacer una reservación/ una reserva?	Qroo Exercises - Querer
+I want to work on Monday.	Quiero trabajar el lunes.	Qroo Exercises - Querer
+Can you help me with the project?	¿Puedes ayudarme con el proyecto? / ¿Me puedes ayudar con el proyecto?	Qroo Exercises - Querer
+I can study Spanish with you tomorrow.	Puedo estudiar español contigo mañana.	Qroo Exercises - Querer
+Do you want to collaborate with me?	¿Quieres colaborar conmigo?	Qroo Exercises - Querer
+I want to speak with you.	Quiero hablar contigo.	Qroo Exercises - Querer
+Can you work on Saturday?	¿Puedes trabajar el sábado?	Qroo Exercises - Querer
+I can verify the information.	Puedo verificar la información.	Qroo Exercises - Querer
+Do you want to work tomorrow?	¿Quieres trabajar mañana?	Qroo Exercises - Querer
+I want to confirm the information.	Quiero confirmar la información.	Qroo Exercises - Querer
+Can you study Spanish with me today?	¿Puedes estudiar español conmigo hoy?	Qroo Exercises - Querer
+Can you help me study on Thursday?	¿Puedes ayudarme a estudiar el jueves? / ¿Me puedes ayudar a estudiar el jueves?	Qroo Exercises - Querer
+Can I speak with you?	¿Puedo hablar contigo?	Qroo Exercises - Querer
+I can make a reservation.	Puedo hacer una reserva /reservación.	Qroo Exercises - Querer
+Do you want to eat now?	¿Quieres comer ahora?	Qroo Exercises - Querer
+I want to read a book.	Quiero leer un libro.	Qroo Exercises - Querer
+Can you help me with my computer?	¿Puedes ayudarme con mi computadora? / ¿Me puedes ayudar con mi computadora?	Qroo Exercises - Querer
+I can decorate the house.	Puedo decorar la casa.	Qroo Exercises - Querer
+Do you want to work this weekend?	¿Quieres trabajar este fin de semana?	Qroo Exercises - Querer
+I want to collaborate on the video.	Quiero colaborar en el video.	Qroo Exercises - Querer
+Can you help me confirm the reservation?	¿Puedes ayudarme a confirmar la reserva? / ¿Me puedes ayudar a confirmar la reserva? (la reservación)	Qroo Exercises - Querer

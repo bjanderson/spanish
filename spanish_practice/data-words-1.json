@@ -1,0 +1,149 @@
+{
+  "groups": [
+    {
+      "name": "Articles",
+      "entries": [
+        { "spanish": "el", "english": "the (masc.)" },
+        { "spanish": "la", "english": "the (fem.)" },
+        { "spanish": "los", "english": "the (masc. pl.)" },
+        { "spanish": "las", "english": "the (fem. pl.)" },
+        { "spanish": "un", "english": "a, an (masc.)" },
+        { "spanish": "una", "english": "a, an (fem.)" }
+      ]
+    },
+    {
+      "name": "Prepositions",
+      "entries": [
+        { "spanish": "de", "english": "of, from" },
+        { "spanish": "a", "english": "to, at" },
+        { "spanish": "en", "english": "in, on, at" },
+        { "spanish": "por", "english": "for, by, through" },
+        { "spanish": "con", "english": "with" },
+        { "spanish": "para", "english": "for, to, in order to" },
+        { "spanish": "sobre", "english": "on, about, over" },
+        { "spanish": "sin", "english": "without" },
+        { "spanish": "entre", "english": "between" },
+        { "spanish": "desde", "english": "from, since" },
+        { "spanish": "hasta", "english": "until, up to" }
+      ]
+    },
+    {
+      "name": "Conjunctions",
+      "entries": [
+        { "spanish": "que", "english": "that, which" },
+        { "spanish": "y", "english": "and" },
+        { "spanish": "o", "english": "or" },
+        { "spanish": "pero", "english": "but" },
+        { "spanish": "si", "english": "if" },
+        { "spanish": "porque", "english": "because" },
+        { "spanish": "como", "english": "like, as" },
+        { "spanish": "cuando", "english": "when" },
+        { "spanish": "ni", "english": "nor, neither" }
+      ]
+    },
+    {
+      "name": "Pronouns",
+      "entries": [
+        { "spanish": "yo", "english": "I" },
+        { "spanish": "tú", "english": "you (informal)" },
+        { "spanish": "él", "english": "he" },
+        { "spanish": "ella", "english": "she" },
+        { "spanish": "nosotros", "english": "we" },
+        { "spanish": "vosotros", "english": "you all (informal, Spain)" },
+        { "spanish": "ellos", "english": "they (masc.)" },
+        { "spanish": "ellas", "english": "they (fem.)" },
+        { "spanish": "me", "english": "me" },
+        { "spanish": "te", "english": "you (obj.)" },
+        { "spanish": "se", "english": "himself/herself/itself" },
+        { "spanish": "le", "english": "to him/her" },
+        { "spanish": "lo", "english": "it/him" },
+        { "spanish": "la", "english": "it/her" },
+        { "spanish": "mi", "english": "my" },
+        { "spanish": "su", "english": "his/her/their/your (formal)" }
+      ]
+    },
+    {
+      "name": "Verbs",
+      "entries": [
+        { "spanish": "ser", "english": "to be (permanent)" },
+        { "spanish": "estar", "english": "to be (temporary)" },
+        { "spanish": "haber", "english": "to have (auxiliary)" },
+        { "spanish": "tener", "english": "to have" },
+        { "spanish": "hacer", "english": "to do, to make" },
+        { "spanish": "ir", "english": "to go" },
+        { "spanish": "poder", "english": "to be able to, can" },
+        { "spanish": "decir", "english": "to say" },
+        { "spanish": "ver", "english": "to see" },
+        { "spanish": "dar", "english": "to give" },
+        { "spanish": "saber", "english": "to know" },
+        { "spanish": "querer", "english": "to want, to love" },
+        { "spanish": "llegar", "english": "to arrive" },
+        { "spanish": "pasar", "english": "to pass, spend (time)" },
+        { "spanish": "deber", "english": "should, ought to" },
+        { "spanish": "poner", "english": "to put" },
+        { "spanish": "parecer", "english": "to seem" },
+        { "spanish": "quedar", "english": "to remain" },
+        { "spanish": "creer", "english": "to believe" },
+        { "spanish": "hablar", "english": "to speak" }
+      ]
+    },
+    {
+      "name": "Adverbs",
+      "entries": [
+        { "spanish": "no", "english": "no, not" },
+        { "spanish": "sí", "english": "yes" },
+        { "spanish": "ya", "english": "already, now" },
+        { "spanish": "muy", "english": "very" },
+        { "spanish": "más", "english": "more" },
+        { "spanish": "bien", "english": "well" },
+        { "spanish": "también", "english": "also" },
+        { "spanish": "así", "english": "so, like this" },
+        { "spanish": "entonces", "english": "then, so" },
+        { "spanish": "ahora", "english": "now" }
+      ]
+    },
+    {
+      "name": "Adjectives",
+      "entries": [
+        { "spanish": "todo", "english": "all, every" },
+        { "spanish": "otro", "english": "other" },
+        { "spanish": "grande", "english": "big, large" },
+        { "spanish": "bueno", "english": "good" },
+        { "spanish": "mucho", "english": "much, many" },
+        { "spanish": "mismo", "english": "same" },
+        { "spanish": "primero", "english": "first" },
+        { "spanish": "nuevo", "english": "new" }
+      ]
+    },
+    {
+      "name": "Nouns",
+      "entries": [
+        { "spanish": "año", "english": "year" },
+        { "spanish": "día", "english": "day" },
+        { "spanish": "tiempo", "english": "time" },
+        { "spanish": "cosa", "english": "thing" },
+        { "spanish": "hombre", "english": "man" },
+        { "spanish": "vida", "english": "life" },
+        { "spanish": "parte", "english": "part" }
+      ]
+    },
+    {
+      "name": "ser - Conjugations",
+      "entries": [
+        { "spanish": "yo soy", "english": "I am" },
+        { "spanish": "tú eres", "english": "you are" },
+        { "spanish": "él es", "english": "he is" },
+        { "spanish": "nosotros somos", "english": "we are" },
+        { "spanish": "ellos son", "english": "they are" }
+      ]
+    },
+    {
+      "name": "estar - Conjugations",
+      "entries": [
+        { "spanish": "yo estoy", "english": "I am" },
+        { "spanish": "tú estás", "english": "you are" },
+        { "spanish": "él está", "english": "he is" }
+      ]
+    }
+  ]
+}

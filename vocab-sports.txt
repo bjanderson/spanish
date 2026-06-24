@@ -1,0 +1,107 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Vocab-Sports
+#tags column:3
+el deporte	sport
+el fútbol	soccer
+el béisbol	baseball
+el baloncesto	basketball
+el voleibol	volleyball
+el tenis	tennis
+el golf	golf
+la natación	swimming
+el atletismo	track and field
+la gimnasia	gymnastics
+el boxeo	boxing
+las artes marciales	martial arts
+el karate	karate
+el judo	judo
+la lucha libre	wrestling
+el ciclismo	cycling
+la carrera	race / running
+el maratón	marathon
+el triatlón	triathlon
+el surf	surfing
+el esquí	skiing
+la escalada	climbing
+el senderismo	hiking
+el remo	rowing
+la vela	sailing
+el waterpolo	water polo
+la equitación	horseback riding
+el patinaje	skating
+el hockey	hockey
+el rugby	rugby
+el fútbol americano	American football
+el jugador	player
+el equipo	team
+el entrenador	coach
+el árbitro	referee
+el estadio	stadium
+el campo	field
+la cancha	court
+la piscina	pool
+la pista	track
+la meta	goal / finish line
+el gol	goal (scored)
+el punto	point
+la puntuación	score
+el marcador	scoreboard
+el partido	game / match
+el torneo	tournament
+el campeonato	championship
+la liga	league
+el trofeo	trophy
+la medalla de oro	gold medal
+la medalla de plata	silver medal
+la medalla de bronce	bronze medal
+el récord	record
+el campeón	champion
+el atleta	athlete
+el deportista	sportsperson
+el aficionado	fan
+el espectador	spectator
+la victoria	victory
+la derrota	defeat
+el empate	tie / draw
+la falta	foul
+el penalti	penalty
+la tarjeta amarilla	yellow card
+la tarjeta roja	red card
+el portero	goalkeeper
+el delantero	forward
+el defensa	defender
+el mediocampista	midfielder
+la pelota	ball
+el balón	ball (large)
+el bate	bat
+el guante	glove
+el casco	helmet
+las zapatillas deportivas	athletic shoes
+el uniforme	uniform
+la camiseta	jersey / t-shirt
+el entrenamiento	training
+el calentamiento	warm-up
+el estiramiento	stretching
+el ejercicio	exercise
+la competencia	competition
+la resistencia	endurance
+la fuerza	strength
+la velocidad	speed
+la agilidad	agility
+la flexibilidad	flexibility
+la coordinación	coordination
+la disciplina	discipline
+el espíritu deportivo	sportsmanship
+la motivación	motivation
+el esfuerzo	effort
+la práctica	practice
+el progreso	progress
+el logro	achievement
+el récord personal	personal record
+el lesión	injury
+la recuperación	recovery
+el dopaje	doping
+los Juegos Olímpicos	Olympic Games
+la selección nacional	national team

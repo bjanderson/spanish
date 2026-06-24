@@ -1,0 +1,35 @@
+#separator:Tab
+#html:false
+#notetype:Basic
+#deck:Qroo_Exercises-Tener
+#columns:Front	Back	Tags
+I have to eat.	Tengo que comer.	Qroo Exercises - Tener
+You have to work.	Tienes que trabajar.	Qroo Exercises - Tener
+I have to study with you.	Tengo que estudiar contigo.	Qroo Exercises - Tener
+Do you have to study with me?	¿Tienes que estudiar conmigo?	Qroo Exercises - Tener
+I have to confirm the information.	Tengo que confirmar la información.	Qroo Exercises - Tener
+Do you have to work tomorrow?	¿Tienes que trabajar mañana?	Qroo Exercises - Tener
+I want to eat.	Quiero comer.	Qroo Exercises - Tener
+Do you want to work tomorrow?	¿Quieres trabajar mañana?	Qroo Exercises - Tener
+I can study with you tomorrow.	Puedo estudiar contigo mañana.	Qroo Exercises - Tener
+Can you work today?	¿Puedes trabajar hoy?	Qroo Exercises - Tener
+I want to study Spanish.	Quiero estudiar español.	Qroo Exercises - Tener
+Do you want to confirm the reservation?	¿Quieres confirmar la reserva / reservación?	Qroo Exercises - Tener
+I have to work tomorrow.	Tengo que trabajar mañana.	Qroo Exercises - Tener
+Do you have to eat now?	¿Tienes que comer ahora?	Qroo Exercises - Tener
+I want to study with you tomorrow.	Quiero estudiar contigo mañana.	Qroo Exercises - Tener
+Can you confirm the information?	¿Puedes confirmar la información?	Qroo Exercises - Tener
+I have to verify the information.	Tengo que verificar la información.	Qroo Exercises - Tener
+Do you want to eat now?	¿Quieres comer ahora?	Qroo Exercises - Tener
+I can work tomorrow.	Puedo trabajar mañana.	Qroo Exercises - Tener
+Can you study with me today?	¿Puedes estudiar conmigo hoy?	Qroo Exercises - Tener
+I have to organize the meeting.	Tengo que organizar la reunión.	Qroo Exercises - Tener
+Do you want to study Spanish today?	¿Quieres estudiar español hoy?	Qroo Exercises - Tener
+I want to confirm the reservation.	Quiero confirmar la reserva / reservación.	Qroo Exercises - Tener
+Do you have to organize the party?	¿Tienes que organizar la fiesta?	Qroo Exercises - Tener
+I can work with you tomorrow.	Puedo trabajar contigo mañana.	Qroo Exercises - Tener
+Do you want to verify the information?	¿Quieres verificar la información?	Qroo Exercises - Tener
+I have to work today.	Tengo que trabajar hoy.	Qroo Exercises - Tener
+Do you have to study Spanish tomorrow?	¿Tienes que estudiar español mañana?	Qroo Exercises - Tener
+I want to eat with you.	Quiero comer contigo.	Qroo Exercises - Tener
+Can you work with me tomorrow?	¿Puedes trabajar conmigo mañana?	Qroo Exercises - Tener

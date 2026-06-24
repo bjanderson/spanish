@@ -1,0 +1,342 @@
+{
+  "groups": [
+    {
+      "name": "ser - Conjugations",
+      "entries": [
+        { "spanish": "yo soy", "english": "I am" },
+        { "spanish": "tú eres", "english": "you are" },
+        {
+          "spanish": "él/ella/usted es",
+          "english": "he/she/you(formal) is"
+        },
+        { "spanish": "nosotros/nosotras somos", "english": "we are" },
+        {
+          "spanish": "ellos/ellas/ustedes son",
+          "english": "they/you all are"
+        },
+
+        { "spanish": "yo fui", "english": "I was" },
+        { "spanish": "tú fuiste", "english": "you were" },
+        {
+          "spanish": "él/ella/usted fue",
+          "english": "he/she/you was"
+        },
+        {
+          "spanish": "nosotros/nosotras fuimos",
+          "english": "we were"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes fueron",
+          "english": "they/you all were"
+        },
+
+        { "spanish": "yo era", "english": "I was/used to be" },
+        { "spanish": "tú eras", "english": "you were/used to be" },
+        {
+          "spanish": "él/ella/usted era",
+          "english": "he/she/you was/used to be"
+        },
+        {
+          "spanish": "nosotros/nosotras éramos",
+          "english": "we were/used to be"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes eran",
+          "english": "they/you all were/used to be"
+        },
+
+        { "spanish": "yo seré", "english": "I will be" },
+        { "spanish": "tú serás", "english": "you will be" },
+        {
+          "spanish": "él/ella/usted será",
+          "english": "he/she/you will be"
+        },
+        {
+          "spanish": "nosotros/nosotras seremos",
+          "english": "we will be"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes serán",
+          "english": "they/you all will be"
+        }
+      ]
+    },
+    {
+      "name": "estar - Conjugations",
+      "entries": [
+        { "spanish": "yo estoy", "english": "I am" },
+        { "spanish": "tú estás", "english": "you are" },
+        {
+          "spanish": "él/ella/usted está",
+          "english": "he/she/you is"
+        },
+        {
+          "spanish": "nosotros/nosotras estamos",
+          "english": "we are"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes están",
+          "english": "they/you all are"
+        },
+
+        { "spanish": "yo estuve", "english": "I was" },
+        { "spanish": "tú estuviste", "english": "you were" },
+        {
+          "spanish": "él/ella/usted estuvo",
+          "english": "he/she/you was"
+        },
+        {
+          "spanish": "nosotros/nosotras estuvimos",
+          "english": "we were"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes estuvieron",
+          "english": "they/you all were"
+        },
+
+        { "spanish": "yo estaba", "english": "I was/used to be" },
+        {
+          "spanish": "tú estabas",
+          "english": "you were/used to be"
+        },
+        {
+          "spanish": "él/ella/usted estaba",
+          "english": "he/she/you was/used to be"
+        },
+        {
+          "spanish": "nosotros/nosotras estábamos",
+          "english": "we were/used to be"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes estaban",
+          "english": "they/you all were/used to be"
+        },
+
+        { "spanish": "yo estaré", "english": "I will be" },
+        { "spanish": "tú estarás", "english": "you will be" },
+        {
+          "spanish": "él/ella/usted estará",
+          "english": "he/she/you will be"
+        },
+        {
+          "spanish": "nosotros/nosotras estaremos",
+          "english": "we will be"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes estarán",
+          "english": "they/you all will be"
+        }
+      ]
+    },
+    {
+      "name": "tener - Conjugations",
+      "entries": [
+        { "spanish": "yo tengo", "english": "I have" },
+        { "spanish": "tú tienes", "english": "you have" },
+        {
+          "spanish": "él/ella/usted tiene",
+          "english": "he/she/you has"
+        },
+        {
+          "spanish": "nosotros/nosotras tenemos",
+          "english": "we have"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes tienen",
+          "english": "they/you all have"
+        },
+
+        { "spanish": "yo tuve", "english": "I had" },
+        { "spanish": "tú tuviste", "english": "you had" },
+        {
+          "spanish": "él/ella/usted tuvo",
+          "english": "he/she/you had"
+        },
+        {
+          "spanish": "nosotros/nosotras tuvimos",
+          "english": "we had"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes tuvieron",
+          "english": "they/you all had"
+        },
+
+        { "spanish": "yo tenía", "english": "I had/used to have" },
+        {
+          "spanish": "tú tenías",
+          "english": "you had/used to have"
+        },
+        {
+          "spanish": "él/ella/usted tenía",
+          "english": "he/she/you had/used to have"
+        },
+        {
+          "spanish": "nosotros/nosotras teníamos",
+          "english": "we had/used to have"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes tenían",
+          "english": "they/you all had/used to have"
+        },
+
+        { "spanish": "yo tendré", "english": "I will have" },
+        { "spanish": "tú tendrás", "english": "you will have" },
+        {
+          "spanish": "él/ella/usted tendrá",
+          "english": "he/she/you will have"
+        },
+        {
+          "spanish": "nosotros/nosotras tendremos",
+          "english": "we will have"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes tendrán",
+          "english": "they/you all will have"
+        }
+      ]
+    },
+    {
+      "name": "hacer - Conjugations",
+      "entries": [
+        { "spanish": "yo hago", "english": "I do/make" },
+        { "spanish": "tú haces", "english": "you do/make" },
+        {
+          "spanish": "él/ella/usted hace",
+          "english": "he/she/you does/makes"
+        },
+        {
+          "spanish": "nosotros/nosotras hacemos",
+          "english": "we do/make"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes hacen",
+          "english": "they/you all do/make"
+        },
+
+        { "spanish": "yo hice", "english": "I did/made" },
+        { "spanish": "tú hiciste", "english": "you did/made" },
+        {
+          "spanish": "él/ella/usted hizo",
+          "english": "he/she/you did/made"
+        },
+        {
+          "spanish": "nosotros/nosotras hicimos",
+          "english": "we did/made"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes hicieron",
+          "english": "they/you all did/made"
+        },
+
+        { "spanish": "yo hacía", "english": "I did/used to do" },
+        { "spanish": "tú hacías", "english": "you did/used to do" },
+        {
+          "spanish": "él/ella/usted hacía",
+          "english": "he/she/you did/used to do"
+        },
+        {
+          "spanish": "nosotros/nosotras hacíamos",
+          "english": "we did/used to do"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes hacían",
+          "english": "they/you all did/used to do"
+        },
+
+        { "spanish": "yo haré", "english": "I will do/make" },
+        { "spanish": "tú harás", "english": "you will do/make" },
+        {
+          "spanish": "él/ella/usted hará",
+          "english": "he/she/you will do/make"
+        },
+        {
+          "spanish": "nosotros/nosotras haremos",
+          "english": "we will do/make"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes harán",
+          "english": "they/you all will do/make"
+        }
+      ]
+    },
+    {
+      "name": "poder - Conjugations",
+      "entries": [
+        { "spanish": "yo puedo", "english": "I can" },
+        { "spanish": "tú puedes", "english": "you can" },
+        {
+          "spanish": "él/ella/usted puede",
+          "english": "he/she/you can"
+        },
+        {
+          "spanish": "nosotros/nosotras podemos",
+          "english": "we can"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes pueden",
+          "english": "they/you all can"
+        },
+
+        { "spanish": "yo pude", "english": "I could/was able" },
+        {
+          "spanish": "tú pudiste",
+          "english": "you could/were able"
+        },
+        {
+          "spanish": "él/ella/usted pudo",
+          "english": "he/she/you could/was able"
+        },
+        {
+          "spanish": "nosotros/nosotras pudimos",
+          "english": "we could/were able"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes pudieron",
+          "english": "they/you all could/were able"
+        },
+
+        {
+          "spanish": "yo podía",
+          "english": "I could/used to be able"
+        },
+        {
+          "spanish": "tú podías",
+          "english": "you could/used to be able"
+        },
+        {
+          "spanish": "él/ella/usted podía",
+          "english": "he/she/you could/used to be able"
+        },
+        {
+          "spanish": "nosotros/nosotras podíamos",
+          "english": "we could/used to be able"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes podían",
+          "english": "they/you all could/used to be able"
+        },
+
+        { "spanish": "yo podré", "english": "I will be able" },
+        { "spanish": "tú podrás", "english": "you will be able" },
+        {
+          "spanish": "él/ella/usted podrá",
+          "english": "he/she/you will be able"
+        },
+        {
+          "spanish": "nosotros/nosotras podremos",
+          "english": "we will be able"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes podrán",
+          "english": "they/you all will be able"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "part": "1 of 5 (Verbs 1-20)",
+    "verbs_in_this_part": ["ser", "estar", "tener", "hacer", "poder"],
+    "tenses": ["Present", "Preterite", "Imperfect", "Future"],
+    "vosotros": "excluded"
+  }
+}

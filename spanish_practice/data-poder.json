@@ -1,0 +1,90 @@
+{
+  "groups": [
+    {
+      "name": "poder - Conjugations",
+      "entries": [
+        { "spanish": "yo puedo",        "english": "I can / I am able to" },
+        { "spanish": "tú puedes",       "english": "you can / you are able to" },
+        { "spanish": "él puede",        "english": "he can / he is able to" },
+        { "spanish": "ella puede",      "english": "she can / she is able to" },
+        { "spanish": "usted puede",     "english": "you can / you are able to (formal)" },
+        { "spanish": "nosotros podemos", "english": "we can / we are able to" },
+        { "spanish": "ellos pueden",    "english": "they can / they are able to" },
+        { "spanish": "ustedes pueden",  "english": "you all can / you all are able to" }
+      ]
+    },
+    {
+      "name": "poder - Past Tense Conjugations",
+      "entries": [
+        { "spanish": "yo pude",          "english": "I could / I was able to" },
+        { "spanish": "tú pudiste",       "english": "you could / you were able to" },
+        { "spanish": "él pudo",          "english": "he could / he was able to" },
+        { "spanish": "ella pudo",        "english": "she could / she was able to" },
+        { "spanish": "usted pudo",       "english": "you could / you were able to (formal)" },
+        { "spanish": "nosotros pudimos", "english": "we could / we were able to" },
+        { "spanish": "ellos pudieron",   "english": "they could / they were able to" },
+        { "spanish": "ustedes pudieron", "english": "you all could / you all were able to" }
+      ]
+    },
+    {
+      "name": "poder - Future Tense Conjugations",
+      "entries": [
+        { "spanish": "yo podré",          "english": "I will be able to" },
+        { "spanish": "tú podrás",         "english": "you will be able to" },
+        { "spanish": "él podrá",          "english": "he will be able to" },
+        { "spanish": "ella podrá",        "english": "she will be able to" },
+        { "spanish": "usted podrá",       "english": "you will be able to (formal)" },
+        { "spanish": "nosotros podremos", "english": "we will be able to" },
+        { "spanish": "ellos podrán",      "english": "they will be able to" },
+        { "spanish": "ustedes podrán",    "english": "you all will be able to" }
+      ]
+    },
+    {
+      "name": "poder - Sentences",
+      "entries": [
+        { "spanish": "Puedo ir a la iglesia este domingo.",              "english": "I can go to church this Sunday." },
+        { "spanish": "¿Puedes llevarme al aeropuerto?",                 "english": "Can you take me to the airport?" },
+        { "spanish": "¿Podemos ver el menú?",                           "english": "Can we see the menu?" },
+        { "spanish": "No puedo encontrar mis llaves.",                   "english": "I can't find my keys." },
+        { "spanish": "Mi abuela no puede caminar bien.",                 "english": "My grandmother can't walk well." },
+        { "spanish": "Mi perro puede aprender trucos nuevos.",           "english": "My dog can learn new tricks." },
+        { "spanish": "¿Puedes ayudarme con la tarea?",                  "english": "Can you help me with my homework?" },
+        { "spanish": "No puedo dormir bien últimamente.",                "english": "I can't sleep well lately." },
+        { "spanish": "¿Pueden ustedes terminar el proyecto para el viernes?", "english": "Can you all finish the project by Friday?" },
+        { "spanish": "Puedo jugar al fútbol los sábados.",              "english": "I can play soccer on Saturdays." },
+        { "spanish": "¿Podemos cambiar la reservación del hotel?",       "english": "Can we change the hotel reservation?" },
+        { "spanish": "El pastor puede hablar tres idiomas.",             "english": "The pastor can speak three languages." }
+      ]
+    },
+    {
+      "name": "poder - Past Tense Sentences",
+      "entries": [
+        { "spanish": "Pude cambiar mi vuelo sin problema.",                      "english": "I was able to change my flight without any problem." },
+        { "spanish": "No pudimos ir al servicio el domingo pasado.",             "english": "We were not able to go to the service last Sunday." },
+        { "spanish": "¿Pudiste pedir el postre?",                               "english": "Were you able to order dessert?" },
+        { "spanish": "Mi papá pudo arreglar el lavaplatos.",                    "english": "My dad was able to fix the dishwasher." },
+        { "spanish": "Mis primos no pudieron venir a la reunión familiar.",      "english": "My cousins were not able to come to the family gathering." },
+        { "spanish": "Mi gato no pudo salir afuera ayer.",                      "english": "My cat was not able to go outside yesterday." },
+        { "spanish": "Pude terminar el examen a tiempo.",                        "english": "I was able to finish the exam on time." },
+        { "spanish": "No pude ir al médico porque trabajé todo el día.",        "english": "I was not able to go to the doctor because I worked all day." },
+        { "spanish": "Pudimos terminar el informe antes de la reunión.",         "english": "We were able to finish the report before the meeting." },
+        { "spanish": "¿Pudiste aprender a nadar este verano?",                  "english": "Were you able to learn to swim this summer?" }
+      ]
+    },
+    {
+      "name": "poder - Future Tense Sentences",
+      "entries": [
+        { "spanish": "¿Podrás viajar a Guatemala el próximo año?",               "english": "Will you be able to travel to Guatemala next year?" },
+        { "spanish": "Podremos ir al retiro de la iglesia en agosto.",           "english": "We will be able to go to the church retreat in August." },
+        { "spanish": "¿Podrán ustedes hacernos una reservación para diez personas?", "english": "Will you all be able to make us a reservation for ten people?" },
+        { "spanish": "Podré limpiar el garaje este fin de semana.",              "english": "I will be able to clean the garage this weekend." },
+        { "spanish": "Mis tíos podrán visitarnos en diciembre.",                 "english": "My aunt and uncle will be able to visit us in December." },
+        { "spanish": "El veterinario podrá ver a mi perro mañana.",              "english": "The vet will be able to see my dog tomorrow." },
+        { "spanish": "¿Podrás terminar el proyecto para el lunes?",              "english": "Will you be able to finish the project by Monday?" },
+        { "spanish": "El doctor podrá darte los resultados la próxima semana.", "english": "The doctor will be able to give you the results next week." },
+        { "spanish": "Podremos contratar más empleados el próximo trimestre.",   "english": "We will be able to hire more employees next quarter." },
+        { "spanish": "¿Podrás ir al partido de fútbol el sábado?",              "english": "Will you be able to go to the soccer game on Saturday?" }
+      ]
+    }
+  ]
+}

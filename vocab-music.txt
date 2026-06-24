@@ -1,0 +1,107 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Vocab-Music
+#tags column:3
+la música	music
+la canción	song
+la melodía	melody
+el ritmo	rhythm
+la armonía	harmony
+el tempo	tempo
+el compás	beat / measure
+la nota	note
+el tono	tone / pitch
+la escala	scale
+el acorde	chord
+la clave	key (musical)
+la letra	lyrics
+el estribillo	chorus / refrain
+el verso	verse
+el puente	bridge (musical section)
+la introducción	introduction
+el género	genre
+el instrumento	instrument
+la guitarra	guitar
+el piano	piano
+el violín	violin
+el bajo	bass
+el tambor	drum
+la batería	drum set
+la trompeta	trumpet
+el saxofón	saxophone
+la flauta	flute
+el clarinete	clarinet
+la marimba	marimba
+el acordeón	accordion
+el arpa	harp
+el ukelele	ukelele
+el teclado	keyboard
+el micrófono	microphone
+el amplificador	amplifier
+el altavoz	speaker
+los audífonos	headphones
+los auriculares	earphones / earbuds
+el cantante	singer (male)
+la cantante	singer (female)
+el músico	musician
+el compositor	composer
+el director de orquesta	orchestra conductor
+el productor	producer
+el DJ	DJ
+la banda	band
+el grupo musical	music group
+la orquesta	orchestra
+el coro	choir
+el solista	soloist
+el dueto	duet
+el álbum	album
+la pista	track
+el concierto	concert
+el festival	festival
+el escenario	stage
+el público	audience
+el fanático	fan
+la entrada	ticket
+la gira	tour
+la grabación	recording
+el estudio de grabación	recording studio
+la playlist	playlist
+la transmisión	streaming
+el volumen	volume
+el reggaeton	reggaeton
+la salsa	salsa (music)
+el merengue	merengue
+la cumbia	cumbia
+el vallenato	vallenato
+el mariachi	mariachi
+la bachata	bachata
+el norteño	norteño
+el ranchero	ranchero
+el jazz	jazz
+el rock	rock
+el pop	pop
+el hip hop	hip hop
+la música clásica	classical music
+el blues	blues
+la música cristiana	Christian music
+la alabanza	praise (worship song)
+la adoración	worship
+el himno	hymn
+el cántico	canticle / spiritual song
+la voz	voice
+el falsete	falsetto
+el vibrato	vibrato
+el rap	rap
+la improvisación	improvisation
+el solo	solo
+afinar	to tune
+tocar	to play (an instrument)
+cantar	to sing
+componer	to compose
+escuchar	to listen
+grabar	to record
+ensayar	to rehearse
+el ensayo	rehearsal
+la audición	audition
+el talento	talent

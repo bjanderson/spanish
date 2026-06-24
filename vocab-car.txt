@@ -1,0 +1,105 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Vocab-Car
+#tags column:3
+carro	car	vocab-car
+coche	car (alternate)	vocab-car
+vehículo	vehicle	vocab-car
+camioneta	pickup truck / SUV	vocab-car
+camión	truck	vocab-car
+autobús	bus	vocab-car
+motocicleta	motorcycle	vocab-car
+bicicleta	bicycle	vocab-car
+motor	engine	vocab-car
+volante	steering wheel	vocab-car
+asiento	seat	vocab-car
+cinturón de seguridad	seatbelt	vocab-car
+freno	brake	vocab-car
+acelerador	gas pedal / accelerator	vocab-car
+embrague	clutch	vocab-car
+palanca de cambios	gear shift	vocab-car
+velocímetro	speedometer	vocab-car
+tablero	dashboard	vocab-car
+espejo retrovisor	rearview mirror	vocab-car
+espejo lateral	side mirror	vocab-car
+llave	key	vocab-car
+encendido	ignition	vocab-car
+puerta	door	vocab-car
+manija	door handle	vocab-car
+parabrisas	windshield	vocab-car
+limpiaparabrisas	windshield wiper	vocab-car
+capó	hood	vocab-car
+cajuela	trunk (Mexico)	vocab-car
+maletero	trunk (other regions)	vocab-car
+llanta	tire	vocab-car
+llanta de repuesto	spare tire	vocab-car
+rin	rim / wheel	vocab-car
+gasolina	gasoline	vocab-car
+tanque de gasolina	gas tank	vocab-car
+gasolinera	gas station	vocab-car
+aceite	oil	vocab-car
+batería	battery	vocab-car
+alternador	alternator	vocab-car
+radiador	radiator	vocab-car
+manguera	hose	vocab-car
+faro	headlight	vocab-car
+luz trasera	tail light	vocab-car
+luz de freno	brake light	vocab-car
+intermitente	turn signal / blinker	vocab-car
+claxon	horn	vocab-car
+silenciador	muffler	vocab-car
+tubo de escape	exhaust pipe	vocab-car
+transmisión	transmission	vocab-car
+suspensión	suspension	vocab-car
+amortiguador	shock absorber	vocab-car
+freno de mano	parking brake	vocab-car
+carretera	highway / road	vocab-car
+autopista	freeway / expressway	vocab-car
+calle	street	vocab-car
+avenida	avenue	vocab-car
+semáforo	traffic light	vocab-car
+señal de tráfico	traffic sign	vocab-car
+límite de velocidad	speed limit	vocab-car
+tráfico	traffic	vocab-car
+embotellamiento	traffic jam	vocab-car
+accidente	accident	vocab-car
+multa	traffic ticket / fine	vocab-car
+licencia de conducir	driver's license	vocab-car
+placa	license plate	vocab-car
+seguro	insurance	vocab-car
+registro	vehicle registration	vocab-car
+mecánico	mechanic	vocab-car
+taller mecánico	repair shop	vocab-car
+reparación	repair	vocab-car
+estacionamiento	parking lot	vocab-car
+parquímetro	parking meter	vocab-car
+peaje	toll	vocab-car
+GPS	GPS	vocab-car
+gasolina regular	regular gas	vocab-car
+gasolina premium	premium gas	vocab-car
+diésel	diesel	vocab-car
+carro eléctrico	electric car	vocab-car
+carro híbrido	hybrid car	vocab-car
+asiento delantero	front seat	vocab-car
+asiento trasero	back seat	vocab-car
+pasajero	passenger	vocab-car
+conductor	driver	vocab-car
+guardabarros	fender	vocab-car
+parachoque	bumper	vocab-car
+llanta ponchada	flat tire	vocab-car
+grúa	tow truck	vocab-car
+control de crucero	cruise control	vocab-car
+aire acondicionado	air conditioning	vocab-car
+velocidad	speed	vocab-car
+marcha atrás	reverse	vocab-car
+carril	lane	vocab-car
+vuelta en U	U-turn	vocab-car
+tope	speed bump	vocab-car
+desvío	detour	vocab-car
+puente	bridge	vocab-car
+túnel	tunnel	vocab-car
+estacionar	to park	vocab-car
+manejar	to drive	vocab-car
+arrancar	to start (engine)	vocab-car
+llenar el tanque	to fill up the tank	vocab-car

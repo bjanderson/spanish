@@ -1,0 +1,109 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Vocab-Pets
+#tags column:3
+la mascota	pet
+el perro	dog
+el gato	cat
+el pájaro	bird
+el pez	fish
+el conejo	rabbit
+el hámster	hamster
+la tortuga	turtle
+la serpiente	snake
+el lagarto	lizard
+la iguana	iguana
+el loro	parrot
+el canario	canary
+el periquito	parakeet
+el cobayo	guinea pig
+el ratón	mouse
+la rata	rat
+el hurón	ferret
+el gecko	gecko
+el camaleón	chameleon
+el cachorro	puppy
+el gatito	kitten
+la cría	young animal / offspring
+el polluelo	chick
+el acuario	aquarium
+la pecera	fish tank
+la jaula	cage
+la caseta	doghouse
+el collar	collar
+la correa	leash
+el arnés	harness
+la comida para perros	dog food
+la comida para gatos	cat food
+el tazón	bowl
+la cama para mascotas	pet bed
+el juguete	toy
+la pelota	ball
+el hueso	bone
+el rascador	scratching post
+la arena para gatos	cat litter
+el veterinario	veterinarian
+la clínica veterinaria	veterinary clinic
+la vacuna	vaccine
+la pulga	flea
+la garrapata	tick
+el gusano	worm
+el parásito	parasite
+la esterilización	spay (sterilization)
+la castración	neuter
+el microchip	microchip
+la adopción	adoption
+el rescate	rescue
+el refugio de animales	animal shelter
+el criador	breeder
+la raza	breed
+el pedigrí	pedigree
+el entrenamiento	training
+el comando	command
+la obediencia	obedience
+el premio	reward / treat
+la golosina	treat
+el paseo	walk
+el ejercicio	exercise
+el juego	play / game
+la socialización	socialization
+el baño	bath
+el cepillo	brush
+el champú	shampoo
+las uñas	nails / claws
+el pelo	fur / hair
+las plumas	feathers
+las escamas	scales
+la cola	tail
+las patas	paws / legs
+las garras	claws
+el pico	beak
+las alas	wings
+el ladrido	bark
+el maullido	meow
+el ronroneo	purr
+el chirrido	chirp
+el canto	birdsong
+el mordisco	bite
+el arañazo	scratch
+la lealtad	loyalty
+el compañero	companion
+el cuidado	care
+la salud	health
+la enfermedad	illness
+el tratamiento	treatment
+la medicina	medicine
+la dieta	diet
+la nutrición	nutrition
+la higiene	hygiene
+el bienestar animal	animal welfare
+la licencia para mascotas	pet license
+el pasaporte para mascotas	pet passport
+la cuarentena	quarantine
+el grooming	grooming
+la tienda de mascotas	pet store
+el alimento seco	dry food (kibble)
+el alimento húmedo	wet food
+la correa retráctil	retractable leash
+el identificador	ID tag

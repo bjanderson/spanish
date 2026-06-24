@@ -1,0 +1,105 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Vocab-Bible
+#tags column:3
+Dios	God	vocab-bible
+Jesús	Jesus	vocab-bible
+Cristo	Christ	vocab-bible
+Espíritu Santo	Holy Spirit	vocab-bible
+Trinidad	Trinity	vocab-bible
+Biblia	Bible	vocab-bible
+Escrituras	Scriptures	vocab-bible
+Antiguo Testamento	Old Testament	vocab-bible
+Nuevo Testamento	New Testament	vocab-bible
+evangelio	gospel	vocab-bible
+fe	faith	vocab-bible
+salvación	salvation	vocab-bible
+gracia	grace	vocab-bible
+pecado	sin	vocab-bible
+arrepentimiento	repentance	vocab-bible
+bautismo	baptism	vocab-bible
+oración	prayer	vocab-bible
+alabanza	praise	vocab-bible
+adoración	worship	vocab-bible
+templo	temple	vocab-bible
+iglesia	church	vocab-bible
+cielo	heaven	vocab-bible
+infierno	hell	vocab-bible
+ángel	angel	vocab-bible
+demonio	demon	vocab-bible
+Satanás	Satan	vocab-bible
+diablo	devil	vocab-bible
+profeta	prophet	vocab-bible
+apóstol	apostle	vocab-bible
+discípulo	disciple	vocab-bible
+pastor	pastor	vocab-bible
+sacerdote	priest	vocab-bible
+levita	Levite	vocab-bible
+rey	king	vocab-bible
+siervo	servant	vocab-bible
+juez	judge	vocab-bible
+guerrero	warrior	vocab-bible
+mártir	martyr	vocab-bible
+misionero	missionary	vocab-bible
+milagro	miracle	vocab-bible
+parábola	parable	vocab-bible
+promesa	promise	vocab-bible
+pacto	covenant	vocab-bible
+ley	law	vocab-bible
+mandamiento	commandment	vocab-bible
+amor	love	vocab-bible
+misericordia	mercy	vocab-bible
+perdón	forgiveness	vocab-bible
+redención	redemption	vocab-bible
+eternidad	eternity	vocab-bible
+resurrección	resurrection	vocab-bible
+cruz	cross	vocab-bible
+cordero	lamb	vocab-bible
+pastor de ovejas	shepherd	vocab-bible
+pan	bread	vocab-bible
+vino	wine	vocab-bible
+desierto	desert / wilderness	vocab-bible
+montaña	mountain	vocab-bible
+río	river	vocab-bible
+tierra prometida	promised land	vocab-bible
+Génesis	Genesis	vocab-bible
+Éxodo	Exodus	vocab-bible
+Salmos	Psalms	vocab-bible
+Proverbios	Proverbs	vocab-bible
+Isaías	Isaiah	vocab-bible
+Mateo	Matthew	vocab-bible
+Marcos	Mark	vocab-bible
+Lucas	Luke	vocab-bible
+Juan	John	vocab-bible
+Hechos	Acts	vocab-bible
+Romanos	Romans	vocab-bible
+Apocalipsis	Revelation	vocab-bible
+Abraham	Abraham	vocab-bible
+Moisés	Moses	vocab-bible
+David	David	vocab-bible
+María	Mary	vocab-bible
+José	Joseph	vocab-bible
+Pedro	Peter	vocab-bible
+Pablo	Paul	vocab-bible
+creación	creation	vocab-bible
+Adán	Adam	vocab-bible
+Eva	Eve	vocab-bible
+paraíso	paradise	vocab-bible
+bendición	blessing	vocab-bible
+maldición	curse	vocab-bible
+profecía	prophecy	vocab-bible
+visión	vision	vocab-bible
+sueño	dream / vision	vocab-bible
+sabiduría	wisdom	vocab-bible
+conocimiento	knowledge	vocab-bible
+verdad	truth	vocab-bible
+luz	light	vocab-bible
+tinieblas	darkness	vocab-bible
+espada	sword	vocab-bible
+escudo	shield	vocab-bible
+armadura espiritual	spiritual armor	vocab-bible
+comunión	communion	vocab-bible
+ofrenda	offering	vocab-bible
+diezmo	tithe	vocab-bible
+gloria	glory	vocab-bible

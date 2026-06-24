@@ -1,0 +1,96 @@
+{
+  "groups": [
+    {
+      "name": "hacer - Conjugations",
+      "entries": [
+        { "spanish": "yo hago",        "english": "I do / I make" },
+        { "spanish": "tú haces",       "english": "you do / you make" },
+        { "spanish": "él hace",        "english": "he does / he makes" },
+        { "spanish": "ella hace",      "english": "she does / she makes" },
+        { "spanish": "usted hace",     "english": "you do / you make (formal)" },
+        { "spanish": "nosotros hacemos", "english": "we do / we make" },
+        { "spanish": "ellos hacen",    "english": "they do / they make" },
+        { "spanish": "ustedes hacen",  "english": "you all do / you all make" }
+      ]
+    },
+    {
+      "name": "hacer - Past Tense Conjugations",
+      "entries": [
+        { "spanish": "yo hice",          "english": "I did / I made" },
+        { "spanish": "tú hiciste",       "english": "you did / you made" },
+        { "spanish": "él hizo",          "english": "he did / he made" },
+        { "spanish": "ella hizo",        "english": "she did / she made" },
+        { "spanish": "usted hizo",       "english": "you did / you made (formal)" },
+        { "spanish": "nosotros hicimos", "english": "we did / we made" },
+        { "spanish": "ellos hicieron",   "english": "they did / they made" },
+        { "spanish": "ustedes hicieron", "english": "you all did / you all made" }
+      ]
+    },
+    {
+      "name": "hacer - Future Tense Conjugations",
+      "entries": [
+        { "spanish": "yo haré",          "english": "I will do / I will make" },
+        { "spanish": "tú harás",         "english": "you will do / you will make" },
+        { "spanish": "él hará",          "english": "he will do / he will make" },
+        { "spanish": "ella hará",        "english": "she will do / she will make" },
+        { "spanish": "usted hará",       "english": "you will do / you will make (formal)" },
+        { "spanish": "nosotros haremos", "english": "we will do / we will make" },
+        { "spanish": "ellos harán",      "english": "they will do / they will make" },
+        { "spanish": "ustedes harán",    "english": "you all will do / you all will make" }
+      ]
+    },
+    {
+      "name": "hacer - Sentences",
+      "entries": [
+        { "spanish": "Hacemos estudio bíblico los miércoles.",               "english": "We have Bible study on Wednesdays." },
+        { "spanish": "¿Qué hace el pastor después del servicio?",            "english": "What does the pastor do after the service?" },
+        { "spanish": "Mi mamá hace tamales en Navidad.",                     "english": "My mom makes tamales at Christmas." },
+        { "spanish": "Hago la cena todas las noches.",                       "english": "I make dinner every night." },
+        { "spanish": "¿Qué haces cuando llegas a un nuevo país?",           "english": "What do you do when you arrive in a new country?" },
+        { "spanish": "El chef hace la mejor sopa de la ciudad.",             "english": "The chef makes the best soup in the city." },
+        { "spanish": "Mi papá hace ejercicio por las mañanas.",              "english": "My dad exercises in the mornings." },
+        { "spanish": "Mis amigos y yo hacemos planes para el fin de semana.", "english": "My friends and I make plans for the weekend." },
+        { "spanish": "Mi perro hace mucho ruido cuando llegan visitas.",     "english": "My dog makes a lot of noise when guests arrive." },
+        { "spanish": "Los estudiantes hacen la tarea en la biblioteca.",     "english": "The students do their homework at the library." },
+        { "spanish": "El doctor hace un chequeo completo cada año.",         "english": "The doctor does a complete checkup every year." },
+        { "spanish": "¿Qué haces en tu trabajo?",                           "english": "What do you do at your job?" },
+        { "spanish": "Ella hace música con su familia.",                     "english": "She makes music with her family." },
+        { "spanish": "Hace mucho calor hoy.",                                "english": "It is very hot today." }
+      ]
+    },
+    {
+      "name": "hacer - Past Tense Sentences",
+      "entries": [
+        { "spanish": "David hizo lo que Dios le pidió.",                     "english": "David did what God asked him to do." },
+        { "spanish": "¿Qué hiciste después del servicio?",                  "english": "What did you do after the service?" },
+        { "spanish": "Hicimos un recorrido por toda la ciudad.",             "english": "We took a tour of the entire city." },
+        { "spanish": "El chef hizo un plato especial para nosotros.",        "english": "The chef made a special dish for us." },
+        { "spanish": "Mi abuela hizo arroz con leche para el postre.",       "english": "My grandmother made rice pudding for dessert." },
+        { "spanish": "Hice la limpieza de la casa el sábado.",               "english": "I cleaned the house on Saturday." },
+        { "spanish": "Mi papá hizo un asado para toda la familia.",          "english": "My dad made a barbecue for the whole family." },
+        { "spanish": "Mis amigos hicieron una fiesta sorpresa para mí.",     "english": "My friends threw a surprise party for me." },
+        { "spanish": "Los estudiantes hicieron una presentación muy buena.", "english": "The students gave a very good presentation." },
+        { "spanish": "El doctor hizo todos los exámenes necesarios.",        "english": "The doctor ran all the necessary tests." },
+        { "spanish": "Hicieron muchos cambios en la oficina.",               "english": "They made a lot of changes at the office." },
+        { "spanish": "El grupo hizo una canción nueva para la iglesia.",     "english": "The group made a new song for the church." }
+      ]
+    },
+    {
+      "name": "hacer - Future Tense Sentences",
+      "entries": [
+        { "spanish": "Haremos un estudio sobre el libro de Juan.",            "english": "We will do a study on the book of John." },
+        { "spanish": "El pastor hará un anuncio especial el domingo.",        "english": "The pastor will make a special announcement on Sunday." },
+        { "spanish": "¿Qué harás durante tus vacaciones?",                   "english": "What will you do during your vacation?" },
+        { "spanish": "El chef hará un menú especial para la cena.",           "english": "The chef will make a special menu for dinner." },
+        { "spanish": "Haremos una cena especial para celebrar.",              "english": "We will make a special dinner to celebrate." },
+        { "spanish": "Haré las compras del supermercado mañana.",             "english": "I will do the grocery shopping tomorrow." },
+        { "spanish": "Mi hermano hará una sorpresa para el cumpleaños de mi mamá.", "english": "My brother will make a surprise for my mom's birthday." },
+        { "spanish": "Mis amigos harán una reunión el próximo sábado.",       "english": "My friends will have a get-together next Saturday." },
+        { "spanish": "Los estudiantes harán un proyecto en grupo.",           "english": "The students will do a group project." },
+        { "spanish": "El doctor hará una cirugía la próxima semana.",         "english": "The doctor will perform surgery next week." },
+        { "spanish": "¿Qué harán ustedes para mejorar las ventas?",           "english": "What will you all do to improve sales?" },
+        { "spanish": "El coro hará una presentación especial en Navidad.",    "english": "The choir will do a special performance at Christmas." }
+      ]
+    }
+  ]
+}

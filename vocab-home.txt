@@ -1,0 +1,105 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Vocab-Home
+#tags column:3
+casa	house	vocab-home
+hogar	home	vocab-home
+apartamento	apartment	vocab-home
+departamento	apartment (Mexico)	vocab-home
+cuarto	room	vocab-home
+sala	living room	vocab-home
+comedor	dining room	vocab-home
+cocina	kitchen	vocab-home
+baño	bathroom	vocab-home
+recámara	bedroom (Latin America)	vocab-home
+habitación	bedroom / room	vocab-home
+estudio	study / home office	vocab-home
+cuarto de lavado	laundry room	vocab-home
+sótano	basement	vocab-home
+ático	attic	vocab-home
+garaje	garage	vocab-home
+jardín	garden / yard	vocab-home
+patio	patio / courtyard	vocab-home
+porche	porch	vocab-home
+balcón	balcony	vocab-home
+entrada	entryway	vocab-home
+pasillo	hallway	vocab-home
+escalera	staircase	vocab-home
+techo	roof / ceiling	vocab-home
+piso	floor	vocab-home
+pared	wall	vocab-home
+puerta	door	vocab-home
+ventana	window	vocab-home
+cama	bed	vocab-home
+sofá	sofa / couch	vocab-home
+sillón	armchair	vocab-home
+mesa	table	vocab-home
+silla	chair	vocab-home
+escritorio	desk	vocab-home
+estante	shelf	vocab-home
+librero	bookshelf	vocab-home
+ropero	wardrobe	vocab-home
+clóset	closet	vocab-home
+cajón	drawer	vocab-home
+alfombra	rug / carpet	vocab-home
+cortina	curtain	vocab-home
+persiana	blinds	vocab-home
+lámpara	lamp	vocab-home
+foco	light bulb	vocab-home
+espejo	mirror	vocab-home
+cuadro	picture / painting	vocab-home
+televisión	television	vocab-home
+refrigerador	refrigerator	vocab-home
+estufa	stove	vocab-home
+horno	oven	vocab-home
+microondas	microwave	vocab-home
+lavadora	washing machine	vocab-home
+secadora	dryer	vocab-home
+lavavajillas	dishwasher	vocab-home
+fregadero	kitchen sink	vocab-home
+lavabo	bathroom sink	vocab-home
+inodoro	toilet	vocab-home
+regadera	shower	vocab-home
+bañera	bathtub	vocab-home
+toalla	towel	vocab-home
+jabón	soap	vocab-home
+champú	shampoo	vocab-home
+almohada	pillow	vocab-home
+cobija	blanket	vocab-home
+sábana	sheet	vocab-home
+colchón	mattress	vocab-home
+percha	hanger	vocab-home
+llave	key	vocab-home
+cerradura	lock	vocab-home
+timbre	doorbell	vocab-home
+interruptor	light switch	vocab-home
+enchufe	electrical outlet	vocab-home
+abanico	ceiling fan	vocab-home
+aire acondicionado	air conditioner	vocab-home
+calentador	heater	vocab-home
+bote de basura	trash can	vocab-home
+escoba	broom	vocab-home
+trapeador	mop	vocab-home
+aspiradora	vacuum cleaner	vocab-home
+detergente	detergent	vocab-home
+limpiador	cleaner	vocab-home
+esponja	sponge	vocab-home
+trapo	cleaning rag	vocab-home
+cubeta	bucket	vocab-home
+maceta	flowerpot	vocab-home
+cerca	fence	vocab-home
+buzón	mailbox	vocab-home
+terraza	terrace / deck	vocab-home
+chimenea	fireplace	vocab-home
+calentador de agua	water heater	vocab-home
+llave de agua	faucet / water tap	vocab-home
+alberca	swimming pool (Mexico)	vocab-home
+piscina	swimming pool	vocab-home
+parrilla	grill / barbecue	vocab-home
+herramienta	tool	vocab-home
+martillo	hammer	vocab-home
+clavo	nail	vocab-home
+pintura	paint	vocab-home
+ventilador	fan	vocab-home
+puerta trasera	back door	vocab-home

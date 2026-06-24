@@ -1,0 +1,71 @@
+#separator:Tab
+#html:false
+#notetype:Basic
+#deck:Qroo_Exercises-Ir
+#columns:Front	Back	Tags
+I am going to the store.	Voy a la tienda.	Qroo Exercises - Ir
+Do you have to go to the pharmacy?	¿Tienes que ir a la farmacia?	Qroo Exercises - Ir
+I have to go to the park.	Tengo que ir al parque.	Qroo Exercises - Ir
+I am going to the school.	Voy a la escuela.	Qroo Exercises - Ir
+Do you want to go to the hospital?	¿Quieres ir al hospital?	Qroo Exercises - Ir
+I want to go to the library.	Quiero ir a la biblioteca.	Qroo Exercises - Ir
+I can go to the restaurant.	Puedo ir al restaurante.	Qroo Exercises - Ir
+Can you go to the supermarket?	¿Puedes ir al supermercado?	Qroo Exercises - Ir
+I can go to the bank.	Puedo ir al banco.	Qroo Exercises - Ir
+I am going to the cinema.	Voy al cine.	Qroo Exercises - Ir
+Do you have to go to the gym?	¿Tienes que ir al gimnasio?	Qroo Exercises - Ir
+I have to go to the beach.	Tengo que ir a la playa.	Qroo Exercises - Ir
+I want to go to the airport.	Quiero ir al aeropuerto.	Qroo Exercises - Ir
+Do you want to go to the office?	¿Quieres ir a la oficina?	Qroo Exercises - Ir
+I want to go to the store.	Quiero ir a la tienda.	Qroo Exercises - Ir
+I am going to the pharmacy.	Voy a la farmacia.	Qroo Exercises - Ir
+Can you go to the park?	¿Puedes ir al parque?	Qroo Exercises - Ir
+I can go to the school.	Puedo ir a la escuela.	Qroo Exercises - Ir
+I have to go to the hospital.	Tengo que ir al hospital.	Qroo Exercises - Ir
+Do you have to go to the library?	¿Tienes que ir a la biblioteca?	Qroo Exercises - Ir
+I have to go to the restaurant.	Tengo que ir al restaurante.	Qroo Exercises - Ir
+I am going to the supermarket.	Voy al supermercado.	Qroo Exercises - Ir
+Do you want to go to the bank?	¿Quieres ir al banco?	Qroo Exercises - Ir
+I want to go to the cinema.	Quiero ir al cine.	Qroo Exercises - Ir
+I can go to the gym.	Puedo ir al gimnasio.	Qroo Exercises - Ir
+I have to go to the store to buy bread.	Tengo que ir a la tienda a comprar pan.	Qroo Exercises - Ir
+Do you have to go to the store to buy milk?	¿Tienes que ir a la tienda a comprar leche?	Qroo Exercises - Ir
+I have to go to the store to buy eggs.	Tengo que ir a la tienda a comprar huevos.	Qroo Exercises - Ir
+I am going to the store to buy cheese.	Voy a la tienda a comprar queso.	Qroo Exercises - Ir
+Do you want to go to the store to buy apples?	¿Quieres ir a la tienda a comprar manzanas?	Qroo Exercises - Ir
+I want to go to the store to buy oranges.	Quiero ir a la tienda a comprar naranjas.	Qroo Exercises - Ir
+I am going to the store to buy lettuce.	Voy a la tienda a comprar lechuga.	Qroo Exercises - Ir
+Can you go to the store to buy grapes?	¿Puedes ir a la tienda a comprar uvas?	Qroo Exercises - Ir
+I can go to the store to buy tomatoes.	Puedo ir a la tienda a comprar tomates.	Qroo Exercises - Ir
+I have to go to the store to buy onions.	Tengo que ir a la tienda a comprar cebollas.	Qroo Exercises - Ir
+Do you have to go to the store to buy potatoes?	¿Tienes que ir a la tienda a comprar papas?	Qroo Exercises - Ir
+I have to go to the store to buy carrots.	Tengo que ir a la tienda a comprar zanahorias.	Qroo Exercises - Ir
+I am going to the store to buy lettuce.	Voy a la tienda a comprar lechuga.	Qroo Exercises - Ir
+Do you want to go to the store to buy cucumbers?	¿Quieres ir a la tienda a comprar pepinos?	Qroo Exercises - Ir
+I want to go to the store to buy peppers.	Quiero ir a la tienda a comprar pimientos.	Qroo Exercises - Ir
+I can go to the store to buy garlic.	Puedo ir a la tienda a comprar ajo.	Qroo Exercises - Ir
+Can you go to the store to buy bread?	¿Puedes ir a la tienda a comprar pan?	Qroo Exercises - Ir
+I can go to the store to buy milk.	Puedo ir a la tienda a comprar leche.	Qroo Exercises - Ir
+I am going to the store to buy eggs.	Voy a la tienda a comprar huevos.	Qroo Exercises - Ir
+Do you have to go to the store to buy cheese?	¿Tienes que ir a la tienda a comprar queso?	Qroo Exercises - Ir
+I have to go to the store to buy apples.	Tengo que ir a la tienda a comprar manzanas.	Qroo Exercises - Ir
+I want to go to the store to buy oranges.	Quiero ir a la tienda a comprar naranjas.	Qroo Exercises - Ir
+Do you want to go to the store to buy plantains?	¿Quieres ir a la tienda a comprar plátanos?	Qroo Exercises - Ir
+I want to go to the store to buy grapes.	Quiero ir a la tienda a comprar uvas.	Qroo Exercises - Ir
+I can go to the store to buy tomatoes.	Puedo ir a la tienda a comprar tomates.	Qroo Exercises - Ir
+Bread	Pan	Qroo Exercises - Ir
+Milk	Leche	Qroo Exercises - Ir
+Eggs	Huevos	Qroo Exercises - Ir
+Cheese	Queso	Qroo Exercises - Ir
+Apples	Manzanas	Qroo Exercises - Ir
+Oranges	Naranjas	Qroo Exercises - Ir
+Plantain	Plátanos	Qroo Exercises - Ir
+Grapes	Uvas	Qroo Exercises - Ir
+Tomatoes	Tomates	Qroo Exercises - Ir
+Onions	Cebollas	Qroo Exercises - Ir
+Potatoes	Papas/Patatas	Qroo Exercises - Ir
+Carrots	Zanahorias	Qroo Exercises - Ir
+Lettuce	Lechuga	Qroo Exercises - Ir
+Cucumbers	Pepinos	Qroo Exercises - Ir
+Peppers	Pimientos	Qroo Exercises - Ir
+Garlic	Ajo	Qroo Exercises - Ir

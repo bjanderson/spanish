@@ -1,0 +1,96 @@
+{
+  "groups": [
+    {
+      "name": "estar - Conjugations",
+      "entries": [
+        { "spanish": "yo estoy",        "english": "I am" },
+        { "spanish": "tú estás",        "english": "you are" },
+        { "spanish": "él está",         "english": "he is" },
+        { "spanish": "ella está",       "english": "she is" },
+        { "spanish": "usted está",      "english": "you are (formal)" },
+        { "spanish": "nosotros estamos", "english": "we are" },
+        { "spanish": "ellos están",     "english": "they are" },
+        { "spanish": "ustedes están",   "english": "you all are" }
+      ]
+    },
+    {
+      "name": "estar - Past Tense Conjugations",
+      "entries": [
+        { "spanish": "yo estuve",          "english": "I was" },
+        { "spanish": "tú estuviste",       "english": "you were" },
+        { "spanish": "él estuvo",          "english": "he was" },
+        { "spanish": "ella estuvo",        "english": "she was" },
+        { "spanish": "usted estuvo",       "english": "you were (formal)" },
+        { "spanish": "nosotros estuvimos", "english": "we were" },
+        { "spanish": "ellos estuvieron",   "english": "they were" },
+        { "spanish": "ustedes estuvieron", "english": "you all were" }
+      ]
+    },
+    {
+      "name": "estar - Future Tense Conjugations",
+      "entries": [
+        { "spanish": "yo estaré",          "english": "I will be" },
+        { "spanish": "tú estarás",         "english": "you will be" },
+        { "spanish": "él estará",          "english": "he will be" },
+        { "spanish": "ella estará",        "english": "she will be" },
+        { "spanish": "usted estará",       "english": "you will be (formal)" },
+        { "spanish": "nosotros estaremos", "english": "we will be" },
+        { "spanish": "ellos estarán",      "english": "they will be" },
+        { "spanish": "ustedes estarán",    "english": "you all will be" }
+      ]
+    },
+    {
+      "name": "estar - Sentences",
+      "entries": [
+        { "spanish": "La Biblia está sobre la mesa.",                "english": "The Bible is on the table." },
+        { "spanish": "Estamos en la iglesia ahora.",                 "english": "We are at church now." },
+        { "spanish": "Estoy en el aeropuerto.",                      "english": "I am at the airport." },
+        { "spanish": "¿Dónde está el mesero?",                      "english": "Where is the waiter?" },
+        { "spanish": "La sopa está muy caliente.",                   "english": "The soup is very hot." },
+        { "spanish": "Mi mamá está en la cocina.",                   "english": "My mom is in the kitchen." },
+        { "spanish": "¿Cómo está tu papá?",                         "english": "How is your dad?" },
+        { "spanish": "Mis amigos están en el parque.",               "english": "My friends are at the park." },
+        { "spanish": "Mi perro está muy cansado hoy.",               "english": "My dog is very tired today." },
+        { "spanish": "Los estudiantes están en clase.",              "english": "The students are in class." },
+        { "spanish": "Mi abuela está enferma esta semana.",          "english": "My grandmother is sick this week." },
+        { "spanish": "El jefe está en una reunión.",                 "english": "The boss is in a meeting." },
+        { "spanish": "La música está muy alta.",                     "english": "The music is very loud." },
+        { "spanish": "¿Estás listo para salir?",                    "english": "Are you ready to go?" }
+      ]
+    },
+    {
+      "name": "estar - Past Tense Sentences",
+      "entries": [
+        { "spanish": "Estuve en México por dos semanas.",                   "english": "I was in Mexico for two weeks." },
+        { "spanish": "¿Dónde estuviste el domingo?",                       "english": "Where were you on Sunday?" },
+        { "spanish": "Estuvimos en el estudio bíblico el miércoles.",      "english": "We were at Bible study on Wednesday." },
+        { "spanish": "Mis amigos estuvieron aquí toda la tarde.",          "english": "My friends were here all afternoon." },
+        { "spanish": "Mi papá estuvo en casa todo el día.",                "english": "My dad was home all day." },
+        { "spanish": "Mis tíos estuvieron con nosotros en Navidad.",       "english": "My aunt and uncle were with us at Christmas." },
+        { "spanish": "Estuve muy enfermo la semana pasada.",               "english": "I was very sick last week." },
+        { "spanish": "Los niños estuvieron en la escuela hasta las tres.", "english": "The children were at school until three." },
+        { "spanish": "¿Estuviste en la oficina ayer?",                     "english": "Were you at the office yesterday?" },
+        { "spanish": "Estuvimos en un restaurante anoche.",                "english": "We were at a restaurant last night." },
+        { "spanish": "El pastor estuvo muy ocupado esta semana.",          "english": "The pastor was very busy this week." },
+        { "spanish": "La comida estuvo deliciosa.",                        "english": "The food was delicious." }
+      ]
+    },
+    {
+      "name": "estar - Future Tense Sentences",
+      "entries": [
+        { "spanish": "Estaré en Guatemala por una semana.",                  "english": "I will be in Guatemala for a week." },
+        { "spanish": "¿Estarás en la iglesia el domingo?",                  "english": "Will you be at church on Sunday?" },
+        { "spanish": "El restaurante estará cerrado el lunes.",             "english": "The restaurant will be closed on Monday." },
+        { "spanish": "Mi mamá estará en casa esta tarde.",                  "english": "My mom will be home this afternoon." },
+        { "spanish": "Mis papás estarán con nosotros en Navidad.",          "english": "My parents will be with us at Christmas." },
+        { "spanish": "El veterinario estará disponible mañana.",            "english": "The vet will be available tomorrow." },
+        { "spanish": "Los estudiantes estarán de vacaciones la próxima semana.", "english": "The students will be on break next week." },
+        { "spanish": "El doctor estará en el consultorio hasta las cinco.", "english": "The doctor will be in the office until five." },
+        { "spanish": "¿Estarán ustedes en la oficina el lunes?",            "english": "Will you all be at the office on Monday?" },
+        { "spanish": "La banda estará en el concierto el sábado.",          "english": "The band will be at the concert on Saturday." },
+        { "spanish": "Estaremos en el estudio bíblico el jueves.",          "english": "We will be at Bible study on Thursday." },
+        { "spanish": "¿Estarás listo para el viaje mañana?",               "english": "Will you be ready for the trip tomorrow?" }
+      ]
+    }
+  ]
+}

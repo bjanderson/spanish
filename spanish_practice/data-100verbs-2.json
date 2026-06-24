@@ -1,0 +1,336 @@
+{
+  "groups": [
+    {
+      "name": "decir - Conjugations",
+      "entries": [
+        { "spanish": "yo digo", "english": "I say" },
+        { "spanish": "tú dices", "english": "you say" },
+        {
+          "spanish": "él/ella/usted dice",
+          "english": "he/she/you says"
+        },
+        {
+          "spanish": "nosotros/nosotras decimos",
+          "english": "we say"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes dicen",
+          "english": "they/you all say"
+        },
+
+        { "spanish": "yo dije", "english": "I said" },
+        { "spanish": "tú dijiste", "english": "you said" },
+        {
+          "spanish": "él/ella/usted dijo",
+          "english": "he/she/you said"
+        },
+        {
+          "spanish": "nosotros/nosotras dijimos",
+          "english": "we said"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes dijeron",
+          "english": "they/you all said"
+        },
+
+        { "spanish": "yo decía", "english": "I said/used to say" },
+        {
+          "spanish": "tú decías",
+          "english": "you said/used to say"
+        },
+        {
+          "spanish": "él/ella/usted decía",
+          "english": "he/she/you said/used to say"
+        },
+        {
+          "spanish": "nosotros/nosotras decíamos",
+          "english": "we said/used to say"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes decían",
+          "english": "they/you all said/used to say"
+        },
+
+        { "spanish": "yo diré", "english": "I will say" },
+        { "spanish": "tú dirás", "english": "you will say" },
+        {
+          "spanish": "él/ella/usted dirá",
+          "english": "he/she/you will say"
+        },
+        {
+          "spanish": "nosotros/nosotras diremos",
+          "english": "we will say"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes dirán",
+          "english": "they/you all will say"
+        }
+      ]
+    },
+    {
+      "name": "ir - Conjugations",
+      "entries": [
+        { "spanish": "yo voy", "english": "I go" },
+        { "spanish": "tú vas", "english": "you go" },
+        {
+          "spanish": "él/ella/usted va",
+          "english": "he/she/you goes"
+        },
+        { "spanish": "nosotros/nosotras vamos", "english": "we go" },
+        {
+          "spanish": "ellos/ellas/ustedes van",
+          "english": "they/you all go"
+        },
+
+        { "spanish": "yo fui", "english": "I went" },
+        { "spanish": "tú fuiste", "english": "you went" },
+        {
+          "spanish": "él/ella/usted fue",
+          "english": "he/she/you went"
+        },
+        {
+          "spanish": "nosotros/nosotras fuimos",
+          "english": "we went"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes fueron",
+          "english": "they/you all went"
+        },
+
+        { "spanish": "yo iba", "english": "I went/used to go" },
+        { "spanish": "tú ibas", "english": "you went/used to go" },
+        {
+          "spanish": "él/ella/usted iba",
+          "english": "he/she/you went/used to go"
+        },
+        {
+          "spanish": "nosotros/nosotras íbamos",
+          "english": "we went/used to go"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes iban",
+          "english": "they/you all went/used to go"
+        },
+
+        { "spanish": "yo iré", "english": "I will go" },
+        { "spanish": "tú irás", "english": "you will go" },
+        {
+          "spanish": "él/ella/usted irá",
+          "english": "he/she/you will go"
+        },
+        {
+          "spanish": "nosotros/nosotras iremos",
+          "english": "we will go"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes irán",
+          "english": "they/you all will go"
+        }
+      ]
+    },
+    {
+      "name": "ver - Conjugations",
+      "entries": [
+        { "spanish": "yo veo", "english": "I see" },
+        { "spanish": "tú ves", "english": "you see" },
+        {
+          "spanish": "él/ella/usted ve",
+          "english": "he/she/you sees"
+        },
+        { "spanish": "nosotros/nosotras vemos", "english": "we see" },
+        {
+          "spanish": "ellos/ellas/ustedes ven",
+          "english": "they/you all see"
+        },
+
+        { "spanish": "yo vi", "english": "I saw" },
+        { "spanish": "tú viste", "english": "you saw" },
+        {
+          "spanish": "él/ella/usted vio",
+          "english": "he/she/you saw"
+        },
+        {
+          "spanish": "nosotros/nosotras vimos",
+          "english": "we saw"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes vieron",
+          "english": "they/you all saw"
+        },
+
+        { "spanish": "yo veía", "english": "I saw/used to see" },
+        { "spanish": "tú veías", "english": "you saw/used to see" },
+        {
+          "spanish": "él/ella/usted veía",
+          "english": "he/she/you saw/used to see"
+        },
+        {
+          "spanish": "nosotros/nosotras veíamos",
+          "english": "we saw/used to see"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes veían",
+          "english": "they/you all saw/used to see"
+        },
+
+        { "spanish": "yo veré", "english": "I will see" },
+        { "spanish": "tú verás", "english": "you will see" },
+        {
+          "spanish": "él/ella/usted verá",
+          "english": "he/she/you will see"
+        },
+        {
+          "spanish": "nosotros/nosotras veremos",
+          "english": "we will see"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes verán",
+          "english": "they/you all will see"
+        }
+      ]
+    },
+    {
+      "name": "dar - Conjugations",
+      "entries": [
+        { "spanish": "yo doy", "english": "I give" },
+        { "spanish": "tú das", "english": "you give" },
+        {
+          "spanish": "él/ella/usted da",
+          "english": "he/she/you gives"
+        },
+        {
+          "spanish": "nosotros/nosotras damos",
+          "english": "we give"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes dan",
+          "english": "they/you all give"
+        },
+
+        { "spanish": "yo di", "english": "I gave" },
+        { "spanish": "tú diste", "english": "you gave" },
+        {
+          "spanish": "él/ella/usted dio",
+          "english": "he/she/you gave"
+        },
+        {
+          "spanish": "nosotros/nosotras dimos",
+          "english": "we gave"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes dieron",
+          "english": "they/you all gave"
+        },
+
+        { "spanish": "yo daba", "english": "I gave/used to give" },
+        {
+          "spanish": "tú dabas",
+          "english": "you gave/used to give"
+        },
+        {
+          "spanish": "él/ella/usted daba",
+          "english": "he/she/you gave/used to give"
+        },
+        {
+          "spanish": "nosotros/nosotras dábamos",
+          "english": "we gave/used to give"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes daban",
+          "english": "they/you all gave/used to give"
+        },
+
+        { "spanish": "yo daré", "english": "I will give" },
+        { "spanish": "tú darás", "english": "you will give" },
+        {
+          "spanish": "él/ella/usted dará",
+          "english": "he/she/you will give"
+        },
+        {
+          "spanish": "nosotros/nosotras daremos",
+          "english": "we will give"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes darán",
+          "english": "they/you all will give"
+        }
+      ]
+    },
+    {
+      "name": "saber - Conjugations",
+      "entries": [
+        { "spanish": "yo sé", "english": "I know" },
+        { "spanish": "tú sabes", "english": "you know" },
+        {
+          "spanish": "él/ella/usted sabe",
+          "english": "he/she/you knows"
+        },
+        {
+          "spanish": "nosotros/nosotras sabemos",
+          "english": "we know"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes saben",
+          "english": "they/you all know"
+        },
+
+        { "spanish": "yo supe", "english": "I knew/found out" },
+        {
+          "spanish": "tú supiste",
+          "english": "you knew/found out"
+        },
+        {
+          "spanish": "él/ella/usted supo",
+          "english": "he/she/you knew/found out"
+        },
+        {
+          "spanish": "nosotros/nosotras supimos",
+          "english": "we knew/found out"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes supieron",
+          "english": "they/you all knew/found out"
+        },
+
+        { "spanish": "yo sabía", "english": "I knew/used to know" },
+        {
+          "spanish": "tú sabías",
+          "english": "you knew/used to know"
+        },
+        {
+          "spanish": "él/ella/usted sabía",
+          "english": "he/she/you knew/used to know"
+        },
+        {
+          "spanish": "nosotros/nosotras sabíamos",
+          "english": "we knew/used to know"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes sabían",
+          "english": "they/you all knew/used to know"
+        },
+
+        { "spanish": "yo sabré", "english": "I will know" },
+        { "spanish": "tú sabrás", "english": "you will know" },
+        {
+          "spanish": "él/ella/usted sabrá",
+          "english": "he/she/you will know"
+        },
+        {
+          "spanish": "nosotros/nosotras sabremos",
+          "english": "we will know"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes sabrán",
+          "english": "they/you all will know"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "part": "2 of 5 (Verbs 6-10)",
+    "verbs_in_this_part": ["decir", "ir", "ver", "dar", "saber"],
+    "tenses": ["Present", "Preterite", "Imperfect", "Future"],
+    "vosotros": "excluded"
+  }
+}

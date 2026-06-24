@@ -1,0 +1,105 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Vocab-Travel
+#tags column:3
+viaje	trip / journey	vocab-travel
+pasaporte	passport	vocab-travel
+visa	visa	vocab-travel
+vuelo	flight	vocab-travel
+avión	airplane	vocab-travel
+aeropuerto	airport	vocab-travel
+boleto	ticket	vocab-travel
+asiento	seat	vocab-travel
+equipaje	luggage	vocab-travel
+maleta	suitcase	vocab-travel
+mochila	backpack	vocab-travel
+hotel	hotel	vocab-travel
+habitación	room	vocab-travel
+reservación	reservation	vocab-travel
+recepción	front desk / reception	vocab-travel
+llave de cuarto	room key	vocab-travel
+turismo	tourism	vocab-travel
+turista	tourist	vocab-travel
+guía turístico	tour guide	vocab-travel
+mapa	map	vocab-travel
+itinerario	itinerary	vocab-travel
+excursión	excursion / tour	vocab-travel
+playa	beach	vocab-travel
+montaña	mountain	vocab-travel
+ciudad	city	vocab-travel
+pueblo	town / village	vocab-travel
+museo	museum	vocab-travel
+catedral	cathedral	vocab-travel
+parque	park	vocab-travel
+mercado	market	vocab-travel
+restaurante	restaurant	vocab-travel
+café	café / coffee shop	vocab-travel
+tienda	store / shop	vocab-travel
+farmacia	pharmacy	vocab-travel
+hospital	hospital	vocab-travel
+embajada	embassy	vocab-travel
+consulado	consulate	vocab-travel
+cambio de moneda	currency exchange	vocab-travel
+cajero automático	ATM	vocab-travel
+tarjeta de crédito	credit card	vocab-travel
+efectivo	cash	vocab-travel
+propina	tip	vocab-travel
+recibo	receipt	vocab-travel
+taxi	taxi	vocab-travel
+autobús	bus	vocab-travel
+metro	subway / metro	vocab-travel
+tren	train	vocab-travel
+estación de tren	train station	vocab-travel
+puerto	port	vocab-travel
+barco	boat / ship	vocab-travel
+crucero	cruise ship	vocab-travel
+carro rentado	rental car	vocab-travel
+agencia de viajes	travel agency	vocab-travel
+seguro de viaje	travel insurance	vocab-travel
+aduana	customs	vocab-travel
+frontera	border	vocab-travel
+inmigración	immigration	vocab-travel
+aventura	adventure	vocab-travel
+relajación	relaxation	vocab-travel
+cultura	culture	vocab-travel
+idioma	language	vocab-travel
+traducción	translation	vocab-travel
+fotografía	photograph	vocab-travel
+recuerdo	souvenir	vocab-travel
+postal	postcard	vocab-travel
+dirección	address / directions	vocab-travel
+norte	north	vocab-travel
+sur	south	vocab-travel
+este	east	vocab-travel
+oeste	west	vocab-travel
+a la derecha	to the right	vocab-travel
+a la izquierda	to the left	vocab-travel
+recto	straight ahead	vocab-travel
+cruce	intersection	vocab-travel
+señal	sign	vocab-travel
+bienvenida	welcome	vocab-travel
+despedida	farewell	vocab-travel
+llegada	arrival	vocab-travel
+salida	departure	vocab-travel
+horario	schedule	vocab-travel
+retraso	delay	vocab-travel
+cancelación	cancellation	vocab-travel
+escala	layover / stopover	vocab-travel
+ida y vuelta	round trip	vocab-travel
+solo de ida	one way	vocab-travel
+temporada alta	high season	vocab-travel
+temporada baja	low season	vocab-travel
+clima	weather	vocab-travel
+temperatura	temperature	vocab-travel
+lluvia	rain	vocab-travel
+sol	sun	vocab-travel
+albergue	hostel	vocab-travel
+cabaña	cabin	vocab-travel
+campamento	campsite	vocab-travel
+tienda de campaña	tent	vocab-travel
+naturaleza	nature	vocab-travel
+selva	jungle / rainforest	vocab-travel
+zona arqueológica	archaeological site	vocab-travel
+volcán	volcano	vocab-travel
+lago	lake	vocab-travel

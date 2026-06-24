@@ -1,0 +1,364 @@
+{
+  "groups": [
+    {
+      "name": "tomar - Conjugations",
+      "entries": [
+        { "spanish": "yo tomo", "english": "I take/drink" },
+        { "spanish": "tú tomas", "english": "you take/drink" },
+        {
+          "spanish": "él/ella/usted toma",
+          "english": "he/she/you takes/drinks"
+        },
+        {
+          "spanish": "nosotros/nosotras tomamos",
+          "english": "we take/drink"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes toman",
+          "english": "they/you all take/drink"
+        },
+
+        { "spanish": "yo tomé", "english": "I took/drank" },
+        { "spanish": "tú tomaste", "english": "you took/drank" },
+        {
+          "spanish": "él/ella/usted tomó",
+          "english": "he/she/you took/drank"
+        },
+        {
+          "spanish": "nosotros/nosotras tomamos",
+          "english": "we took/drank"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes tomaron",
+          "english": "they/you all took/drank"
+        },
+
+        {
+          "spanish": "yo tomaba",
+          "english": "I took/used to take"
+        },
+        {
+          "spanish": "tú tomabas",
+          "english": "you took/used to take"
+        },
+        {
+          "spanish": "él/ella/usted tomaba",
+          "english": "he/she/you took/used to take"
+        },
+        {
+          "spanish": "nosotros/nosotras tomábamos",
+          "english": "we took/used to take"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes tomaban",
+          "english": "they/you all took/used to take"
+        },
+
+        { "spanish": "yo tomaré", "english": "I will take" },
+        { "spanish": "tú tomarás", "english": "you will take" },
+        {
+          "spanish": "él/ella/usted tomará",
+          "english": "he/she/you will take"
+        },
+        {
+          "spanish": "nosotros/nosotras tomaremos",
+          "english": "we will take"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes tomarán",
+          "english": "they/you all will take"
+        }
+      ]
+    },
+    {
+      "name": "llevar - Conjugations",
+      "entries": [
+        { "spanish": "yo llevo", "english": "I carry/take/wear" },
+        { "spanish": "tú llevas", "english": "you carry/take/wear" },
+        {
+          "spanish": "él/ella/usted lleva",
+          "english": "he/she/you carries/takes/wears"
+        },
+        {
+          "spanish": "nosotros/nosotras llevamos",
+          "english": "we carry/take/wear"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes llevan",
+          "english": "they/you all carry/take/wear"
+        },
+
+        { "spanish": "yo llevé", "english": "I carried/took/wore" },
+        {
+          "spanish": "tú llevaste",
+          "english": "you carried/took/wore"
+        },
+        {
+          "spanish": "él/ella/usted llevó",
+          "english": "he/she/you carried/took/wore"
+        },
+        {
+          "spanish": "nosotros/nosotras llevamos",
+          "english": "we carried/took/wore"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes llevaron",
+          "english": "they/you all carried/took/wore"
+        },
+
+        {
+          "spanish": "yo llevaba",
+          "english": "I carried/used to carry"
+        },
+        {
+          "spanish": "tú llevabas",
+          "english": "you carried/used to carry"
+        },
+        {
+          "spanish": "él/ella/usted llevaba",
+          "english": "he/she/you carried/used to carry"
+        },
+        {
+          "spanish": "nosotros/nosotras llevábamos",
+          "english": "we carried/used to carry"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes llevaban",
+          "english": "they/you all carried/used to carry"
+        },
+
+        { "spanish": "yo llevaré", "english": "I will carry/take" },
+        { "spanish": "tú llevarás", "english": "you will carry/take" },
+        {
+          "spanish": "él/ella/usted llevará",
+          "english": "he/she/you will carry/take"
+        },
+        {
+          "spanish": "nosotros/nosotras llevaremos",
+          "english": "we will carry/take"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes llevarán",
+          "english": "they/you all will carry/take"
+        }
+      ]
+    },
+    {
+      "name": "dejar - Conjugations",
+      "entries": [
+        { "spanish": "yo dejo", "english": "I leave/let" },
+        { "spanish": "tú dejas", "english": "you leave/let" },
+        {
+          "spanish": "él/ella/usted deja",
+          "english": "he/she/you leaves/lets"
+        },
+        {
+          "spanish": "nosotros/nosotras dejamos",
+          "english": "we leave/let"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes dejan",
+          "english": "they/you all leave/let"
+        },
+
+        { "spanish": "yo dejé", "english": "I left/let" },
+        { "spanish": "tú dejaste", "english": "you left/let" },
+        {
+          "spanish": "él/ella/usted dejó",
+          "english": "he/she/you left/let"
+        },
+        {
+          "spanish": "nosotros/nosotras dejamos",
+          "english": "we left/let"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes dejaron",
+          "english": "they/you all left/let"
+        },
+
+        {
+          "spanish": "yo dejaba",
+          "english": "I left/used to leave"
+        },
+        {
+          "spanish": "tú dejabas",
+          "english": "you left/used to leave"
+        },
+        {
+          "spanish": "él/ella/usted dejaba",
+          "english": "he/she/you left/used to leave"
+        },
+        {
+          "spanish": "nosotros/nosotras dejábamos",
+          "english": "we left/used to leave"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes dejaban",
+          "english": "they/you all left/used to leave"
+        },
+
+        { "spanish": "yo dejaré", "english": "I will leave/let" },
+        { "spanish": "tú dejarás", "english": "you will leave/let" },
+        {
+          "spanish": "él/ella/usted dejará",
+          "english": "he/she/you will leave/let"
+        },
+        {
+          "spanish": "nosotros/nosotras dejaremos",
+          "english": "we will leave/let"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes dejarán",
+          "english": "they/you all will leave/let"
+        }
+      ]
+    },
+    {
+      "name": "venir - Conjugations",
+      "entries": [
+        { "spanish": "yo vengo", "english": "I come" },
+        { "spanish": "tú vienes", "english": "you come" },
+        {
+          "spanish": "él/ella/usted viene",
+          "english": "he/she/you comes"
+        },
+        {
+          "spanish": "nosotros/nosotras venimos",
+          "english": "we come"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes vienen",
+          "english": "they/you all come"
+        },
+
+        { "spanish": "yo vine", "english": "I came" },
+        { "spanish": "tú viniste", "english": "you came" },
+        {
+          "spanish": "él/ella/usted vino",
+          "english": "he/she/you came"
+        },
+        {
+          "spanish": "nosotros/nosotras vinimos",
+          "english": "we came"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes vinieron",
+          "english": "they/you all came"
+        },
+
+        { "spanish": "yo venía", "english": "I came/used to come" },
+        {
+          "spanish": "tú venías",
+          "english": "you came/used to come"
+        },
+        {
+          "spanish": "él/ella/usted venía",
+          "english": "he/she/you came/used to come"
+        },
+        {
+          "spanish": "nosotros/nosotras veníamos",
+          "english": "we came/used to come"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes venían",
+          "english": "they/you all came/used to come"
+        },
+
+        { "spanish": "yo vendré", "english": "I will come" },
+        { "spanish": "tú vendrás", "english": "you will come" },
+        {
+          "spanish": "él/ella/usted vendrá",
+          "english": "he/she/you will come"
+        },
+        {
+          "spanish": "nosotros/nosotras vendremos",
+          "english": "we will come"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes vendrán",
+          "english": "they/you all will come"
+        }
+      ]
+    },
+    {
+      "name": "mirar - Conjugations",
+      "entries": [
+        { "spanish": "yo miro", "english": "I look/watch" },
+        { "spanish": "tú miras", "english": "you look/watch" },
+        {
+          "spanish": "él/ella/usted mira",
+          "english": "he/she/you looks/watches"
+        },
+        {
+          "spanish": "nosotros/nosotras miramos",
+          "english": "we look/watch"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes miran",
+          "english": "they/you all look/watch"
+        },
+
+        { "spanish": "yo miré", "english": "I looked/watched" },
+        {
+          "spanish": "tú miraste",
+          "english": "you looked/watched"
+        },
+        {
+          "spanish": "él/ella/usted miró",
+          "english": "he/she/you looked/watched"
+        },
+        {
+          "spanish": "nosotros/nosotras miramos",
+          "english": "we looked/watched"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes miraron",
+          "english": "they/you all looked/watched"
+        },
+
+        {
+          "spanish": "yo miraba",
+          "english": "I looked/used to look"
+        },
+        {
+          "spanish": "tú mirabas",
+          "english": "you looked/used to look"
+        },
+        {
+          "spanish": "él/ella/usted miraba",
+          "english": "he/she/you looked/used to look"
+        },
+        {
+          "spanish": "nosotros/nosotras mirábamos",
+          "english": "we looked/used to look"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes miraban",
+          "english": "they/you all looked/used to look"
+        },
+
+        { "spanish": "yo miraré", "english": "I will look/watch" },
+        { "spanish": "tú mirarás", "english": "you will look/watch" },
+        {
+          "spanish": "él/ella/usted mirará",
+          "english": "he/she/you will look/watch"
+        },
+        {
+          "spanish": "nosotros/nosotras miraremos",
+          "english": "we will look/watch"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes mirarán",
+          "english": "they/you all will look/watch"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "part": "5 of 5 (Verbs 21-25)",
+    "verbs_in_this_part": ["tomar", "llevar", "dejar", "venir", "mirar"],
+    "tenses": ["Present", "Preterite", "Imperfect", "Future"],
+    "vosotros": "excluded",
+    "note": "This completes Part 5 (25 verbs total). These are among the most frequently used Spanish verbs. Would you like Part 6 (next 5 verbs), all remaining verbs summarized, a full combined JSON of these 25, or example sentences added?"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "groups": [
+    {
+      "name": "Basics",
+      "entries": [
+        { "spanish": "Buenos días",   "english": "Good morning" },
+        { "spanish": "Buenas noches", "english": "Good night" },
+        { "spanish": "Por favor",     "english": "Please" },
+        { "spanish": "Gracias",       "english": "Thank you" },
+        { "spanish": "De nada",       "english": "You're welcome" },
+        { "spanish": "Lo siento",     "english": "I'm sorry" }
+      ]
+    },
+    {
+      "name": "Phrases",
+      "entries": [
+        { "spanish": "¿Cómo estás?",        "english": "How are you?" },
+        { "spanish": "Me llamo",             "english": "My name is" },
+        { "spanish": "¿Dónde está el baño?", "english": "Where is the bathroom?" },
+        { "spanish": "No entiendo",          "english": "I don't understand" },
+        { "spanish": "pero no puedo",        "english": "but I can't" }
+      ]
+    }
+  ]
+}

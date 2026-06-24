@@ -1,0 +1,20 @@
+#separator:tab
+#html:false
+#notetype:Basic
+#deck:Vocabulary
+#tags column:3
+cantar	to sing	vocabulary
+comer	to eat	vocabulary
+beber	to drink	vocabulary
+leer	to read	vocabulary
+escribir	to write	vocabulary
+correr	to run	vocabulary
+caminar	to walk	vocabulary
+viajar	to travel	vocabulary
+trabajar	to work	vocabulary
+practicar	to practice	vocabulary
+comprar	to buy	vocabulary
+escuchar	to listen	vocabulary
+vender	to sell	vocabulary
+descansar	to rest	vocabulary
+dibujar	to draw	vocabulary

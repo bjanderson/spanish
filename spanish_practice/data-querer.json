@@ -1,0 +1,102 @@
+{
+  "groups": [
+    {
+      "name": "querer - Conjugations",
+      "entries": [
+        { "spanish": "yo quiero",        "english": "I want / I love" },
+        { "spanish": "tú quieres",       "english": "you want / you love" },
+        { "spanish": "él quiere",        "english": "he wants / he loves" },
+        { "spanish": "ella quiere",      "english": "she wants / she loves" },
+        { "spanish": "usted quiere",     "english": "you want / you love (formal)" },
+        { "spanish": "nosotros queremos", "english": "we want / we love" },
+        { "spanish": "ellos quieren",    "english": "they want / they love" },
+        { "spanish": "ustedes quieren",  "english": "you all want / you all love" }
+      ]
+    },
+    {
+      "name": "querer - Past Tense Conjugations",
+      "entries": [
+        { "spanish": "yo quise",          "english": "I wanted" },
+        { "spanish": "tú quisiste",       "english": "you wanted" },
+        { "spanish": "él quiso",          "english": "he wanted" },
+        { "spanish": "ella quiso",        "english": "she wanted" },
+        { "spanish": "usted quiso",       "english": "you wanted (formal)" },
+        { "spanish": "nosotros quisimos", "english": "we wanted" },
+        { "spanish": "ellos quisieron",   "english": "they wanted" },
+        { "spanish": "ustedes quisieron", "english": "you all wanted" }
+      ]
+    },
+    {
+      "name": "querer - Future Tense Conjugations",
+      "entries": [
+        { "spanish": "yo querré",          "english": "I will want" },
+        { "spanish": "tú querrás",         "english": "you will want" },
+        { "spanish": "él querrá",          "english": "he will want" },
+        { "spanish": "ella querrá",        "english": "she will want" },
+        { "spanish": "usted querrá",       "english": "you will want (formal)" },
+        { "spanish": "nosotros querremos", "english": "we will want" },
+        { "spanish": "ellos querrán",      "english": "they will want" },
+        { "spanish": "ustedes querrán",    "english": "you all will want" }
+      ]
+    },
+    {
+      "name": "querer - Past Tense Sentences",
+      "entries": [
+        { "spanish": "Quise viajar a Perú el año pasado.",                      "english": "I wanted to travel to Peru last year." },
+        { "spanish": "¿Tú quisiste ordenar el pescado?",                        "english": "Did you want to order the fish?" },
+        { "spanish": "Mi mamá quiso limpiar la casa antes de la visita.",       "english": "My mom wanted to clean the house before the visit." },
+        { "spanish": "Quisimos ir al servicio el domingo, pero llovió.",        "english": "We wanted to go to the service on Sunday, but it rained." },
+        { "spanish": "Mis abuelos quisieron vernos en Navidad.",                "english": "My grandparents wanted to see us at Christmas." },
+        { "spanish": "Mi perro quiso jugar en el parque toda la tarde.",        "english": "My dog wanted to play at the park all afternoon." },
+        { "spanish": "Los estudiantes quisieron más tiempo para el examen.",    "english": "The students wanted more time for the exam." },
+        { "spanish": "El doctor quiso hacerme más exámenes.",                   "english": "The doctor wanted to run more tests on me." },
+        { "spanish": "Mi jefe quiso tener una reunión el viernes.",             "english": "My boss wanted to have a meeting on Friday." },
+        { "spanish": "Quise aprender a tocar la guitarra el año pasado.",       "english": "I wanted to learn to play the guitar last year." }
+      ]
+    },
+    {
+      "name": "querer - Future Tense Sentences",
+      "entries": [
+        { "spanish": "¿Querrás volver a visitar México?",                       "english": "Will you want to visit Mexico again?" },
+        { "spanish": "Querremos llevar a los niños a la iglesia.",              "english": "We will want to take the children to church." },
+        { "spanish": "¿Querrán ustedes una mesa afuera?",                       "english": "Will you all want a table outside?" },
+        { "spanish": "Ella querrá descansar cuando llegue a casa.",             "english": "She will want to rest when she gets home." },
+        { "spanish": "Mis papás querrán saber cómo nos fue.",                   "english": "My parents will want to know how it went for us." },
+        { "spanish": "El perro querrá comer cuando lleguemos.",                 "english": "The dog will want to eat when we get home." },
+        { "spanish": "Los estudiantes querrán un descanso después del examen.", "english": "The students will want a break after the exam." },
+        { "spanish": "El médico querrá ver los resultados mañana.",             "english": "The doctor will want to see the results tomorrow." },
+        { "spanish": "¿Querrás trabajar horas extra esta semana?",              "english": "Will you want to work extra hours this week?" },
+        { "spanish": "Querremos ir a acampar este verano.",                     "english": "We will want to go camping this summer." }
+      ]
+    },
+    {
+      "name": "querer - Sentences",
+      "entries": [
+        { "spanish": "Quiero viajar a Costa Rica.",                       "english": "I want to travel to Costa Rica." },
+        { "spanish": "¿Tú quieres ir al aeropuerto conmigo?",            "english": "Do you want to go to the airport with me?" },
+        { "spanish": "Mis papás quieren visitar a la familia en Colombia.", "english": "My parents want to visit family in Colombia." },
+        { "spanish": "Quiero pedir la sopa de pollo.",                   "english": "I want to order the chicken soup." },
+        { "spanish": "¿Qué quieres comer esta noche?",                   "english": "What do you want to eat tonight?" },
+        { "spanish": "Ellos quieren una mesa para cuatro personas.",      "english": "They want a table for four people." },
+        { "spanish": "Quiero limpiar la casa hoy.",                      "english": "I want to clean the house today." },
+        { "spanish": "¿Quieres ayudarme en la cocina?",                  "english": "Do you want to help me in the kitchen?" },
+        { "spanish": "Te quiero mucho, mamá.",                           "english": "I love you so much, Mom." },
+        { "spanish": "Mi abuela quiere vernos este fin de semana.",       "english": "My grandmother wants to see us this weekend." },
+        { "spanish": "Queremos tener más tiempo con la familia.",         "english": "We want to have more time with family." },
+        { "spanish": "Mi gato quiere salir afuera.",                     "english": "My cat wants to go outside." },
+        { "spanish": "¿Quieres adoptar un perro?",                       "english": "Do you want to adopt a dog?" },
+        { "spanish": "Quiero sacar buenas notas este semestre.",          "english": "I want to get good grades this semester." },
+        { "spanish": "¿Qué quieres estudiar en la universidad?",         "english": "What do you want to study in college?" },
+        { "spanish": "Los estudiantes quieren más tiempo para el proyecto.", "english": "The students want more time for the project." },
+        { "spanish": "Quiero comer más saludable.",                      "english": "I want to eat healthier." },
+        { "spanish": "El doctor quiere hacerme unos exámenes.",          "english": "The doctor wants to run some tests on me." },
+        { "spanish": "Quiero pedir un aumento.",                         "english": "I want to ask for a raise." },
+        { "spanish": "¿Cuándo quieres tener la reunión?",               "english": "When do you want to have the meeting?" },
+        { "spanish": "Quiero aprender a tocar la guitarra.",             "english": "I want to learn to play the guitar." },
+        { "spanish": "¿Quieres ir al parque este fin de semana?",        "english": "Do you want to go to the park this weekend?" },
+        { "spanish": "Queremos aprender más sobre la Biblia.",           "english": "We want to learn more about the Bible." },
+        { "spanish": "Ellos quieren unirse al equipo de fútbol.",        "english": "They want to join the soccer team." }
+      ]
+    }
+  ]
+}

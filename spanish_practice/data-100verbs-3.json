@@ -1,0 +1,366 @@
+{
+  "groups": [
+    {
+      "name": "haber - Conjugations",
+      "entries": [
+        { "spanish": "yo he", "english": "I have" },
+        { "spanish": "tú has", "english": "you have" },
+        {
+          "spanish": "él/ella/usted ha",
+          "english": "he/she/you has"
+        },
+        {
+          "spanish": "nosotros/nosotras hemos",
+          "english": "we have"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes han",
+          "english": "they/you all have"
+        },
+
+        { "spanish": "yo hube", "english": "I had" },
+        {
+          "spanish": "tú hubiste",
+          "english": "you had"
+        },
+        {
+          "spanish": "él/ella/usted hubo",
+          "english": "he/she/you had"
+        },
+        {
+          "spanish": "nosotros/nosotras hubimos",
+          "english": "we had"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes hubieron",
+          "english": "they/you all had"
+        },
+
+        {
+          "spanish": "yo había",
+          "english": "I had/used to have"
+        },
+        {
+          "spanish": "tú habías",
+          "english": "you had/used to have"
+        },
+        {
+          "spanish": "él/ella/usted había",
+          "english": "he/she/you had/used to have"
+        },
+        {
+          "spanish": "nosotros/nosotras habíamos",
+          "english": "we had/used to have"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes habían",
+          "english": "they/you all had/used to have"
+        },
+
+        {
+          "spanish": "yo habré",
+          "english": "I will have"
+        },
+        {
+          "spanish": "tú habrás",
+          "english": "you will have"
+        },
+        {
+          "spanish": "él/ella/usted habrá",
+          "english": "he/she/you will have"
+        },
+        {
+          "spanish": "nosotros/nosotras habremos",
+          "english": "we will have"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes habrán",
+          "english": "they/you all will have"
+        }
+      ]
+    },
+    {
+      "name": "querer - Conjugations",
+      "entries": [
+        { "spanish": "yo quiero", "english": "I want/love" },
+        { "spanish": "tú quieres", "english": "you want/love" },
+        {
+          "spanish": "él/ella/usted quiere",
+          "english": "he/she/you wants/loves"
+        },
+        {
+          "spanish": "nosotros/nosotras queremos",
+          "english": "we want/love"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes quieren",
+          "english": "they/you all want/love"
+        },
+
+        { "spanish": "yo quise", "english": "I wanted" },
+        { "spanish": "tú quisiste", "english": "you wanted" },
+        {
+          "spanish": "él/ella/usted quiso",
+          "english": "he/she/you wanted"
+        },
+        {
+          "spanish": "nosotros/nosotras quisimos",
+          "english": "we wanted"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes quisieron",
+          "english": "they/you all wanted"
+        },
+
+        {
+          "spanish": "yo quería",
+          "english": "I wanted/used to want"
+        },
+        {
+          "spanish": "tú querías",
+          "english": "you wanted/used to want"
+        },
+        {
+          "spanish": "él/ella/usted quería",
+          "english": "he/she/you wanted/used to want"
+        },
+        {
+          "spanish": "nosotros/nosotras queríamos",
+          "english": "we wanted/used to want"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes querían",
+          "english": "they/you all wanted/used to want"
+        },
+
+        { "spanish": "yo querré", "english": "I will want" },
+        { "spanish": "tú querrás", "english": "you will want" },
+        {
+          "spanish": "él/ella/usted querrá",
+          "english": "he/she/you will want"
+        },
+        {
+          "spanish": "nosotros/nosotras querremos",
+          "english": "we will want"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes querrán",
+          "english": "they/you all will want"
+        }
+      ]
+    },
+    {
+      "name": "llegar - Conjugations",
+      "entries": [
+        { "spanish": "yo llego", "english": "I arrive" },
+        { "spanish": "tú llegas", "english": "you arrive" },
+        {
+          "spanish": "él/ella/usted llega",
+          "english": "he/she/you arrives"
+        },
+        {
+          "spanish": "nosotros/nosotras llegamos",
+          "english": "we arrive"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes llegan",
+          "english": "they/you all arrive"
+        },
+
+        { "spanish": "yo llegué", "english": "I arrived" },
+        { "spanish": "tú llegaste", "english": "you arrived" },
+        {
+          "spanish": "él/ella/usted llegó",
+          "english": "he/she/you arrived"
+        },
+        {
+          "spanish": "nosotros/nosotras llegamos",
+          "english": "we arrived"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes llegaron",
+          "english": "they/you all arrived"
+        },
+
+        {
+          "spanish": "yo llegaba",
+          "english": "I arrived/used to arrive"
+        },
+        {
+          "spanish": "tú llegabas",
+          "english": "you arrived/used to arrive"
+        },
+        {
+          "spanish": "él/ella/usted llegaba",
+          "english": "he/she/you arrived/used to arrive"
+        },
+        {
+          "spanish": "nosotros/nosotras llegábamos",
+          "english": "we arrived/used to arrive"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes llegaban",
+          "english": "they/you all arrived/used to arrive"
+        },
+
+        { "spanish": "yo llegaré", "english": "I will arrive" },
+        { "spanish": "tú llegarás", "english": "you will arrive" },
+        {
+          "spanish": "él/ella/usted llegará",
+          "english": "he/she/you will arrive"
+        },
+        {
+          "spanish": "nosotros/nosotras llegaremos",
+          "english": "we will arrive"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes llegarán",
+          "english": "they/you all will arrive"
+        }
+      ]
+    },
+    {
+      "name": "pasar - Conjugations",
+      "entries": [
+        { "spanish": "yo paso", "english": "I pass/spend" },
+        { "spanish": "tú pasas", "english": "you pass/spend" },
+        {
+          "spanish": "él/ella/usted pasa",
+          "english": "he/she/you passes/spends"
+        },
+        {
+          "spanish": "nosotros/nosotras pasamos",
+          "english": "we pass/spend"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes pasan",
+          "english": "they/you all pass/spend"
+        },
+
+        { "spanish": "yo pasé", "english": "I passed/spent" },
+        { "spanish": "tú pasaste", "english": "you passed/spent" },
+        {
+          "spanish": "él/ella/usted pasó",
+          "english": "he/she/you passed/spent"
+        },
+        {
+          "spanish": "nosotros/nosotras pasamos",
+          "english": "we passed/spent"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes pasaron",
+          "english": "they/you all passed/spent"
+        },
+
+        {
+          "spanish": "yo pasaba",
+          "english": "I passed/used to pass"
+        },
+        {
+          "spanish": "tú pasabas",
+          "english": "you passed/used to pass"
+        },
+        {
+          "spanish": "él/ella/usted pasaba",
+          "english": "he/she/you passed/used to pass"
+        },
+        {
+          "spanish": "nosotros/nosotras pasábamos",
+          "english": "we passed/used to pass"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes pasaban",
+          "english": "they/you all passed/used to pass"
+        },
+
+        { "spanish": "yo pasaré", "english": "I will pass/spend" },
+        { "spanish": "tú pasarás", "english": "you will pass/spend" },
+        {
+          "spanish": "él/ella/usted pasará",
+          "english": "he/she/you will pass/spend"
+        },
+        {
+          "spanish": "nosotros/nosotras pasaremos",
+          "english": "we will pass/spend"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes pasarán",
+          "english": "they/you all will pass/spend"
+        }
+      ]
+    },
+    {
+      "name": "poner - Conjugations",
+      "entries": [
+        { "spanish": "yo pongo", "english": "I put/place" },
+        { "spanish": "tú pones", "english": "you put/place" },
+        {
+          "spanish": "él/ella/usted pone",
+          "english": "he/she/you puts/places"
+        },
+        {
+          "spanish": "nosotros/nosotras ponemos",
+          "english": "we put/place"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes ponen",
+          "english": "they/you all put/place"
+        },
+
+        { "spanish": "yo puse", "english": "I put/placed" },
+        { "spanish": "tú pusiste", "english": "you put/placed" },
+        {
+          "spanish": "él/ella/usted puso",
+          "english": "he/she/you put/placed"
+        },
+        {
+          "spanish": "nosotros/nosotras pusimos",
+          "english": "we put/placed"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes pusieron",
+          "english": "they/you all put/placed"
+        },
+
+        { "spanish": "yo ponía", "english": "I put/used to put" },
+        {
+          "spanish": "tú ponías",
+          "english": "you put/used to put"
+        },
+        {
+          "spanish": "él/ella/usted ponía",
+          "english": "he/she/you put/used to put"
+        },
+        {
+          "spanish": "nosotros/nosotras poníamos",
+          "english": "we put/used to put"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes ponían",
+          "english": "they/you all put/used to put"
+        },
+
+        { "spanish": "yo pondré", "english": "I will put" },
+        { "spanish": "tú pondrás", "english": "you will put" },
+        {
+          "spanish": "él/ella/usted pondrá",
+          "english": "he/she/you will put"
+        },
+        {
+          "spanish": "nosotros/nosotras pondremos",
+          "english": "we will put"
+        },
+        {
+          "spanish": "ellos/ellas/ustedes pondrán",
+          "english": "they/you all will put"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "part": "3 of 5 (Verbs 11-15)",
+    "verbs_in_this_part": ["haber", "querer", "llegar", "pasar", "poner"],
+    "tenses": ["Present", "Preterite", "Imperfect", "Future"],
+    "vosotros": "excluded"
+  }
+}
