@@ -1,0 +1,32 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Querer	I want to eat.	Quiero comer.	Querer
+Basic	Querer	Can you confirm the reservation?	¿Puedes confirmar la reserva/ la reservación?	Querer
+Basic	Querer	Do you want to study with me?	¿Quieres estudiar conmigo? 	Querer
+Basic	Querer	I can work tomorrow.	Puedo trabajar mañana. 	Querer
+Basic	Querer	Can I make a reservation?	¿Puedo hacer una reservación/ una reserva? 	Querer
+Basic	Querer	I want to work on Monday.	Quiero trabajar el lunes.	Querer
+Basic	Querer	Can you help me with the project?	¿Puedes ayudarme con el proyecto? / ¿Me puedes ayudar con el proyecto? 	Querer
+Basic	Querer	I can study Spanish with you tomorrow.	Puedo estudiar español contigo mañana. 	Querer
+Basic	Querer	Do you want to collaborate with me?	¿Quieres colaborar conmigo?	Querer
+Basic	Querer	I want to speak with you.	Quiero hablar contigo. 	Querer
+Basic	Querer	Can you work on Saturday?	¿Puedes trabajar el sábado?	Querer
+Basic	Querer	I can verify the information.	Puedo verificar la información.	Querer
+Basic	Querer	Do you want to work tomorrow?	¿Quieres trabajar mañana?	Querer
+Basic	Querer	I want to confirm the information.	Quiero confirmar la información. 	Querer
+Basic	Querer	Can you study Spanish with me today?	¿Puedes estudiar español conmigo hoy?	Querer
+Basic	Querer	Can you help me study on Thursday?	¿Puedes ayudarme a estudiar el jueves? / ¿Me puedes ayudar a estudiar el jueves? 	Querer
+Basic	Querer	Can I speak with you?	¿Puedo hablar contigo? 	Querer
+Basic	Querer	I can make a reservation.	Puedo hacer una reserva /reservación.	Querer
+Basic	Querer	Do you want to eat now?	¿Quieres comer ahora?	Querer
+Basic	Querer	I want to read a book.	Quiero leer un libro.	Querer
+Basic	Querer	Can you help me with my computer?	¿Puedes ayudarme con mi computadora? / ¿Me puedes ayudar con mi computadora? 	Querer
+Basic	Querer	I can decorate the house.	Puedo decorar la casa. 	Querer
+Basic	Querer	Do you want to work this weekend?	¿Quieres trabajar este fin de semana?	Querer
+Basic	Querer	I want to collaborate on the video.	Quiero colaborar en el video.	Querer
+Basic	Querer	Can you help me confirm the reservation?	¿Puedes ayudarme a confirmar la reserva? / ¿Me puedes ayudar a confirmar la reserva? (la reservación)	Querer

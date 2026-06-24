@@ -1,0 +1,57 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Ir	I am going to the store.	Voy a la tienda.	Ir
+Basic	Ir	Do you have to go to the pharmacy?	¿Tienes que ir a la farmacia?	Ir
+Basic	Ir	I have to go to the park.	Tengo que ir al parque.	Ir
+Basic	Ir	I am going to the school.	Voy a la escuela.	Ir
+Basic	Ir	Do you want to go to the hospital?	¿Quieres ir al hospital?	Ir
+Basic	Ir	I want to go to the library.	Quiero ir a la biblioteca.	Ir
+Basic	Ir	I can go to the restaurant.	Puedo ir al restaurante.	Ir
+Basic	Ir	Can you go to the supermarket?	¿Puedes ir al supermercado?	Ir
+Basic	Ir	I can go to the bank.	Puedo ir al banco.	Ir
+Basic	Ir	I am going to the cinema.	Voy al cine.	Ir
+Basic	Ir	Do you have to go to the gym?	¿Tienes que ir al gimnasio?	Ir
+Basic	Ir	I have to go to the beach.	Tengo que ir a la playa.	Ir
+Basic	Ir	I want to go to the airport.	Quiero ir al aeropuerto.	Ir
+Basic	Ir	Do you want to go to the office?	¿Quieres ir a la oficina?	Ir
+Basic	Ir	I want to go to the store.	Quiero ir a la tienda.	Ir
+Basic	Ir	I am going to the pharmacy.	Voy a la farmacia.	Ir
+Basic	Ir	Can you go to the park?	¿Puedes ir al parque?	Ir
+Basic	Ir	I can go to the school.	Puedo ir a la escuela.	Ir
+Basic	Ir	I have to go to the hospital.	Tengo que ir al hospital.	Ir
+Basic	Ir	Do you have to go to the library?	¿Tienes que ir a la biblioteca?	Ir
+Basic	Ir	I have to go to the restaurant.	Tengo que ir al restaurante.	Ir
+Basic	Ir	I am going to the supermarket.	Voy al supermercado.	Ir
+Basic	Ir	Do you want to go to the bank?	¿Quieres ir al banco?	Ir
+Basic	Ir	I want to go to the cinema.	Quiero ir al cine.	Ir
+Basic	Ir	I can go to the gym.	Puedo ir al gimnasio.	Ir
+Basic	Ir	I have to go to the store to buy bread.	Tengo que ir a la tienda a comprar pan.	Ir
+Basic	Ir	Do you have to go to the store to buy milk?	¿Tienes que ir a la tienda a comprar leche?	Ir
+Basic	Ir	I have to go to the store to buy eggs.	Tengo que ir a la tienda a comprar huevos.	Ir
+Basic	Ir	I am going to the store to buy cheese.	Voy a la tienda a comprar queso.	Ir
+Basic	Ir	Do you want to go to the store to buy apples?	¿Quieres ir a la tienda a comprar manzanas?	Ir
+Basic	Ir	I want to go to the store to buy oranges.	Quiero ir a la tienda a comprar naranjas.	Ir
+Basic	Ir	I am going to the store to buy lettuce.	Voy a la tienda a comprar lechuga.	Ir
+Basic	Ir	Can you go to the store to buy grapes?	¿Puedes ir a la tienda a comprar uvas?	Ir
+Basic	Ir	I can go to the store to buy tomatoes.	Puedo ir a la tienda a comprar tomates.	Ir
+Basic	Ir	I have to go to the store to buy onions.	Tengo que ir a la tienda a comprar cebollas.	Ir
+Basic	Ir	Do you have to go to the store to buy potatoes?	¿Tienes que ir a la tienda a comprar papas?	Ir
+Basic	Ir	I have to go to the store to buy carrots.	Tengo que ir a la tienda a comprar zanahorias.	Ir
+Basic	Ir	I am going to the store to buy lettuce.	Voy a la tienda a comprar lechuga.	Ir
+Basic	Ir	Do you want to go to the store to buy cucumbers?	¿Quieres ir a la tienda a comprar pepinos?	Ir
+Basic	Ir	I want to go to the store to buy peppers.	Quiero ir a la tienda a comprar pimientos.	Ir
+Basic	Ir	I can go to the store to buy garlic.	Puedo ir a la tienda a comprar ajo.	Ir
+Basic	Ir	Can you go to the store to buy bread?	¿Puedes ir a la tienda a comprar pan?	Ir
+Basic	Ir	I can go to the store to buy milk.	Puedo ir a la tienda a comprar leche.	Ir
+Basic	Ir	I am going to the store to buy eggs.	Voy a la tienda a comprar huevos.	Ir
+Basic	Ir	Do you have to go to the store to buy cheese?	¿Tienes que ir a la tienda a comprar queso?	Ir
+Basic	Ir	I have to go to the store to buy apples.	Tengo que ir a la tienda a comprar manzanas.	Ir
+Basic	Ir	I want to go to the store to buy oranges.	Quiero ir a la tienda a comprar naranjas.	Ir
+Basic	Ir	Do you want to go to the store to buy plantains?	¿Quieres ir a la tienda a comprar plátanos?	Ir
+Basic	Ir	I want to go to the store to buy grapes.	Quiero ir a la tienda a comprar uvas.	Ir
+Basic	Ir	I can go to the store to buy tomatoes.	Puedo ir a la tienda a comprar tomates.	Ir
