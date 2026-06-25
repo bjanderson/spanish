@@ -1,0 +1,1140 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic (and reversed card)	Vocabulary::Other	cantar	to sing	vocabulary
+Basic (and reversed card)	Vocabulary::Other	comer	to eat	vocabulary
+Basic (and reversed card)	Vocabulary::Other	beber	to drink	vocabulary
+Basic (and reversed card)	Vocabulary::Other	leer	to read	vocabulary
+Basic (and reversed card)	Vocabulary::Other	escribir	to write	vocabulary
+Basic (and reversed card)	Vocabulary::Other	correr	to run	vocabulary
+Basic (and reversed card)	Vocabulary::Other	caminar	to walk	vocabulary
+Basic (and reversed card)	Vocabulary::Other	viajar	to travel	vocabulary
+Basic (and reversed card)	Vocabulary::Other	trabajar	to work	vocabulary
+Basic (and reversed card)	Vocabulary::Other	practicar	to practice	vocabulary
+Basic (and reversed card)	Vocabulary::Other	comprar	to buy	vocabulary
+Basic (and reversed card)	Vocabulary::Other	escuchar	to listen	vocabulary
+Basic (and reversed card)	Vocabulary::Other	vender	to sell	vocabulary
+Basic (and reversed card)	Vocabulary::Other	descansar	to rest	vocabulary
+Basic (and reversed card)	Vocabulary::Other	dibujar	to draw	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	Dios	God	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	Jesús	Jesus	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el Espíritu Santo	the Holy Spirit	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la Biblia	the Bible	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	orar	to pray	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la oración	prayer	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la fe	faith	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	creer	to believe	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el amor	love	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la gracia	grace	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la paz	peace	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el pecado	sin	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el perdón	forgiveness	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	perdonar	to forgive	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el cielo	heaven	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el ángel	angel	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el profeta	prophet	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el apóstol	apostle	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la salvación	salvation	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	salvar	to save	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la cruz	the cross	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la resurrección	resurrection	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el bautismo	baptism	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	bautizar	to baptize	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la verdad	truth	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la misericordia	mercy	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la esperanza	hope	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la adoración	worship	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	adorar	to worship	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la alabanza	praise	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	alabar	to praise	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el testimonio	testimony	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el milagro	miracle	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el discípulo	disciple	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el evangelio	the gospel	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la promesa	promise	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el pacto	covenant	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la eternidad	eternity	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	eterno	eternal	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	sagrado	holy/sacred	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el Señor	the Lord	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el Salvador	the Savior	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el templo	temple	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el altar	altar	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el sacrificio	sacrifice	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la bendición	blessing	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	bendecir	to bless	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la gloria	glory	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el poder	power	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el reino	kingdom	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la redención	redemption	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	redimir	to redeem	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la santidad	holiness	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	santo	holy	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la humildad	humility	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	humilde	humble	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la obediencia	obedience	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	obedecer	to obey	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la sabiduría	wisdom	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el conocimiento	knowledge	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la justicia	righteousness	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la luz	light	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	las tinieblas	darkness	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el pecador	sinner	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	arrepentirse	to repent	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el arrepentimiento	repentance	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	resucitar	to rise/resurrect	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el pastor	pastor/shepherd	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el cordero	lamb	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el pan	bread	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el vino	wine	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la comunión	communion	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la Palabra	the Word	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la ofrenda	offering	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el diezmo	tithe	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el ayuno	fasting	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	ayunar	to fast	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la tentación	temptation	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la victoria	victory	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el enemigo	enemy	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el diablo	the devil	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el infierno	hell	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el salmo	psalm	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la escritura	scripture	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la revelación	revelation	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el mandamiento	commandment	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la ley	the law	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	confiar	to trust	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la confianza	trust	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el gozo	joy	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el refugio	refuge	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	proteger	to protect	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la fortaleza	fortress/strength	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el camino	the way/path	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la vida	life	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	el cuerpo	body	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	glorificar	to glorify	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	la intercesión	intercession	vocabulary
+Basic (and reversed card)	Vocabulary::Bible	interceder	to intercede	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el carro	car	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el auto	automobile	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el vehículo	vehicle	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el motor	engine	vocabulary
+Basic (and reversed card)	Vocabulary::Car	las llantas	tires	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el volante	steering wheel	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el freno	brake	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el acelerador	gas pedal/accelerator	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la transmisión	transmission	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el tanque	gas tank	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la gasolina	gasoline	vocabulary
+Basic (and reversed card)	Vocabulary::Car	manejar	to drive	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el conductor	driver	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el pasajero	passenger	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el cinturón de seguridad	seatbelt	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el espejo retrovisor	rearview mirror	vocabulary
+Basic (and reversed card)	Vocabulary::Car	los faros	headlights	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el parabrisas	windshield	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el limpiaparabrisas	windshield wiper	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el capó	hood	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el maletero	trunk	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la puerta	door	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la ventana	window	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el asiento	seat	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el tablero	dashboard	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el velocímetro	speedometer	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la gasolinera	gas station	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el aceite	oil	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el radiador	radiator	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la batería	battery	vocabulary
+Basic (and reversed card)	Vocabulary::Car	arrancar	to start the engine	vocabulary
+Basic (and reversed card)	Vocabulary::Car	apagar	to turn off	vocabulary
+Basic (and reversed card)	Vocabulary::Car	estacionar	to park	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el estacionamiento	parking lot	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la multa	traffic ticket/fine	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la licencia de manejar	driver's license	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el seguro	insurance	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el mecánico	mechanic	vocabulary
+Basic (and reversed card)	Vocabulary::Car	reparar	to repair	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la llanta ponchada	flat tire	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la llanta de repuesto	spare tire	vocabulary
+Basic (and reversed card)	Vocabulary::Car	cambiar	to change	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el semáforo	traffic light	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la autopista	highway/freeway	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la carretera	road/highway	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la calle	street	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el carril	lane	vocabulary
+Basic (and reversed card)	Vocabulary::Car	adelantar	to pass/overtake	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el límite de velocidad	speed limit	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el accidente	accident	vocabulary
+Basic (and reversed card)	Vocabulary::Car	chocar	to crash	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el tráfico	traffic	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el embotellamiento	traffic jam	vocabulary
+Basic (and reversed card)	Vocabulary::Car	doblar	to turn	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la intersección	intersection	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el puente	bridge	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el peaje	toll	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el GPS	GPS	vocabulary
+Basic (and reversed card)	Vocabulary::Car	navegar	to navigate	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el mapa	map	vocabulary
+Basic (and reversed card)	Vocabulary::Car	rentar	to rent	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el taxi	taxi	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el autobús	bus	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la camioneta	pickup truck/SUV	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el sedán	sedan	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la marca	brand/make	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el modelo	model	vocabulary
+Basic (and reversed card)	Vocabulary::Car	nuevo	new	vocabulary
+Basic (and reversed card)	Vocabulary::Car	usado	used	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el color	color	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el precio	price	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el concesionario	car dealership	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la revisión	inspection/checkup	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el filtro	filter	vocabulary
+Basic (and reversed card)	Vocabulary::Car	las pastillas de freno	brake pads	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el tubo de escape	exhaust pipe	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el claxon	horn	vocabulary
+Basic (and reversed card)	Vocabulary::Car	retroceder	to reverse/back up	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la reversa	reverse gear	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la velocidad	speed	vocabulary
+Basic (and reversed card)	Vocabulary::Car	rápido	fast	vocabulary
+Basic (and reversed card)	Vocabulary::Car	lento	slow	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el combustible	fuel	vocabulary
+Basic (and reversed card)	Vocabulary::Car	eléctrico	electric	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el cargador	charger	vocabulary
+Basic (and reversed card)	Vocabulary::Car	cargar	to charge	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el parachoques	bumper	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el kilometraje	mileage	vocabulary
+Basic (and reversed card)	Vocabulary::Car	el volumen	volume	vocabulary
+Basic (and reversed card)	Vocabulary::Car	la tracción	traction/drive	vocabulary
+Basic (and reversed card)	Vocabulary::Church	la iglesia	church	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el pastor	pastor	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el culto	worship service	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el sermón	sermon	vocabulary
+Basic (and reversed card)	Vocabulary::Church	predicar	to preach	vocabulary
+Basic (and reversed card)	Vocabulary::Church	la alabanza	praise/worship music	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el coro	choir	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el cántico	hymn/song	vocabulary
+Basic (and reversed card)	Vocabulary::Church	la congregación	congregation	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el feligrés	church member/parishioner	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el diácono	deacon	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el anciano	elder	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el líder	leader	vocabulary
+Basic (and reversed card)	Vocabulary::Church	liderar	to lead	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el estudio bíblico	Bible study	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el versículo	verse	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el capítulo	chapter	vocabulary
+Basic (and reversed card)	Vocabulary::Church	dar	to give	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el miembro	member	vocabulary
+Basic (and reversed card)	Vocabulary::Church	unirse	to join	vocabulary
+Basic (and reversed card)	Vocabulary::Church	la bienvenida	welcome	vocabulary
+Basic (and reversed card)	Vocabulary::Church	dar la bienvenida	to welcome	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el voluntario	volunteer	vocabulary
+Basic (and reversed card)	Vocabulary::Church	servir	to serve	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el servicio	service	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el ministerio	ministry	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el misionero	missionary	vocabulary
+Basic (and reversed card)	Vocabulary::Church	la misión	mission	vocabulary
+Basic (and reversed card)	Vocabulary::Church	evangelizar	to evangelize	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el evangelismo	evangelism	vocabulary
+Basic (and reversed card)	Vocabulary::Church	testificar	to testify	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el púlpito	pulpit	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el asiento	seat/pew	vocabulary
+Basic (and reversed card)	Vocabulary::Church	la banca	pew	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el edificio	building	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el salón	hall/room	vocabulary
+Basic (and reversed card)	Vocabulary::Church	la guardería	nursery	vocabulary
+Basic (and reversed card)	Vocabulary::Church	los niños	children	vocabulary
+Basic (and reversed card)	Vocabulary::Church	la escuela dominical	Sunday school	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el domingo	Sunday	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el horario	schedule	vocabulary
+Basic (and reversed card)	Vocabulary::Church	la reunión	meeting	vocabulary
+Basic (and reversed card)	Vocabulary::Church	reunirse	to meet/gather	vocabulary
+Basic (and reversed card)	Vocabulary::Church	la comunidad	community	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el hermano	brother (fellow Christian)	vocabulary
+Basic (and reversed card)	Vocabulary::Church	la hermana	sister (fellow Christian)	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el compañerismo	fellowship	vocabulary
+Basic (and reversed card)	Vocabulary::Church	compartir	to share	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el don	gift	vocabulary
+Basic (and reversed card)	Vocabulary::Church	los dones espirituales	spiritual gifts	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el discipulado	discipleship	vocabulary
+Basic (and reversed card)	Vocabulary::Church	discipular	to disciple	vocabulary
+Basic (and reversed card)	Vocabulary::Church	crecer	to grow	vocabulary
+Basic (and reversed card)	Vocabulary::Church	madurar	to mature	vocabulary
+Basic (and reversed card)	Vocabulary::Church	reconciliar	to reconcile	vocabulary
+Basic (and reversed card)	Vocabulary::Church	la reconciliación	reconciliation	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el retiro	retreat	vocabulary
+Basic (and reversed card)	Vocabulary::Church	la conferencia	conference	vocabulary
+Basic (and reversed card)	Vocabulary::Church	la sanidad	healing	vocabulary
+Basic (and reversed card)	Vocabulary::Church	sanar	to heal	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el pastor principal	lead pastor	vocabulary
+Basic (and reversed card)	Vocabulary::Church	el equipo	team	vocabulary
+Basic (and reversed card)	Vocabulary::Church	la madurez espiritual	spiritual maturity	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la familia	family	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el padre	father	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la madre	mother	vocabulary
+Basic (and reversed card)	Vocabulary::Family	los padres	parents	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el hijo	son	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la hija	daughter	vocabulary
+Basic (and reversed card)	Vocabulary::Family	los hijos	children/sons	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el hermano	brother	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la hermana	sister	vocabulary
+Basic (and reversed card)	Vocabulary::Family	los hermanos	siblings	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el abuelo	grandfather	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la abuela	grandmother	vocabulary
+Basic (and reversed card)	Vocabulary::Family	los abuelos	grandparents	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el nieto	grandson	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la nieta	granddaughter	vocabulary
+Basic (and reversed card)	Vocabulary::Family	los nietos	grandchildren	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el tío	uncle	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la tía	aunt	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el primo	cousin (male)	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la prima	cousin (female)	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el esposo	husband	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la esposa	wife	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el suegro	father-in-law	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la suegra	mother-in-law	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el yerno	son-in-law	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la nuera	daughter-in-law	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el cuñado	brother-in-law	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la cuñada	sister-in-law	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el bebé	baby	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el niño	child/boy	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la niña	girl/child	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el adolescente	teenager	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el adulto	adult	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el anciano	elderly person	vocabulary
+Basic (and reversed card)	Vocabulary::Family	nacer	to be born	vocabulary
+Basic (and reversed card)	Vocabulary::Family	crecer	to grow up	vocabulary
+Basic (and reversed card)	Vocabulary::Family	casarse	to get married	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el matrimonio	marriage	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el hogar	home/household	vocabulary
+Basic (and reversed card)	Vocabulary::Family	vivir	to live	vocabulary
+Basic (and reversed card)	Vocabulary::Family	juntos	together	vocabulary
+Basic (and reversed card)	Vocabulary::Family	amar	to love	vocabulary
+Basic (and reversed card)	Vocabulary::Family	querer	to love/want	vocabulary
+Basic (and reversed card)	Vocabulary::Family	cuidar	to take care of	vocabulary
+Basic (and reversed card)	Vocabulary::Family	apoyar	to support	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el apoyo	support	vocabulary
+Basic (and reversed card)	Vocabulary::Family	enseñar	to teach	vocabulary
+Basic (and reversed card)	Vocabulary::Family	aprender	to learn	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la educación	education	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la reunión familiar	family gathering	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la cena	dinner	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el cumpleaños	birthday	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la Navidad	Christmas	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la tradición	tradition	vocabulary
+Basic (and reversed card)	Vocabulary::Family	heredar	to inherit	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la herencia	inheritance/heritage	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el apellido	last name	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el nombre	first name	vocabulary
+Basic (and reversed card)	Vocabulary::Family	parecerse	to resemble	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la foto	photo	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el recuerdo	memory/keepsake	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el árbol genealógico	family tree	vocabulary
+Basic (and reversed card)	Vocabulary::Family	los antepasados	ancestors	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la generación	generation	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el pariente	relative	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el padrino	godfather	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la madrina	godmother	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el ahijado	godson	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la ahijada	goddaughter	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el papá	dad	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la mamá	mom	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el bisabuelo	great-grandfather	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la bisabuela	great-grandmother	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la familia nuclear	nuclear family	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la familia extendida	extended family	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el divorcio	divorce	vocabulary
+Basic (and reversed card)	Vocabulary::Family	divorciarse	to get divorced	vocabulary
+Basic (and reversed card)	Vocabulary::Family	separarse	to separate	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el padrastro	stepfather	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la madrastra	stepmother	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el hermanastro	stepbrother	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la hermanastra	stepsister	vocabulary
+Basic (and reversed card)	Vocabulary::Family	adoptar	to adopt	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el hijo adoptivo	adopted son	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la hija adoptiva	adopted daughter	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el huérfano	orphan	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la responsabilidad	responsibility	vocabulary
+Basic (and reversed card)	Vocabulary::Family	criar	to raise (children)	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la crianza	upbringing	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el abuelo paterno	paternal grandfather	vocabulary
+Basic (and reversed card)	Vocabulary::Family	el abuelo materno	maternal grandfather	vocabulary
+Basic (and reversed card)	Vocabulary::Family	la familia política	in-laws	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la comida	food/meal	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el desayuno	breakfast	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el almuerzo	lunch	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la merienda	snack	vocabulary
+Basic (and reversed card)	Vocabulary::Food	cocinar	to cook	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el cocinero	cook/chef	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la receta	recipe	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el ingrediente	ingredient	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el sabor	flavor/taste	vocabulary
+Basic (and reversed card)	Vocabulary::Food	delicioso	delicious	vocabulary
+Basic (and reversed card)	Vocabulary::Food	rico	tasty	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el arroz	rice	vocabulary
+Basic (and reversed card)	Vocabulary::Food	los frijoles	beans	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el maíz	corn	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la tortilla	tortilla	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la carne	meat	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el pollo	chicken	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el cerdo	pork	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la res	beef	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el pescado	fish	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el camarón	shrimp	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el huevo	egg	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la leche	milk	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el queso	cheese	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la mantequilla	butter	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la sal	salt	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el azúcar	sugar	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la pimienta	pepper	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el ajo	garlic	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la cebolla	onion	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el tomate	tomato	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el chile	chili pepper	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el limón	lemon/lime	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el aguacate	avocado	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la manzana	apple	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el plátano	banana/plantain	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la naranja	orange	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la sandía	watermelon	vocabulary
+Basic (and reversed card)	Vocabulary::Food	las uvas	grapes	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la fresa	strawberry	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el mango	mango	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la papaya	papaya	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la piña	pineapple	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la papa	potato	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la zanahoria	carrot	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la lechuga	lettuce	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el brócoli	broccoli	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el agua	water	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el jugo	juice	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el café	coffee	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el té	tea	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el refresco	soda/soft drink	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el postre	dessert	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el pastel	cake	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el helado	ice cream	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la sopa	soup	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la ensalada	salad	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el sándwich	sandwich	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la hamburguesa	hamburger	vocabulary
+Basic (and reversed card)	Vocabulary::Food	las papas fritas	french fries	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el taco	taco	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el burrito	burrito	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la salsa	salsa/sauce	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el guacamole	guacamole	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el plato	plate/dish	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el tenedor	fork	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el cuchillo	knife	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la cuchara	spoon	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el vaso	glass	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la taza	cup/mug	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la servilleta	napkin	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la mesa	table	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el menú	menu	vocabulary
+Basic (and reversed card)	Vocabulary::Food	ordenar	to order	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la cuenta	the bill	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la propina	tip	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el restaurante	restaurant	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el supermercado	supermarket	vocabulary
+Basic (and reversed card)	Vocabulary::Food	el mercado	market	vocabulary
+Basic (and reversed card)	Vocabulary::Food	fresco	fresh	vocabulary
+Basic (and reversed card)	Vocabulary::Food	picante	spicy	vocabulary
+Basic (and reversed card)	Vocabulary::Food	dulce	sweet	vocabulary
+Basic (and reversed card)	Vocabulary::Food	amargo	bitter	vocabulary
+Basic (and reversed card)	Vocabulary::Food	salado	salty	vocabulary
+Basic (and reversed card)	Vocabulary::Food	ácido	sour/acidic	vocabulary
+Basic (and reversed card)	Vocabulary::Food	crudo	raw	vocabulary
+Basic (and reversed card)	Vocabulary::Food	cocido	cooked	vocabulary
+Basic (and reversed card)	Vocabulary::Food	frito	fried	vocabulary
+Basic (and reversed card)	Vocabulary::Food	horneado	baked	vocabulary
+Basic (and reversed card)	Vocabulary::Food	la cerveza	beer	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la casa	house	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el apartamento	apartment	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el hogar	home	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la habitación	room	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la sala	living room	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la cocina	kitchen	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el comedor	dining room	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el dormitorio	bedroom	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el baño	bathroom	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el garaje	garage	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el jardín	garden/yard	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el patio	patio/yard	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el techo	roof/ceiling	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el piso	floor	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la pared	wall	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la escalera	stairs	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el sótano	basement	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el ático	attic	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el mueble	piece of furniture	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la silla	chair	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el sofá	sofa/couch	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la cama	bed	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el escritorio	desk	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el armario	closet/wardrobe	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la estantería	bookshelf	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la lámpara	lamp	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el espejo	mirror	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la alfombra	rug/carpet	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la cortina	curtain	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el refrigerador	refrigerator	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la estufa	stove	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el horno	oven	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el microondas	microwave	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el lavaplatos	dishwasher	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la lavadora	washing machine	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la secadora	dryer	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la aspiradora	vacuum cleaner	vocabulary
+Basic (and reversed card)	Vocabulary::Home	limpiar	to clean	vocabulary
+Basic (and reversed card)	Vocabulary::Home	barrer	to sweep	vocabulary
+Basic (and reversed card)	Vocabulary::Home	fregar	to mop/scrub	vocabulary
+Basic (and reversed card)	Vocabulary::Home	lavar	to wash	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la escoba	broom	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el trapeador	mop	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el cubo	bucket	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el detergente	detergent	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el interruptor	light switch	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el enchufe	electrical outlet	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el televisor	television	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la computadora	computer	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el internet	internet	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el wifi	wifi	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el aire acondicionado	air conditioning	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el calentador	heater	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el ventilador	fan	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la llave	key	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la cerradura	lock	vocabulary
+Basic (and reversed card)	Vocabulary::Home	cerrar	to close/lock	vocabulary
+Basic (and reversed card)	Vocabulary::Home	abrir	to open	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el vecino	neighbor	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el barrio	neighborhood	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la dirección	address	vocabulary
+Basic (and reversed card)	Vocabulary::Home	alquilar	to rent	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el dueño	owner	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el inquilino	tenant	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la renta	rent	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la hipoteca	mortgage	vocabulary
+Basic (and reversed card)	Vocabulary::Home	mudarse	to move (residence)	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la mudanza	moving (house)	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la caja	box	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el basurero	trash can	vocabulary
+Basic (and reversed card)	Vocabulary::Home	sacar la basura	to take out the trash	vocabulary
+Basic (and reversed card)	Vocabulary::Home	reciclar	to recycle	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el árbol	tree	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la planta	plant	vocabulary
+Basic (and reversed card)	Vocabulary::Home	regar	to water (plants)	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la almohada	pillow	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la sábana	bedsheet	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la cobija	blanket	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la toalla	towel	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el jabón	soap	vocabulary
+Basic (and reversed card)	Vocabulary::Home	el champú	shampoo	vocabulary
+Basic (and reversed card)	Vocabulary::Home	la electricidad	electricity	vocabulary
+Basic (and reversed card)	Vocabulary::Life	morir	to die	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el tiempo	time	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el día	day	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la noche	night	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la mañana	morning	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la tarde	afternoon/evening	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la semana	week	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el mes	month	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el año	year	vocabulary
+Basic (and reversed card)	Vocabulary::Life	hoy	today	vocabulary
+Basic (and reversed card)	Vocabulary::Life	mañana	tomorrow	vocabulary
+Basic (and reversed card)	Vocabulary::Life	ayer	yesterday	vocabulary
+Basic (and reversed card)	Vocabulary::Life	ahora	now	vocabulary
+Basic (and reversed card)	Vocabulary::Life	siempre	always	vocabulary
+Basic (and reversed card)	Vocabulary::Life	nunca	never	vocabulary
+Basic (and reversed card)	Vocabulary::Life	a veces	sometimes	vocabulary
+Basic (and reversed card)	Vocabulary::Life	soñar	to dream	vocabulary
+Basic (and reversed card)	Vocabulary::Life	dormir	to sleep	vocabulary
+Basic (and reversed card)	Vocabulary::Life	despertar	to wake up	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la salud	health	vocabulary
+Basic (and reversed card)	Vocabulary::Life	estar sano	to be healthy	vocabulary
+Basic (and reversed card)	Vocabulary::Life	estar enfermo	to be sick	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el médico	doctor	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el hospital	hospital	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la felicidad	happiness	vocabulary
+Basic (and reversed card)	Vocabulary::Life	feliz	happy	vocabulary
+Basic (and reversed card)	Vocabulary::Life	triste	sad	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la tristeza	sadness	vocabulary
+Basic (and reversed card)	Vocabulary::Life	alegre	cheerful	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la alegría	joy/happiness	vocabulary
+Basic (and reversed card)	Vocabulary::Life	reír	to laugh	vocabulary
+Basic (and reversed card)	Vocabulary::Life	llorar	to cry	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el miedo	fear	vocabulary
+Basic (and reversed card)	Vocabulary::Life	tener miedo	to be afraid	vocabulary
+Basic (and reversed card)	Vocabulary::Life	esperar	to hope/wait	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el propósito	purpose	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la meta	goal	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el sueño	dream/aspiration	vocabulary
+Basic (and reversed card)	Vocabulary::Life	lograr	to achieve	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el logro	achievement	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el éxito	success	vocabulary
+Basic (and reversed card)	Vocabulary::Life	fracasar	to fail	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el fracaso	failure	vocabulary
+Basic (and reversed card)	Vocabulary::Life	intentar	to try	vocabulary
+Basic (and reversed card)	Vocabulary::Life	esforzarse	to make an effort	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el esfuerzo	effort	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la decisión	decision	vocabulary
+Basic (and reversed card)	Vocabulary::Life	decidir	to decide	vocabulary
+Basic (and reversed card)	Vocabulary::Life	escoger	to choose	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el cambio	change	vocabulary
+Basic (and reversed card)	Vocabulary::Life	mejorar	to improve	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la experiencia	experience	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el recuerdo	memory	vocabulary
+Basic (and reversed card)	Vocabulary::Life	recordar	to remember	vocabulary
+Basic (and reversed card)	Vocabulary::Life	olvidar	to forget	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el pasado	the past	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el presente	the present	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el futuro	the future	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el destino	destiny/fate	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la oportunidad	opportunity	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el problema	problem	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la solución	solution	vocabulary
+Basic (and reversed card)	Vocabulary::Life	resolver	to solve	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la libertad	freedom	vocabulary
+Basic (and reversed card)	Vocabulary::Life	libre	free	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el valor	courage/value	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la fuerza	strength	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la debilidad	weakness	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la madurez	maturity	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el consejo	advice	vocabulary
+Basic (and reversed card)	Vocabulary::Life	aconsejar	to advise	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la amistad	friendship	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la confianza	trust/confidence	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la gratitud	gratitude	vocabulary
+Basic (and reversed card)	Vocabulary::Life	agradecer	to be grateful	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el bien	good	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el mal	evil/bad	vocabulary
+Basic (and reversed card)	Vocabulary::Life	la mentira	lie	vocabulary
+Basic (and reversed card)	Vocabulary::Life	el sufrimiento	suffering	vocabulary
+Basic (and reversed card)	Vocabulary::Life	sufrir	to suffer	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la música	music	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la canción	song	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el cantante	singer	vocabulary
+Basic (and reversed card)	Vocabulary::Music	tocar	to play (instrument)	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el instrumento	instrument	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la guitarra	guitar	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el piano	piano	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el tambor	drum	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el bajo	bass guitar	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el teclado	keyboard	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la batería	drum set	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el violín	violin	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la flauta	flute	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la trompeta	trumpet	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el saxofón	saxophone	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la nota	note	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la melodía	melody	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el ritmo	rhythm	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el acorde	chord	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la letra	lyrics	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el coro	chorus/choir	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el estribillo	refrain	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la estrofa	verse	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el puente	bridge (music)	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la armonía	harmony	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la voz	voice	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el micrófono	microphone	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el altavoz	speaker	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el amplificador	amplifier	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la banda	band	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el músico	musician	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el compositor	composer	vocabulary
+Basic (and reversed card)	Vocabulary::Music	componer	to compose	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el álbum	album	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la pista	track	vocabulary
+Basic (and reversed card)	Vocabulary::Music	grabar	to record	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el estudio	studio	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el concierto	concert	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el escenario	stage	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el público	audience	vocabulary
+Basic (and reversed card)	Vocabulary::Music	aplaudir	to applaud/clap	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el aplauso	applause	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el festival	festival	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el género	genre	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el reggaetón	reggaeton	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la salsa	salsa	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el merengue	merengue	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el mariachi	mariachi	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el pop	pop music	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el rock	rock music	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el rap	rap music	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el jazz	jazz	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la música cristiana	Christian music	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el himno	hymn	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el director	conductor/director	vocabulary
+Basic (and reversed card)	Vocabulary::Music	dirigir	to conduct/direct	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la orquesta	orchestra	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la partitura	sheet music	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el tempo	tempo	vocabulary
+Basic (and reversed card)	Vocabulary::Music	fuerte	loud	vocabulary
+Basic (and reversed card)	Vocabulary::Music	suave	soft/gentle	vocabulary
+Basic (and reversed card)	Vocabulary::Music	ensayar	to rehearse	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el ensayo	rehearsal	vocabulary
+Basic (and reversed card)	Vocabulary::Music	afinar	to tune (instrument)	vocabulary
+Basic (and reversed card)	Vocabulary::Music	desafinado	out of tune	vocabulary
+Basic (and reversed card)	Vocabulary::Music	las cuerdas	strings	vocabulary
+Basic (and reversed card)	Vocabulary::Music	las percusiones	percussion	vocabulary
+Basic (and reversed card)	Vocabulary::Music	descargar	to download	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la lista de reproducción	playlist	vocabulary
+Basic (and reversed card)	Vocabulary::Music	reproducir	to play (music)	vocabulary
+Basic (and reversed card)	Vocabulary::Music	pausar	to pause	vocabulary
+Basic (and reversed card)	Vocabulary::Music	la audición	audition	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el talento	talent	vocabulary
+Basic (and reversed card)	Vocabulary::Music	talentoso	talented	vocabulary
+Basic (and reversed card)	Vocabulary::Music	el cántico	canticle/song	vocabulary
+Basic (and reversed card)	Vocabulary::People	la persona	person	vocabulary
+Basic (and reversed card)	Vocabulary::People	el hombre	man	vocabulary
+Basic (and reversed card)	Vocabulary::People	la mujer	woman	vocabulary
+Basic (and reversed card)	Vocabulary::People	el chico	boy/guy	vocabulary
+Basic (and reversed card)	Vocabulary::People	la chica	girl	vocabulary
+Basic (and reversed card)	Vocabulary::People	joven	young	vocabulary
+Basic (and reversed card)	Vocabulary::People	mayor	older/elderly	vocabulary
+Basic (and reversed card)	Vocabulary::People	el anciano	elderly man	vocabulary
+Basic (and reversed card)	Vocabulary::People	la anciana	elderly woman	vocabulary
+Basic (and reversed card)	Vocabulary::People	alto	tall	vocabulary
+Basic (and reversed card)	Vocabulary::People	bajo	short	vocabulary
+Basic (and reversed card)	Vocabulary::People	delgado	thin/slim	vocabulary
+Basic (and reversed card)	Vocabulary::People	fuerte	strong	vocabulary
+Basic (and reversed card)	Vocabulary::People	débil	weak	vocabulary
+Basic (and reversed card)	Vocabulary::People	bonito	handsome/pretty	vocabulary
+Basic (and reversed card)	Vocabulary::People	el pelo	hair	vocabulary
+Basic (and reversed card)	Vocabulary::People	los ojos	eyes	vocabulary
+Basic (and reversed card)	Vocabulary::People	la nariz	nose	vocabulary
+Basic (and reversed card)	Vocabulary::People	la boca	mouth	vocabulary
+Basic (and reversed card)	Vocabulary::People	las orejas	ears	vocabulary
+Basic (and reversed card)	Vocabulary::People	la cara	face	vocabulary
+Basic (and reversed card)	Vocabulary::People	la piel	skin	vocabulary
+Basic (and reversed card)	Vocabulary::People	la mano	hand	vocabulary
+Basic (and reversed card)	Vocabulary::People	el pie	foot	vocabulary
+Basic (and reversed card)	Vocabulary::People	el nombre	name	vocabulary
+Basic (and reversed card)	Vocabulary::People	llamarse	to be named	vocabulary
+Basic (and reversed card)	Vocabulary::People	la edad	age	vocabulary
+Basic (and reversed card)	Vocabulary::People	la nacionalidad	nationality	vocabulary
+Basic (and reversed card)	Vocabulary::People	el país	country	vocabulary
+Basic (and reversed card)	Vocabulary::People	el idioma	language	vocabulary
+Basic (and reversed card)	Vocabulary::People	hablar	to speak	vocabulary
+Basic (and reversed card)	Vocabulary::People	el carácter	character/personality	vocabulary
+Basic (and reversed card)	Vocabulary::People	amable	kind	vocabulary
+Basic (and reversed card)	Vocabulary::People	simpático	friendly/nice	vocabulary
+Basic (and reversed card)	Vocabulary::People	antipático	unfriendly	vocabulary
+Basic (and reversed card)	Vocabulary::People	honesto	honest	vocabulary
+Basic (and reversed card)	Vocabulary::People	mentiroso	liar/dishonest	vocabulary
+Basic (and reversed card)	Vocabulary::People	inteligente	intelligent	vocabulary
+Basic (and reversed card)	Vocabulary::People	listo	clever/ready	vocabulary
+Basic (and reversed card)	Vocabulary::People	generoso	generous	vocabulary
+Basic (and reversed card)	Vocabulary::People	egoísta	selfish	vocabulary
+Basic (and reversed card)	Vocabulary::People	arrogante	arrogant	vocabulary
+Basic (and reversed card)	Vocabulary::People	paciente	patient	vocabulary
+Basic (and reversed card)	Vocabulary::People	impaciente	impatient	vocabulary
+Basic (and reversed card)	Vocabulary::People	valiente	brave	vocabulary
+Basic (and reversed card)	Vocabulary::People	tímido	shy	vocabulary
+Basic (and reversed card)	Vocabulary::People	extrovertido	extroverted	vocabulary
+Basic (and reversed card)	Vocabulary::People	introvertido	introverted	vocabulary
+Basic (and reversed card)	Vocabulary::People	trabajador	hardworking	vocabulary
+Basic (and reversed card)	Vocabulary::People	perezoso	lazy	vocabulary
+Basic (and reversed card)	Vocabulary::People	responsable	responsible	vocabulary
+Basic (and reversed card)	Vocabulary::People	divertido	funny/fun	vocabulary
+Basic (and reversed card)	Vocabulary::People	serio	serious	vocabulary
+Basic (and reversed card)	Vocabulary::People	el amigo	friend (male)	vocabulary
+Basic (and reversed card)	Vocabulary::People	la amiga	friend (female)	vocabulary
+Basic (and reversed card)	Vocabulary::People	el conocido	acquaintance	vocabulary
+Basic (and reversed card)	Vocabulary::People	el compañero	companion/classmate	vocabulary
+Basic (and reversed card)	Vocabulary::People	el colega	colleague	vocabulary
+Basic (and reversed card)	Vocabulary::People	el jefe	boss	vocabulary
+Basic (and reversed card)	Vocabulary::People	el empleado	employee	vocabulary
+Basic (and reversed card)	Vocabulary::People	el maestro	teacher	vocabulary
+Basic (and reversed card)	Vocabulary::People	el estudiante	student	vocabulary
+Basic (and reversed card)	Vocabulary::People	el enfermero	nurse (male)	vocabulary
+Basic (and reversed card)	Vocabulary::People	el policía	police officer	vocabulary
+Basic (and reversed card)	Vocabulary::People	el ciudadano	citizen	vocabulary
+Basic (and reversed card)	Vocabulary::People	el extranjero	foreigner	vocabulary
+Basic (and reversed card)	Vocabulary::People	el inmigrante	immigrant	vocabulary
+Basic (and reversed card)	Vocabulary::People	la sociedad	society	vocabulary
+Basic (and reversed card)	Vocabulary::People	ayudar	to help	vocabulary
+Basic (and reversed card)	Vocabulary::People	el prójimo	neighbor/fellow person	vocabulary
+Basic (and reversed card)	Vocabulary::People	respetar	to respect	vocabulary
+Basic (and reversed card)	Vocabulary::People	el respeto	respect	vocabulary
+Basic (and reversed card)	Vocabulary::People	saludar	to greet	vocabulary
+Basic (and reversed card)	Vocabulary::People	el saludo	greeting	vocabulary
+Basic (and reversed card)	Vocabulary::People	sonreír	to smile	vocabulary
+Basic (and reversed card)	Vocabulary::People	la sonrisa	smile	vocabulary
+Basic (and reversed card)	Vocabulary::People	amar al prójimo	to love your neighbor	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la mascota	pet	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el perro	dog	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la perra	female dog	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el gato	cat	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la gata	female cat	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el pájaro	bird	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el pez	fish	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el conejo	rabbit	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el hámster	hamster	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la tortuga	turtle	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el loro	parrot	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el conejillo de indias	guinea pig	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el cachorro	puppy	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el gatito	kitten	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la jaula	cage	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el acuario	aquarium/fish tank	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la pecera	fish bowl	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la correa	leash	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el collar	collar	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el plato	bowl/dish (for food)	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	alimentar	to feed	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	dar de comer	to give food	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	bañar	to bathe	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	cepillar	to brush	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el cepillo	brush	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el veterinario	veterinarian	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la clínica veterinaria	veterinary clinic	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la vacuna	vaccine	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	vacunar	to vaccinate	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la medicina	medicine	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el microchip	microchip	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	pasear	to walk/take for a walk	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el paseo	walk	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	jugar	to play	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el juguete	toy	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	ladrar	to bark	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	maullar	to meow	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	morder	to bite	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	arañar	to scratch	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	saltar	to jump	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	entrenar	to train	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el entrenamiento	training	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	sentarse	to sit	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	quedarse	to stay	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	venir	to come	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el macho	male (animal)	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la hembra	female (animal)	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	esterilizar	to sterilize	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	castrar	to neuter	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el refugio de animales	animal shelter	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	rescatar	to rescue	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el pelo	fur/hair	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la pata	paw/leg (animal)	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la cola	tail	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	las garras	claws	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	los dientes	teeth	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la cama para perro	dog bed	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el kennel	kennel/crate	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la pulga	flea	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la garrapata	tick	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el parásito	parasite	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	enfermo	sick	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	sano	healthy	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	querer	to love/like	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	acariciar	to pet/caress	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el compañero	companion	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la lealtad	loyalty	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	leal	loyal	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	perder	to lose	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	encontrar	to find	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la recompensa	reward	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la raza	breed	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	mestizo	mixed breed	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la comida para mascotas	pet food	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el antiparasitario	antiparasitic treatment	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el aviso	notice/announcement	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el campeón	champion (show animal)	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	la exposición canina	dog show	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el adiestramiento	obedience training	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el espacio	space/room	vocabulary
+Basic (and reversed card)	Vocabulary::Pets	el ejercicio	exercise	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	la relación	relationship	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	el novio	boyfriend	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	la novia	girlfriend	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	la pareja	couple/partner	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	comprometerse	to get engaged	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	el compromiso	engagement/commitment	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	el anillo de compromiso	engagement ring	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	la boda	wedding	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	el aniversario	anniversary	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	querer	to love/care for	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	enamorarse	to fall in love	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	enamorado	in love	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	salir con alguien	to date someone	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	la cita	date	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	conocer	to meet/know	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	presentar	to introduce	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	la honestidad	honesty	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	comunicarse	to communicate	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	la comunicación	communication	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	hablar	to talk	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	el diálogo	dialogue/conversation	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	la discusión	argument/discussion	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	discutir	to argue/discuss	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	pelear	to fight/argue	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	disculparse	to apologize	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	la disculpa	apology	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	cuidar	to care for	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	la compatibilidad	compatibility	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	compatible	compatible	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	los valores	values	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	el límite	boundary	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	comprometido	committed	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	fiel	faithful/loyal	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	la fidelidad	faithfulness/fidelity	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	la traición	betrayal	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	traicionar	to betray	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	los celos	jealousy	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	celoso	jealous	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	la envidia	envy	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	la ruptura	breakup	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	terminar	to end (a relationship)	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	la soledad	loneliness	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	solo	alone/lonely	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	el compañerismo	fellowship/camaraderie	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	el cariño	affection	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	cariñoso	affectionate	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	abrazar	to hug	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	el abrazo	hug	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	besar	to kiss	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	el beso	kiss	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	la ternura	tenderness	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	tierno	tender/sweet	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	el compañero de vida	life partner	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	la relación sana	healthy relationship	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	el abuso	abuse	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	buscar ayuda	to seek help	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	el consejero	counselor	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	la consejería	counseling	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	restaurar	to restore	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	el lazo	bond/tie	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	el afecto	affection	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	la intimidad	intimacy	vocabulary
+Basic (and reversed card)	Vocabulary::Relationships	el conflicto	conflict	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el deporte	sport	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el jugador	player	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el partido	game/match	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	ganar	to win	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	empatar	to tie/draw	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el marcador	scoreboard/score	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el gol	goal	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el fútbol	soccer	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el baloncesto	basketball	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el béisbol	baseball	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el voleibol	volleyball	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el tenis	tennis	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	la natación	swimming	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	nadar	to swim	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el atletismo	track and field/athletics	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el ciclismo	cycling	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	andar en bicicleta	to ride a bike	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el boxeo	boxing	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el golf	golf	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el balón	ball (large)	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	la pelota	ball (small)	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el estadio	stadium	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	la cancha	court/field	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el campo	field	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	la piscina	swimming pool	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el entrenador	coach/trainer	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	entrenar	to train/practice	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	hacer ejercicio	to exercise	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	la competencia	competition	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	competir	to compete	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el campeonato	championship	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el campeón	champion	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el trofeo	trophy	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	la medalla	medal	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el árbitro	referee/umpire	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el silbato	whistle	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	la falta	foul	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	la tarjeta roja	red card	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	la tarjeta amarilla	yellow card	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el tiempo extra	overtime/extra time	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	la portería	goal (soccer)	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el portero	goalkeeper	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	anotar	to score	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el puntaje	score/points	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	la derrota	defeat	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el aficionado	fan/supporter	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	animar	to cheer/encourage	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el uniforme	uniform	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	los tenis	sneakers/tennis shoes	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	la camiseta	jersey/t-shirt	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	los shorts	shorts	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el casco	helmet	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	los guantes	gloves	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	la lesión	injury	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	lesionarse	to get injured	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	la recuperación	recovery	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	recuperarse	to recover	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el músculo	muscle	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	estirar	to stretch	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	calentar	to warm up	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el calentamiento	warm-up	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el gimnasio	gym	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	las pesas	weights	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	levantar pesas	to lift weights	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	la resistencia	endurance/resistance	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	la agilidad	agility	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el trabajo en equipo	teamwork	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	la disciplina	discipline	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	superar	to overcome/surpass	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el récord	record	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	los Juegos Olímpicos	Olympic Games	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el atleta	athlete	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	profesional	professional	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	lanzar	to throw/launch	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	atrapar	to catch	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	patear	to kick	vocabulary
+Basic (and reversed card)	Vocabulary::Sports	el saque	serve (tennis/volleyball)	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el viaje	trip/journey	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el viajero	traveler	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el pasaporte	passport	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la visa	visa	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el aeropuerto	airport	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el avión	airplane	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	volar	to fly	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el vuelo	flight	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el boleto	ticket	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la maleta	suitcase	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el equipaje	luggage	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	facturar	to check in (luggage)	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la ventanilla	window seat	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el pasillo	aisle	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	despegar	to take off	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	aterrizar	to land	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la escala	layover/stopover	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la aduana	customs	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la inmigración	immigration	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el hotel	hotel	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el hostal	hostel	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el cuarto	room	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	reservar	to reserve/book	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la reservación	reservation	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el tour	tour	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el guía turístico	tour guide	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la atracción turística	tourist attraction	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el museo	museum	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el monumento	monument	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la playa	beach	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la montaña	mountain	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el bosque	forest	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el río	river	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el lago	lake	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la ciudad	city	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el pueblo	town/village	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el continente	continent	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el norte	north	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el sur	south	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el este	east	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el oeste	west	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el transporte	transportation	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el tren	train	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el metro	subway/metro	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	rentar un carro	to rent a car	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el dinero	money	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el cambio de divisas	currency exchange	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la tarjeta de crédito	credit card	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el cajero automático	ATM	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	caro	expensive	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	barato	cheap/inexpensive	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el recuerdo	souvenir	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	tomar una foto	to take a photo	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	perderse	to get lost	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	pedir direcciones	to ask for directions	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el traductor	translator	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la cultura	culture	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	las costumbres	customs/traditions	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la gastronomía	local cuisine	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	probar	to try/taste	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el clima	climate/weather	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el sol	sun	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la lluvia	rain	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	hacer las maletas	to pack (suitcases)	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	desempacar	to unpack	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el seguro de viaje	travel insurance	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la emergencia	emergency	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la embajada	embassy	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el consulado	consulate	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el voluntariado	volunteering	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	explorar	to explore	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	descubrir	to discover	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la aventura	adventure	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	emocionante	exciting	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el jet lag	jet lag	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la fotografía	photograph	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el pasaporte vencido	expired passport	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la iglesia local	local church	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la conexión	connection	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el vuelo de conexión	connecting flight	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el tiempo libre	free time	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el mapa de la ciudad	city map	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	la autopista	highway	vocabulary
+Basic (and reversed card)	Vocabulary::Travel	el camino	road/path	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el trabajo	work/job	vocabulary
+Basic (and reversed card)	Vocabulary::Work	la oficina	office	vocabulary
+Basic (and reversed card)	Vocabulary::Work	reunirse	to meet	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el proyecto	project	vocabulary
+Basic (and reversed card)	Vocabulary::Work	la tarea	task	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el plazo	deadline	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el informe	report	vocabulary
+Basic (and reversed card)	Vocabulary::Work	presentar	to present	vocabulary
+Basic (and reversed card)	Vocabulary::Work	la presentación	presentation	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el correo electrónico	email	vocabulary
+Basic (and reversed card)	Vocabulary::Work	enviar	to send	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el teléfono	phone	vocabulary
+Basic (and reversed card)	Vocabulary::Work	llamar	to call	vocabulary
+Basic (and reversed card)	Vocabulary::Work	la impresora	printer	vocabulary
+Basic (and reversed card)	Vocabulary::Work	imprimir	to print	vocabulary
+Basic (and reversed card)	Vocabulary::Work	la empresa	company/business	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el negocio	business	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el contrato	contract	vocabulary
+Basic (and reversed card)	Vocabulary::Work	firmar	to sign	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el salario	salary	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el sueldo	wage/pay	vocabulary
+Basic (and reversed card)	Vocabulary::Work	ganar	to earn	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el presupuesto	budget	vocabulary
+Basic (and reversed card)	Vocabulary::Work	la factura	invoice/bill	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el cliente	client/customer	vocabulary
+Basic (and reversed card)	Vocabulary::Work	la venta	sale	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el producto	product	vocabulary
+Basic (and reversed card)	Vocabulary::Work	la calidad	quality	vocabulary
+Basic (and reversed card)	Vocabulary::Work	la habilidad	skill/ability	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el currículum	resume/CV	vocabulary
+Basic (and reversed card)	Vocabulary::Work	la entrevista de trabajo	job interview	vocabulary
+Basic (and reversed card)	Vocabulary::Work	solicitar	to apply (for a job)	vocabulary
+Basic (and reversed card)	Vocabulary::Work	contratar	to hire	vocabulary
+Basic (and reversed card)	Vocabulary::Work	despedir	to fire/dismiss	vocabulary
+Basic (and reversed card)	Vocabulary::Work	renunciar	to resign/quit	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el ascenso	promotion	vocabulary
+Basic (and reversed card)	Vocabulary::Work	ascender	to be promoted	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el departamento	department	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el gerente	manager	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el director	director	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el asistente	assistant	vocabulary
+Basic (and reversed card)	Vocabulary::Work	la recepcionista	receptionist	vocabulary
+Basic (and reversed card)	Vocabulary::Work	la jornada completa	full-time	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el tiempo parcial	part-time	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el trabajo desde casa	working from home	vocabulary
+Basic (and reversed card)	Vocabulary::Work	remoto	remote	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el descanso	break/rest	vocabulary
+Basic (and reversed card)	Vocabulary::Work	las vacaciones	vacation/holidays	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el día libre	day off	vocabulary
+Basic (and reversed card)	Vocabulary::Work	la licencia	leave (of absence)	vocabulary
+Basic (and reversed card)	Vocabulary::Work	colaborar	to collaborate	vocabulary
+Basic (and reversed card)	Vocabulary::Work	la colaboración	collaboration	vocabulary
+Basic (and reversed card)	Vocabulary::Work	la ética laboral	work ethic	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el profesionalismo	professionalism	vocabulary
+Basic (and reversed card)	Vocabulary::Work	cumplir	to fulfill/meet (deadline)	vocabulary
+Basic (and reversed card)	Vocabulary::Work	la capacitación	training	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el taller	workshop	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el liderazgo	leadership	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el objetivo	objective	vocabulary
+Basic (and reversed card)	Vocabulary::Work	planear	to plan	vocabulary
+Basic (and reversed card)	Vocabulary::Work	organizar	to organize	vocabulary
+Basic (and reversed card)	Vocabulary::Work	la organización	organization	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el proveedor	supplier/provider	vocabulary
+Basic (and reversed card)	Vocabulary::Work	la secretaria	secretary	vocabulary
+Basic (and reversed card)	Vocabulary::Work	el permiso	permission/leave	vocabulary

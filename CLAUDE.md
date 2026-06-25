@@ -12,6 +12,7 @@ This project is an interactive website for learning and practicing Spanish. All 
 
 - All Spanish language in this project should focus on Latin American Spanish. Do not include examples of European Spanish.
 - Follow typical Spanish norms with subject pronouns. For example, do not include subject pronouns (yo, tú, etc...) before verbs if the verb conjugation implies them.
+- When generating vocabulary use the infinitive form of all verbs. Do not create duplicate entries in the same file.
 - All generated sentences should use the following contexts:
   - Bible (non-denominational Christian)
   - Bible study (non-denominational Christian)

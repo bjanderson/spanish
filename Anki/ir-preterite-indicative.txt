@@ -1,0 +1,37 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Ir::Preterit::Indicative	Did you go to the store?	¿Fuiste a la tienda?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the pharmacy.	Fui a la farmacia.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the park?	¿Fuiste al parque?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the hospital.	Fui al hospital.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to school?	¿Fuiste a la escuela?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the cinema.	Fui al cine.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the restaurant?	¿Fuiste al restaurante?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the supermarket.	Fui al supermercado.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the gym?	¿Fuiste al gimnasio?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the beach.	Fui a la playa.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to the store?	¿Cuándo fuiste a la tienda?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the park two hours ago.	Fui al parque hace dos horas.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you already go to the hospital?	¿Ya fuiste al hospital?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I already went to the store.	Ya fui a la tienda.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you already go to the beach?	¿Ya fuiste a la playa?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the restaurant two days ago.	Fui al restaurante hace dos días.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to the pharmacy?	¿Cuándo fuiste a la farmacia?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the library yesterday.	Fui a la biblioteca ayer.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you already go to the office?	¿Ya fuiste a la oficina?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the gym three days ago.	Fui al gimnasio hace tres días.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to the school?	¿Cuándo fuiste a la escuela?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I already went to the supermarket.	Ya fui al supermercado.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the airport?	¿Fuiste al aeropuerto?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the bank an hour ago.	Fui al banco hace una hora.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to the cinema?	¿Cuándo fuiste al cine?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I already went to the park.	Ya fui al parque.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you already go to the store?	¿Ya fuiste a la tienda?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the office last week.	Fui a la oficina la semana pasada.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to the library?	¿Cuándo fuiste a la biblioteca?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the hospital five days ago.	Fui al hospital hace cinco días.	Ir Preterit Indicative

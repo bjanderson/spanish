@@ -1,32 +1,34 @@
 #separator:tab
-#html:false
-#deck:Spanish::Alphabet
-#notetype:Basic
-#columns:Front	Back
-Aa	Letter name: "ah" | Sound: like the "a" in "father" — pure, steady vowel, never a diphthong
-Bb	Letter name: "beh" | Sound: like English "b" — lips together; same sound as V in Latin American Spanish
-Cc	Letter name: "seh" | Sound: like English "s" before E or I (Latin America — no "th" sound); like "k" before A, O, or U
-Dd	Letter name: "deh" | Sound: like English "d" — softens between vowels (closer to "th" in "the")
-Ee	Letter name: "eh" | Sound: like the "e" in "bed" — short, clean, never silent
-Ff	Letter name: "EH-feh" | Sound: like English "f"
-Gg	Letter name: "heh" | Sound: like English "h" before E or I; like "g" in "go" before A, O, or U
-Hh	Letter name: "AH-cheh" | Sound: always silent — never pronounced in Spanish
-Ii	Letter name: "ee" | Sound: like "ee" in "see" — short and pure
-Jj	Letter name: "HOH-tah" | Sound: like English "h" — a breathy sound from the back of the throat
-Kk	Letter name: "kah" | Sound: like English "k" — rare, mostly in foreign words
-Ll	Letter name: "EH-leh" | Sound: like English "l"
-Mm	Letter name: "EH-meh" | Sound: like English "m"
-Nn	Letter name: "EH-neh" | Sound: like English "n"
-Ññ	Letter name: "EH-nyeh" | Sound: like "ny" in "canyon" — a nasal palatal sound unique to Spanish
-Oo	Letter name: "oh" | Sound: like "o" in "go" — pure and steady, never drifts to "ow"
-Pp	Letter name: "peh" | Sound: like English "p" — less aspirated (no puff of air)
-Qq	Letter name: "koo" | Sound: like "k" — always written as "qu" before E or I; the U is silent
-Rr	Letter name: "EH-reh" | Sound: single quick tap (like "d" in "ladder") in the middle of words; trilled/rolled at the start of a word or when written as "rr"
-Ss	Letter name: "EH-seh" | Sound: like English "s"
-Tt	Letter name: "teh" | Sound: like English "t" — less aspirated (no puff of air)
-Uu	Letter name: "oo" | Sound: like "oo" in "moon" — pure vowel; silent after Q and in "gue/gui"
-Vv	Letter name: "beh" (or "oo-beh") | Sound: identical to B in Latin American Spanish — lips together
-Ww	Letter name: "DOH-bleh beh" or "oo-beh DOH-bleh" | Sound: like English "w" — only appears in foreign loanwords
-Xx	Letter name: "EH-kees" | Sound: like "ks" in most words; like "h" in words of indigenous origin (e.g., México)
-Yy	Letter name: "yeh" | Sound: like English "y" as a consonant; like "ee" when used alone as the word "and"
-Zz	Letter name: "SEH-tah" | Sound: like English "s" in Latin America (no "th" sound as in Spain)
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Alphabet	Aa	Letter name: "ah" | Sound: like the "a" in "father" — pure, steady vowel, never a diphthong	Alphabet
+Basic	Alphabet	Bb	Letter name: "beh" | Sound: like English "b" — lips together; same sound as V in Latin American Spanish	Alphabet
+Basic	Alphabet	Cc	Letter name: "seh" | Sound: like English "s" before E or I (Latin America — no "th" sound); like "k" before A, O, or U	Alphabet
+Basic	Alphabet	Dd	Letter name: "deh" | Sound: like English "d" — softens between vowels (closer to "th" in "the")	Alphabet
+Basic	Alphabet	Ee	Letter name: "eh" | Sound: like the "e" in "bed" — short, clean, never silent	Alphabet
+Basic	Alphabet	Ff	Letter name: "EH-feh" | Sound: like English "f"	Alphabet
+Basic	Alphabet	Gg	Letter name: "heh" | Sound: like English "h" before E or I; like "g" in "go" before A, O, or U	Alphabet
+Basic	Alphabet	Hh	Letter name: "AH-cheh" | Sound: always silent — never pronounced in Spanish	Alphabet
+Basic	Alphabet	Ii	Letter name: "ee" | Sound: like "ee" in "see" — short and pure	Alphabet
+Basic	Alphabet	Jj	Letter name: "HOH-tah" | Sound: like English "h" — a breathy sound from the back of the throat	Alphabet
+Basic	Alphabet	Kk	Letter name: "kah" | Sound: like English "k" — rare, mostly in foreign words	Alphabet
+Basic	Alphabet	Ll	Letter name: "EH-leh" | Sound: like English "l"	Alphabet
+Basic	Alphabet	Mm	Letter name: "EH-meh" | Sound: like English "m"	Alphabet
+Basic	Alphabet	Nn	Letter name: "EH-neh" | Sound: like English "n"	Alphabet
+Basic	Alphabet	Ññ	Letter name: "EH-nyeh" | Sound: like "ny" in "canyon" — a nasal palatal sound unique to Spanish	Alphabet
+Basic	Alphabet	Oo	Letter name: "oh" | Sound: like "o" in "go" — pure and steady, never drifts to "ow"	Alphabet
+Basic	Alphabet	Pp	Letter name: "peh" | Sound: like English "p" — less aspirated (no puff of air)	Alphabet
+Basic	Alphabet	Qq	Letter name: "koo" | Sound: like "k" — always written as "qu" before E or I; the U is silent	Alphabet
+Basic	Alphabet	Rr	Letter name: "EH-reh" | Sound: single quick tap (like "d" in "ladder") in the middle of words; trilled/rolled at the start of a word or when written as "rr"	Alphabet
+Basic	Alphabet	Ss	Letter name: "EH-seh" | Sound: like English "s"	Alphabet
+Basic	Alphabet	Tt	Letter name: "teh" | Sound: like English "t" — less aspirated (no puff of air)	Alphabet
+Basic	Alphabet	Uu	Letter name: "oo" | Sound: like "oo" in "moon" — pure vowel; silent after Q and in "gue/gui"	Alphabet
+Basic	Alphabet	Vv	Letter name: "beh" (or "oo-beh") | Sound: identical to B in Latin American Spanish — lips together	Alphabet
+Basic	Alphabet	Ww	Letter name: "DOH-bleh beh" or "oo-beh DOH-bleh" | Sound: like English "w" — only appears in foreign loanwords	Alphabet
+Basic	Alphabet	Xx	Letter name: "EH-kees" | Sound: like "ks" in most words; like "h" in words of indigenous origin (e.g., México)	Alphabet
+Basic	Alphabet	Yy	Letter name: "yeh" | Sound: like English "y" as a consonant; like "ee" when used alone as the word "and"	Alphabet
+Basic	Alphabet	Zz	Letter name: "SEH-tah" | Sound: like English "s" in Latin America (no "th" sound as in Spain)	Alphabet

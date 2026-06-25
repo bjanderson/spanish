@@ -1,0 +1,37 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Tener_Que::Present::Indicative	I have to eat.	Tengo que comer.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	You have to work.	Tienes que trabajar.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I have to study with you.	Tengo que estudiar contigo.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you have to study with me?	¿Tienes que estudiar conmigo?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I have to confirm the information.	Tengo que confirmar la información.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you have to work tomorrow?	¿Tienes que trabajar mañana?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I want to eat.	Quiero comer.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you want to work tomorrow?	¿Quieres trabajar mañana?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I can study with you tomorrow.	Puedo estudiar contigo mañana.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Can you work today?	¿Puedes trabajar hoy?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I want to study Spanish.	Quiero estudiar español.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you want to confirm the reservation?	¿Quieres confirmar la reserva / reservación?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I have to work tomorrow.	Tengo que trabajar mañana.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you have to eat now?	¿Tienes que comer ahora?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I want to study with you tomorrow.	Quiero estudiar contigo mañana.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Can you confirm the information?	¿Puedes confirmar la información?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I have to verify the information.	Tengo que verificar la información.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you want to eat now?	¿Quieres comer ahora?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I can work tomorrow.	Puedo trabajar mañana.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Can you study with me today?	¿Puedes estudiar conmigo hoy?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I have to organize the meeting.	Tengo que organizar la reunión.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you want to study Spanish today?	¿Quieres estudiar español hoy?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I want to confirm the reservation.	Quiero confirmar la reserva / reservación.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you have to organize the party?	¿Tienes que organizar la fiesta?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I can work with you tomorrow.	Puedo trabajar contigo mañana.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you want to verify the information?	¿Quieres verificar la información?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I have to work today.	Tengo que trabajar hoy.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you have to study Spanish tomorrow?	¿Tienes que estudiar español mañana?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I want to eat with you.	Quiero comer contigo.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Can you work with me tomorrow?	¿Puedes trabajar conmigo mañana?	Tener_Que Present Indicative

@@ -5,103 +5,103 @@
 #front column:3
 #back column:4
 #tags column:5
-Basic	Spanish 101	Hello	Hola	Greetings
-Basic	Spanish 101	Good morning	Buenos días	Greetings
-Basic	Spanish 101	Good afternoon	Buenas tardes	Greetings
-Basic	Spanish 101	Good evening	Buenas noches	Greetings
-Basic	Spanish 101	How are you?	¿Cómo estás?	Greetings
-Basic	Spanish 101	I'm fine, thank you.	Estoy bien, gracias.	Greetings
-Basic	Spanish 101	What's your name?	¿Cómo te llamas?	Greetings
-Basic	Spanish 101	My name is...	Me llamo...	Greetings
-Basic	Spanish 101	Nice to meet you.	Mucho gusto.	Greetings
-Basic	Spanish 101	See you later.	Hasta luego.	Greetings
-Basic	Spanish 101	Please	Por favor	Basic_Phrases
-Basic	Spanish 101	Thank you	Gracias	Basic_Phrases
-Basic	Spanish 101	You're welcome	De nada	Basic_Phrases
-Basic	Spanish 101	I'm sorry	Lo siento	Basic_Phrases
-Basic	Spanish 101	Excuse me	Perdón	Basic_Phrases
-Basic	Spanish 101	Yes	Sí	Basic_Phrases
-Basic	Spanish 101	No	No	Basic_Phrases
-Basic	Spanish 101	I don't understand.	No entiendo.	Basic_Phrases
-Basic	Spanish 101	Could you repeat that?	¿Puede repetir eso?	Basic_Phrases
-Basic	Spanish 101	More slowly, please.	Más despacio, por favor.	Basic_Phrases
-Basic	Spanish 101	Where is the bathroom?	¿Dónde está el baño?	Travel
-Basic	Spanish 101	How much does it cost?	¿Cuánto cuesta?	Travel
-Basic	Spanish 101	I need a taxi.	Necesito un taxi.	Travel
-Basic	Spanish 101	Where is the hotel?	¿Dónde está el hotel?	Travel
-Basic	Spanish 101	Where is the airport?	¿Dónde está el aeropuerto?	Travel
-Basic	Spanish 101	I am lost.	Estoy perdido.	Travel
-Basic	Spanish 101	Turn left.	Gira a la izquierda.	Travel
-Basic	Spanish 101	Turn right.	Gira a la derecha.	Travel
-Basic	Spanish 101	Go straight ahead.	Sigue recto.	Travel
-Basic	Spanish 101	I need help.	Necesito ayuda.	Travel
-Basic	Spanish 101	A table for two, please.	Una mesa para dos, por favor.	Restaurant
-Basic	Spanish 101	The menu, please.	El menú, por favor.	Restaurant
-Basic	Spanish 101	What do you recommend?	¿Qué recomienda?	Restaurant
-Basic	Spanish 101	I would like...	Quisiera...	Restaurant
-Basic	Spanish 101	The check, please.	La cuenta, por favor.	Restaurant
-Basic	Spanish 101	Water, please.	Agua, por favor.	Restaurant
-Basic	Spanish 101	I'm hungry.	Tengo hambre.	Restaurant
-Basic	Spanish 101	I'm thirsty.	Tengo sed.	Restaurant
-Basic	Spanish 101	This is delicious!	¡Esto está delicioso!	Restaurant
-Basic	Spanish 101	I am allergic to...	Soy alérgico a...	Restaurant
-Basic	Spanish 101	My home	Mi casa	Home
-Basic	Spanish 101	I live here.	Vivo aquí.	Home
-Basic	Spanish 101	Come in!	¡Pasa!	Home
-Basic	Spanish 101	Make yourself at home.	Estás en tu casa.	Home
-Basic	Spanish 101	The kitchen is over there.	La cocina está allá.	Home
-Basic	Spanish 101	My family	Mi familia	Family
-Basic	Spanish 101	My mother	Mi mamá	Family
-Basic	Spanish 101	My father	Mi papá	Family
-Basic	Spanish 101	My brother	Mi hermano	Family
-Basic	Spanish 101	My sister	Mi hermana	Family
-Basic	Spanish 101	My children	Mis hijos	Family
-Basic	Spanish 101	My husband	Mi esposo	Family
-Basic	Spanish 101	My wife	Mi esposa	Family
-Basic	Spanish 101	My grandfather	Mi abuelo	Family
-Basic	Spanish 101	I love my family.	Amo a mi familia.	Family
-Basic	Spanish 101	This is my friend.	Este es mi amigo.	Friends
-Basic	Spanish 101	We are friends.	Somos amigos.	Friends
-Basic	Spanish 101	Do you want to come with us?	¿Quieres venir con nosotros?	Friends
-Basic	Spanish 101	Let's go!	¡Vamos!	Friends
-Basic	Spanish 101	Have fun!	¡Diviértete!	Friends
-Basic	Spanish 101	My dog	Mi perro	Pets
-Basic	Spanish 101	My cat	Mi gato	Pets
-Basic	Spanish 101	I have a pet.	Tengo una mascota.	Pets
-Basic	Spanish 101	The dog is hungry.	El perro tiene hambre.	Pets
-Basic	Spanish 101	The cat is sleeping.	El gato está dormido.	Pets
-Basic	Spanish 101	I am a student.	Soy estudiante.	School
-Basic	Spanish 101	I go to school.	Voy a la escuela.	School
-Basic	Spanish 101	I am learning Spanish.	Estoy aprendiendo español.	School
-Basic	Spanish 101	The teacher is here.	El maestro está aquí.	School
-Basic	Spanish 101	I need to study.	Necesito estudiar.	School
-Basic	Spanish 101	I feel sick.	Me siento enfermo.	Health
-Basic	Spanish 101	I have a headache.	Tengo dolor de cabeza.	Health
-Basic	Spanish 101	I need medicine.	Necesito medicina.	Health
-Basic	Spanish 101	Call a doctor.	Llame a un médico.	Health
-Basic	Spanish 101	I am at the doctor.	Estoy en el médico.	Health
-Basic	Spanish 101	I work here.	Trabajo aquí.	Work
-Basic	Spanish 101	Where do you work?	¿Dónde trabajas?	Work
-Basic	Spanish 101	I have a meeting.	Tengo una reunión.	Work
-Basic	Spanish 101	I am busy right now.	Estoy ocupado ahora mismo.	Work
-Basic	Spanish 101	I finish work at five.	Termino el trabajo a las cinco.	Work
-Basic	Spanish 101	I like music.	Me gusta la música.	Music
-Basic	Spanish 101	I enjoy singing.	Me gusta cantar.	Music
-Basic	Spanish 101	This song is beautiful.	Esta canción es hermosa.	Music
-Basic	Spanish 101	Let's sing together.	Cantemos juntos.	Music
-Basic	Spanish 101	What is your favorite song?	¿Cuál es tu canción favorita?	Music
-Basic	Spanish 101	God bless you.	Dios te bendiga.	Church
-Basic	Spanish 101	I believe in God.	Creo en Dios.	Church
-Basic	Spanish 101	Jesus loves you.	Jesús te ama.	Church
-Basic	Spanish 101	Let us pray.	Oremos.	Church
-Basic	Spanish 101	The Bible says...	La Biblia dice...	Bible
-Basic	Spanish 101	I go to church.	Voy a la iglesia.	Church
-Basic	Spanish 101	Today is Sunday.	Hoy es domingo.	Church
-Basic	Spanish 101	Praise the Lord.	Alabado sea el Señor.	Church
-Basic	Spanish 101	God is good.	Dios es bueno.	Church
-Basic	Spanish 101	I will pray for you.	Voy a orar por ti.	Church
-Basic	Spanish 101	We are reading the Bible.	Estamos leyendo la Biblia.	Bible
-Basic	Spanish 101	God loves you.	Dios te ama.	Church
-Basic	Spanish 101	Have faith.	Ten fe.	Church
-Basic	Spanish 101	The Lord is my shepherd.	El Señor es mi pastor.	Bible
-Basic	Spanish 101	See you at church.	Te veo en la iglesia.	Church
+Basic	Spanish_101	Hello	Hola	Greetings Spanish_101
+Basic	Spanish_101	Good morning	Buenos días	Greetings Spanish_101
+Basic	Spanish_101	Good afternoon	Buenas tardes	Greetings Spanish_101
+Basic	Spanish_101	Good evening	Buenas noches	Greetings Spanish_101
+Basic	Spanish_101	How are you?	¿Cómo estás?	Greetings Spanish_101
+Basic	Spanish_101	I'm fine, thank you.	Estoy bien, gracias.	Greetings Spanish_101
+Basic	Spanish_101	What's your name?	¿Cómo te llamas?	Greetings Spanish_101
+Basic	Spanish_101	My name is...	Me llamo...	Greetings Spanish_101
+Basic	Spanish_101	Nice to meet you.	Mucho gusto.	Greetings Spanish_101
+Basic	Spanish_101	See you later.	Hasta luego.	Greetings Spanish_101
+Basic	Spanish_101	Please	Por favor	Basic_Phrases Spanish_101
+Basic	Spanish_101	Thank you	Gracias	Basic_Phrases Spanish_101
+Basic	Spanish_101	You're welcome	De nada	Basic_Phrases Spanish_101
+Basic	Spanish_101	I'm sorry	Lo siento	Basic_Phrases Spanish_101
+Basic	Spanish_101	Excuse me	Perdón	Basic_Phrases Spanish_101
+Basic	Spanish_101	Yes	Sí	Basic_Phrases Spanish_101
+Basic	Spanish_101	No	No	Basic_Phrases Spanish_101
+Basic	Spanish_101	I don't understand.	No entiendo.	Basic_Phrases Spanish_101
+Basic	Spanish_101	Could you repeat that?	¿Puede repetir eso?	Basic_Phrases Spanish_101
+Basic	Spanish_101	More slowly, please.	Más despacio, por favor.	Basic_Phrases Spanish_101
+Basic	Spanish_101	Where is the bathroom?	¿Dónde está el baño?	Travel Spanish_101
+Basic	Spanish_101	How much does it cost?	¿Cuánto cuesta?	Travel Spanish_101
+Basic	Spanish_101	I need a taxi.	Necesito un taxi.	Travel Spanish_101
+Basic	Spanish_101	Where is the hotel?	¿Dónde está el hotel?	Travel Spanish_101
+Basic	Spanish_101	Where is the airport?	¿Dónde está el aeropuerto?	Travel Spanish_101
+Basic	Spanish_101	I am lost.	Estoy perdido.	Travel Spanish_101
+Basic	Spanish_101	Turn left.	Gira a la izquierda.	Travel Spanish_101
+Basic	Spanish_101	Turn right.	Gira a la derecha.	Travel Spanish_101
+Basic	Spanish_101	Go straight ahead.	Sigue recto.	Travel Spanish_101
+Basic	Spanish_101	I need help.	Necesito ayuda.	Travel Spanish_101
+Basic	Spanish_101	A table for two, please.	Una mesa para dos, por favor.	Restaurant Spanish_101
+Basic	Spanish_101	The menu, please.	El menú, por favor.	Restaurant Spanish_101
+Basic	Spanish_101	What do you recommend?	¿Qué recomienda?	Restaurant Spanish_101
+Basic	Spanish_101	I would like...	Quisiera...	Restaurant Spanish_101
+Basic	Spanish_101	The check, please.	La cuenta, por favor.	Restaurant Spanish_101
+Basic	Spanish_101	Water, please.	Agua, por favor.	Restaurant Spanish_101
+Basic	Spanish_101	I'm hungry.	Tengo hambre.	Restaurant Spanish_101
+Basic	Spanish_101	I'm thirsty.	Tengo sed.	Restaurant Spanish_101
+Basic	Spanish_101	This is delicious!	¡Esto está delicioso!	Restaurant Spanish_101
+Basic	Spanish_101	I am allergic to...	Soy alérgico a...	Restaurant Spanish_101
+Basic	Spanish_101	My home	Mi casa	Home Spanish_101
+Basic	Spanish_101	I live here.	Vivo aquí.	Home Spanish_101
+Basic	Spanish_101	Come in!	¡Pasa!	Home Spanish_101
+Basic	Spanish_101	Make yourself at home.	Estás en tu casa.	Home Spanish_101
+Basic	Spanish_101	The kitchen is over there.	La cocina está allá.	Home Spanish_101
+Basic	Spanish_101	My family	Mi familia	Family Spanish_101
+Basic	Spanish_101	My mother	Mi mamá	Family Spanish_101
+Basic	Spanish_101	My father	Mi papá	Family Spanish_101
+Basic	Spanish_101	My brother	Mi hermano	Family Spanish_101
+Basic	Spanish_101	My sister	Mi hermana	Family Spanish_101
+Basic	Spanish_101	My children	Mis hijos	Family Spanish_101
+Basic	Spanish_101	My husband	Mi esposo	Family Spanish_101
+Basic	Spanish_101	My wife	Mi esposa	Family Spanish_101
+Basic	Spanish_101	My grandfather	Mi abuelo	Family Spanish_101
+Basic	Spanish_101	I love my family.	Amo a mi familia.	Family Spanish_101
+Basic	Spanish_101	This is my friend.	Este es mi amigo.	Friends Spanish_101
+Basic	Spanish_101	We are friends.	Somos amigos.	Friends Spanish_101
+Basic	Spanish_101	Do you want to come with us?	¿Quieres venir con nosotros?	Friends Spanish_101
+Basic	Spanish_101	Let's go!	¡Vamos!	Friends Spanish_101
+Basic	Spanish_101	Have fun!	¡Diviértete!	Friends Spanish_101
+Basic	Spanish_101	My dog	Mi perro	Pets Spanish_101
+Basic	Spanish_101	My cat	Mi gato	Pets Spanish_101
+Basic	Spanish_101	I have a pet.	Tengo una mascota.	Pets Spanish_101
+Basic	Spanish_101	The dog is hungry.	El perro tiene hambre.	Pets Spanish_101
+Basic	Spanish_101	The cat is sleeping.	El gato está dormido.	Pets Spanish_101
+Basic	Spanish_101	I am a student.	Soy estudiante.	School Spanish_101
+Basic	Spanish_101	I go to school.	Voy a la escuela.	School Spanish_101
+Basic	Spanish_101	I am learning Spanish.	Estoy aprendiendo español.	School Spanish_101
+Basic	Spanish_101	The teacher is here.	El maestro está aquí.	School Spanish_101
+Basic	Spanish_101	I need to study.	Necesito estudiar.	School Spanish_101
+Basic	Spanish_101	I feel sick.	Me siento enfermo.	Health Spanish_101
+Basic	Spanish_101	I have a headache.	Tengo dolor de cabeza.	Health Spanish_101
+Basic	Spanish_101	I need medicine.	Necesito medicina.	Health Spanish_101
+Basic	Spanish_101	Call a doctor.	Llame a un médico.	Health Spanish_101
+Basic	Spanish_101	I am at the doctor.	Estoy en el médico.	Health Spanish_101
+Basic	Spanish_101	I work here.	Trabajo aquí.	Work Spanish_101
+Basic	Spanish_101	Where do you work?	¿Dónde trabajas?	Work Spanish_101
+Basic	Spanish_101	I have a meeting.	Tengo una reunión.	Work Spanish_101
+Basic	Spanish_101	I am busy right now.	Estoy ocupado ahora mismo.	Work Spanish_101
+Basic	Spanish_101	I finish work at five.	Termino el trabajo a las cinco.	Work Spanish_101
+Basic	Spanish_101	I like music.	Me gusta la música.	Music Spanish_101
+Basic	Spanish_101	I enjoy singing.	Me gusta cantar.	Music Spanish_101
+Basic	Spanish_101	This song is beautiful.	Esta canción es hermosa.	Music Spanish_101
+Basic	Spanish_101	Let's sing together.	Cantemos juntos.	Music Spanish_101
+Basic	Spanish_101	What is your favorite song?	¿Cuál es tu canción favorita?	Music Spanish_101
+Basic	Spanish_101	God bless you.	Dios te bendiga.	Church Spanish_101
+Basic	Spanish_101	I believe in God.	Creo en Dios.	Church Spanish_101
+Basic	Spanish_101	Jesus loves you.	Jesús te ama.	Church Spanish_101
+Basic	Spanish_101	Let us pray.	Oremos.	Church Spanish_101
+Basic	Spanish_101	The Bible says...	La Biblia dice...	Bible Spanish_101
+Basic	Spanish_101	I go to church.	Voy a la iglesia.	Church Spanish_101
+Basic	Spanish_101	Today is Sunday.	Hoy es domingo.	Church Spanish_101
+Basic	Spanish_101	Praise the Lord.	Alabado sea el Señor.	Church Spanish_101
+Basic	Spanish_101	God is good.	Dios es bueno.	Church Spanish_101
+Basic	Spanish_101	I will pray for you.	Voy a orar por ti.	Church Spanish_101
+Basic	Spanish_101	We are reading the Bible.	Estamos leyendo la Biblia.	Bible Spanish_101
+Basic	Spanish_101	God loves you.	Dios te ama.	Church Spanish_101
+Basic	Spanish_101	Have faith.	Ten fe.	Church Spanish_101
+Basic	Spanish_101	The Lord is my shepherd.	El Señor es mi pastor.	Bible Spanish_101
+Basic	Spanish_101	See you at church.	Te veo en la iglesia.	Church Spanish_101
