@@ -30,3 +30,46 @@ Basic	Querer::Present::Indicative	I can decorate the house.	Puedo decorar la cas
 Basic	Querer::Present::Indicative	Do you want to work this weekend?	¿Quieres trabajar este fin de semana?	Querer Present Indicative
 Basic	Querer::Present::Indicative	I want to collaborate on the video.	Quiero colaborar en el video.	Querer Present Indicative
 Basic	Querer::Present::Indicative	Can you help me confirm the reservation?	¿Puedes ayudarme a confirmar la reserva? / ¿Me puedes ayudar a confirmar la reserva? (la reservación)	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to pray with you.	Quiero orar contigo.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to pray together?	¿Quieres orar juntos?	Querer Present Indicative
+Basic	Querer::Present::Indicative	I can pray with you now.	Puedo orar contigo ahora.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Can you pray with me?	¿Puedes orar conmigo?	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to read the Bible.	Quiero leer la Biblia.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to read the Bible with me?	¿Quieres leer la Biblia conmigo?	Querer Present Indicative
+Basic	Querer::Present::Indicative	I can read a chapter today.	Puedo leer un capítulo hoy.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Can you read this passage?	¿Puedes leer este pasaje?	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to sing with the choir.	Quiero cantar con el coro.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to sing with us?	¿Quieres cantar con nosotros?	Querer Present Indicative
+Basic	Querer::Present::Indicative	I can sing on Sunday.	Puedo cantar el domingo.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Can you sing this song?	¿Puedes cantar esta canción?	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to listen to music.	Quiero escuchar música.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to listen to music with me?	¿Quieres escuchar música conmigo?	Querer Present Indicative
+Basic	Querer::Present::Indicative	I can listen to the podcast today.	Puedo escuchar el podcast hoy.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to cook dinner.	Quiero cocinar la cena.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to cook with me?	¿Quieres cocinar conmigo?	Querer Present Indicative
+Basic	Querer::Present::Indicative	I can cook dinner tonight.	Puedo cocinar la cena esta noche.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Can you cook on Sunday?	¿Puedes cocinar el domingo?	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to visit my family.	Quiero visitar a mi familia.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to visit the church?	¿Quieres visitar la iglesia?	Querer Present Indicative
+Basic	Querer::Present::Indicative	I can visit you on Saturday.	Puedo visitarte el sábado.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Can you visit me this weekend?	¿Puedes visitarme este fin de semana?	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to invite my friends to church.	Quiero invitar a mis amigos a la iglesia.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Can you invite your family?	¿Puedes invitar a tu familia?	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to learn a new song.	Quiero aprender una canción nueva.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to learn Spanish?	¿Quieres aprender español?	Querer Present Indicative
+Basic	Querer::Present::Indicative	I can learn this verse.	Puedo aprender este versículo.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Can you learn this prayer?	¿Puedes aprender esta oración?	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to clean the house.	Quiero limpiar la casa.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to clean with me?	¿Quieres limpiar conmigo?	Querer Present Indicative
+Basic	Querer::Present::Indicative	I can clean the kitchen.	Puedo limpiar la cocina.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Can you clean the table?	¿Puedes limpiar la mesa?	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to rest on Sunday.	Quiero descansar el domingo.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to rest?	¿Quieres descansar?	Querer Present Indicative
+Basic	Querer::Present::Indicative	I can rest after work.	Puedo descansar después del trabajo.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to drink coffee.	Quiero tomar café.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to drink water?	¿Quieres tomar agua?	Querer Present Indicative
+Basic	Querer::Present::Indicative	Can you drink more water?	¿Puedes tomar más agua?	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to write a letter to my friend.	Quiero escribir una carta a mi amigo.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to write to me?	¿Quieres escribirme?	Querer Present Indicative
+Basic	Querer::Present::Indicative	I can write the email today.	Puedo escribir el correo hoy.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Can you write the report?	¿Puedes escribir el informe?	Querer Present Indicative

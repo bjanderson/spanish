@@ -35,3 +35,47 @@ Basic	Tener_Que::Present::Indicative	I have to work today.	Tengo que trabajar ho
 Basic	Tener_Que::Present::Indicative	Do you have to study Spanish tomorrow?	¿Tienes que estudiar español mañana?	Tener_Que Present Indicative
 Basic	Tener_Que::Present::Indicative	I want to eat with you.	Quiero comer contigo.	Tener_Que Present Indicative
 Basic	Tener_Que::Present::Indicative	Can you work with me tomorrow?	¿Puedes trabajar conmigo mañana?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I have to cook dinner.	Tengo que cocinar la cena.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you have to cook tonight?	¿Tienes que cocinar esta noche?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I want to cook with you.	Quiero cocinar contigo.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Can you cook on Sunday?	¿Puedes cocinar el domingo?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I have to clean the house.	Tengo que limpiar la casa.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you have to clean the kitchen?	¿Tienes que limpiar la cocina?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I can clean the table.	Puedo limpiar la mesa.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you want to clean with me?	¿Quieres limpiar conmigo?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I have to pray now.	Tengo que orar ahora.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you want to pray with me?	¿Quieres orar conmigo?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I can pray with you today.	Puedo orar contigo hoy.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you have to pray with the group?	¿Tienes que orar con el grupo?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I have to read the Bible today.	Tengo que leer la Biblia hoy.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you want to read with me?	¿Quieres leer conmigo?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I can read the chapter tonight.	Puedo leer el capítulo esta noche.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you have to read the report?	¿Tienes que leer el informe?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I have to call my family.	Tengo que llamar a mi familia.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you have to call the doctor?	¿Tienes que llamar al médico?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I want to call you tomorrow.	Quiero llamarte mañana.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Can you call me today?	¿Puedes llamarme hoy?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I have to prepare the lesson.	Tengo que preparar la lección.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you have to prepare the food?	¿Tienes que preparar la comida?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I can prepare the dinner tonight.	Puedo preparar la cena esta noche.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you want to prepare the presentation?	¿Quieres preparar la presentación?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I have to finish the project.	Tengo que terminar el proyecto.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you have to finish the report?	¿Tienes que terminar el informe?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I can finish the work today.	Puedo terminar el trabajo hoy.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you want to finish with me?	¿Quieres terminar conmigo?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I have to write the email.	Tengo que escribir el correo.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you have to write the letter?	¿Tienes que escribir la carta?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I can write the report tomorrow.	Puedo escribir el informe mañana.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you want to write with me?	¿Quieres escribir conmigo?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I have to help my friend.	Tengo que ayudar a mi amigo.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you have to help your family?	¿Tienes que ayudar a tu familia?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I can help you today.	Puedo ayudarte hoy.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Can you help me with the lesson?	¿Puedes ayudarme con la lección?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I have to rest today.	Tengo que descansar hoy.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you want to rest with me?	¿Quieres descansar conmigo?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I can rest after dinner.	Puedo descansar después de la cena.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you have to rest now?	¿Tienes que descansar ahora?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I have to arrive early.	Tengo que llegar temprano.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you have to arrive on time?	¿Tienes que llegar a tiempo?	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	I can arrive tomorrow morning.	Puedo llegar mañana por la mañana.	Tener_Que Present Indicative
+Basic	Tener_Que::Present::Indicative	Do you want to arrive early?	¿Quieres llegar temprano?	Tener_Que Present Indicative

@@ -35,3 +35,45 @@ Basic	Ir::Preterit::Indicative	Did you already go to the store?	¿Ya fuiste a la
 Basic	Ir::Preterit::Indicative	I went to the office last week.	Fui a la oficina la semana pasada.	Ir Preterit Indicative
 Basic	Ir::Preterit::Indicative	When did you go to the library?	¿Cuándo fuiste a la biblioteca?	Ir Preterit Indicative
 Basic	Ir::Preterit::Indicative	I went to the hospital five days ago.	Fui al hospital hace cinco días.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to church?	¿Fuiste a la iglesia?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to church last Sunday.	Fui a la iglesia el domingo pasado.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you already go to church?	¿Ya fuiste a la iglesia?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to church?	¿Cuándo fuiste a la iglesia?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to Bible study yesterday.	Fui al estudio bíblico ayer.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to Bible study?	¿Fuiste al estudio bíblico?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I already went to Bible study.	Ya fui al estudio bíblico.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to Bible study?	¿Cuándo fuiste al estudio bíblico?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the doctor?	¿Fuiste al médico?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the doctor last week.	Fui al médico la semana pasada.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to the doctor?	¿Cuándo fuiste al médico?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the dentist?	¿Fuiste al dentista?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the dentist two weeks ago.	Fui al dentista hace dos semanas.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you already go to the dentist?	¿Ya fuiste al dentista?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to work today?	¿Fuiste al trabajo hoy?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to work this morning.	Fui al trabajo esta mañana.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to work?	¿Cuándo fuiste al trabajo?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the concert?	¿Fuiste al concierto?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the concert last night.	Fui al concierto anoche.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to the concert?	¿Cuándo fuiste al concierto?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go home?	¿Fuiste a casa?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I already went home.	Ya fui a casa.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go home?	¿Cuándo fuiste a casa?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the vet?	¿Fuiste al veterinario?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the vet yesterday.	Fui al veterinario ayer.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to class?	¿Fuiste a la clase?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to class this morning.	Fui a la clase esta mañana.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you already go to class?	¿Ya fuiste a la clase?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the museum?	¿Fuiste al museo?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the museum last month.	Fui al museo el mes pasado.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to the museum?	¿Cuándo fuiste al museo?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the hotel?	¿Fuiste al hotel?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the hotel an hour ago.	Fui al hotel hace una hora.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the train station?	¿Fuiste a la estación de tren?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the train station four hours ago.	Fui a la estación de tren hace cuatro horas.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to my friend's house?	¿Fuiste a la casa de mi amigo?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to my grandmother's house last week.	Fui a la casa de mi abuela la semana pasada.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to your grandmother's house?	¿Cuándo fuiste a la casa de tu abuela?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I already went to the bank.	Ya fui al banco.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the pharmacy yesterday?	¿Fuiste a la farmacia ayer?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the airport last night.	Fui al aeropuerto anoche.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to the airport?	¿Cuándo fuiste al aeropuerto?	Ir Preterit Indicative

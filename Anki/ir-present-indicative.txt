@@ -55,3 +55,46 @@ Basic	Ir::Present::Indicative	I want to go to the store to buy oranges.	Quiero i
 Basic	Ir::Present::Indicative	Do you want to go to the store to buy plantains?	¿Quieres ir a la tienda a comprar plátanos?	Ir Present Indicative
 Basic	Ir::Present::Indicative	I want to go to the store to buy grapes.	Quiero ir a la tienda a comprar uvas.	Ir Present Indicative
 Basic	Ir::Present::Indicative	I can go to the store to buy tomatoes.	Puedo ir a la tienda a comprar tomates.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to church.	Voy a la iglesia.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go to church?	¿Quieres ir a la iglesia?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to Bible study.	Tengo que ir al estudio bíblico.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Can you go to Bible study?	¿Puedes ir al estudio bíblico?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to the prayer meeting.	Quiero ir a la reunión de oración.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you have to go to the prayer meeting?	¿Tienes que ir a la reunión de oración?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to the doctor.	Voy al médico.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you have to go to the dentist?	¿Tienes que ir al dentista?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to the dentist.	Tengo que ir al dentista.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I can go to the clinic.	Puedo ir a la clínica.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Can you go to the doctor?	¿Puedes ir al médico?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to work.	Voy al trabajo.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you have to go to work today?	¿Tienes que ir al trabajo hoy?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to the meeting.	Tengo que ir a la reunión.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go to the meeting?	¿Quieres ir a la reunión?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to the concert.	Quiero ir al concierto.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Can you go to the concert?	¿Puedes ir al concierto?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going home.	Voy a casa.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go home?	¿Quieres ir a casa?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to my grandmother's house.	Tengo que ir a la casa de mi abuela.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go to my parents' house?	¿Quieres ir a la casa de mis padres?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to my friend's house.	Quiero ir a la casa de mi amigo.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Can you go to my friend's house?	¿Puedes ir a la casa de mi amigo?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to the vet.	Tengo que ir al veterinario.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go to the vet?	¿Quieres ir al veterinario?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to class.	Voy a la clase.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you have to go to class?	¿Tienes que ir a la clase?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to the university.	Quiero ir a la universidad.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to the hotel.	Voy al hotel.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go to the museum?	¿Quieres ir al museo?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I can go to the museum.	Puedo ir al museo.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to the train station.	Tengo que ir a la estación de tren.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Can you go to the train station?	¿Puedes ir a la estación de tren?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to the store to buy rice.	Voy a la tienda a comprar arroz.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you have to go to the store to buy beans?	¿Tienes que ir a la tienda a comprar frijoles?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to the store to buy chicken.	Quiero ir a la tienda a comprar pollo.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Can you go to the store to buy fish?	¿Puedes ir a la tienda a comprar pescado?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to the store to buy butter.	Tengo que ir a la tienda a comprar mantequilla.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go to the store to buy sugar?	¿Quieres ir a la tienda a comprar azúcar?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I can go to the store to buy water.	Puedo ir a la tienda a comprar agua.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to the store to buy juice.	Voy a la tienda a comprar jugo.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you have to go to the store to buy meat?	¿Tienes que ir a la tienda a comprar carne?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to the store to buy salt.	Quiero ir a la tienda a comprar sal.	Ir Present Indicative
