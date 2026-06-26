@@ -1,0 +1,1188 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Ser::Present::Indicative	I am a child of God.	Soy hijo de Dios.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Are you a member of this church?	¿Eres miembro de esta iglesia?	Ser Present Indicative
+Basic	Ser::Present::Indicative	He is the pastor of the congregation.	Es el pastor de la congregación.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are brothers and sisters in Christ.	Somos hermanos en Cristo.	Ser Present Indicative
+Basic	Ser::Present::Indicative	They are missionaries in South America.	Son misioneros en América del Sur.	Ser Present Indicative
+Basic	Ser::Present::Indicative	I am the worship leader at my church.	Soy el líder de adoración en mi iglesia.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Are you a follower of Jesus?	¿Eres seguidor de Jesús?	Ser Present Indicative
+Basic	Ser::Present::Indicative	She is a faithful servant of God.	Es una fiel sierva de Dios.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are pilgrims on a journey of faith.	Somos peregrinos en un camino de fe.	Ser Present Indicative
+Basic	Ser::Present::Indicative	They are the light of the world.	Son la luz del mundo.	Ser Present Indicative
+Basic	Ser::Present::Indicative	I am from Mexico City originally.	Soy de la Ciudad de México originalmente.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Are you from this country?	¿Eres de este país?	Ser Present Indicative
+Basic	Ser::Present::Indicative	He is a traveler passing through our city.	Es un viajero que pasa por nuestra ciudad.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are tourists visiting the cathedral.	Somos turistas que visitamos la catedral.	Ser Present Indicative
+Basic	Ser::Present::Indicative	They are from a small town in Colombia.	Son de un pequeño pueblo en Colombia.	Ser Present Indicative
+Basic	Ser::Present::Indicative	The soup is hot and delicious.	La sopa es caliente y deliciosa.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Is the bread fresh from the oven?	¿Es el pan fresco del horno?	Ser Present Indicative
+Basic	Ser::Present::Indicative	The restaurant is famous for its tamales.	El restaurante es famoso por sus tamales.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are vegetarians, so we avoid meat.	Somos vegetarianos, así que evitamos la carne.	Ser Present Indicative
+Basic	Ser::Present::Indicative	They are known for their excellent tortillas.	Son conocidos por sus excelentes tortillas.	Ser Present Indicative
+Basic	Ser::Present::Indicative	I am the head of this household.	Soy el jefe de este hogar.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Are you the owner of this house?	¿Eres el dueño de esta casa?	Ser Present Indicative
+Basic	Ser::Present::Indicative	The kitchen is the heart of our home.	La cocina es el corazón de nuestro hogar.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are a family that prays together.	Somos una familia que ora junta.	Ser Present Indicative
+Basic	Ser::Present::Indicative	They are our next-door neighbors.	Son nuestros vecinos de al lado.	Ser Present Indicative
+Basic	Ser::Present::Indicative	I am the oldest sibling in my family.	Soy el hermano mayor en mi familia.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Are you a father or a mother?	¿Eres padre o madre?	Ser Present Indicative
+Basic	Ser::Present::Indicative	She is a devoted grandmother.	Es una abuela dedicada.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are a big, close-knit family.	Somos una familia grande y unida.	Ser Present Indicative
+Basic	Ser::Present::Indicative	They are the parents of three children.	Son los padres de tres hijos.	Ser Present Indicative
+Basic	Ser::Present::Indicative	I am your friend and I care about you.	Soy tu amigo y me importas.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Are you a close friend of the bride?	¿Eres amigo cercano de la novia?	Ser Present Indicative
+Basic	Ser::Present::Indicative	He is a trustworthy and kind friend.	Es un amigo confiable y amable.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are lifelong friends from school.	Somos amigos de toda la vida desde la escuela.	Ser Present Indicative
+Basic	Ser::Present::Indicative	They are the best of friends at church.	Son los mejores amigos en la iglesia.	Ser Present Indicative
+Basic	Ser::Present::Indicative	My dog is a golden retriever.	Mi perro es un golden retriever.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Is your cat an indoor or outdoor cat?	¿Tu gato es de interior o de exterior?	Ser Present Indicative
+Basic	Ser::Present::Indicative	The rabbit is very gentle and calm.	El conejo es muy manso y calmado.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are pet owners who treat animals with love.	Somos dueños de mascotas que tratan a los animales con amor.	Ser Present Indicative
+Basic	Ser::Present::Indicative	They are volunteers at the animal shelter.	Son voluntarios en el refugio de animales.	Ser Present Indicative
+Basic	Ser::Present::Indicative	I am a student at the Bible college.	Soy estudiante en el colegio bíblico.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Are you a teacher at the Christian school?	¿Eres maestro en la escuela cristiana?	Ser Present Indicative
+Basic	Ser::Present::Indicative	She is the top student in her class.	Es la mejor estudiante de su clase.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are studying together for the theology exam.	Somos compañeros estudiando para el examen de teología.	Ser Present Indicative
+Basic	Ser::Present::Indicative	They are graduates of the seminary.	Son graduados del seminario.	Ser Present Indicative
+Basic	Ser::Present::Indicative	I am in good health, thank God.	Estoy en buena salud, gracias a Dios.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Are you a nurse or a doctor?	¿Eres enfermero o médico?	Ser Present Indicative
+Basic	Ser::Present::Indicative	The hospital is very well-organized.	El hospital es muy bien organizado.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are careful about our health and diet.	Somos cuidadosos con nuestra salud y dieta.	Ser Present Indicative
+Basic	Ser::Present::Indicative	They are trained medical volunteers at the clinic.	Son voluntarios médicos capacitados en la clínica.	Ser Present Indicative
+Basic	Ser::Present::Indicative	I am a musician in the church worship team.	Soy músico en el equipo de adoración de la iglesia.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Are you a singer or an instrumentalist?	¿Eres cantante o instrumentalista?	Ser Present Indicative
+Basic	Ser::Present::Indicative	The hymn is one of my favorites.	El himno es uno de mis favoritos.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are the choir for the Christmas concert.	Somos el coro para el concierto de Navidad.	Ser Present Indicative
+Basic	Ser::Present::Indicative	They are talented musicians who serve God.	Son músicos talentosos que sirven a Dios.	Ser Present Indicative
+Basic	Ser::Present::Indicative	God is love.	Dios es amor.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Jesus is the way, the truth, and the life.	Jesús es el camino, la verdad y la vida.	Ser Present Indicative
+Basic	Ser::Present::Indicative	The Bible is the Word of God.	La Biblia es la Palabra de Dios.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Prayer is the foundation of our faith.	La oración es el fundamento de nuestra fe.	Ser Present Indicative
+Basic	Ser::Present::Indicative	The cross is the symbol of salvation.	La cruz es el símbolo de la salvación.	Ser Present Indicative
+Basic	Ser::Present::Indicative	I am so grateful for God's grace.	Soy muy agradecido por la gracia de Dios.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Are you ready to be baptized?	¿Estás listo para ser bautizado?	Ser Present Indicative
+Basic	Ser::Present::Indicative	She is a new believer who just accepted Christ.	Es una nueva creyente que acaba de aceptar a Cristo.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are all sinners saved by grace.	Somos todos pecadores salvados por la gracia.	Ser Present Indicative
+Basic	Ser::Present::Indicative	They are the elders of the church.	Son los ancianos de la iglesia.	Ser Present Indicative
+Basic	Ser::Present::Indicative	I am a professional who serves the Lord at work.	Soy un profesional que sirve al Señor en el trabajo.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Are you the manager of this team?	¿Eres el gerente de este equipo?	Ser Present Indicative
+Basic	Ser::Present::Indicative	He is the founder of the nonprofit ministry.	Es el fundador del ministerio sin fines de lucro.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are coworkers who study the Bible at lunch.	Somos compañeros de trabajo que estudiamos la Biblia en el almuerzo.	Ser Present Indicative
+Basic	Ser::Present::Indicative	They are dedicated employees who honor God in their work.	Son empleados dedicados que honran a Dios en su trabajo.	Ser Present Indicative
+Basic	Ser::Present::Indicative	The sermon is about the story of Abraham.	El sermón es sobre la historia de Abraham.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Is the Bible study lesson ready for tonight?	¿Está la lección del estudio bíblico lista para esta noche?	Ser Present Indicative
+Basic	Ser::Present::Indicative	Moses is a central figure in the Old Testament.	Moisés es una figura central en el Antiguo Testamento.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are studying the book of Genesis this month.	Estamos estudiando el libro de Génesis este mes.	Ser Present Indicative
+Basic	Ser::Present::Indicative	David is described as a man after God's own heart.	David es descrito como un hombre conforme al corazón de Dios.	Ser Present Indicative
+Basic	Ser::Present::Indicative	I am committed to reading the Bible every day.	Soy comprometido a leer la Biblia cada día.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Are you aware of God's plan for your life?	¿Eres consciente del plan de Dios para tu vida?	Ser Present Indicative
+Basic	Ser::Present::Indicative	She is someone who lives by faith.	Es alguien que vive por fe.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are called to be the salt of the earth.	Somos llamados a ser la sal de la tierra.	Ser Present Indicative
+Basic	Ser::Present::Indicative	They are witnesses of the resurrection.	Son testigos de la resurrección.	Ser Present Indicative
+Basic	Ser::Present::Indicative	I am nervous about traveling alone for the first time.	Estoy nervioso por viajar solo por primera vez.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Is the flight on time today?	¿Es el vuelo a tiempo hoy?	Ser Present Indicative
+Basic	Ser::Present::Indicative	The city is known for its beautiful churches.	La ciudad es conocida por sus hermosas iglesias.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are in a foreign country sharing the gospel.	Estamos en un país extranjero compartiendo el evangelio.	Ser Present Indicative
+Basic	Ser::Present::Indicative	They are citizens of the kingdom of God.	Son ciudadanos del reino de Dios.	Ser Present Indicative
+Basic	Ser::Present::Indicative	The enchiladas are my favorite dish.	Las enchiladas son mi platillo favorito.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Is the mango fresh at the market today?	¿Es el mango fresco en el mercado hoy?	Ser Present Indicative
+Basic	Ser::Present::Indicative	The pozole is a traditional Mexican dish.	El pozole es un platillo tradicional mexicano.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are grateful for this meal that God provided.	Somos agradecidos por esta comida que Dios proveyó.	Ser Present Indicative
+Basic	Ser::Present::Indicative	They are famous for their homemade salsa.	Son famosos por su salsa casera.	Ser Present Indicative
+Basic	Ser::Present::Indicative	The church building is on the corner of the street.	El edificio de la iglesia está en la esquina de la calle.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Is Sunday the day your church meets?	¿Es el domingo el día en que se reúne tu iglesia?	Ser Present Indicative
+Basic	Ser::Present::Indicative	The offering is for the new mission fund.	La ofrenda es para el nuevo fondo misionero.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are grateful for the pastor's dedication.	Somos agradecidos por la dedicación del pastor.	Ser Present Indicative
+Basic	Ser::Present::Indicative	They are volunteers who serve at every service.	Son voluntarios que sirven en cada culto.	Ser Present Indicative
+Basic	Ser::Present::Indicative	I am happy to serve in any way I can.	Soy feliz de servir de cualquier manera que pueda.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Are you the one in charge of the music?	¿Eres tú el encargado de la música?	Ser Present Indicative
+Basic	Ser::Present::Indicative	The worship team is made up of young adults.	El equipo de adoración está compuesto de adultos jóvenes.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are all called to worship God.	Somos todos llamados a adorar a Dios.	Ser Present Indicative
+Basic	Ser::Present::Indicative	They are thankful to God for every blessing.	Son agradecidos con Dios por cada bendición.	Ser Present Indicative
+Basic	Ser::Present::Indicative	I am sure that God has a plan for my life.	Estoy seguro de que Dios tiene un plan para mi vida.	Ser Present Indicative
+Basic	Ser::Present::Indicative	Are you certain that Jesus is your Lord?	¿Estás seguro de que Jesús es tu Señor?	Ser Present Indicative
+Basic	Ser::Present::Indicative	He is the reason we have hope.	Él es la razón por la que tenemos esperanza.	Ser Present Indicative
+Basic	Ser::Present::Indicative	We are heirs of the promise given to Abraham.	Somos herederos de la promesa dada a Abraham.	Ser Present Indicative
+Basic	Ser::Present::Indicative	They are bearers of the good news.	Son portadores de las buenas nuevas.	Ser Present Indicative
+Basic	Ser::Preterit::Indicative	I was baptized at this church five years ago.	Fui bautizado en esta iglesia hace cinco años.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Were you born into a Christian family?	¿Fuiste criado en una familia cristiana?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	She was the first person to share the gospel with me.	Fue la primera persona en compartir el evangelio conmigo.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were chosen to lead the Bible study last week.	Fuimos elegidos para dirigir el estudio bíblico la semana pasada.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were the founders of the church in our neighborhood.	Fueron los fundadores de la iglesia en nuestro vecindario.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	I was a volunteer at the mission last summer.	Fui voluntario en la misión el verano pasado.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Were you a worship leader before you moved here?	¿Fuiste líder de adoración antes de mudarte aquí?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	He was elected as deacon at the annual meeting.	Fue elegido diácono en la reunión anual.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were the first missionaries to reach that village.	Fuimos los primeros misioneros en llegar a ese pueblo.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were ordained as ministers last spring.	Fueron ordenados como ministros la primavera pasada.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	I was a student at that seminary for three years.	Fui estudiante en ese seminario durante tres años.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Were you a missionary in Central America?	¿Fuiste misionero en Centroamérica?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	She was the teacher of the women Bible study group.	Fue la maestra del grupo de estudio bíblico de mujeres.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were deeply moved by the sermon on Sunday.	Fuimos profundamente conmovidos por el sermón del domingo.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were the children of a pastor and grew up in ministry.	Fueron hijos de un pastor y crecieron en el ministerio.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	I was born in a small town in Guatemala.	Fui nacido en un pequeño pueblo en Guatemala.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Were you the guide on the mission trip to Peru?	¿Fuiste el guía en el viaje misionero a Perú?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	He was the first in his family to travel abroad.	Fue el primero en su familia en viajar al extranjero.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were tourists in the Holy Land last year.	Fuimos turistas en Tierra Santa el año pasado.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were the only Christians at that conference.	Fueron los únicos cristianos en esa conferencia.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	The meal was a blessing from God.	La comida fue una bendición de Dios.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Was the soup too spicy for the kids?	¿Fue la sopa muy picante para los niños?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	The restaurant was full of people after Sunday service.	El restaurante fue lleno de gente después del culto del domingo.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were the last family to arrive at the church dinner.	Fuimos la última familia en llegar a la cena de la iglesia.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were very thankful for the homemade meal.	Fueron muy agradecidos por la comida casera.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	I was the cook for the church potluck.	Fui el cocinero para el almuerzo compartido de la iglesia.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Was the bread at the restaurant freshly made?	¿Fue el pan del restaurante recién hecho?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	She was the one who made tamales for Christmas.	Fue ella quien hizo los tamales para la Navidad.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were impressed by the food at that new restaurant.	Fuimos impresionados por la comida en ese nuevo restaurante.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were responsible for bringing the desserts.	Fueron responsables de traer los postres.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	I was the one who organized the family gathering.	Fui el que organizó la reunión familiar.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Were you the oldest child growing up?	¿Fuiste el hijo mayor de niño?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	She was a wonderful mother to her children.	Fue una madre maravillosa para sus hijos.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were a small family, but we had great faith.	Fuimos una familia pequeña, pero teníamos mucha fe.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were raised in a home full of love and prayer.	Fueron criados en un hogar lleno de amor y oración.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	I was the best man at my brother wedding.	Fui el padrino en la boda de mi hermano.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Were you at the baby shower last weekend?	¿Fuiste al baby shower el fin de semana pasado?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	He was a devoted husband and father.	Fue un esposo y padre dedicado.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were blessed to have such loving grandparents.	Fuimos bendecidos de tener abuelos tan amorosos.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were married in the church where they met.	Fueron casados en la iglesia donde se conocieron.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	I was friends with him since we were children.	Fui amigo de él desde que éramos niños.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Were you classmates in Bible college?	¿Fueron compañeros en el colegio bíblico?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	She was my accountability partner for years.	Fue mi compañera de responsabilidad durante años.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were inseparable friends in youth group.	Fuimos amigos inseparables en el grupo juvenil.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were kind strangers who helped us when we were lost.	Fueron extraños amables que nos ayudaron cuando estábamos perdidos.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	My dog was the most faithful companion I ever had.	Mi perro fue el compañero más fiel que tuve.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Was your cat friendly with guests?	¿Fue tu gato amigable con los invitados?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	The puppy was a gift for the children.	El cachorro fue un regalo para los niños.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were responsible pet owners from the start.	Fuimos dueños de mascotas responsables desde el principio.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were volunteers at the animal shelter for two years.	Fueron voluntarios en el refugio de animales durante dos años.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	I was the top student in my theology class.	Fui el mejor estudiante en mi clase de teología.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Were you a teacher at the Christian school?	¿Fuiste maestro en la escuela cristiana?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	He was the valedictorian at his graduation.	Fue el orador de su graduación.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were partners on the school Bible project.	Fuimos compañeros en el proyecto bíblico de la escuela.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were students who excelled in their studies.	Fueron estudiantes que se destacaron en sus estudios.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	I was very sick for two weeks last month.	Estuve muy enfermo durante dos semanas el mes pasado.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Was the surgery successful?	¿Fue exitosa la cirugía?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	The diagnosis was difficult to receive.	El diagnóstico fue difícil de recibir.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were at the hospital all night with her.	Fuimos al hospital toda la noche con ella.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were the nurses who cared for my father.	Fueron las enfermeras que cuidaron a mi padre.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	I was employed at the church office for two years.	Fui empleado en la oficina de la iglesia durante dos años.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Were you the director of the ministry program?	¿Fuiste el director del programa ministerial?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	She was promoted to lead the outreach team.	Fue promovida para dirigir el equipo de alcance.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were coworkers who prayed together at work.	Fuimos compañeros de trabajo que orábamos juntos.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were honored for their service to the community.	Fueron honrados por su servicio a la comunidad.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	I was the soloist at the Easter Sunday concert.	Fui el solista en el concierto del domingo de Pascua.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Was the worship team ready before the service?	¿Fue el equipo de adoración listo antes del culto?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	The hymn was originally written in the 1800s.	El himno fue escrito originalmente en el siglo XIX.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were inspired by the music at the conference.	Fuimos inspirados por la música en la conferencia.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were the worship team that started the revival.	Fueron el equipo de adoración que inició el avivamiento.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	I was moved to tears during the praise service.	Fui movido hasta las lágrimas durante el culto de alabanza.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Was the concert a blessing to everyone who attended?	¿Fue el concierto una bendición para todos los que asistieron?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	She was chosen to lead worship at the youth camp.	Fue elegida para dirigir la adoración en el campamento juvenil.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were the band for the church anniversary celebration.	Fuimos la banda para la celebración del aniversario de la iglesia.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were moved by the power of praise and worship.	Fueron conmovidos por el poder de la alabanza y la adoración.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Jesus was born in Bethlehem.	Jesús fue nacido en Belén.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Was Moses a shepherd before God called him?	¿Fue Moisés pastor antes de que Dios lo llamara?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	David was a young boy when he faced Goliath.	David fue un niño pequeño cuando enfrentó a Goliat.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were amazed by the story of the prodigal son.	Fuimos asombrados por la historia del hijo pródigo.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were witnesses of the miracles of Jesus.	Fueron testigos de los milagros de Jesús.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Paul was a persecutor of Christians before his conversion.	Pablo fue un perseguidor de los cristianos antes de su conversión.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Were the disciples afraid when the storm arose?	¿Fueron los discípulos asustados cuando se levantó la tormenta?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Solomon was the wisest king of Israel.	Salomón fue el rey más sabio de Israel.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were encouraged by the story of Ruth and Naomi.	Fuimos alentados por la historia de Rut y Noemí.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were the twelve apostles chosen by Jesus.	Fueron los doce apóstoles elegidos por Jesús.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	The trip to the mission field was life-changing.	El viaje al campo misionero fue transformador.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Was the flight comfortable for everyone?	¿Fue el vuelo cómodo para todos?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	He was the translator for our team in the village.	Fue el traductor de nuestro equipo en el pueblo.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were welcomed warmly by the local church.	Fuimos recibidos calurosamente por la iglesia local.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were grateful hosts during our mission trip.	Fueron anfitriones agradecidos durante nuestro viaje misionero.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	I was surprised by how beautiful the country was.	Fui sorprendido por lo hermoso que fue el país.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Were you the one who arranged the travel plans?	¿Fuiste tú quien organizó los planes de viaje?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	She was our guide through the ancient city.	Fue nuestra guía por la ciudad antigua.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were amazed by the beauty of the landscape.	Fuimos asombrados por la belleza del paisaje.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were blessed with safe travels throughout the journey.	Fueron bendecidos con viajes seguros durante todo el camino.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	The apple was sweet and crisp from the orchard.	La manzana fue dulce y crujiente del huerto.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Was the homemade bread a hit at the potluck?	¿Fue el pan casero un éxito en el almuerzo compartido?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	The church dinner was a wonderful time of fellowship.	La cena de la iglesia fue un tiempo maravilloso de comunión.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were full after the generous feast.	Fuimos llenos después del generoso banquete.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were thankful for the meal that God provided.	Fueron agradecidos por la comida que Dios proveyó.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	The home was full of joy during the holiday season.	El hogar fue lleno de alegría durante la temporada navideña.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	Was the house clean when the guests arrived?	¿Fue la casa limpia cuando llegaron los invitados?	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	He was the one who decorated the house for Christmas.	Fue el que decoró la casa para la Navidad.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	We were the family that hosted the Bible study.	Fuimos la familia que organizó el estudio bíblico.	Ser Preterit Indicative
+Basic	Ser::Preterit::Indicative	They were grateful to have such a welcoming home.	Fueron agradecidos de tener un hogar tan acogedor.	Ser Preterit Indicative
+Basic	Ser::Imperfect::Indicative	I used to be a shy child at church.	Era un niño tímido en la iglesia.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Were you always so devoted to the Bible?	¿Siempre eras tan dedicado a la Biblia?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	He used to be the song leader every Sunday.	Era el líder de canto cada domingo.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be members of a small house church.	Éramos miembros de una pequeña iglesia en casa.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be missionaries in rural Mexico.	Eran misioneros en el México rural.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	I used to be very involved in the youth ministry.	Era muy involucrado en el ministerio juvenil.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Were you the Sunday school teacher before?	¿Eras el maestro de escuela dominical antes?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	She used to be the church secretary for years.	Era la secretaria de la iglesia durante años.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be prayer partners in the early days.
+Éramos compañeros de oración en los primeros tiempos.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be leaders in the children ministry.	Eran líderes en el ministerio de niños.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	I used to be a regular at that Bible study group.	Era un asistente regular de ese grupo de estudio bíblico.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Were you a deacon in your old church?	¿Eras diácono en tu antigua iglesia?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	He used to be the interpreter at the mission conferences.	Era el intérprete en las conferencias misioneras.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be part of an evangelism team.
+Éramos parte de un equipo de evangelismo.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be the most faithful givers in the church.	Eran los donadores más fieles de la iglesia.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	I used to be a frequent traveler for mission work.	Era un viajero frecuente para el trabajo misionero.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Were you nervous on your first international flight?	¿Eras nervioso en tu primer vuelo internacional?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	She used to be a tour guide in Costa Rica.	Era guía de turismo en Costa Rica.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be hosts for international students.
+Éramos anfitriones de estudiantes internacionales.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be translators at the international church.	Eran traductores en la iglesia internacional.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	The food at the market used to be so fresh.	La comida en el mercado era tan fresca.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Was the restaurant near the church very good?	¿Era muy bueno el restaurante cerca de la iglesia?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	The Sunday lunch used to be a family tradition.	El almuerzo del domingo era una tradición familiar.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be known for our tamales at Christmas.
+Éramos conocidos por nuestros tamales en Navidad.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be vegetarians before they moved.	Eran vegetarianos antes de mudarse.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	I used to be the cook for all family gatherings.	Era el cocinero de todas las reuniones familiares.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Were you picky about food as a child?	¿Eras exigente con la comida de niño?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	She used to be the baker for the church potluck.	Era la pastelera para el almuerzo compartido de la iglesia.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be the family that always brought desserts.
+Éramos la familia que siempre traía los postres.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be regulars at that little taco place.	Eran clientes habituales de ese pequeño lugar de tacos.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Our house used to be the gathering place for family.	Nuestra casa era el lugar de reunión para la familia.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Was the old house near the church?	¿Era la casa vieja cerca de la iglesia?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	The home used to be cozy and full of music.	El hogar era acogedor y lleno de música.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be homeowners in that neighborhood.
+Éramos dueños de casa en ese vecindario.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be renters before they bought their house.	Eran inquilinos antes de comprar su casa.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	I used to be the one who cleaned the house on Saturdays.	Era quien limpiaba la casa los sábados.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Were you the youngest child in a big family?	¿Eras el hijo menor en una familia grande?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	She used to be very close to her grandmother.	Era muy cercana a su abuela.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be a family of five living in one house.
+Éramos una familia de cinco viviendo en una casa.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be our closest relatives.	Eran nuestros parientes más cercanos.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	I used to be best friends with the pastor son.	Era el mejor amigo del hijo del pastor.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Were you friends with him before you became neighbors?	¿Eras amigo de él antes de que fueran vecinos?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	She used to be part of my small group at church.	Era parte de mi grupo pequeño en la iglesia.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be neighbors who prayed for each other.
+Éramos vecinos que orábamos el uno por el otro.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be dear friends before the move.	Eran queridos amigos antes de la mudanza.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	My cat used to be the most playful in the neighborhood.	Mi gato era el más juguetón del vecindario.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Was your dog friendly with other animals?	¿Era tu perro amigable con otros animales?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	The hamster used to be very active at night.	El hámster era muy activo por las noches.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be known as the family with many pets.
+Éramos conocidos como la familia con muchas mascotas.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be volunteers at the animal rescue.	Eran voluntarios en el rescate de animales.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	I used to be a very dedicated student.	Era un estudiante muy dedicado.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Were you the best reader in your class?	¿Eras el mejor lector de tu clase?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	She used to be top of her class every year.	Era la primera de su clase cada año.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be students at the same school.
+Éramos estudiantes en la misma escuela.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be the most motivated students in the program.	Eran los estudiantes más motivados del programa.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	I used to be very active and healthy.	Era muy activo y saludable.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Was the doctor gentle with you during the exam?	¿Era gentil el médico contigo durante el examen?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	The clinic used to be very close to our home.	La clínica era muy cerca de nuestra casa.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be healthier when we cooked at home more.
+Éramos más saludables cuando cocinábamos en casa más seguido.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be in excellent shape before the illness.	Eran en excelente forma antes de la enfermedad.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	I used to be a nurse at the community clinic.	Era enfermero en la clínica comunitaria.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Were you a volunteer at the hospital chapel?	¿Eras voluntario en la capilla del hospital?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	The health fair used to be held at our church.	La feria de salud era realizada en nuestra iglesia.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be involved in the hospital ministry.
+Éramos involucrados en el ministerio del hospital.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be part of the mental health support group.	Eran parte del grupo de apoyo de salud mental.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	I used to be a manager at the Christian bookstore.	Era gerente en la librería cristiana.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Were you self-employed before joining the mission?	¿Eras trabajador independiente antes de unirte a la misión?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	She used to be the administrator of the ministry fund.	Era la administradora del fondo ministerial.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be business partners who served the Lord.
+Éramos socios de negocios que servíamos al Señor.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be the top fundraisers for the mission.	Eran los mejores recaudadores de fondos para la misión.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	I used to be the pianist for the worship team.	Era el pianista del equipo de adoración.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Were you in the choir as a teenager?	¿Eras del coro de adolescente?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	The music used to be very traditional at that church.	La música era muy tradicional en esa iglesia.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be known for our powerful worship services.
+Éramos conocidos por nuestros poderosos cultos de adoración.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be the praise team for the whole region.	Eran el equipo de alabanza de toda la región.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	The songs used to be simpler but very meaningful.	Las canciones eran más sencillas pero muy significativas.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Were you the guitar player in the band?	¿Eras el guitarrista de la banda?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	He used to be the choir director for twenty years.	Era el director del coro durante veinte años.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be in a gospel quartet together.
+Éramos parte de un cuarteto de gospel juntos.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be musicians at the evangelism crusades.	Eran músicos en las cruzadas de evangelismo.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	God used to speak to him through the Psalms every morning.	Dios le hablaba a través de los Salmos cada mañana.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Were the disciples afraid in the garden?	¿Eran los discípulos temerosos en el huerto?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Israel used to be a wandering nation in the desert.	Israel era una nación errante en el desierto.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be unaware of God grace until we heard the gospel.
+Éramos desconocedores de la gracia de Dios hasta que oímos el evangelio.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be skeptics before encountering the truth.	Eran escépticos antes de encontrarse con la verdad.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	The Pharisees used to be very strict about the law.	Los fariseos eran muy estrictos en cuanto a la ley.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Were the apostles ordinary fishermen?	¿Eran los apóstoles pescadores ordinarios?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Joseph used to be favored by his father Jacob.	José era el favorito de su padre Jacob.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be lost without the light of Christ.
+Éramos perdidos sin la luz de Cristo.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be faithful members of the early church.	Eran miembros fieles de la iglesia primitiva.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	I used to be afraid of death before I knew Jesus.	Era temeroso de la muerte antes de conocer a Jesús.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Were you unsure about your faith in your teens?	¿Eras inseguro sobre tu fe en tu adolescencia?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	She used to be doubtful until God answered her prayer.	Era dudosa hasta que Dios respondió su oración.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be distant from God before the revival.
+Éramos distantes de Dios antes del avivamiento.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be strangers to the grace of God.	Eran extraños a la gracia de Dios.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	I used to be insecure, but God gave me confidence.	Era inseguro, pero Dios me dio confianza.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Were you shy when you first joined the church?	¿Eras tímido cuando te uniste a la iglesia por primera vez?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	He used to be angry, but faith changed his heart.	Era enojón, pero la fe cambió su corazón.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be a divided family before Christ united us.
+Éramos una familia dividida antes de que Cristo nos uniera.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be rivals who became brothers in Christ.	Eran rivales que se convirtieron en hermanos en Cristo.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	The neighborhood used to be very different years ago.	El vecindario era muy diferente hace años.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	Were you a frequent visitor at the homeless shelter?	¿Eras visitante frecuente en el refugio de indigentes?	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	She used to be the director of the food pantry ministry.	Era la directora del ministerio de despensa de alimentos.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be known as the church that loved its community.
+Éramos conocidos como la iglesia que amaba a su comunidad.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	They used to be the first ones to help in a crisis.	Eran los primeros en ayudar en una crisis.	Ser Imperfect Indicative
+Basic	Ser::Future::Indicative	I will be a better servant of God this year.	Seré un mejor siervo de Dios este año.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will you be at the church retreat next month?	¿Estarás en el retiro de la iglesia el próximo mes?	Ser Future Indicative
+Basic	Ser::Future::Indicative	She will be the new worship leader starting Sunday.	Será la nueva líder de adoración a partir del domingo.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be witnesses for Christ in our community.	Seremos testigos de Cristo en nuestra comunidad.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be missionaries in Africa next year.	Serán misioneros en África el próximo año.	Ser Future Indicative
+Basic	Ser::Future::Indicative	I will be a deacon at the church by the end of the year.	Seré diácono en la iglesia para fin de año.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will you be the one to give the testimony?	¿Serás tú quien dé el testimonio?	Ser Future Indicative
+Basic	Ser::Future::Indicative	He will be ordained as a pastor next spring.	Será ordenado como pastor la próxima primavera.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be a church that is known for its love.	Seremos una iglesia conocida por su amor.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be the leaders of the next generation of believers.	Serán los líderes de la próxima generación de creyentes.	Ser Future Indicative
+Basic	Ser::Future::Indicative	I will be ready to travel for the mission trip.	Estaré listo para viajar para el viaje misionero.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will you be my travel companion on the mission?	¿Serás mi compañero de viaje en la misión?	Ser Future Indicative
+Basic	Ser::Future::Indicative	She will be our guide in the foreign country.	Será nuestra guía en el país extranjero.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be the first team from our church to go abroad.	Seremos el primer equipo de nuestra iglesia en ir al extranjero.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be welcomed by the local church when they arrive.	Serán bienvenidos por la iglesia local cuando lleguen.	Ser Future Indicative
+Basic	Ser::Future::Indicative	The food will be traditional and delicious at the banquet.	La comida será tradicional y deliciosa en el banquete.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will the restaurant be open on Sunday after the service?	¿Estará el restaurante abierto el domingo después del culto?	Ser Future Indicative
+Basic	Ser::Future::Indicative	She will be the cook for the church anniversary dinner.	Será la cocinera para la cena del aniversario de la iglesia.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be the family that brings tamales every Christmas.	Seremos la familia que trae tamales cada Navidad.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be known for the best homemade salsa in the group.	Serán conocidos por la mejor salsa casera del grupo.	Ser Future Indicative
+Basic	Ser::Future::Indicative	I will be the host for the Christmas family gathering.	Seré el anfitrión de la reunión familiar de Navidad.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will you be home when the family arrives?	¿Estarás en casa cuando llegue la familia?	Ser Future Indicative
+Basic	Ser::Future::Indicative	She will be a wonderful mother to her children.	Será una madre maravillosa para sus hijos.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be a family rooted in the Word of God.	Seremos una familia arraigada en la Palabra de Dios.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be grandparents by the end of the year.	Serán abuelos para fin de año.	Ser Future Indicative
+Basic	Ser::Future::Indicative	I will be a loyal friend no matter what happens.	Seré un amigo leal sin importar lo que pase.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will you be at the prayer meeting tonight?	¿Estarás en la reunión de oración esta noche?	Ser Future Indicative
+Basic	Ser::Future::Indicative	He will be the best man at the wedding.	Será el padrino en la boda.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be lifelong friends through faith and love.	Seremos amigos de por vida a través de la fe y el amor.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be a blessing to everyone around them.	Serán una bendición para todos a su alrededor.	Ser Future Indicative
+Basic	Ser::Future::Indicative	My dog will be well-trained by the end of the month.	Mi perro estará bien entrenado para fin de mes.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will the new puppy be gentle with the children?	¿Será el nuevo cachorro gentil con los niños?	Ser Future Indicative
+Basic	Ser::Future::Indicative	The cat will be more comfortable once she settles in.	El gato estará más cómodo una vez que se establezca.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be responsible pet owners with this new rabbit.	Seremos dueños de mascotas responsables con este nuevo conejo.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be volunteers at the animal shelter this summer.	Serán voluntarios en el refugio de animales este verano.	Ser Future Indicative
+Basic	Ser::Future::Indicative	I will be a student at the seminary next fall.	Seré estudiante en el seminario el próximo otoño.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will you be the class representative?	¿Serás el representante de la clase?	Ser Future Indicative
+Basic	Ser::Future::Indicative	She will be the valedictorian of her graduating class.	Será la oradora de su clase de graduación.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be diligent students of the Word of God.	Seremos estudiantes diligentes de la Palabra de Dios.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be excellent teachers in the Christian school.	Serán excelentes maestros en la escuela cristiana.	Ser Future Indicative
+Basic	Ser::Future::Indicative	I will be in better health after the treatment.	Estaré en mejor salud después del tratamiento.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will the surgery be successful?	¿Será exitosa la cirugía?	Ser Future Indicative
+Basic	Ser::Future::Indicative	She will be fully recovered by Christmas.	Estará completamente recuperada para Navidad.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be more careful about our health from now on.	Seremos más cuidadosos con nuestra salud de ahora en adelante.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be volunteers at the medical mission clinic.	Serán voluntarios en la clínica misionera médica.	Ser Future Indicative
+Basic	Ser::Future::Indicative	I will be the new director of the ministry program.	Seré el nuevo director del programa ministerial.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will you be the project lead on the church renovation?	¿Serás el líder del proyecto de renovación de la iglesia?	Ser Future Indicative
+Basic	Ser::Future::Indicative	She will be the office manager at the nonprofit.	Será la gerente de oficina en la organización sin fines de lucro.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be a team committed to serving God through our work.	Seremos un equipo comprometido a servir a Dios a través de nuestro trabajo.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be the new pastors of the church plant.	Serán los nuevos pastores de la planta de iglesia.	Ser Future Indicative
+Basic	Ser::Future::Indicative	I will be the guitarist for the worship concert.	Seré el guitarrista para el concierto de adoración.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will you be singing the special song on Easter?	¿Cantarás la canción especial en la Pascua?	Ser Future Indicative
+Basic	Ser::Future::Indicative	He will be the music director next semester.	Será el director de música el próximo semestre.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be a choir that lifts up the name of Jesus.	Seremos un coro que exalta el nombre de Jesús.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be the praise team at the regional conference.	Serán el equipo de alabanza en la conferencia regional.	Ser Future Indicative
+Basic	Ser::Future::Indicative	God will be glorified in everything we do.	Dios será glorificado en todo lo que hagamos.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will faith be enough to move that mountain?	¿Será la fe suficiente para mover esa montaña?	Ser Future Indicative
+Basic	Ser::Future::Indicative	His word will be a lamp to our feet forever.	Su palabra será lámpara a nuestros pies para siempre.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be transformed by the renewing of our minds.	Seremos transformados por la renovación de nuestra mente.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be healed according to God promise.	Serán sanados conforme a la promesa de Dios.	Ser Future Indicative
+Basic	Ser::Future::Indicative	I will be faithful to God until the end.	Seré fiel a Dios hasta el final.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will the church be ready for the new members?	¿Estará la iglesia lista para los nuevos miembros?	Ser Future Indicative
+Basic	Ser::Future::Indicative	He will be a man of prayer and integrity.	Será un hombre de oración e integridad.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be steadfast in the faith despite trials.	Seremos firmes en la fe a pesar de las pruebas.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be blessed for their faithfulness to God.	Serán bendecidos por su fidelidad a Dios.	Ser Future Indicative
+Basic	Ser::Future::Indicative	The new church building will be ready by spring.	El nuevo edificio de la iglesia estará listo para la primavera.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will the sermon series be on the book of Romans?	¿Será la serie de sermones sobre el libro de Romanos?	Ser Future Indicative
+Basic	Ser::Future::Indicative	She will be a great Bible study teacher.	Será una gran maestra de estudio bíblico.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be a light in the darkness of our community.	Seremos una luz en la oscuridad de nuestra comunidad.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be recognized for their years of service.	Serán reconocidos por sus años de servicio.	Ser Future Indicative
+Basic	Ser::Future::Indicative	I will be grateful to God for the rest of my life.	Seré agradecido a Dios por el resto de mi vida.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will you be baptized at the Easter service?	¿Serás bautizado en el culto de Pascua?	Ser Future Indicative
+Basic	Ser::Future::Indicative	He will be a great man of God one day.	Será un gran hombre de Dios algún día.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be equipped by God for every good work.	Seremos equipados por Dios para toda buena obra.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be protected by the hand of God.	Serán protegidos por la mano de Dios.	Ser Future Indicative
+Basic	Ser::Future::Indicative	The trip will be a great testimony of God faithfulness.	El viaje será un gran testimonio de la fidelidad de Dios.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will the journey be safe and full of blessings?	¿Será el viaje seguro y lleno de bendiciones?	Ser Future Indicative
+Basic	Ser::Future::Indicative	He will be our host in the village during the mission.	Será nuestro anfitrión en el pueblo durante la misión.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be ambassadors of Christ wherever we go.	Seremos embajadores de Cristo dondequiera que vayamos.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be an inspiration to the local believers.	Serán una inspiración para los creyentes locales.	Ser Future Indicative
+Basic	Ser::Future::Indicative	I will be the representative of our church at the conference.	Seré el representante de nuestra iglesia en la conferencia.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will the meeting be long today?	¿Será larga la reunión hoy?	Ser Future Indicative
+Basic	Ser::Future::Indicative	She will be the keynote speaker at the women retreat.	Será la oradora principal en el retiro de mujeres.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be coworkers in the ministry for many years.	Seremos compañeros en el ministerio durante muchos años.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be the new leadership team of the organization.	Serán el nuevo equipo de liderazgo de la organización.	Ser Future Indicative
+Basic	Ser::Future::Indicative	The hymn will be sung in three languages at the concert.	El himno será cantado en tres idiomas en el concierto.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will the music be too loud for the elderly members?	¿Será la música muy fuerte para los miembros mayores?	Ser Future Indicative
+Basic	Ser::Future::Indicative	She will be the soloist for the choir performance.	Será la solista en la actuación del coro.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be playing traditional hymns and modern worship songs.	Estaremos tocando himnos tradicionales y canciones modernas de adoración.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be recording a new worship album this summer.	Estarán grabando un nuevo álbum de adoración este verano.	Ser Future Indicative
+Basic	Ser::Future::Indicative	I will be praying for you every day this week.	Estaré orando por ti cada día esta semana.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will the lesson be from the Old or New Testament?	¿Será la lección del Antiguo o Nuevo Testamento?	Ser Future Indicative
+Basic	Ser::Future::Indicative	He will be a good example of Christian character.	Será un buen ejemplo de carácter cristiano.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be better together as a church family.	Seremos mejores juntos como familia de la iglesia.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be united in purpose and in love.	Serán unidos en propósito y en amor.	Ser Future Indicative
+Basic	Ser::Future::Indicative	The home will be filled with laughter and prayer.	El hogar estará lleno de risas y oración.	Ser Future Indicative
+Basic	Ser::Future::Indicative	Will the dinner table be set before our guests arrive?	¿Estará la mesa puesta antes de que lleguen nuestros invitados?	Ser Future Indicative
+Basic	Ser::Future::Indicative	She will be the host of the family reunion this year.	Será la anfitriona de la reunión familiar este año.	Ser Future Indicative
+Basic	Ser::Future::Indicative	We will be a household that puts God first in all things.	Seremos un hogar que pone a Dios primero en todas las cosas.	Ser Future Indicative
+Basic	Ser::Future::Indicative	They will be settled in their new home by summer.	Estarán establecidos en su nuevo hogar para el verano.	Ser Future Indicative
+Basic	Ser::Conditional	I would be a better Christian if I prayed more.	Sería un mejor cristiano si orara más.	Ser Conditional
+Basic	Ser::Conditional	Would you be willing to lead the Bible study?	¿Serías dispuesto a dirigir el estudio bíblico?	Ser Conditional
+Basic	Ser::Conditional	She would be a wonderful worship leader with more confidence.	Sería una líder de adoración maravillosa con más confianza.	Ser Conditional
+Basic	Ser::Conditional	We would be more effective missionaries with better training.	Seríamos misioneros más efectivos con mejor capacitación.	Ser Conditional
+Basic	Ser::Conditional	They would be great church planters in rural areas.	Serían grandes plantadores de iglesias en áreas rurales.	Ser Conditional
+Basic	Ser::Conditional	I would be honored to serve in any ministry role.	Sería un honor servir en cualquier función ministerial.	Ser Conditional
+Basic	Ser::Conditional	Would you be open to teaching the children Sunday school?	¿Serías abierto a enseñar la escuela dominical de niños?	Ser Conditional
+Basic	Ser::Conditional	He would be a great pastor if he answered the call.	Sería un gran pastor si respondiera al llamado.	Ser Conditional
+Basic	Ser::Conditional	We would be a stronger church if we prayed together more.	Seríamos una iglesia más fuerte si oráramos juntos más.	Ser Conditional
+Basic	Ser::Conditional	They would be faithful servants of God in any mission field.	Serían fieles siervos de Dios en cualquier campo misionero.	Ser Conditional
+Basic	Ser::Conditional	I would be a better traveler if I learned the local language.	Sería un mejor viajero si aprendiera el idioma local.	Ser Conditional
+Basic	Ser::Conditional	Would you be interested in a mission trip abroad?	¿Serías interesado en un viaje misionero al extranjero?	Ser Conditional
+Basic	Ser::Conditional	She would be a great travel companion for the mission.	Sería una gran compañera de viaje para la misión.	Ser Conditional
+Basic	Ser::Conditional	We would be more effective abroad with a local contact.	Seríamos más efectivos en el extranjero con un contacto local.	Ser Conditional
+Basic	Ser::Conditional	They would be welcomed anywhere they went with the gospel.	Serían bienvenidos dondequiera que fueran con el evangelio.	Ser Conditional
+Basic	Ser::Conditional	The food would be even better with homemade tortillas.	La comida sería aún mejor con tortillas caseras.	Ser Conditional
+Basic	Ser::Conditional	Would the tamales be ready in time for the party?	¿Estarían los tamales listos a tiempo para la fiesta?	Ser Conditional
+Basic	Ser::Conditional	She would be the best cook at the church potluck.	Sería la mejor cocinera en el almuerzo compartido de la iglesia.	Ser Conditional
+Basic	Ser::Conditional	We would be known for our famous desserts at every event.	Seríamos conocidos por nuestros famosos postres en cada evento.	Ser Conditional
+Basic	Ser::Conditional	They would be wonderful hosts if they had a bigger home.	Serían anfitriones maravillosos si tuvieran una casa más grande.	Ser Conditional
+Basic	Ser::Conditional	I would be the host of the family reunion if I had the space.	Sería el anfitrión de la reunión familiar si tuviera el espacio.	Ser Conditional
+Basic	Ser::Conditional	Would you be home on Christmas Eve for the family dinner?	¿Estarías en casa en Nochebuena para la cena familiar?	Ser Conditional
+Basic	Ser::Conditional	She would be a devoted mother to any child in her care.	Sería una madre dedicada para cualquier niño bajo su cuidado.	Ser Conditional
+Basic	Ser::Conditional	We would be a more united family if we ate together daily.	Seríamos una familia más unida si comiéramos juntos a diario.	Ser Conditional
+Basic	Ser::Conditional	They would be wonderful grandparents one day.	Serían abuelos maravillosos algún día.	Ser Conditional
+Basic	Ser::Conditional	I would be the most loyal friend you ever had.	Sería el amigo más leal que jamás habrías tenido.	Ser Conditional
+Basic	Ser::Conditional	Would you be my partner in the ministry project?	¿Serías mi socio en el proyecto ministerial?	Ser Conditional
+Basic	Ser::Conditional	He would be a trustworthy friend in any situation.	Sería un amigo confiable en cualquier situación.	Ser Conditional
+Basic	Ser::Conditional	We would be better friends if we spent more time together.	Seríamos mejores amigos si pasáramos más tiempo juntos.	Ser Conditional
+Basic	Ser::Conditional	They would be a blessing to their whole friend group.	Serían una bendición para todo su grupo de amigos.	Ser Conditional
+Basic	Ser::Conditional	My dog would be calmer with more daily walks.	Mi perro sería más calmado con más caminatas diarias.	Ser Conditional
+Basic	Ser::Conditional	Would a cat be a good pet for your apartment?	¿Sería un gato una buena mascota para tu apartamento?	Ser Conditional
+Basic	Ser::Conditional	The rabbit would be happier with a bigger pen.	El conejo sería más feliz con un corral más grande.	Ser Conditional
+Basic	Ser::Conditional	We would be better pet owners with a more consistent routine.	Seríamos mejores dueños de mascotas con una rutina más consistente.	Ser Conditional
+Basic	Ser::Conditional	They would be great volunteers at the animal shelter.	Serían excelentes voluntarios en el refugio de animales.	Ser Conditional
+Basic	Ser::Conditional	I would be a better student if I studied the Bible more.	Sería un mejor estudiante si estudiara más la Biblia.	Ser Conditional
+Basic	Ser::Conditional	Would you be interested in the theology degree program?	¿Serías interesado en el programa de licenciatura en teología?	Ser Conditional
+Basic	Ser::Conditional	She would be an excellent seminary professor one day.	Sería una excelente profesora de seminario algún día.	Ser Conditional
+Basic	Ser::Conditional	We would be more informed believers if we read the whole Bible.	Seríamos creyentes más informados si leyéramos la Biblia completa.	Ser Conditional
+Basic	Ser::Conditional	They would be great teachers at the Christian school.	Serían excelentes maestros en la escuela cristiana.	Ser Conditional
+Basic	Ser::Conditional	I would be in better health with more rest and less stress.	Estaría en mejor salud con más descanso y menos estrés.	Ser Conditional
+Basic	Ser::Conditional	Would surgery be necessary if I changed my diet?	¿Sería necesaria la cirugía si cambiara mi dieta?	Ser Conditional
+Basic	Ser::Conditional	She would be healthier with regular doctor checkups.	Estaría más saludable con chequeos médicos regulares.	Ser Conditional
+Basic	Ser::Conditional	We would be stronger as a family if we supported each other.	Seríamos más fuertes como familia si nos apoyáramos mutuamente.	Ser Conditional
+Basic	Ser::Conditional	They would be great medical missionaries in underserved areas.	Serían excelentes misioneros médicos en áreas desatendidas.	Ser Conditional
+Basic	Ser::Conditional	I would be a more productive employee with a clear mission.	Sería un empleado más productivo con una misión clara.	Ser Conditional
+Basic	Ser::Conditional	Would you be the right person to lead this project?	¿Serías la persona adecuada para liderar este proyecto?	Ser Conditional
+Basic	Ser::Conditional	She would be a great director of the nonprofit ministry.	Sería una gran directora del ministerio sin fines de lucro.	Ser Conditional
+Basic	Ser::Conditional	We would be more impactful with a larger volunteer base.	Seríamos más impactantes con una base de voluntarios más grande.	Ser Conditional
+Basic	Ser::Conditional	They would be recognized for their excellence in ministry work.	Serían reconocidos por su excelencia en el trabajo ministerial.	Ser Conditional
+Basic	Ser::Conditional	I would be a better musician if I practiced every day.	Sería un mejor músico si practicara cada día.	Ser Conditional
+Basic	Ser::Conditional	Would you be the soloist for the Easter service?	¿Serías el solista para el culto de Pascua?	Ser Conditional
+Basic	Ser::Conditional	She would be a great choir director with more experience.	Sería una gran directora de coro con más experiencia.	Ser Conditional
+Basic	Ser::Conditional	We would be a more powerful worship team with consistent rehearsal.	Seríamos un equipo de adoración más poderoso con ensayos consistentes.	Ser Conditional
+Basic	Ser::Conditional	They would be great recording artists for the ministry.	Serían excelentes artistas de grabación para el ministerio.	Ser Conditional
+Basic	Ser::Conditional	God would be pleased if we lived according to his Word.	Dios estaría complacido si viviéramos conforme a su Palabra.	Ser Conditional
+Basic	Ser::Conditional	Would the world be different if everyone followed Jesus?	¿Sería el mundo diferente si todos siguieran a Jesús?	Ser Conditional
+Basic	Ser::Conditional	He would be a stronger believer with more accountability.	Sería un creyente más fuerte con más responsabilidad mutua.	Ser Conditional
+Basic	Ser::Conditional	We would be more generous if we truly trusted God.	Seríamos más generosos si verdaderamente confiáramos en Dios.	Ser Conditional
+Basic	Ser::Conditional	They would be great witnesses if they were less afraid.	Serían grandes testigos si tuvieran menos miedo.	Ser Conditional
+Basic	Ser::Conditional	I would be at peace if I gave all my worries to God.	Estaría en paz si le diera todas mis preocupaciones a Dios.	Ser Conditional
+Basic	Ser::Conditional	Would it be possible to start a new church in that area?	¿Sería posible empezar una nueva iglesia en esa área?	Ser Conditional
+Basic	Ser::Conditional	He would be a faithful elder if given the opportunity.	Sería un anciano fiel si se le diera la oportunidad.	Ser Conditional
+Basic	Ser::Conditional	We would be a revival if we humbled ourselves before God.	Seríamos un avivamiento si nos humilláramos ante Dios.	Ser Conditional
+Basic	Ser::Conditional	They would be an example to many if they lived out their faith.	Serían un ejemplo para muchos si vivieran su fe.	Ser Conditional
+Basic	Ser::Conditional	The church would be bigger if they invested more in outreach.	La iglesia sería más grande si invirtieran más en el alcance.	Ser Conditional
+Basic	Ser::Conditional	Would the Sunday service be better with more volunteers?	¿Sería mejor el culto dominical con más voluntarios?	Ser Conditional
+Basic	Ser::Conditional	She would be more joyful if she spent time in worship daily.	Sería más alegre si pasara tiempo en adoración a diario.	Ser Conditional
+Basic	Ser::Conditional	We would be more unified as a church with clearer vision.	Seríamos más unidos como iglesia con una visión más clara.	Ser Conditional
+Basic	Ser::Conditional	They would be powerful intercessors if they committed to prayer.	Serían poderosos intercesores si se comprometieran con la oración.	Ser Conditional
+Basic	Ser::Conditional	I would be closer to my family if I called more often.	Estaría más cerca de mi familia si llamara más seguido.	Ser Conditional
+Basic	Ser::Conditional	Would dinner be more special with candles and music?	¿Sería la cena más especial con velas y música?	Ser Conditional
+Basic	Ser::Conditional	He would be an amazing grandfather to his grandchildren.	Sería un abuelo increíble para sus nietos.	Ser Conditional
+Basic	Ser::Conditional	We would be a happier family if we had more quality time together.	Seríamos una familia más feliz si tuviéramos más tiempo de calidad juntos.	Ser Conditional
+Basic	Ser::Conditional	They would be a model family if they kept Christ at the center.	Serían una familia modelo si mantuvieran a Cristo en el centro.	Ser Conditional
+Basic	Ser::Conditional	I would be happy to be the host if no one else volunteers.	Sería feliz de ser el anfitrión si nadie más se ofrece como voluntario.	Ser Conditional
+Basic	Ser::Conditional	Would the gathering be better indoors or outside?	¿Sería mejor la reunión adentro o afuera?	Ser Conditional
+Basic	Ser::Conditional	She would be the perfect person to organize the event.	Sería la persona perfecta para organizar el evento.	Ser Conditional
+Basic	Ser::Conditional	We would be grateful for any help with the cooking.	Seríamos agradecidos por cualquier ayuda con la comida.	Ser Conditional
+Basic	Ser::Conditional	They would be better prepared if they planned ahead.	Estarían mejor preparados si planearan con anticipación.	Ser Conditional
+Basic	Ser::Conditional	I would be at the prayer meeting if I did not have to work.	Estaría en la reunión de oración si no tuviera que trabajar.	Ser Conditional
+Basic	Ser::Conditional	Would it be okay to bring a friend to Bible study?	¿Sería bien traer un amigo al estudio bíblico?	Ser Conditional
+Basic	Ser::Conditional	He would be more confident speaking in front of others.	Sería más seguro hablando en frente de otros.	Ser Conditional
+Basic	Ser::Conditional	We would be more blessed if we served without recognition.	Seríamos más bendecidos si sirviéramos sin reconocimiento.	Ser Conditional
+Basic	Ser::Conditional	They would be open to a different style of worship service.	Estarían abiertos a un estilo diferente de culto de adoración.	Ser Conditional
+Basic	Ser::Conditional	I would be so blessed to have a church family like this.	Sería tan bendecido de tener una familia de iglesia como esta.	Ser Conditional
+Basic	Ser::Conditional	Would the mission be more effective with more prayer partners?	¿Sería la misión más efectiva con más compañeros de oración?	Ser Conditional
+Basic	Ser::Conditional	She would be a source of strength to many if she shared her story.	Sería una fuente de fortaleza para muchos si compartiera su historia.	Ser Conditional
+Basic	Ser::Conditional	We would be unstoppable for the kingdom if we worked together.	Seríamos imparables para el reino si trabajáramos juntos.	Ser Conditional
+Basic	Ser::Conditional	They would be a testimony of God faithfulness to the whole church.	Serían un testimonio de la fidelidad de Dios para toda la iglesia.	Ser Conditional
+Basic	Ser::Conditional	I would be the happiest person if I could serve God full time.	Sería la persona más feliz si pudiera servir a Dios a tiempo completo.	Ser Conditional
+Basic	Ser::Conditional	Would this be a good season to fast and pray?	¿Sería esta una buena temporada para ayunar y orar?	Ser Conditional
+Basic	Ser::Conditional	He would be a pillar of the church with proper discipleship.	Sería un pilar de la iglesia con una disciplina adecuada.	Ser Conditional
+Basic	Ser::Conditional	We would be in a different place spiritually without this church.	Estaríamos en un lugar diferente espiritualmente sin esta iglesia.	Ser Conditional
+Basic	Ser::Conditional	They would be better equipped to share their faith in the workplace.	Estarían mejor equipados para compartir su fe en el lugar de trabajo.	Ser Conditional
+Basic	Ser::Conditional	I would be more patient if I trusted God more fully.	Sería más paciente si confiara en Dios más plenamente.	Ser Conditional
+Basic	Ser::Conditional	Would you be able to forgive if you truly understood grace?	¿Serías capaz de perdonar si entendieras verdaderamente la gracia?	Ser Conditional
+Basic	Ser::Conditional	He would be a changed man if he surrendered his life to God.	Sería un hombre cambiado si entregara su vida a Dios.	Ser Conditional
+Basic	Ser::Conditional	We would be a revival if we truly humbled ourselves before God.	Seríamos un avivamiento si verdaderamente nos humilláramos ante Dios.	Ser Conditional
+Basic	Ser::Conditional	They would be so grateful if the church prayed for their family.	Estarían tan agradecidos si la iglesia orara por su familia.	Ser Conditional
+Basic	Ser::Present::Subjunctive	I hope you are the one to lead the prayer tonight.	Espero que seas tú quien dirija la oración esta noche.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is important that she be a woman of integrity.	Es importante que sea una mujer de integridad.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	God wants us to be a light in the darkness.	Dios quiere que seamos una luz en la oscuridad.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I pray that they be faithful servants of the Lord.
+Oro para que sean fieles siervos del Señor.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is good that he be involved in the youth ministry.	Es bueno que sea involucrado en el ministerio juvenil.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	May you be blessed in all that you do for the Lord.	Que seas bendecido en todo lo que hagas para el Señor.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I need her to be the one who reads the scripture.	Necesito que ella sea quien lea las Escrituras.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is necessary that we be united as a church body.	Es necesario que seamos unidos como cuerpo de la iglesia.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	So that they be effective, prayer must come first.
+Para que sean efectivos, la oración debe ser lo primero.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I am glad that you are a part of this congregation.
+Me alegra que seas parte de esta congregación.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is important that the worship be heartfelt and genuine.	Es importante que la adoración sea sincera y genuina.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I hope the pastor is prepared for the Bible study tonight.	Espero que el pastor esté preparado para el estudio bíblico esta noche.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	God desires that we be transformed by the renewing of our minds.	Dios desea que seamos transformados por la renovación de nuestra mente.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	May we be instruments of your peace, Lord.	Que seamos instrumentos de tu paz, Señor.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I pray that the new believers be discipled well.
+Oro para que los nuevos creyentes sean bien discipulados.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I need you to be the translator for the mission trip.	Necesito que seas el traductor para el viaje misionero.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is important that the guide be trustworthy and knowledgeable.	Es importante que el guía sea de confianza y conocedor.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	So that we be safe, we must follow all the travel guidelines.
+Para que estemos seguros, debemos seguir todas las pautas de viaje.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I hope the team is ready before departure day.	Espero que el equipo esté listo antes del día de partida.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is good that the church is well-represented on this trip.
+Es bueno que la iglesia esté bien representada en este viaje.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I hope the meal is delicious and prepared with love.	Espero que la comida sea deliciosa y preparada con amor.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is important that the food be ready before the guests arrive.	Es importante que la comida esté lista antes de que lleguen los invitados.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	So that the potluck be a success, everyone must bring something.
+Para que el almuerzo compartido sea un éxito, todos deben traer algo.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I need the dishes to be cleaned before the gathering.
+Necesito que los platos estén limpios antes de la reunión.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is necessary that the restaurant be affordable for everyone.	Es necesario que el restaurante sea asequible para todos.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I want the house to be welcoming for all who enter.	Quiero que la casa sea acogedora para todos los que entren.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is important that the home be a place of peace.	Es importante que el hogar sea un lugar de paz.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	So that we be comfortable, the house needs to be clean.
+Para que estemos cómodos, la casa debe estar limpia.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I hope the new apartment is close to the church.
+Espero que el nuevo apartamento esté cerca de la iglesia.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is good that the yard be safe for the children.	Es bueno que el patio sea seguro para los niños.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I want my children to be raised in the fear of the Lord.	Quiero que mis hijos sean criados en el temor del Señor.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is important that the parents be present at the dedication.	Es importante que los padres estén presentes en la dedicación.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	God desires that we be devoted to our families.	Dios desea que seamos dedicados a nuestras familias.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	May our home be filled with joy and the Word of God.
+Que nuestro hogar esté lleno de alegría y la Palabra de Dios.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I pray that the children are healthy and strong.
+Oro para que los niños estén sanos y fuertes.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I hope you are the right person for this role.	Espero que seas la persona adecuada para este papel.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is good that she is a caring and loyal friend.
+Es bueno que sea una amiga cariñosa y leal.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	So that you be a good friend, listen before you speak.
+Para que seas un buen amigo, escucha antes de hablar.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I pray that we are friends who point each other to Christ.
+Oro para que seamos amigos que nos señalemos mutuamente a Cristo.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is important that they be kind and supportive friends.	Es importante que sean amigos amables y solidarios.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I need the dog to be calm around the baby.	Necesito que el perro sea tranquilo cerca del bebé.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is important that the cat be vaccinated before travel.	Es importante que el gato esté vacunado antes de viajar.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	So that the pet be healthy, it must have regular vet visits.
+Para que la mascota esté saludable, debe tener visitas veterinarias regulares.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I hope the puppy is friendly with the children.
+Espero que el cachorro sea amigable con los niños.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is good that the shelter animals be cared for with love.	Es bueno que los animales del refugio sean cuidados con amor.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I want you to be the best student in the class.	Quiero que seas el mejor estudiante de la clase.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is important that she be attentive during the lesson.	Es importante que ella esté atenta durante la lección.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	God wants us to be diligent in our studies of his Word.	Dios quiere que seamos diligentes en el estudio de su Palabra.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	May you be an excellent teacher who inspires your students.
+Que seas un excelente maestro que inspire a sus estudiantes.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I pray that the school be a place of faith and learning.
+Oro para que la escuela sea un lugar de fe y aprendizaje.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I hope you are feeling better after the treatment.	Espero que te sientas mejor después del tratamiento.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is important that the patient be monitored closely.	Es importante que el paciente sea monitoreado de cerca.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	So that we be healthy, we must take care of our bodies.
+Para que estemos saludables, debemos cuidar nuestros cuerpos.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I pray that the sick members of our church be healed.
+Oro para que los miembros enfermos de nuestra iglesia sean sanados.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is necessary that the clinic be accessible to all.	Es necesario que la clínica sea accesible para todos.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I want you to be the leader of this ministry team.	Quiero que seas el líder de este equipo ministerial.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is important that he be trustworthy in the workplace.	Es importante que sea confiable en el lugar de trabajo.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	So that she be effective at work, she needs support.
+Para que sea efectiva en el trabajo, necesita apoyo.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I hope the new hire is a person of faith and character.
+Espero que el nuevo empleado sea una persona de fe y carácter.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is good that they be dedicated workers who honor God.	Es bueno que sean trabajadores dedicados que honren a Dios.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I hope the concert is a blessing to the whole community.	Espero que el concierto sea una bendición para toda la comunidad.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is important that the worship be prepared and anointed.	Es importante que la adoración sea preparada y ungida.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	So that the music be excellent, we must practice more.
+Para que la música sea excelente, debemos practicar más.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I pray that they be instruments of praise to God.
+Oro para que sean instrumentos de alabanza a Dios.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is good that she be the lead vocalist on the worship team.	Es bueno que sea la vocalista principal del equipo de adoración.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	May God be exalted in every song we sing.
+Que Dios sea exaltado en cada canción que cantemos.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I pray that the gospel be preached clearly and boldly.
+Oro para que el evangelio sea predicado con claridad y valentía.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is important that the sermon be based on Scripture.	Es importante que el sermón esté basado en las Escrituras.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	God wants his Word to be proclaimed to every nation.	Dios quiere que su Palabra sea proclamada a todas las naciones.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	May Christ be glorified through our lives.
+Que Cristo sea glorificado a través de nuestras vidas.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I hope the Bible study is enriching for everyone.
+Espero que el estudio bíblico sea enriquecedor para todos.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I do not think this approach is the most effective one.	No creo que este enfoque sea el más efectivo.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is possible that he is the answer to our prayer.	Es posible que él sea la respuesta a nuestra oración.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I hope the new pastor is a man of prayer.
+Espero que el nuevo pastor sea un hombre de oración.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is necessary that every member be committed to the vision.	Es necesario que cada miembro esté comprometido con la visión.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I want our church to be a refuge for the broken.	Quiero que nuestra iglesia sea un refugio para los quebrantados.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	May the offering be used to bless others in need.
+Que la ofrenda sea usada para bendecir a otros en necesidad.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I pray that we be found faithful when Christ returns.
+Oro para que seamos hallados fieles cuando Cristo regrese.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is important that the children be taught about God.	Es importante que los niños sean enseñados acerca de Dios.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	So that we be fruitful, we must abide in the vine.
+Para que seamos fructíferos, debemos permanecer en la vid.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I am glad that you are a faithful member of this body.
+Me alegra que seas un miembro fiel de este cuerpo.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is good that the small group be a safe space to grow.	Es bueno que el grupo pequeño sea un espacio seguro para crecer.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I need the event to be organized and Christ-centered.
+Necesito que el evento esté organizado y centrado en Cristo.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is important that everyone be treated with dignity.	Es importante que todos sean tratados con dignidad.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	So that the mission be blessed, we must seek God first.
+Para que la misión sea bendecida, debemos buscar a Dios primero.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I pray that the new couple be rooted in Christ.
+Oro para que la nueva pareja esté arraigada en Cristo.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	May you be a vessel of honor for the Lord.
+Que seas un vaso de honra para el Señor.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I want this to be a place where people encounter God.
+Quiero que este sea un lugar donde las personas encuentren a Dios.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is necessary that the leaders be above reproach.	Es necesario que los líderes sean irreprochables.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	God desires that we be humble and teachable.	Dios desea que seamos humildes y enseñables.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	May the peace of God be with you always.
+Que la paz de Dios sea contigo siempre.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I pray that the church be a house of prayer for all people.
+Oro para que la iglesia sea una casa de oración para todas las personas.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is important that the testimony be honest and encouraging.	Es importante que el testimonio sea honesto y alentador.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	So that we be used by God, we must surrender our will.
+Para que seamos usados por Dios, debemos rendir nuestra voluntad.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I hope the community outreach is fruitful this month.
+Espero que el alcance comunitario sea fructífero este mes.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is good that the church be known for its generosity.	Es bueno que la iglesia sea conocida por su generosidad.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I want every person to be valued in this congregation.
+Quiero que cada persona sea valorada en esta congregación.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	May this church be a blessing to the city.
+Que esta iglesia sea una bendición para la ciudad.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I pray that every family be touched by the love of God.
+Oro para que cada familia sea tocada por el amor de Dios.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is possible that the retreat is exactly what we need.	Es posible que el retiro sea exactamente lo que necesitamos.	Ser Present Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If I were a better preacher, more people would listen.	Si fuera un mejor predicador, más personas escucharían.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	The pastor hoped we would be committed to the vision.	El pastor esperaba que fuéramos comprometidos con la visión.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If she were the worship leader, the service would be powerful.	Si fuera la líder de adoración, el culto sería poderoso.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We prayed that we would be vessels used by God.	Oramos para que fuéramos vasos usados por Dios.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If they were more united, the church would grow faster.	Si fueran más unidos, la iglesia crecería más rápido.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If only I were more faithful in reading the Bible daily.	Ojalá fuera más fiel en leer la Biblia a diario.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	God wished we would be more generous with our gifts.	Dios deseaba que fuéramos más generosos con nuestros dones.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If he were more available, he could lead the small group.	Si fuera más disponible, podría dirigir el grupo pequeño.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We needed someone to be the coordinator for the retreat.	Necesitábamos que alguien fuera el coordinador del retiro.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If they were less fearful, they would share the gospel more.	Si fueran menos temerosos, compartirían el evangelio más.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If I were the guide, I would take you to the best places.	Si fuera el guía, te llevaría a los mejores lugares.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	I wished you would be the translator for the team.	Ojalá que fueras el traductor del equipo.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If she were the team leader, the trip would go smoothly.	Si fuera la líder del equipo, el viaje saldría sin problemas.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We hoped we would be welcomed by the local believers.	Esperábamos que fuéramos bienvenidos por los creyentes locales.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If they were better prepared, the mission would succeed.	Si fueran mejor preparados, la misión tendría éxito.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If the food were spicier, the guests might not enjoy it.	Si la comida fuera más picante, los invitados no la disfrutarían.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	I wished the restaurant were open on Sunday mornings.	Ojalá que el restaurante fuera abierto los domingos por la mañana.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If the tamales were ready earlier, we could eat before church.	Si los tamales estuvieran listos antes, podríamos comer antes del culto.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We hoped the potluck would be well-organized.	Esperábamos que el almuerzo compartido fuera bien organizado.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If the meal were simpler, we could prepare it faster.	Si la comida fuera más sencilla, podríamos prepararla más rápido.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If the house were bigger, we could host more people.	Si la casa fuera más grande, podríamos recibir a más personas.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	I needed the home to be ready before the guests arrived.	Necesitaba que el hogar estuviera listo antes de que llegaran los invitados.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If the apartment were closer to the church, we would move.	Si el apartamento fuera más cerca de la iglesia, nos mudaríamos.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We hoped the new house would be a blessing to our family.	Esperábamos que la nueva casa fuera una bendición para nuestra familia.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If the yard were safer, the children could play outside.	Si el patio fuera más seguro, los niños podrían jugar afuera.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If I were a better father, I would spend more time with them.	Si fuera un mejor padre, pasaría más tiempo con ellos.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	Mom wished the family would be together for Christmas.	Mamá deseaba que la familia fuera junta para la Navidad.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If she were more present, the children would feel more loved.	Si fuera más presente, los niños se sentirían más amados.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We prayed that we would be a family united by faith.	Oramos para que fuéramos una familia unida por la fe.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If they were more intentional, their marriage would flourish.	Si fueran más intencionales, su matrimonio florecería.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If I were a better friend, I would listen more and talk less.	Si fuera un mejor amigo, escucharía más y hablaría menos.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	She hoped we would be close friends for many years.	Ella esperaba que fuéramos amigos cercanos por muchos años.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If he were more encouraging, his friends would open up more.	Si fuera más alentador, sus amigos se abrirían más.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We hoped the group would be a true community of faith.	Esperábamos que el grupo fuera una verdadera comunidad de fe.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If they were more consistent, the friendship would grow deeper.	Si fueran más consistentes, la amistad se haría más profunda.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If the dog were calmer, it would be easier to train.	Si el perro fuera más tranquilo, sería más fácil entrenarlo.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	I needed the cat to be gentle with the baby.	Necesitaba que el gato fuera gentil con el bebé.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If the rabbit were less shy, we could hold it more often.	Si el conejo fuera menos tímido, podríamos cargarlo más seguido.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We hoped the new pet would be good with children.	Esperábamos que la nueva mascota fuera buena con los niños.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If they were more experienced with animals, they would adopt.	Si fueran más experimentados con animales, adoptarían.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If I were a better student, I would pass the exam easily.	Si fuera un mejor estudiante, pasaría el examen fácilmente.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	The teacher wished everyone would be more attentive.	El maestro deseaba que todos fueran más atentos.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If she were more organized, she would manage her studies better.	Si fuera más organizada, manejaría mejor sus estudios.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We hoped we would be diligent students of the Word.	Esperábamos que fuéramos estudiantes diligentes de la Palabra.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If they were more disciplined, they would finish the course.	Si fueran más disciplinados, terminarían el curso.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If I were in better health, I could serve more at church.	Si estuviera en mejor salud, podría servir más en la iglesia.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	The doctor wished the patient would be more compliant.	El médico deseaba que el paciente fuera más cumplidor.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If the clinic were closer, more people would seek care.	Si la clínica fuera más cercana, más personas buscarían atención.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We hoped the recovery would be faster than expected.	Esperábamos que la recuperación fuera más rápida de lo esperado.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If they were more rested, they would feel so much better.	Si estuvieran más descansados, se sentirían mucho mejor.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If I were the manager, I would give the team more rest.	Si fuera el gerente, le daría al equipo más descanso.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	The director wanted us to be more punctual for the meetings.	El director quería que fuéramos más puntuales para las reuniones.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If she were in a leadership role, she would inspire many.	Si fuera en un papel de liderazgo, inspiraría a muchos.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We needed someone to be the volunteer coordinator.	Necesitábamos que alguien fuera el coordinador de voluntarios.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If they were more professional, they would get the contract.	Si fueran más profesionales, obtendrían el contrato.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If I were a better musician, I would play at the concert.	Si fuera un mejor músico, tocaría en el concierto.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	The choir director wished we would be more prepared.	El director del coro deseaba que fuéramos más preparados.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If she were more confident, she would audition for the solo.	Si fuera más segura de sí misma, haría la audición para el solo.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We hoped the worship would be anointed by the Holy Spirit.	Esperábamos que la adoración fuera ungida por el Espíritu Santo.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If they were more in tune, the choir would sound beautiful.	Si estuvieran más afinados, el coro sonaría hermoso.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If only the church were more welcoming to newcomers.	Ojalá la iglesia fuera más acogedora para los recién llegados.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	God desired that we would be known by our love.	Dios deseaba que fuéramos conocidos por nuestro amor.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If the sermon were shorter, more people might stay awake.	Si el sermón fuera más corto, más personas podrían mantenerse despiertas.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We prayed that we would be bold witnesses for Christ.	Oramos para que fuéramos testigos audaces de Cristo.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If they were more rooted in Scripture, they would not be swayed.	Si estuvieran más arraigados en las Escrituras, no serían influenciados.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If I were more humble, God could use me in greater ways.	Si fuera más humilde, Dios podría usarme de maneras más grandes.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	She wished the Bible study would be more interactive.	Ella deseaba que el estudio bíblico fuera más interactivo.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If he were more spiritually mature, he could mentor others.	Si fuera más maduro espiritualmente, podría mentorear a otros.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We hoped that the prayer meeting would be well-attended.	Esperábamos que la reunión de oración fuera bien asistida.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If they were less distracted, they would grow more in faith.	Si estuvieran menos distraídos, crecerían más en la fe.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If I were in charge of the outreach, I would include more families.	Si fuera el encargado del alcance, incluiría más familias.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	The team hoped we would be ready for the community event.	El equipo esperaba que fuéramos listos para el evento comunitario.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If she were more available, she could help with the ministry.	Si fuera más disponible, podría ayudar con el ministerio.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We needed the space to be ready for the worship rehearsal.	Necesitábamos que el espacio estuviera listo para el ensayo de adoración.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If they were more generous, many more could be helped.	Si fueran más generosos, muchos más podrían ser ayudados.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If I were more disciplined in prayer, my faith would grow.	Si fuera más disciplinado en la oración, mi fe crecería.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	God wished his people would be a holy nation.	Dios deseaba que su pueblo fuera una nación santa.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If the congregation were more engaged, revival would come.	Si la congregación fuera más comprometida, llegaría el avivamiento.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We prayed that the lost would be found by the grace of God.	Oramos para que los perdidos fueran encontrados por la gracia de Dios.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If they were more prayerful, their decisions would be wiser.	Si fueran más dados a la oración, sus decisiones serían más sabias.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If I were healthier, I could serve more vigorously.	Si estuviera más saludable, podría servir más vigorosamente.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	The family hoped we would be together for the holidays.	La familia esperaba que fuéramos juntos durante las fiestas.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If he were less proud, he would ask for help more often.	Si fuera menos orgulloso, pediría ayuda más seguido.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We hoped that the trip would be a time of spiritual renewal.	Esperábamos que el viaje fuera un tiempo de renovación espiritual.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If they were kinder to each other, their friendship would last.	Si fueran más amables el uno con el otro, su amistad duraría.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If I were the chef, I would make a feast for the whole church.	Si fuera el chef, haría un banquete para toda la iglesia.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	She wished everyone would be more careful with the animals.	Ella deseaba que todos fueran más cuidadosos con los animales.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If the school were closer, the children would walk there.	Si la escuela fuera más cercana, los niños caminarían hasta allí.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We hoped the exam would be fair and well-structured.	Esperábamos que el examen fuera justo y bien estructurado.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If they were more focused during class, they would learn faster.	Si estuvieran más enfocados durante la clase, aprenderían más rápido.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If I were more patient, I could teach Sunday school better.	Si fuera más paciente, podría enseñar la escuela dominical mejor.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	The doctor hoped the recovery would be quick and complete.	El médico esperaba que la recuperación fuera rápida y completa.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If the treatment were less painful, more people would comply.	Si el tratamiento fuera menos doloroso, más personas cumplirían.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We hoped the health fair would be well-attended.	Esperábamos que la feria de salud fuera bien asistida.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If they were more health-conscious, they would live longer.	Si fueran más conscientes de su salud, vivirían más tiempo.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If I were the director, I would invest more in volunteers.	Si fuera el director, invertiría más en los voluntarios.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	The boss wished everyone would be more punctual.	El jefe deseaba que todos fueran más puntuales.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If she were in a different position, she could serve better.	Si estuviera en un puesto diferente, podría servir mejor.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	We hoped the ministry budget would be enough this year.	Esperábamos que el presupuesto ministerial fuera suficiente este año.	Ser Imperfect Subjunctive
+Basic	Ser::Imperfect::Subjunctive	If they were more aligned in vision, the team would thrive.	Si estuvieran más alineados en la visión, el equipo prosperaría.	Ser Imperfect Subjunctive
+Basic	Ser::Present::Perfect	I have been a member of this church for five years.
+He sido miembro de esta iglesia por cinco años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been baptized in this congregation?
+¿Has sido bautizado en esta congregación?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been the worship leader since the church was founded.
+Ha sido la líder de adoración desde que se fundó la iglesia.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been blessed by the ministry of this pastor.
+Hemos sido bendecidos por el ministerio de este pastor.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been faithful servants of God for many years.
+Han sido fieles siervos de Dios durante muchos años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been a missionary in Latin America for three years.
+He sido misionero en América Latina durante tres años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been part of a mission trip before?
+¿Has sido parte de un viaje misionero antes?	Ser Present Perfect
+Basic	Ser::Present::Perfect	He has been the translator for the international team.
+Ha sido el traductor del equipo internacional.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been welcomed warmly by the local church.
+Hemos sido bienvenidos calurosamente por la iglesia local.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been ambassadors of Christ in every place they visited.
+Han sido embajadores de Cristo en cada lugar que visitaron.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been a traveler for most of my adult life.
+He sido viajero durante la mayor parte de mi vida adulta.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been to a Spanish-speaking country before?
+¿Has sido a un país de habla hispana antes?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been our guide throughout the whole journey.
+Ha sido nuestra guía durante todo el viaje.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been in several cities during this mission trip.
+Hemos sido en varias ciudades durante este viaje misionero.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been on the road for three weeks now.
+Han sido en camino durante tres semanas ya.	Ser Present Perfect
+Basic	Ser::Present::Perfect	The food at this restaurant has been exceptional every time.
+La comida en este restaurante ha sido excepcional cada vez.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been to the new restaurant near the church?
+¿Has sido al nuevo restaurante cerca de la iglesia?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been the cook for every church potluck this year.
+Ha sido la cocinera de cada almuerzo compartido de la iglesia este año.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been grateful for every meal God has provided.
+Hemos sido agradecidos por cada comida que Dios ha provisto.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been known for their amazing homemade tortillas.
+Han sido conocidos por sus increíbles tortillas caseras.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been the host for Bible study at my home this month.
+He sido el anfitrión del estudio bíblico en mi casa este mes.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been living in the same house for long?
+¿Has sido viviendo en la misma casa por mucho tiempo?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been the heart of our home for thirty years.
+Ha sido el corazón de nuestro hogar durante treinta años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been homeowners for just over a year.
+Hemos sido dueños de casa por poco más de un año.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been neighbors and dear friends for a decade.
+Han sido vecinos y queridos amigos durante una década.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been a devoted father since day one.
+He sido un padre dedicado desde el primer día.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been married long?
+¿Has sido casado por mucho tiempo?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been a devoted grandmother to all her grandchildren.
+Ha sido una abuela dedicada para todos sus nietos.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been a family built on faith and love.
+Hemos sido una familia construida sobre la fe y el amor.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been wonderful parents to their three children.
+Han sido padres maravillosos para sus tres hijos.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been a loyal friend through every season of life.
+He sido un amigo leal en cada temporada de la vida.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been in touch with your old friends from church?
+¿Has sido en contacto con tus viejos amigos de la iglesia?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been a blessing to everyone in the friend group.
+Ha sido una bendición para todos en el grupo de amigos.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been friends since we met in Sunday school as children.
+Hemos sido amigos desde que nos conocimos en la escuela dominical de niños.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been close friends for over twenty years.
+Han sido amigos cercanos por más de veinte años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	My dog has been my faithful companion for eight years.
+Mi perro ha sido mi fiel compañero por ocho años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been a pet owner before?
+¿Has sido dueño de mascotas antes?	Ser Present Perfect
+Basic	Ser::Present::Perfect	The cat has been a wonderful addition to our family.
+El gato ha sido una maravillosa adición a nuestra familia.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been volunteers at the animal shelter for two years.
+Hemos sido voluntarios en el refugio de animales por dos años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been responsible pet owners from the very beginning.
+Han sido dueños de mascotas responsables desde el principio.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been a student at this Bible college for two years.
+He sido estudiante en este colegio bíblico por dos años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been a teacher at the Christian school?
+¿Has sido maestro en la escuela cristiana?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been the top student in every class she has taken.
+Ha sido la mejor estudiante en cada clase que ha tomado.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been study partners in theology class all semester.
+Hemos sido compañeros de estudio en la clase de teología todo el semestre.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been excellent mentors to the younger students.
+Han sido excelentes mentores para los estudiantes más jóvenes.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been in good health since I started exercising.
+He sido en buena salud desde que empecé a hacer ejercicio.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been feeling better since the treatment?
+¿Has sido sintiéndote mejor desde el tratamiento?	Ser Present Perfect
+Basic	Ser::Present::Perfect	The diagnosis has been a wake-up call for our whole family.
+El diagnóstico ha sido una llamada de atención para toda nuestra familia.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been blessed with good health this year.
+Hemos sido bendecidos con buena salud este año.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been incredible nurses at the community clinic.
+Han sido enfermeras increíbles en la clínica comunitaria.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been an employee at the Christian organization for six years.
+He sido empleado en la organización cristiana por seis años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been the manager of this team for long?
+¿Has sido el gerente de este equipo por mucho tiempo?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been the director of the nonprofit ministry for a decade.
+Ha sido la directora del ministerio sin fines de lucro por una década.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been a team committed to serving God in the workplace.
+Hemos sido un equipo comprometido a servir a Dios en el lugar de trabajo.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been recognized for their dedication to the mission.
+Han sido reconocidos por su dedicación a la misión.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been the guitarist on the worship team for three years.
+He sido el guitarrista en el equipo de adoración por tres años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been in the choir before?
+¿Has sido del coro antes?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been the lead vocalist at every service this year.
+Ha sido la vocalista principal en cada culto este año.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been a praise team that honors God every Sunday.
+Hemos sido un equipo de alabanza que honra a Dios cada domingo.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been making music together for over fifteen years.
+Han sido haciendo música juntos por más de quince años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	God has been faithful to me throughout my entire life.
+Dios ha sido fiel conmigo durante toda mi vida.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Has the Bible always been important to your family?
+¿Ha sido la Biblia siempre importante para tu familia?	Ser Present Perfect
+Basic	Ser::Present::Perfect	Jesus has been the anchor of my soul in every storm.
+Jesús ha sido el ancla de mi alma en cada tormenta.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been changed by the power of the gospel.
+Hemos sido cambiados por el poder del evangelio.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been witnesses of God faithfulness in their community.
+Han sido testigos de la fidelidad de Dios en su comunidad.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been a child of God since I gave my life to Jesus.
+He sido hijo de Dios desde que entregué mi vida a Jesús.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been growing in your walk with God?
+¿Has sido creciendo en tu caminar con Dios?	Ser Present Perfect
+Basic	Ser::Present::Perfect	He has been a strong spiritual leader in our community.
+Ha sido un fuerte líder espiritual en nuestra comunidad.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been transformed by the grace of God.
+Hemos sido transformados por la gracia de Dios.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been an example of faithful Christian living.
+Han sido un ejemplo de una vida cristiana fiel.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been deeply blessed by this church family.
+He sido profundamente bendecido por esta familia de la iglesia.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Has the prayer group been meeting regularly?
+¿Ha sido el grupo de oración reuniéndose con regularidad?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been a pillar of this congregation for decades.
+Ha sido un pilar de esta congregación por décadas.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been committed to the vision of this ministry.
+Hemos sido comprometidos con la visión de este ministerio.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been a blessing to every church they have served.
+Han sido una bendición para cada iglesia que han servido.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been in consistent prayer for your healing.
+He sido en oración constante por tu sanidad.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been consistent in your Bible reading?
+¿Has sido consistente en tu lectura bíblica?	Ser Present Perfect
+Basic	Ser::Present::Perfect	He has been a great example of humility and service.
+Ha sido un gran ejemplo de humildad y servicio.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been encouraged by the testimonies shared tonight.
+Hemos sido alentados por los testimonios compartidos esta noche.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been instruments of revival in their region.
+Han sido instrumentos de avivamiento en su región.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been a volunteer at the food pantry every Saturday.
+He sido voluntario en la despensa de alimentos cada sábado.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been involved in outreach ministry before?
+¿Has sido involucrado en el ministerio de alcance antes?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been an advocate for the poor in our neighborhood.
+Ha sido una defensora de los pobres en nuestro vecindario.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been committed to serving the vulnerable in our city.
+Hemos sido comprometidos a servir a los vulnerables en nuestra ciudad.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been a voice for justice and compassion.
+Han sido una voz por la justicia y la compasión.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been passionate about sharing the gospel my whole life.
+He sido apasionado por compartir el evangelio toda mi vida.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Has the new building project been approved by the elders?
+¿Ha sido el nuevo proyecto del edificio aprobado por los ancianos?	Ser Present Perfect
+Basic	Ser::Present::Perfect	He has been a mentor to dozens of young believers.
+Ha sido un mentor para decenas de jóvenes creyentes.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been united in purpose and in prayer.
+Hemos sido unidos en propósito y en oración.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been the backbone of this church for many years.
+Han sido la columna vertebral de esta iglesia por muchos años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been renewed by the power of God grace.
+He sido renovado por el poder de la gracia de Dios.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been encouraged by the testimonies of others?
+¿Has sido alentado por los testimonios de otros?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been a joyful servant of the Lord all her life.
+Ha sido una sierva alegre del Señor toda su vida.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been shaped by the Word of God and prayer.
+Hemos sido formados por la Palabra de Dios y la oración.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been grateful for every open door God has given them.
+Han sido agradecidos por cada puerta abierta que Dios les ha dado.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been forgiven and set free by the blood of Christ.
+He sido perdonado y liberado por la sangre de Cristo.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been set free from the burdens of the past?
+¿Has sido liberado de las cargas del pasado?	Ser Present Perfect
+Basic	Ser::Present::Perfect	He has been a faithful husband, father, and follower of Christ.
+Ha sido un esposo, padre y seguidor de Cristo fiel.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been called to make disciples of all nations.
+Hemos sido llamados a hacer discípulos de todas las naciones.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been sent out to carry the good news to the ends of the earth.
+Han sido enviados a llevar las buenas nuevas hasta los confines de la tierra.	Ser Present Perfect
+Basic	Ser::Past::Perfect	I had been a member of the church for years before moving.
+Había sido miembro de la iglesia por años antes de mudarme.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been baptized before joining this congregation?
+¿Habías sido bautizado antes de unirte a esta congregación?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been the worship leader before the pastor arrived.
+Había sido la líder de adoración antes de que llegara el pastor.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been blessed by so many faithful pastors before him.
+Habíamos sido bendecidos por muchos pastores fieles antes que él.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been missionaries for a decade before returning home.
+Habían sido misioneros por una década antes de regresar a casa.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been a volunteer at the mission before taking a staff role.
+Había sido voluntario en la misión antes de tomar un puesto de personal.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been the Bible study leader before she took over?
+¿Habías sido el líder del estudio bíblico antes de que ella tomara el mando?	Ser Past Perfect
+Basic	Ser::Past::Perfect	He had been the choir director for twenty years before retiring.
+Había sido el director del coro por veinte años antes de jubilarse.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been a small group church before the building was built.
+Habíamos sido una iglesia de grupo pequeño antes de que se construyera el edificio.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been elders of the church before the reorganization.
+Habían sido ancianos de la iglesia antes de la reorganización.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been a traveler for years before settling in this city.
+Había sido viajero por años antes de establecerme en esta ciudad.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been abroad before the mission trip?
+¿Habías sido al extranjero antes del viaje misionero?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been the guide before the agency hired someone new.
+Había sido la guía antes de que la agencia contratara a alguien nuevo.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been in six countries before reaching our final destination.
+Habíamos sido en seis países antes de llegar a nuestro destino final.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been on the road for weeks before finding a church to partner with.
+Habían sido en camino por semanas antes de encontrar una iglesia con quien asociarse.	Ser Past Perfect
+Basic	Ser::Past::Perfect	The restaurant had been the most popular one in town before it closed.
+El restaurante había sido el más popular del pueblo antes de cerrar.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had the food always been that good before the chef left?
+¿Había sido la comida siempre tan buena antes de que el chef se fuera?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been the cook for church dinners before she moved away.
+Había sido la cocinera para las cenas de la iglesia antes de mudarse.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been known for our tamales before the recipe was lost.
+Habíamos sido conocidos por nuestros tamales antes de que se perdiera la receta.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been the main caterers for the church before the pandemic.
+Habían sido los principales proveedores de comida para la iglesia antes de la pandemia.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been the host of the family Christmas before we moved.
+Había sido el anfitrión de la Navidad familiar antes de mudarnos.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had the house been in the family for generations?
+¿Había sido la casa de la familia por generaciones?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been the heart of the home before her health declined.
+Había sido el corazón del hogar antes de que su salud declinara.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been homeowners for a year before the flood.
+Habíamos sido dueños de casa por un año antes de la inundación.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been neighbors before the neighborhood changed.
+Habían sido vecinos antes de que cambiara el vecindario.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been a devoted father before losing my job.
+Había sido un padre dedicado antes de perder mi trabajo.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been married before you joined this church?
+¿Habías sido casado antes de unirte a esta iglesia?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been the matriarch of the family before she passed away.
+Había sido la matriarca de la familia antes de fallecer.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been a close-knit family before the argument divided us.
+Habíamos sido una familia muy unida antes de que el argumento nos dividiera.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been wonderful parents long before the grandchildren came.
+Habían sido padres maravillosos mucho antes de que llegaran los nietos.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been best friends with him long before we became coworkers.
+Había sido el mejor amigo de él mucho antes de que fuéramos compañeros de trabajo.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been friends with her before you started dating?
+¿Habías sido amigo de ella antes de que empezaran a salir?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been my accountability partner before moving to another city.
+Había sido mi compañera de responsabilidad antes de mudarse a otra ciudad.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been inseparable friends before life pulled us in different directions.
+Habíamos sido amigos inseparables antes de que la vida nos llevara en direcciones diferentes.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been dear church friends for decades before the split.
+Habían sido queridos amigos de la iglesia por décadas antes de la división.	Ser Past Perfect
+Basic	Ser::Past::Perfect	My dog had been my companion for ten years before he died.
+Mi perro había sido mi compañero por diez años antes de morir.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had the cat been part of the family for long before you adopted her?
+¿Había sido el gato parte de la familia por mucho tiempo antes de adoptarla?	Ser Past Perfect
+Basic	Ser::Past::Perfect	The rabbit had been shy before we spent more time with it.
+El conejo había sido tímido antes de que pasáramos más tiempo con él.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been pet-free before the children convinced us to adopt.
+Habíamos sido sin mascotas antes de que los niños nos convencieran de adoptar.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been volunteers at the shelter before funding ran out.
+Habían sido voluntarios en el refugio antes de que se acabara el financiamiento.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been a student at that school before it closed.
+Había sido estudiante en esa escuela antes de que cerrara.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been a teacher before going into ministry?
+¿Habías sido maestro antes de entrar al ministerio?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been the top student before the semester ended.
+Había sido la mejor estudiante antes de que terminara el semestre.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been study partners before the class ended.
+Habíamos sido compañeros de estudio antes de que terminara la clase.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been students at the same seminary before graduating.
+Habían sido estudiantes en el mismo seminario antes de graduarse.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been in good health before the diagnosis.
+Había sido en buena salud antes del diagnóstico.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had the patient been stable before the emergency?
+¿Había sido el paciente estable antes de la emergencia?	Ser Past Perfect
+Basic	Ser::Past::Perfect	The clinic had been the main health resource before the hospital opened.
+La clínica había sido el principal recurso de salud antes de que abriera el hospital.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been very healthy before we stopped exercising.
+Habíamos sido muy saludables antes de dejar de hacer ejercicio.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been the nurses at the mission clinic before retirement.
+Habían sido los enfermeros en la clínica misionera antes de jubilarse.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been the manager before the company restructured.
+Había sido el gerente antes de que la empresa se reestructurara.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been the director of the ministry before she joined?
+¿Habías sido el director del ministerio antes de que ella se uniera?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been the lead coordinator before taking maternity leave.
+Había sido la coordinadora principal antes de tomar la licencia de maternidad.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been coworkers who prayed together before the merger.
+Habíamos sido compañeros de trabajo que orábamos juntos antes de la fusión.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been the top team before the budget cuts.
+Habían sido el mejor equipo antes de los recortes presupuestarios.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been the pianist on the worship team before the accident.
+Había sido el pianista en el equipo de adoración antes del accidente.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been in the choir before moving to this church?
+¿Habías sido del coro antes de mudarte a esta iglesia?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been the soloist for years before her voice changed.
+Había sido la solista por años antes de que su voz cambiara.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been a gospel quartet before two members moved away.
+Habíamos sido un cuarteto de gospel antes de que dos miembros se mudaran.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been the worship band before the church merged.
+Habían sido la banda de adoración antes de que la iglesia se fusionara.	Ser Past Perfect
+Basic	Ser::Past::Perfect	God had been faithful long before we recognized it.
+Dios había sido fiel mucho antes de que lo reconociéramos.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had Jesus been the topic of the whole sermon series?
+¿Había sido Jesús el tema de toda la serie de sermones?	Ser Past Perfect
+Basic	Ser::Past::Perfect	The church had been a beacon of hope before the fire.
+La iglesia había sido un faro de esperanza antes del incendio.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been changed by the gospel before we even realized it.
+Habíamos sido cambiados por el evangelio antes de que lo entendiéramos.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been witnesses of God faithfulness in hard times.
+Habían sido testigos de la fidelidad de Dios en tiempos difíciles.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been saved for ten years before I was baptized.
+Había sido salvo por diez años antes de ser bautizado.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had the congregation been larger before the split?
+¿Había sido la congregación más grande antes de la división?	Ser Past Perfect
+Basic	Ser::Past::Perfect	He had been a deacon for years before becoming a pastor.
+Había sido diácono por años antes de convertirse en pastor.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been discipled by faithful mentors before starting the ministry.
+Habíamos sido discipulados por mentores fieles antes de comenzar el ministerio.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been transformed by grace before anyone noticed.
+Habían sido transformados por la gracia antes de que nadie lo notara.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been a prayer warrior before the illness weakened me.
+Había sido un guerrero de oración antes de que la enfermedad me debilitara.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had the Bible study group been meeting in that home long?
+¿Había sido el grupo de estudio bíblico reuniéndose en ese hogar por mucho tiempo?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been a source of joy to the congregation for decades.
+Había sido una fuente de alegría para la congregación por décadas.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been committed to the mission before the funding was cut.
+Habíamos sido comprometidos con la misión antes de que se recortara el financiamiento.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been great evangelists before they retired from ministry.
+Habían sido grandes evangelistas antes de retirarse del ministerio.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been a child of God before I fully understood what that meant.
+Había sido hijo de Dios antes de entender completamente lo que eso significaba.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had they been inspired before the worship service began?
+¿Habían sido inspirados antes de que comenzara el culto de adoración?	Ser Past Perfect
+Basic	Ser::Past::Perfect	He had been the intercessor of the group before he passed away.
+Había sido el intercesor del grupo antes de fallecer.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been a praying church before we lost our way.
+Habíamos sido una iglesia de oración antes de perder nuestro camino.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been sent out by the church before the pandemic closed borders.
+Habían sido enviados por la iglesia antes de que la pandemia cerrara las fronteras.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been very close to my grandparents before they passed.
+Había sido muy cercano a mis abuelos antes de que fallecieran.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had your family been rooted in this community for long?
+¿Había sido tu familia arraigada en esta comunidad por mucho tiempo?	Ser Past Perfect
+Basic	Ser::Past::Perfect	He had been a great example to his children before the divorce.
+Había sido un gran ejemplo para sus hijos antes del divorcio.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been a unified family before the misunderstanding.
+Habíamos sido una familia unida antes del malentendido.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been wonderful grandparents before their health declined.
+Habían sido abuelos maravillosos antes de que su salud declinara.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been involved in outreach before my work schedule changed.
+Había sido involucrado en el alcance antes de que cambiara mi horario de trabajo.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had the food pantry been operating for long before it moved locations?
+¿Había sido la despensa de alimentos operando por mucho tiempo antes de cambiar de lugar?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been an advocate for the poor long before joining the ministry.
+Había sido una defensora de los pobres mucho antes de unirse al ministerio.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been committed to serving the vulnerable before the reorganization.
+Habíamos sido comprometidos a servir a los vulnerables antes de la reorganización.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been a voice for the marginalized in the community.
+Habían sido una voz para los marginados en la comunidad.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been passionate about missions before I knew where to serve.
+Había sido apasionado por las misiones antes de saber dónde servir.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had the nonprofit been operational before they received the grant?
+¿Había sido la organización sin fines de lucro operativa antes de recibir la beca?	Ser Past Perfect
+Basic	Ser::Past::Perfect	He had been a mentor to young leaders before moving overseas.
+Había sido un mentor para jóvenes líderes antes de mudarse al extranjero.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been united in our purpose before the conflict arose.
+Habíamos sido unidos en nuestro propósito antes de que surgiera el conflicto.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been the backbone of the church before the new generation took over.
+Habían sido la columna vertebral de la iglesia antes de que la nueva generación tomara el mando.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been renewed by worship before the trial began.
+Había sido renovado por la adoración antes de que comenzara la prueba.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had the music team been together long before the concert?
+¿Había sido el equipo de música juntos por mucho tiempo antes del concierto?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been a joyful presence long before anyone recognized her gift.
+Había sido una presencia alegre mucho antes de que alguien reconociera su don.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been shaped by Scripture long before we could articulate it.
+Habíamos sido formados por las Escrituras mucho antes de poder articularlo.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been grateful to God even before the blessing came.
+Habían sido agradecidos a Dios incluso antes de que llegara la bendición.	Ser Past Perfect

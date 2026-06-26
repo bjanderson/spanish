@@ -1,0 +1,908 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Hablar::Present::Indicative	I speak Spanish with my friends from church.	Hablo español con mis amigos de la iglesia.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak with the pastor after service?	¿Hablas con el pastor después del culto?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	She speaks about God love wherever she goes.	Habla del amor de Dios dondequiera que va.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak about the Bible in our small group every week.	Hablamos de la Biblia en nuestro grupo pequeño cada semana.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak to the congregation with great faith every Sunday.	Hablan a la congregación con gran fe cada domingo.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	I speak with my family about our faith every morning.	Hablo con mi familia sobre nuestra fe cada mañana.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak about the gospel at work?	¿Hablas del evangelio en el trabajo?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	The pastor speaks truth with love and grace.	El pastor habla la verdad con amor y gracia.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak words of encouragement to those who are hurting.	Hablamos palabras de aliento a los que están sufriendo.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak life into every situation they face.	Hablan vida en cada situación que enfrentan.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	I speak with the tour guide in Spanish during the trip.	Hablo con el guía turístico en español durante el viaje.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak with the locals when you travel?	¿Hablas con los lugareños cuando viajas?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	She speaks to the waiter in the local language.	Habla con el mesero en el idioma local.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak with the hotel staff to arrange our schedule.	Hablamos con el personal del hotel para organizar nuestro horario.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak about their travel experiences at church.	Hablan de sus experiencias de viaje en la iglesia.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	I speak with the chef about the ingredients in the dish.	Hablo con el chef sobre los ingredientes del plato.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak with the waiter before ordering?	¿Hablas con el mesero antes de ordenar?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	She speaks about how to prepare traditional recipes.	Habla sobre cómo preparar recetas tradicionales.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak about food and cooking at the family table.	Hablamos sobre comida y cocina en la mesa familiar.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak of the meal as a way to share culture and love.	Hablan de la comida como una manera de compartir cultura y amor.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	I speak with my neighbor about faith in our daily conversations.	Hablo con mi vecino sobre la fe en nuestras conversaciones diarias.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak about spiritual things at home?	¿Hablas de cosas espirituales en casa?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	She speaks to God in prayer every morning in her home.	Habla con Dios en oración cada mañana en su casa.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak about Scripture during our family devotions.	Hablamos de las Escrituras durante nuestras devociones familiares.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak openly about their faith at home.	Hablan abiertamente sobre su fe en casa.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	I speak with my children about the love of God every night.	Hablo con mis hijos sobre el amor de Dios cada noche.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak with your parents about your faith journey?	¿Hablas con tus padres sobre tu camino de fe?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	She speaks to her grandmother about Bible stories.	Habla con su abuela sobre historias bíblicas.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak as a family about what we learned at church.	Hablamos en familia sobre lo que aprendimos en la iglesia.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak with their children about the importance of prayer.	Hablan con sus hijos sobre la importancia de la oración.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	I speak with my best friend about what God is doing in my life.	Hablo con mi mejor amigo sobre lo que Dios está haciendo en mi vida.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak with your friends about spiritual matters?	¿Hablas con tus amigos sobre asuntos espirituales?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	She speaks honestly with her friends about her struggles.	Habla honestamente con sus amigos sobre sus luchas.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak life into our friendships through words of faith.	Hablamos vida en nuestras amistades a través de palabras de fe.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak encouragement to one another during hard times.	Hablan aliento el uno al otro durante los tiempos difíciles.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	I speak to my dog to calm it down during the vet visit.	Hablo a mi perro para calmarlo durante la visita al veterinario.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak to your cat when it is afraid?	¿Hablas a tu gato cuando tiene miedo?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	She speaks softly to the animals at the shelter to comfort them.	Habla suavemente a los animales en el refugio para consolarlos.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak about pet care in our family devotional time.	Hablamos sobre el cuidado de las mascotas en nuestro tiempo devocional familiar.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak of their pets as part of the family.	Hablan de sus mascotas como parte de la familia.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	I speak about what I learned in the theology class.	Hablo sobre lo que aprendí en la clase de teología.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak with your study group before the exam?	¿Hablas con tu grupo de estudio antes del examen?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	The professor speaks clearly about the history of the early church.	El profesor habla claramente sobre la historia de la iglesia primitiva.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak about what we learned in Sunday school.	Hablamos sobre lo que aprendimos en la escuela dominical.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak about the lessons from the Bible with great enthusiasm.	Hablan sobre las lecciones de la Biblia con gran entusiasmo.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	I speak with the doctor about my health concerns.	Hablo con el médico sobre mis preocupaciones de salud.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak openly with your doctor about your symptoms?	¿Hablas abiertamente con tu médico sobre tus síntomas?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	She speaks with the nurse about the treatment plan.	Habla con la enfermera sobre el plan de tratamiento.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak with the medical team after every checkup.	Hablamos con el equipo médico después de cada chequeo.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak about health and wellness at the church retreat.	Hablan sobre salud y bienestar en el retiro de la iglesia.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	I speak with my coworkers about the ministry outreach project.	Hablo con mis compañeros de trabajo sobre el proyecto de alcance ministerial.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak with your supervisor about your schedule?	¿Hablas con tu supervisor sobre tu horario?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	She speaks confidently in meetings about the mission goals.	Habla con confianza en las reuniones sobre los objetivos misioneros.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak at team meetings about ways to serve the community.	Hablamos en las reuniones del equipo sobre formas de servir a la comunidad.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak about the ministry vision with everyone on staff.	Hablan de la visión del ministerio con todo el personal.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	I speak at the open mic night at the worship café.	Hablo en la noche de micrófono abierto en el café de adoración.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak about your musical journey with others?	¿Hablas sobre tu camino musical con otras personas?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	She speaks between songs to share her testimony.	Habla entre canciones para compartir su testimonio.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak about how music can bring healing and hope.	Hablamos sobre cómo la música puede traer sanidad y esperanza.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak about the power of worship music in their lives.	Hablan sobre el poder de la música de adoración en sus vidas.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	I speak about the passages in Genesis with my Bible study group.	Hablo sobre los pasajes de Génesis con mi grupo de estudio bíblico.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak about the Psalms during devotions?	¿Hablas sobre los Salmos durante las devociones?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	The preacher speaks with power and conviction every Sunday.	El predicador habla con poder y convicción cada domingo.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak God word over our lives and families.	Hablamos la Palabra de Dios sobre nuestras vidas y familias.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak about the fruit of the Spirit in the discipleship class.	Hablan sobre el fruto del Espíritu en la clase de discipulado.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	I speak blessings over my children every day.	Hablo bendiciones sobre mis hijos cada día.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak with the elders about important decisions in the church?	¿Hablas con los ancianos sobre decisiones importantes en la iglesia?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	She speaks with great wisdom and grace in difficult conversations.	Habla con gran sabiduría y gracia en conversaciones difíciles.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak about what God is doing in our community.	Hablamos sobre lo que Dios está haciendo en nuestra comunidad.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak about God faithfulness in their testimonies.	Hablan de la fidelidad de Dios en sus testimonios.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	I speak with God in prayer as my closest friend.	Hablo con Dios en oración como mi amigo más cercano.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak with the worship leader about the songs for Sunday?	¿Hablas con el líder de adoración sobre las canciones del domingo?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	He speaks about the vision for the church with great passion.	Habla de la visión de la iglesia con gran pasión.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak about the grace of God even when life is hard.	Hablamos de la gracia de Dios incluso cuando la vida es difícil.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak about what the Spirit is saying to the church.	Hablan sobre lo que el Espíritu le está diciendo a la iglesia.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	I speak to my student about the importance of knowing Scripture.	Hablo a mi estudiante sobre la importancia de conocer las Escrituras.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak at the youth group about faith and identity?	¿Hablas en el grupo de jóvenes sobre fe e identidad?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	She speaks gently with the elderly members of the congregation.	Habla suavemente con los miembros ancianos de la congregación.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak truth in love as the Bible commands.	Hablamos la verdad en amor como la Biblia lo ordena.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak about creation and the glory of God in their class.	Hablan sobre la creación y la gloria de Dios en su clase.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	I speak about the importance of rest and care for the body.	Hablo sobre la importancia del descanso y el cuidado del cuerpo.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak with your family about healthy habits?	¿Hablas con tu familia sobre hábitos saludables?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	The nurse speaks with the patients about their recovery plan.	La enfermera habla con los pacientes sobre su plan de recuperación.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak about the importance of caring for our bodies as temples of God.	Hablamos sobre la importancia de cuidar nuestros cuerpos como templos de Dios.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak with the health team about preventive care options.	Hablan con el equipo de salud sobre opciones de atención preventiva.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	I speak about my faith journey when I share my testimony.	Hablo sobre mi camino de fe cuando comparto mi testimonio.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak at the evangelism outreach?	¿Hablas en el alcance evangelístico?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	She speaks about the parables of Jesus in her teaching.	Habla sobre las parábolas de Jesús en su enseñanza.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak with boldness about the resurrection of Jesus Christ.	Hablamos con valentía sobre la resurrección de Jesucristo.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak the promises of God over every challenge they face.	Hablan las promesas de Dios sobre cada desafío que enfrentan.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	I speak with the new believers about what it means to follow Jesus.	Hablo con los nuevos creyentes sobre lo que significa seguir a Jesús.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak to strangers about the hope you have in Christ?	¿Hablas a extraños sobre la esperanza que tienes en Cristo?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	He speaks to the broken-hearted with compassion and truth.	Habla a los de corazón quebrantado con compasión y verdad.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak as ambassadors of Christ wherever we go.	Hablamos como embajadores de Cristo dondequiera que vamos.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak of the kingdom of God in every area of life.	Hablan del reino de Dios en cada área de la vida.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	I speak with my mentor about discipleship and spiritual growth.	Hablo con mi mentor sobre el discipulado y el crecimiento espiritual.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	Do you speak with your church community about serving others?	¿Hablas con tu comunidad de la iglesia sobre servir a los demás?	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	She speaks about her healing as a testament to God power.	Habla sobre su sanidad como testimonio del poder de Dios.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	We speak of what the Lord has done in our lives with gratitude.	Hablamos de lo que el Señor ha hecho en nuestras vidas con gratitud.	Hablar Present Indicative
+Basic	Hablar::Present::Indicative	They speak about the joy of the Lord as their strength.	Hablan sobre el gozo del Señor como su fortaleza.	Hablar Present Indicative
+Basic	Hablar::Preterit::Indicative	I spoke with the pastor after the Sunday service.	Hablé con el pastor después del culto del domingo.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak with anyone about your faith at work today?	¿Hablaste con alguien sobre tu fe en el trabajo hoy?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	She spoke at the women retreat about God faithfulness.	Habló en el retiro de mujeres sobre la fidelidad de Dios.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke about the vision for the ministry at last night meeting.	Hablamos sobre la visión del ministerio en la reunión de anoche.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke to the congregation about the upcoming mission trip.	Hablaron a la congregación sobre el próximo viaje misionero.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	I spoke at the prayer meeting about what God was doing in my life.	Hablé en la reunión de oración sobre lo que Dios estaba haciendo en mi vida.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak with the elder about joining the discipleship group?	¿Hablaste con el anciano sobre unirte al grupo de discipulado?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	He spoke with great authority about the resurrection of Jesus.	Habló con gran autoridad sobre la resurrección de Jesús.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke about forgiveness and reconciliation at the retreat.	Hablamos sobre el perdón y la reconciliación en el retiro.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke powerful testimonies at the evening service.	Hablaron poderosos testimonios en el culto de la tarde.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	I spoke with the tour guide about visiting the historic churches.	Hablé con el guía turístico sobre visitar las iglesias históricas.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak with the locals during the mission trip?	¿Hablaste con los lugareños durante el viaje misionero?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	She spoke with the host family about life in their village.	Habló con la familia anfitriona sobre la vida en su pueblo.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke with the missionaries who had been in the field for years.	Hablamos con los misioneros que habían estado en el campo por años.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke to the team about staying safe during the outreach trip.	Hablaron al equipo sobre mantenerse seguros durante el viaje de alcance.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	I spoke with the chef about the traditional dish I ordered.	Hablé con el chef sobre el plato tradicional que pedí.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak with the waiter about the daily specials?	¿Hablaste con el mesero sobre las especialidades del día?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	She spoke about her grandmother recipe for tamales at the potluck.	Habló sobre la receta de tamales de su abuela en el almuerzo compartido.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke about trying a new restaurant after Sunday service.	Hablamos sobre probar un nuevo restaurante después del culto del domingo.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke about how the meal reminded them of their home country.	Hablaron sobre cómo la comida les recordaba a su país de origen.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	I spoke to my neighbor about borrowing a cup of sugar for the cake.	Hablé con mi vecino sobre pedir prestada una taza de azúcar para el pastel.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak with your roommate about the house rules?	¿Hablaste con tu compañero de cuarto sobre las reglas de la casa?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	She spoke with her husband about hosting the small group at home.	Habló con su esposo sobre recibir al grupo pequeño en casa.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke about the renovation plans for our home ministry space.	Hablamos sobre los planes de renovación para el espacio de ministerio en casa.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke about decorating the house for Christmas with a Bible theme.	Hablaron sobre decorar la casa para Navidad con un tema bíblico.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	I spoke with my father about his faith journey last night.	Hablé con mi padre sobre su camino de fe anoche.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak with your children about the story of David?	¿Hablaste con tus hijos sobre la historia de David?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	She spoke with her mother about choosing a church to attend.	Habló con su madre sobre elegir una iglesia a la que asistir.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke about the importance of family prayer at the kitchen table.	Hablamos sobre la importancia de la oración familiar en la mesa de la cocina.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke with their grandparents about the founding of their church.	Hablaron con sus abuelos sobre la fundación de su iglesia.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	I spoke honestly with my best friend about my struggles.	Hablé honestamente con mi mejor amigo sobre mis luchas.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak with your friend about what you are going through?	¿Hablaste con tu amigo sobre lo que estás pasando?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	She spoke gently to her friend who was going through a divorce.	Habló suavemente a su amiga que estaba pasando por un divorcio.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke about the book of Job and how it relates to suffering.	Hablamos sobre el libro de Job y cómo se relaciona con el sufrimiento.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke to each other about their shared faith journey.	Hablaron entre sí sobre su camino de fe compartido.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	I spoke to the veterinarian about my dog sudden illness.	Hablé con el veterinario sobre la enfermedad repentina de mi perro.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak with the shelter worker about adopting the cat?	¿Hablaste con el trabajador del refugio sobre adoptar al gato?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	She spoke softly to her rabbit to calm it before the vet visit.	Habló suavemente a su conejo para calmarlo antes de la visita al veterinario.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke about how to care properly for the new puppy.	Hablamos sobre cómo cuidar adecuadamente al nuevo cachorro.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke about training methods for the dog they rescued.	Hablaron sobre métodos de entrenamiento para el perro que rescataron.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	I spoke at the seminary about the history of the New Testament canon.	Hablé en el seminario sobre la historia del canon del Nuevo Testamento.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak with your professor about the theology assignment?	¿Hablaste con tu profesor sobre la tarea de teología?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	She spoke about the importance of Scripture memory to her class.	Habló sobre la importancia de la memorización de las Escrituras a su clase.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke about what it means to study the Bible in context.	Hablamos sobre lo que significa estudiar la Biblia en contexto.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke about the impact of church history on their faith.	Hablaron sobre el impacto de la historia de la iglesia en su fe.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	I spoke with the doctor about the test results from last week.	Hablé con el médico sobre los resultados de los análisis de la semana pasada.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak with the nurse about your recovery plan?	¿Hablaste con la enfermera sobre tu plan de recuperación?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	She spoke to the counselor about managing stress and anxiety.	Habló con el consejero sobre manejar el estrés y la ansiedad.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke about the importance of community in healing at the retreat.	Hablamos sobre la importancia de la comunidad en la sanidad en el retiro.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke to the health team about setting up a wellness ministry.	Hablaron con el equipo de salud sobre establecer un ministerio de bienestar.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	I spoke with my manager about balancing ministry and work responsibilities.	Hablé con mi gerente sobre equilibrar el ministerio y las responsabilidades laborales.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak with the board about the new ministry plan?	¿Hablaste con la junta sobre el nuevo plan ministerial?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	She spoke in the staff meeting about improving team communication.	Habló en la reunión del personal sobre mejorar la comunicación del equipo.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke about the priorities for the upcoming quarter at work.	Hablamos sobre las prioridades para el próximo trimestre en el trabajo.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke with the volunteers about the event logistics.	Hablaron con los voluntarios sobre la logística del evento.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	I spoke between songs about the hope we have in Jesus.	Hablé entre canciones sobre la esperanza que tenemos en Jesús.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak with the sound engineer before the worship concert?	¿Hablaste con el ingeniero de sonido antes del concierto de adoración?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	She spoke about how a particular hymn had changed her life.	Habló sobre cómo un himno en particular había cambiado su vida.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke about incorporating more Latin worship music into the service.	Hablamos sobre incorporar más música de adoración latina en el culto.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke about the new worship album they were releasing.	Hablaron sobre el nuevo álbum de adoración que estaban lanzando.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	I spoke about the story of Noah and the ark to the children.	Hablé sobre la historia de Noé y el arca a los niños.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak about the parables of Jesus during the class?	¿Hablaste sobre las parábolas de Jesús durante la clase?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	He spoke with great anointing about the love of God for humanity.	Habló con gran unción sobre el amor de Dios por la humanidad.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke about the miracles of Elijah in the morning devotional.	Hablamos sobre los milagros de Elías en la devoción de la mañana.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke about God provision for the Israelites in the wilderness.	Hablaron sobre la provisión de Dios para los israelitas en el desierto.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	I spoke about my testimony of healing in front of the whole church.	Hablé sobre mi testimonio de sanidad frente a toda la iglesia.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak about your trip to the Holy Land with the congregation?	¿Hablaste sobre tu viaje a la Tierra Santa con la congregación?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	She spoke about the kindness she experienced on the mission trip.	Habló sobre la bondad que experimentó en el viaje misionero.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke about intercession and how it changes nations.	Hablamos sobre la intercesión y cómo transforma las naciones.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke about the importance of unity in the body of Christ.	Hablaron sobre la importancia de la unidad en el cuerpo de Cristo.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	I spoke with the youth about their identity in Christ.	Hablé con los jóvenes sobre su identidad en Cristo.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak with the worship leader about the set list?	¿Hablaste con el líder de adoración sobre la lista de canciones?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	She spoke about the verse that God gave her during prayer.	Habló sobre el versículo que Dios le dio durante la oración.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke about fasting and prayer before the evangelism push.	Hablamos sobre el ayuno y la oración antes del empuje evangelístico.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke about what the Holy Spirit was revealing to them.	Hablaron sobre lo que el Espíritu Santo les estaba revelando.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	I spoke clearly about the plan of salvation to my neighbor.	Hablé claramente sobre el plan de salvación a mi vecino.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak to the stranger about the hope found in Jesus?	¿Hablaste con el desconocido sobre la esperanza que se encuentra en Jesús?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	She spoke about how prayer transformed her marriage.	Habló sobre cómo la oración transformó su matrimonio.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke openly about our struggles and God grace in them.	Hablamos abiertamente sobre nuestras luchas y la gracia de Dios en ellas.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke at the church conference about reaching the next generation.	Hablaron en la conferencia de la iglesia sobre alcanzar a la próxima generación.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	I spoke with the deacon about the needs of the community.	Hablé con el diácono sobre las necesidades de la comunidad.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak at the prayer breakfast about missions?	¿Hablaste en el desayuno de oración sobre las misiones?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	He spoke about David courage in facing Goliath to the youth group.	Habló sobre el valor de David al enfrentar a Goliat al grupo de jóvenes.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke about the feeding of the five thousand during Bible study.	Hablamos sobre la alimentación de los cinco mil durante el estudio bíblico.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke about being salt and light in the culture.	Hablaron sobre ser sal y luz en la cultura.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	I spoke with the new family at church about getting connected.	Hablé con la nueva familia en la iglesia sobre cómo conectarse.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak with the couple about pre-marital counseling?	¿Hablaste con la pareja sobre la consejería prematrimonial?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	She spoke about how God had redeemed her painful past.	Habló sobre cómo Dios había redimido su doloroso pasado.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke about the new song we were writing for the Easter service.	Hablamos sobre la nueva canción que estábamos escribiendo para el culto de Pascua.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke about trusting God even in the darkest moments.	Hablaron sobre confiar en Dios incluso en los momentos más oscuros.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	I spoke life into my coworker when he was feeling hopeless.	Hablé vida en mi compañero de trabajo cuando se sentía sin esperanza.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak with the accountability partner about your week?	¿Hablaste con el compañero de rendición de cuentas sobre tu semana?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	She spoke blessings over the offering before it was received.	Habló bendiciones sobre la ofrenda antes de que fuera recibida.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke about the importance of stewardship and generosity.	Hablamos sobre la importancia de la mayordomía y la generosidad.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke about what God had done during the year of ministry.	Hablaron sobre lo que Dios había hecho durante el año de ministerio.	Hablar Preterit Indicative
+Basic	Hablar::Imperfect::Indicative	I used to speak Spanish more when I was a child.	Hablaba más español cuando era niño.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	When we were in the small group, we always spoke about the Psalms.	Cuando estábamos en el grupo pequeño, siempre hablábamos de los Salmos.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	She used to speak at women retreats every year.	Hablaba en los retiros de mujeres cada año.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We used to speak about the Bible after every church service.	Hablábamos sobre la Biblia después de cada culto.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They always spoke with kindness to everyone who came through the door.	Siempre hablaban con amabilidad a todos los que llegaban por la puerta.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	I would speak about my childhood faith whenever someone asked.	Hablaba sobre mi fe de la niñez cada vez que alguien preguntaba.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	When he was the pastor, he always spoke from the Gospels.	Cuando era el pastor, siempre hablaba de los Evangelios.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	She spoke about her faith every time she met someone new.	Hablaba sobre su fe cada vez que conocía a alguien nuevo.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We used to speak at length about what God was doing in our lives.	Hablábamos extensamente sobre lo que Dios estaba haciendo en nuestras vidas.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They used to speak every week during the prayer meeting.	Hablaban cada semana durante la reunión de oración.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	I used to speak with the missionary family every time they visited.	Hablaba con la familia misionera cada vez que visitaban.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	When we traveled, we always spoke with the local believers.	Cuando viajábamos, siempre hablábamos con los creyentes locales.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	She spoke in the language of the host country during mission trips.	Hablaba en el idioma del país anfitrión durante los viajes misioneros.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We used to speak with the hosts about their culture and traditions.	Hablábamos con los anfitriones sobre su cultura y tradiciones.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They would speak with strangers about the gospel wherever they traveled.	Hablaban con desconocidos sobre el evangelio dondequiera que viajaban.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	I used to speak with the restaurant owner about the local food.	Hablaba con el dueño del restaurante sobre la comida local.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	When we cooked together, we always spoke about grandma recipes.	Cuando cocinábamos juntos, siempre hablábamos de las recetas de la abuela.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	She used to speak about food as a way to show love to others.	Hablaba sobre la comida como una forma de mostrar amor a los demás.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We would speak about what we were going to cook for the church potluck.	Hablábamos sobre lo que íbamos a cocinar para el almuerzo compartido de la iglesia.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They would speak about their favorite dishes from their home countries.	Hablaban sobre sus platos favoritos de sus países de origen.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	I used to speak with my neighbor about borrowing ingredients.	Hablaba con mi vecino sobre pedir prestados ingredientes.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	When we lived there, we always spoke with the landlord about repairs.	Cuando vivíamos allí, siempre hablábamos con el casero sobre las reparaciones.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	She used to speak about making the home a place of worship.	Hablaba sobre convertir el hogar en un lugar de adoración.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We would speak about what we needed to do to improve the house.	Hablábamos sobre lo que necesitábamos hacer para mejorar la casa.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They used to speak about setting up a prayer room in the home.	Hablaban sobre establecer una sala de oración en la casa.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	I used to speak with my grandfather about the stories in the Bible.	Hablaba con mi abuelo sobre las historias de la Biblia.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	When the children were young, we always spoke about the love of God.	Cuando los niños eran pequeños, siempre hablábamos del amor de Dios.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	She used to speak to her children about the fruits of the Spirit.	Hablaba a sus hijos sobre los frutos del Espíritu.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We would speak as a family about what we were grateful for.	Hablábamos en familia sobre lo que agradecíamos.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They always spoke about the importance of prayer before meals.	Siempre hablaban sobre la importancia de la oración antes de las comidas.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	I used to speak on the phone with my friend every Sunday afternoon.	Hablaba por teléfono con mi amigo todos los domingos por la tarde.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	When we were in college, we used to speak about theology all the time.	Cuando estábamos en la universidad, siempre hablábamos de teología.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	She used to speak openly about her faith to her circle of friends.	Hablaba abiertamente sobre su fe a su círculo de amigos.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We would speak for hours about what God was revealing to us.	Hablábamos por horas sobre lo que Dios nos estaba revelando.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They used to speak about their dreams and God plan for their future.	Hablaban sobre sus sueños y el plan de Dios para su futuro.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	I used to speak to my dog in a calm voice during thunderstorms.	Hablaba a mi perro con una voz tranquila durante las tormentas.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	When the cat was scared, she would speak softly to comfort it.	Cuando el gato tenía miedo, hablaba suavemente para calmarlo.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	He used to speak to the animals at the shelter during his volunteer shifts.	Hablaba a los animales del refugio durante sus turnos de voluntariado.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We used to speak about our pets in the family devotional time.	Hablábamos de nuestras mascotas en el tiempo devocional familiar.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They used to speak about how much they loved their animals.	Hablaban sobre cuánto amaban a sus animales.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	I used to speak with the Bible teacher after class every week.	Hablaba con el maestro de Biblia después de la clase cada semana.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	When she was in seminary, she would speak at chapel often.	Cuando estaba en el seminario, hablaba en la capilla con frecuencia.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	He used to speak about the ancient languages of Scripture in class.	Hablaba sobre los idiomas antiguos de las Escrituras en clase.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We used to speak after every lecture about what we had learned.	Hablábamos después de cada conferencia sobre lo que habíamos aprendido.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They used to speak about the wisdom of Proverbs in their study group.	Hablaban sobre la sabiduría de los Proverbios en su grupo de estudio.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	I used to speak with my doctor about my health goals every year.	Hablaba con mi médico sobre mis metas de salud cada año.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	When I was recovering, she would speak encouraging words every day.	Cuando me estaba recuperando, hablaba palabras alentadoras cada día.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	He used to speak about the healing power of prayer to the sick.	Hablaba sobre el poder sanador de la oración a los enfermos.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We used to speak about taking care of our bodies as temples of God.	Hablábamos sobre cuidar nuestros cuerpos como templos de Dios.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They would speak at the community clinic about nutrition and wellness.	Hablaban en la clínica comunitaria sobre nutrición y bienestar.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	I used to speak with my team about serving the community.	Hablaba con mi equipo sobre servir a la comunidad.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	When we ran the ministry, we would speak at board meetings every month.	Cuando dirigíamos el ministerio, hablábamos en las reuniones de la junta cada mes.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	She used to speak with her coworkers about volunteering at church.	Hablaba con sus compañeros de trabajo sobre ser voluntaria en la iglesia.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We used to speak about using our skills to serve God kingdom.	Hablábamos sobre usar nuestras habilidades para servir al reino de Dios.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They used to speak about how faith and work could be integrated.	Hablaban sobre cómo la fe y el trabajo podían integrarse.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	I used to speak about God word through song and melody.	Hablaba de la Palabra de Dios a través de cantos y melodías.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	When the choir rehearsed, the director would speak about expression.	Cuando el coro ensayaba, el director hablaba sobre la expresión.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	She used to speak about how music carried her through her darkest days.	Hablaba sobre cómo la música la sostuvo durante sus días más oscuros.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We used to speak about the role of worship in spiritual warfare.	Hablábamos sobre el papel de la adoración en la guerra espiritual.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They always spoke about the new worship song they were learning.	Siempre hablaban sobre la nueva canción de adoración que estaban aprendiendo.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	I used to speak at the Sunday school about the story of Moses.	Hablaba en la escuela dominical sobre la historia de Moisés.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	When they gathered, the elders always spoke from the Old Testament.	Cuando se reunían, los ancianos siempre hablaban del Antiguo Testamento.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	She used to speak about the vision she received while on the mission field.	Hablaba sobre la visión que recibió mientras estaba en el campo misionero.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We used to speak about what God was showing us through fasting.	Hablábamos sobre lo que Dios nos estaba mostrando a través del ayuno.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They used to speak freely about their spiritual gifts in the group.	Hablaban libremente sobre sus dones espirituales en el grupo.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	I used to speak about grace and truth whenever I preached.	Hablaba sobre la gracia y la verdad cada vez que predicaba.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	When I was growing up, my family would always speak about God blessings.	Cuando crecía, mi familia siempre hablaba de las bendiciones de Dios.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	She used to speak about God provision in her prayers.	Hablaba sobre la provisión de Dios en sus oraciones.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We used to speak about our spiritual goals at the start of each year.	Hablábamos sobre nuestras metas espirituales al comienzo de cada año.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They used to speak about the power of God word in their testimonies.	Hablaban sobre el poder de la Palabra de Dios en sus testimonios.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	I used to speak about my struggles before God healed me.	Hablaba sobre mis luchas antes de que Dios me sanara.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	When I was in college, we would speak about apologetics constantly.	Cuando estaba en la universidad, hablábamos constantemente de apologética.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	She used to speak with authority about the sovereignty of God.	Hablaba con autoridad sobre la soberanía de Dios.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We used to speak about the cost of discipleship at every training.	Hablábamos sobre el costo del discipulado en cada entrenamiento.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They used to speak about what it meant to carry the cross daily.	Hablaban sobre lo que significaba cargar la cruz a diario.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	I used to speak about the joy of the Lord every morning in devotions.	Hablaba sobre el gozo del Señor cada mañana en las devociones.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	When we met weekly, we always spoke about how to grow in prayer.	Cuando nos reuníamos semanalmente, siempre hablábamos sobre cómo crecer en la oración.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	She used to speak about the promises of God as if they were already done.	Hablaba sobre las promesas de Dios como si ya estuvieran cumplidas.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We used to speak about how God redeems the broken things in life.	Hablábamos sobre cómo Dios redime las cosas rotas en la vida.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They used to speak about surrendering every area of life to God.	Hablaban sobre rendirle cada área de la vida a Dios.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	I used to speak words of blessing over the congregation at the close.	Hablaba palabras de bendición sobre la congregación al final.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	When the elders gathered, they always spoke about the needs of the flock.	Cuando los ancianos se reunían, siempre hablaban sobre las necesidades del rebaño.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	She used to speak about how God had been a father to the fatherless.	Hablaba sobre cómo Dios había sido padre para los huérfanos.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We used to speak about the story of Ruth every time we studied hospitality.	Hablábamos sobre la historia de Rut cada vez que estudiábamos la hospitalidad.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They always spoke about prayer as the foundation of ministry.	Siempre hablaban sobre la oración como el fundamento del ministerio.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	I used to speak at the hospital chapel during my chaplaincy internship.	Hablaba en la capilla del hospital durante mi pasantía de capellanía.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	When I served in youth ministry, I would speak every Friday night.	Cuando servía en el ministerio de jóvenes, hablaba todos los viernes por la noche.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	She used to speak words of comfort to those in grief.	Hablaba palabras de consuelo a los que estaban de luto.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We used to speak about what God was doing in other nations.	Hablábamos sobre lo que Dios estaba haciendo en otras naciones.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They used to speak about the importance of giving sacrificially.	Hablaban sobre la importancia de dar sacrificialmente.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	I used to speak Spanish at home because my parents required it.	Hablaba español en casa porque mis padres lo exigían.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	When she lived abroad, she would speak with the neighbors in their language.	Cuando vivía en el extranjero, hablaba con los vecinos en su idioma.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	He used to speak at the school chapel about faith and integrity.	Hablaba en la capilla de la escuela sobre la fe y la integridad.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We used to speak with our mentors every month about spiritual growth.	Hablábamos con nuestros mentores cada mes sobre el crecimiento espiritual.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They would always speak about the resurrection as the hope of all hope.	Siempre hablaban sobre la resurrección como la esperanza de todas las esperanzas.	Hablar Imperfect Indicative
+Basic	Hablar::Future::Indicative	I will speak about my faith at the outreach event next Saturday.	Hablaré sobre mi fe en el evento de alcance el próximo sábado.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak at the Bible conference next month?	¿Hablarás en la conferencia bíblica el próximo mes?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	She will speak about the grace of God at the women retreat.	Hablará sobre la gracia de Dios en el retiro de mujeres.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak about the mission vision at next Sunday service.	Hablaremos sobre la visión misionera en el culto del próximo domingo.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak to the congregation about the upcoming revival.	Hablarán a la congregación sobre el próximo avivamiento.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	I will speak with the new believers about baptism next week.	Hablaré con los nuevos creyentes sobre el bautismo la próxima semana.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak to the youth group about identity in Christ?	¿Hablarás al grupo de jóvenes sobre la identidad en Cristo?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	He will speak about the power of prayer at the prayer summit.	Hablará sobre el poder de la oración en la cumbre de oración.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak at the community church next Friday night.	Hablaremos en la iglesia comunitaria el próximo viernes por la noche.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak to thousands at the evangelism crusade.	Hablarán a miles en la cruzada evangelística.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	I will speak with the mission team before we depart.	Hablaré con el equipo misionero antes de que partamos.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak with the host family when we arrive?	¿Hablarás con la familia anfitriona cuando lleguemos?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	She will speak with the local pastor about partnering in ministry.	Hablará con el pastor local sobre asociarse en el ministerio.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak about our mission trip at the church next Sunday.	Hablaremos sobre nuestro viaje misionero en la iglesia el próximo domingo.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak about the needs of the people they encountered.	Hablarán sobre las necesidades de las personas que encontraron.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	I will speak with the waiter in Spanish at the restaurant tonight.	Hablaré con el mesero en español en el restaurante esta noche.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak to the chef about a gluten-free option?	¿Hablarás con el chef sobre una opción sin gluten?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	She will speak at the cooking demonstration about healthy eating.	Hablará en la demostración de cocina sobre la alimentación saludable.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak about recipes from around the world at the potluck.	Hablaremos sobre recetas de todo el mundo en el almuerzo compartido.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak about the importance of cooking together as a family.	Hablarán sobre la importancia de cocinar juntos como familia.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	I will speak to my neighbor about the community prayer walk.	Hablaré con mi vecino sobre el paseo de oración comunitario.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak with the landlord about the repairs needed?	¿Hablarás con el casero sobre las reparaciones necesarias?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	She will speak about making the home a place of peace and worship.	Hablará sobre hacer del hogar un lugar de paz y adoración.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak about our household values during our family meeting.	Hablaremos sobre los valores de nuestro hogar durante nuestra reunión familiar.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak about setting up a family devotional routine at home.	Hablarán sobre establecer una rutina devocional familiar en casa.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	I will speak with my children about what the Bible says about love.	Hablaré con mis hijos sobre lo que dice la Biblia sobre el amor.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak with your parents about the family reunion plans?	¿Hablarás con tus padres sobre los planes de la reunión familiar?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	She will speak to her children about the story of Joseph and his brothers.	Hablará a sus hijos sobre la historia de José y sus hermanos.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak as a family every night during dinner.	Hablaremos en familia cada noche durante la cena.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak to their grandchildren about the goodness of God.	Hablarán a sus nietos sobre la bondad de Dios.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	I will speak with my friend about the challenge I am facing.	Hablaré con mi amigo sobre el desafío que estoy enfrentando.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak to your friend about joining the small group?	¿Hablarás con tu amigo sobre unirse al grupo pequeño?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	She will speak honestly with her friend about the difficult situation.	Hablará honestamente con su amiga sobre la situación difícil.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak as a group about how to support the new ministry.	Hablaremos como grupo sobre cómo apoyar el nuevo ministerio.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak encouragement to those who are hurting around them.	Hablarán aliento a los que sufren a su alrededor.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	I will speak to the vet about my dog symptoms next Monday.	Hablaré con el veterinario sobre los síntomas de mi perro el próximo lunes.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak with the shelter about the adoption process?	¿Hablarás con el refugio sobre el proceso de adopción?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	She will speak softly to the animals at the rescue center.	Hablará suavemente a los animales en el centro de rescate.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak about responsible pet ownership at the school.	Hablaremos sobre la tenencia responsable de mascotas en la escuela.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak about their experience fostering animals at church.	Hablarán sobre su experiencia como familias de acogida de animales en la iglesia.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	I will speak about the importance of faith at the graduation ceremony.	Hablaré sobre la importancia de la fe en la ceremonia de graduación.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak with your professor about the theology project?	¿Hablarás con tu profesor sobre el proyecto de teología?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	She will speak at the chapel service about the book of Proverbs.	Hablará en el culto de la capilla sobre el libro de Proverbios.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak about the history of Christianity at the seminar.	Hablaremos sobre la historia del cristianismo en el seminario.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak to the students about vocational calling and purpose.	Hablarán a los estudiantes sobre el llamado vocacional y el propósito.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	I will speak with the doctor about starting a healthier routine.	Hablaré con el médico sobre comenzar una rutina más saludable.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak with the nutritionist about your diet plan?	¿Hablarás con el nutricionista sobre tu plan de dieta?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	She will speak about the connection between faith and physical wellness.	Hablará sobre la conexión entre la fe y el bienestar físico.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak about the importance of rest at the wellness retreat.	Hablaremos sobre la importancia del descanso en el retiro de bienestar.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak to the congregation about the community health initiative.	Hablarán a la congregación sobre la iniciativa de salud comunitaria.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	I will speak with my supervisor about the new volunteer program.	Hablaré con mi supervisor sobre el nuevo programa de voluntariado.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak to the team about the schedule for next quarter?	¿Hablarás al equipo sobre el horario del próximo trimestre?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	She will speak at the leadership forum about faith-driven work.	Hablará en el foro de liderazgo sobre el trabajo impulsado por la fe.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak about how the church can partner with local businesses.	Hablaremos sobre cómo la iglesia puede asociarse con negocios locales.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak at the staff meeting about the ministry expansion.	Hablarán en la reunión del personal sobre la expansión del ministerio.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	I will speak at the worship night about what God has done this year.	Hablaré en la noche de adoración sobre lo que Dios ha hecho este año.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak with the choir director about the Easter program?	¿Hablarás con el director del coro sobre el programa de Pascua?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	She will speak between songs about the goodness and faithfulness of God.	Hablará entre canciones sobre la bondad y la fidelidad de Dios.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak about the theme of the new worship album at rehearsal.	Hablaremos sobre el tema del nuevo álbum de adoración en el ensayo.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak about music as a tool for evangelism at the seminar.	Hablarán sobre la música como herramienta de evangelismo en el seminario.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	I will speak with the elder about leading the discipleship class.	Hablaré con el anciano sobre dirigir la clase de discipulado.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak to the congregation about the need for revival?	¿Hablarás a la congregación sobre la necesidad de avivamiento?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	He will speak about the prophecies in Isaiah at the conference.	Hablará sobre las profecías de Isaías en la conferencia.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak about building each other up in love at the retreat.	Hablaremos sobre edificarnos mutuamente en amor en el retiro.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak about the second coming of Christ at the seminar.	Hablarán sobre la segunda venida de Cristo en el seminario.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	I will speak about my healing testimony at the Sunday service.	Hablaré sobre mi testimonio de sanidad en el culto del domingo.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak boldly about Jesus at your next opportunity?	¿Hablarás con valentía sobre Jesús en tu próxima oportunidad?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	She will speak about how God turned her mourning into dancing.	Hablará sobre cómo Dios convirtió su luto en danza.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak about intercession and its power to change nations.	Hablaremos sobre la intercesión y su poder para cambiar naciones.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak about their calling to the mission field next Sunday.	Hablarán sobre su llamado al campo misionero el próximo domingo.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	I will speak about the armor of God at the men breakfast.	Hablaré sobre la armadura de Dios en el desayuno de hombres.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak about your discipleship journey to the small group?	¿Hablarás sobre tu camino de discipulado al grupo pequeño?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	She will speak about the fruit of walking closely with Jesus.	Hablará sobre el fruto de caminar de cerca con Jesús.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak the truth in love no matter the cost.	Hablaremos la verdad en amor sin importar el costo.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak life over the broken and the lost in this city.	Hablarán vida sobre los quebrantados y los perdidos en esta ciudad.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	I will speak with God in prayer and trust him with the outcome.	Hablaré con Dios en oración y le confiaré el resultado.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak with me about what you felt God say to you?	¿Hablarás conmigo sobre lo que sentiste que Dios te dijo?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	He will speak at the training about how to share your faith naturally.	Hablará en el entrenamiento sobre cómo compartir tu fe de forma natural.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak about the promises of God for this new season.	Hablaremos sobre las promesas de Dios para esta nueva temporada.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak about what God is doing in the next generation.	Hablarán sobre lo que Dios está haciendo en la próxima generación.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	I will speak at the altar about surrendering our plans to God.	Hablaré en el altar sobre rendir nuestros planes a Dios.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak with the new couple about growing in faith together?	¿Hablarás con la nueva pareja sobre crecer en la fe juntos?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	She will speak about her experience of God healing her family.	Hablará sobre su experiencia de Dios sanando a su familia.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak about the story of Daniel and courage in hard times.	Hablaremos sobre la historia de Daniel y el valor en los tiempos difíciles.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak about the importance of community to the new members.	Hablarán sobre la importancia de la comunidad a los nuevos miembros.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	I will speak about the sermon I heard in church at my small group.	Hablaré sobre el sermón que escuché en la iglesia en mi grupo pequeño.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak to the volunteers before the outreach event starts?	¿Hablarás con los voluntarios antes de que comience el evento de alcance?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	She will speak about the importance of praying for government leaders.	Hablará sobre la importancia de orar por los líderes del gobierno.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak to the international students about the love of Christ.	Hablaremos a los estudiantes internacionales sobre el amor de Cristo.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak at the annual missions banquet about the harvest fields.	Hablarán en el banquete anual de misiones sobre los campos de cosecha.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	I will speak blessings over each person at the end of the service.	Hablaré bendiciones sobre cada persona al final del culto.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak about what you learned from the book of Acts?	¿Hablarás sobre lo que aprendiste del libro de los Hechos?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	He will speak to the crowd about the nearness of the kingdom of God.	Hablará a la multitud sobre la cercanía del reino de Dios.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak about how to love our neighbors as the Bible commands.	Hablaremos sobre cómo amar a nuestros prójimos como lo ordena la Biblia.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak at the outreach about the hope found in Jesus Christ.	Hablarán en el alcance sobre la esperanza que se encuentra en Jesucristo.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	I will speak about the Holy Spirit and his role in the believer life.	Hablaré sobre el Espíritu Santo y su papel en la vida del creyente.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	Will you speak at the school chapel about the purpose God gives us?	¿Hablarás en la capilla de la escuela sobre el propósito que Dios nos da?	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	She will speak about how God used her weakness for his glory.	Hablará sobre cómo Dios usó su debilidad para su gloria.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	We will speak in faith knowing that God goes before us.	Hablaremos en fe sabiendo que Dios va delante de nosotros.	Hablar Future Indicative
+Basic	Hablar::Future::Indicative	They will speak into the lives of many through their faithful ministry.	Hablarán en las vidas de muchos a través de su ministerio fiel.	Hablar Future Indicative
+Basic	Hablar::Conditional	I would speak at the conference if they invited me.	Hablaría en la conferencia si me invitaran.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak more boldly if you had more confidence in Spanish?	¿Hablarías con más valentía si tuvieras más confianza en español?	Hablar Conditional
+Basic	Hablar::Conditional	She would speak at the retreat if she felt called to do so.	Hablaría en el retiro si se sintiera llamada a hacerlo.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak to more people if we had an interpreter.	Hablaríamos con más personas si tuviéramos un intérprete.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak to the congregation more often if the schedule allowed.	Hablarían a la congregación más seguido si el horario lo permitiera.	Hablar Conditional
+Basic	Hablar::Conditional	I would speak with the new members if I had more time after service.	Hablaría con los nuevos miembros si tuviera más tiempo después del culto.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak more about your faith if it were more accepted at work?	¿Hablarías más sobre tu fe si fuera más aceptado en el trabajo?	Hablar Conditional
+Basic	Hablar::Conditional	He would speak at the evangelism event if he were not traveling.	Hablaría en el evento de evangelismo si no estuviera viajando.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak about intercession more if we had a prayer room.	Hablaríamos más sobre la intercesión si tuviéramos una sala de oración.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak about their mission experience if someone would listen.	Hablarían sobre su experiencia misionera si alguien escuchara.	Hablar Conditional
+Basic	Hablar::Conditional	I would speak with the locals more easily if I were fluent in Spanish.	Hablaría con los lugareños más fácilmente si fuera fluido en español.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak to the guide in the local language if you could?	¿Hablarías con el guía en el idioma local si pudieras?	Hablar Conditional
+Basic	Hablar::Conditional	She would speak more during the trip if she practiced more beforehand.	Hablaría más durante el viaje si practicara más con anticipación.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak to more people about the gospel if we had more resources.	Hablaríamos con más personas sobre el evangelio si tuviéramos más recursos.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak about the mission field with more passion if they had gone.	Hablarían sobre el campo misionero con más pasión si hubieran ido.	Hablar Conditional
+Basic	Hablar::Conditional	I would speak to the chef about the meal if I knew the language better.	Hablaría con el chef sobre la comida si conociera mejor el idioma.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak to the waiter in Spanish if you were confident?	¿Hablarías con el mesero en español si tuvieras confianza?	Hablar Conditional
+Basic	Hablar::Conditional	She would speak about her traditional recipes more if people asked.	Hablaría más sobre sus recetas tradicionales si la gente preguntara.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak about the potluck menu more if we planned ahead.	Hablaríamos más sobre el menú del almuerzo compartido si planeáramos con anticipación.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak about food culture more if the topic came up.	Hablarían más sobre la cultura culinaria si el tema surgiera.	Hablar Conditional
+Basic	Hablar::Conditional	I would speak with my neighbor more if I had less of a busy schedule.	Hablaría más con mi vecino si tuviera un horario menos ocupado.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak with the new family down the street if you saw them?	¿Hablarías con la nueva familia de la calle si los vieras?	Hablar Conditional
+Basic	Hablar::Conditional	She would speak more at home about spiritual things if her family were open.	Hablaría más en casa sobre cosas espirituales si su familia estuviera abierta.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak more about Scripture at dinner if we were more intentional.	Hablaríamos más sobre las Escrituras en la cena si fuéramos más intencionales.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak about family devotions more if the routine were established.	Hablarían más sobre las devociones familiares si la rutina estuviera establecida.	Hablar Conditional
+Basic	Hablar::Conditional	I would speak to my children about God promises every night if I could.	Hablaría a mis hijos sobre las promesas de Dios cada noche si pudiera.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak with your parents about your spiritual goals if they asked?	¿Hablarías con tus padres sobre tus metas espirituales si preguntaran?	Hablar Conditional
+Basic	Hablar::Conditional	She would speak to her children about prayer more if they showed interest.	Hablaría a sus hijos sobre la oración más seguido si mostraran interés.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak as a family every day if schedules aligned.	Hablaríamos como familia cada día si los horarios coincidieran.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak about Bible stories at bedtime if they had the discipline.	Hablarían sobre historias bíblicas a la hora de dormir si tuvieran la disciplina.	Hablar Conditional
+Basic	Hablar::Conditional	I would speak with my friends more if we all lived in the same city.	Hablaría con mis amigos más seguido si todos viviéramos en la misma ciudad.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak to your friend about joining a Bible study?	¿Hablarías con tu amigo sobre unirse a un estudio bíblico?	Hablar Conditional
+Basic	Hablar::Conditional	She would speak more openly with her friends if she trusted them more.	Hablaría más abiertamente con sus amigas si confiara más en ellas.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak about our fears more if we felt truly safe.	Hablaríamos más sobre nuestros miedos si nos sintiéramos verdaderamente seguros.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak about their struggles if they felt less judged.	Hablarían sobre sus luchas si se sintieran menos juzgados.	Hablar Conditional
+Basic	Hablar::Conditional	I would speak to the veterinarian more often if visits were less expensive.	Hablaría con el veterinario más seguido si las visitas fueran menos costosas.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak to the shelter staff about fostering an animal?	¿Hablarías con el personal del refugio sobre acoger a un animal?	Hablar Conditional
+Basic	Hablar::Conditional	She would speak more softly to the animals if they were not afraid of her.	Hablaría más suavemente a los animales si no le tuvieran miedo.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak about pet adoption more if we had a bigger home.	Hablaríamos más sobre la adopción de mascotas si tuviéramos una casa más grande.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak about the animals more if they had time to volunteer.	Hablarían más sobre los animales si tuvieran tiempo para ser voluntarios.	Hablar Conditional
+Basic	Hablar::Conditional	I would speak at the seminary about church history if I were a professor.	Hablaría en el seminario sobre la historia de la iglesia si fuera profesor.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak in class more if the teacher encouraged participation?	¿Hablarías más en clase si el maestro fomentara la participación?	Hablar Conditional
+Basic	Hablar::Conditional	She would speak more about apologetics if she studied it more deeply.	Hablaría más sobre apologética si la estudiara más profundamente.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak about the Bible more in school if it were allowed.	Hablaríamos más sobre la Biblia en la escuela si estuviera permitido.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak about theology more often if they had a study group.	Hablarían más sobre teología si tuvieran un grupo de estudio.	Hablar Conditional
+Basic	Hablar::Conditional	I would speak more openly about mental health if there were less stigma.	Hablaría más abiertamente sobre la salud mental si hubiera menos estigma.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak with a counselor if you felt overwhelmed?	¿Hablarías con un consejero si te sintieras agobiado?	Hablar Conditional
+Basic	Hablar::Conditional	She would speak with the doctor more often if she did not feel rushed.	Hablaría con el médico más seguido si no se sintiera apresurada.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak about preventive health more if we had better resources.	Hablaríamos más sobre salud preventiva si tuviéramos mejores recursos.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak about health and faith more if it were more accepted.	Hablarían más sobre salud y fe si fuera más aceptado.	Hablar Conditional
+Basic	Hablar::Conditional	I would speak at the conference if the topic aligned with my calling.	Hablaría en la conferencia si el tema se alineara con mi llamado.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak about integration of faith and work at your company?	¿Hablarías sobre la integración de la fe y el trabajo en tu empresa?	Hablar Conditional
+Basic	Hablar::Conditional	She would speak to her coworkers about the ministry if they were open.	Hablaría con sus compañeros de trabajo sobre el ministerio si estuvieran abiertos.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak more about purpose and calling if there were time in meetings.	Hablaríamos más sobre el propósito y el llamado si hubiera tiempo en las reuniones.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak at the staff retreat about servant leadership.	Hablarían en el retiro del personal sobre el liderazgo de servicio.	Hablar Conditional
+Basic	Hablar::Conditional	I would speak at every worship night if the team would have me.	Hablaría en cada noche de adoración si el equipo me lo permitiera.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak between songs about your journey with the Lord?	¿Hablarías entre canciones sobre tu camino con el Señor?	Hablar Conditional
+Basic	Hablar::Conditional	She would speak about the theology behind the worship songs if time allowed.	Hablaría sobre la teología detrás de las canciones de adoración si el tiempo lo permitiera.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak more about songwriting if we had more time at rehearsal.	Hablaríamos más sobre la composición de canciones si tuviéramos más tiempo en el ensayo.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak about the impact of worship if the topic came up.	Hablarían sobre el impacto de la adoración si el tema surgiera.	Hablar Conditional
+Basic	Hablar::Conditional	I would speak with the missionary if I had a chance to visit them.	Hablaría con el misionero si tuviera la oportunidad de visitarlos.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak about your testimony if you were given the chance?	¿Hablarías sobre tu testimonio si se te diera la oportunidad?	Hablar Conditional
+Basic	Hablar::Conditional	He would speak about the cross with anyone who would listen.	Hablaría sobre la cruz con cualquiera que quisiera escuchar.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak about the call to holiness more if hearts were open.	Hablaríamos más sobre el llamado a la santidad si los corazones estuvieran abiertos.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak about their faith in every area of life if they were bolder.	Hablarían sobre su fe en cada área de la vida si fueran más valientes.	Hablar Conditional
+Basic	Hablar::Conditional	I would speak the truth even if it were unpopular.	Hablaría la verdad incluso si fuera impopular.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak kindly to someone who wronged you?	¿Hablarías amablemente a alguien que te hizo daño?	Hablar Conditional
+Basic	Hablar::Conditional	She would speak about God love to her enemies if given the chance.	Hablaría sobre el amor de Dios a sus enemigos si se le diera la oportunidad.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak about forgiveness more if we understood it more deeply.	Hablaríamos más sobre el perdón si lo entendiéramos más profundamente.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak about humility more if they had walked through suffering.	Hablarían más sobre la humildad si hubieran pasado por el sufrimiento.	Hablar Conditional
+Basic	Hablar::Conditional	I would speak about God mercy every day if people would listen.	Hablaría sobre la misericordia de Dios cada día si la gente escuchara.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak the Word over your life every morning if you started that habit?	¿Hablarías la Palabra sobre tu vida cada mañana si comenzaras ese hábito?	Hablar Conditional
+Basic	Hablar::Conditional	He would speak more blessings over his children if he understood their impact.	Hablaría más bendiciones sobre sus hijos si entendiera su impacto.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak to more strangers about Jesus if we were not afraid.	Hablaríamos con más desconocidos sobre Jesús si no tuviéramos miedo.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak at the public square about the kingdom of God if allowed.	Hablarían en la plaza pública sobre el reino de Dios si se les permitiera.	Hablar Conditional
+Basic	Hablar::Conditional	I would speak more tenderly to those who are broken if I were more compassionate.	Hablaría más tiernamente a los quebrantados si fuera más compasivo.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak honestly with a fellow believer who was drifting from God?	¿Hablarías honestamente con un compañero creyente que se estaba alejando de Dios?	Hablar Conditional
+Basic	Hablar::Conditional	She would speak about generosity more if she had seen its results firsthand.	Hablaría más sobre la generosidad si hubiera visto sus resultados de primera mano.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak about the Great Commission more if we prioritized outreach.	Hablaríamos más sobre la Gran Comisión si priorizáramos el alcance.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak about answered prayers more if they documented them.	Hablarían más sobre las oraciones respondidas si las documentaran.	Hablar Conditional
+Basic	Hablar::Conditional	I would speak at the prayer wall every morning if it were part of my routine.	Hablaría en el muro de oración cada mañana si fuera parte de mi rutina.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak about the gospel in another language if you were trained?	¿Hablarías sobre el evangelio en otro idioma si fueras entrenado?	Hablar Conditional
+Basic	Hablar::Conditional	He would speak about the book of Revelation if the church were ready for it.	Hablaría sobre el libro de Apocalipsis si la iglesia estuviera lista para ello.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak about what God has done if we kept a record of his acts.	Hablaríamos sobre lo que Dios ha hecho si lleváramos un registro de sus obras.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak about community more if they experienced its benefits.	Hablarían más sobre la comunidad si experimentaran sus beneficios.	Hablar Conditional
+Basic	Hablar::Conditional	I would speak to my mentor every week if our schedules matched.	Hablaría con mi mentor cada semana si nuestros horarios coincidieran.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak about your struggles if you knew God had redeemed them?	¿Hablarías sobre tus luchas si supieras que Dios las había redimido?	Hablar Conditional
+Basic	Hablar::Conditional	She would speak more freely about her past if she felt no shame.	Hablaría más libremente sobre su pasado si no sintiera vergüenza.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak about the story of Esther more if people knew it better.	Hablaríamos más sobre la historia de Ester si la gente la conociera mejor.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak at the missions night every year if they were asked.	Hablarían en la noche de misiones cada año si se les pidiera.	Hablar Conditional
+Basic	Hablar::Conditional	I would speak to the whole world about Jesus if I had a platform.	Hablaría al mundo entero sobre Jesús si tuviera una plataforma.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak about what God has done in your life if someone gave you a microphone?	¿Hablarías sobre lo que Dios ha hecho en tu vida si alguien te diera un micrófono?	Hablar Conditional
+Basic	Hablar::Conditional	He would speak every week at the church if the congregation wanted him to.	Hablaría cada semana en la iglesia si la congregación lo quisiera.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak about every answered prayer if we kept a gratitude journal.	Hablaríamos sobre cada oración respondida si lleváramos un diario de gratitud.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak about adoption and orphan care more if people would support it.	Hablarían más sobre la adopción y el cuidado de huérfanos si la gente lo apoyara.	Hablar Conditional
+Basic	Hablar::Conditional	I would speak to the Sunday school children about Moses if I were teaching.	Hablaría a los niños de la escuela dominical sobre Moisés si estuviera enseñando.	Hablar Conditional
+Basic	Hablar::Conditional	Would you speak about your faith in the marketplace if it were more accepted?	¿Hablarías sobre tu fe en el mercado si fuera más aceptada?	Hablar Conditional
+Basic	Hablar::Conditional	She would speak at every opportunity if she were less self-conscious.	Hablaría en cada oportunidad si fuera menos tímida.	Hablar Conditional
+Basic	Hablar::Conditional	We would speak about stewardship more if we understood it better ourselves.	Hablaríamos más sobre la mayordomía si la entendiéramos mejor nosotros mismos.	Hablar Conditional
+Basic	Hablar::Conditional	They would speak more about unity if they had experienced more division.	Hablarían más sobre la unidad si hubieran experimentado más división.	Hablar Conditional
+Basic	Hablar::Imperfect::Indicative	When I was younger, I used to speak about the faith of Abraham with my pastor.	Cuando era más joven, hablaba sobre la fe de Abraham con mi pastor.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	She would speak at the dinner table about what she had read in the Bible that day.	Hablaba en la mesa de la cena sobre lo que había leído en la Biblia ese día.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	We used to speak about our prayer requests at the end of every small group meeting.	Hablábamos sobre nuestras peticiones de oración al final de cada reunión del grupo pequeño.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	They used to speak about building a new church facility every time they met.	Hablaban sobre construir una nueva instalación de la iglesia cada vez que se reunían.	Hablar Imperfect Indicative
+Basic	Hablar::Imperfect::Indicative	I used to speak with the worship band after practice about how to grow in our gifts.	Hablaba con el grupo de adoración después de la práctica sobre cómo crecer en nuestros dones.	Hablar Imperfect Indicative
+Basic	Hablar::Preterit::Indicative	I spoke about the parable of the prodigal son at the discipleship class.	Hablé sobre la parábola del hijo pródigo en la clase de discipulado.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	Did you speak with the deacons about the benevolence fund request?	¿Hablaste con los diáconos sobre la solicitud del fondo de beneficencia?	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	She spoke clearly about the hope of eternity at the funeral service.	Habló claramente sobre la esperanza de la eternidad en el servicio funeral.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	We spoke about consecrating the new building at the dedication service.	Hablamos sobre consagrar el nuevo edificio en el culto de dedicación.	Hablar Preterit Indicative
+Basic	Hablar::Preterit::Indicative	They spoke about what the Spirit revealed to them during their time of prayer.	Hablaron sobre lo que el Espíritu les reveló durante su tiempo de oración.	Hablar Preterit Indicative
+Basic	Hablar::Present::Subjunctive	I hope you speak with the pastor about joining the discipleship program.	Espero que hables con el pastor sobre unirte al programa de discipulado.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is important that she speak with clarity and truth about the gospel.	Es importante que hable con claridad y verdad sobre el evangelio.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	God desires that we speak life into the situations around us.	Dios desea que hablemos vida en las situaciones a nuestro alrededor.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	May everyone who hears you speak be encouraged and built up.	Que todos los que te escuchen hablar sean alentados y edificados.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I pray that they speak boldly about the resurrection of Jesus.	Oro para que hablen con valentía sobre la resurrección de Jesús.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is good that he speak from experience when sharing his testimony.	Es bueno que hable desde la experiencia al compartir su testimonio.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	So that we speak effectively, we must know the Word deeply.	Para que hablemos efectivamente, debemos conocer la Palabra profundamente.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I want you to speak with confidence about your identity in Christ.	Quiero que hables con confianza sobre tu identidad en Cristo.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is necessary that we speak the truth even when it is difficult.	Es necesario que hablemos la verdad incluso cuando es difícil.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	May the words of your mouth always glorify God.	Que las palabras de tu boca siempre glorifiquen a Dios.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I hope you speak with the tour guide about visiting the local church.	Espero que hables con el guía turístico sobre visitar la iglesia local.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is important that the team speak with the host family before arriving.	Es importante que el equipo hable con la familia anfitriona antes de llegar.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	So that we speak wisely with the locals, we should learn the culture first.	Para que hablemos sabiamente con los lugareños, debemos aprender la cultura primero.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I pray that they speak with love and sensitivity in every new place.	Oro para que hablen con amor y sensibilidad en cada lugar nuevo.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	May God open doors for us to speak to those who have never heard.	Que Dios abra puertas para que hablemos con los que nunca han escuchado.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I hope the family speaks with the server before the food gets cold.	Espero que la familia hable con el mesero antes de que se enfríe la comida.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is good that she speak with the chef about any food allergies.	Es bueno que hable con el chef sobre cualquier alergia alimentaria.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	So that we speak from the heart, we must first taste what we share.	Para que hablemos desde el corazón, primero debemos saborear lo que compartimos.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I need you to speak with the catering team about the church banquet menu.	Necesito que hables con el equipo de catering sobre el menú del banquete de la iglesia.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is necessary that someone speak about food allergies before the potluck.	Es necesario que alguien hable sobre las alergias alimentarias antes del almuerzo compartido.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I want everyone to speak about what is happening at home so we can pray.	Quiero que todos hablen sobre lo que está pasando en casa para que podamos orar.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is important that parents speak with their children about the faith daily.	Es importante que los padres hablen con sus hijos sobre la fe a diario.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	God wants us to speak blessing and peace over our homes.	Dios quiere que hablemos bendición y paz sobre nuestros hogares.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	May this home be a place where we speak truth and love always.	Que este hogar sea un lugar donde siempre hablemos verdad y amor.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I pray that we speak openly about God in every room of our house.	Oro para que hablemos abiertamente sobre Dios en cada habitación de nuestra casa.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I hope my children speak with respect and kindness to each other.	Espero que mis hijos hablen con respeto y amabilidad el uno al otro.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is important that parents speak with one voice about family values.	Es importante que los padres hablen con una sola voz sobre los valores familiares.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	God desires that families speak words of life at the dinner table.	Dios desea que las familias hablen palabras de vida en la mesa de la cena.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	May you speak the promises of God over your children every day.	Que hables las promesas de Dios sobre tus hijos cada día.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I pray that this family speaks about Jesus freely and joyfully.	Oro para que esta familia hable sobre Jesús libremente y con alegría.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I hope your friends speak honestly about what they are going through.	Espero que tus amigos hablen honestamente sobre lo que están pasando.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is good that she speak with her friend before making a big decision.	Es bueno que hable con su amiga antes de tomar una gran decisión.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	So that we speak in unity, we must listen well to one another first.	Para que hablemos en unidad, primero debemos escucharnos bien el uno al otro.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I need you to speak with your friend about coming to the Bible study.	Necesito que hables con tu amigo sobre venir al estudio bíblico.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	May we speak to each other with the grace that God has shown us.	Que nos hablemos con la gracia que Dios nos ha mostrado.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I hope you speak calmly to the animals at the shelter.	Espero que hables con calma a los animales en el refugio.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is important that someone speak gently with the scared animals.	Es importante que alguien hable suavemente con los animales asustados.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	So that we speak wisely about animal care, we should learn first.	Para que hablemos sabiamente sobre el cuidado de animales, debemos aprender primero.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I need you to speak with the vet before giving the dog the medication.	Necesito que hables con el veterinario antes de darle al perro el medicamento.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	May those who care for God creation speak with care and compassion.	Que los que cuidan la creación de Dios hablen con cuidado y compasión.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I hope the professor speaks about the context of the Psalms in class.	Espero que el profesor hable sobre el contexto de los Salmos en clase.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is important that the teacher speak clearly for all students to understand.	Es importante que el maestro hable con claridad para que todos los estudiantes entiendan.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	God wants us to speak about his Word with enthusiasm and joy.	Dios quiere que hablemos de su Palabra con entusiasmo y alegría.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	So that we speak accurately about theology, we must study carefully.	Para que hablemos con precisión sobre teología, debemos estudiar con cuidado.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I pray that the students speak up when they have questions in class.	Oro para que los estudiantes hablen cuando tengan preguntas en clase.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I hope the doctor speaks plainly about the test results.	Espero que el médico hable claramente sobre los resultados de los análisis.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is important that someone speak with the family after the diagnosis.	Es importante que alguien hable con la familia después del diagnóstico.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	God wants us to speak healing and hope over the sick in our congregation.	Dios quiere que hablemos sanidad y esperanza sobre los enfermos en nuestra congregación.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	May we speak the promises of God over every person struggling with illness.	Que hablemos las promesas de Dios sobre cada persona que lucha con una enfermedad.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I pray that the counselor speaks with wisdom and compassion to those in pain.	Oro para que el consejero hable con sabiduría y compasión a los que están sufriendo.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I want the team to speak honestly about the challenges in the ministry project.	Quiero que el equipo hable honestamente sobre los desafíos en el proyecto ministerial.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is necessary that the leader speak with vision and clarity at the meeting.	Es necesario que el líder hable con visión y claridad en la reunión.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	God desires that we speak about kingdom priorities in every area of work.	Dios desea que hablemos sobre las prioridades del reino en cada área del trabajo.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	So that we speak effectively to the community, we must understand their needs.	Para que hablemos efectivamente con la comunidad, debemos entender sus necesidades.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I pray that the staff speaks with integrity and honesty about all decisions.	Oro para que el personal hable con integridad y honestidad sobre todas las decisiones.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I hope the worship leader speaks between songs to edify the congregation.	Espero que el líder de adoración hable entre canciones para edificar a la congregación.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is important that someone speak about the story behind the worship song.	Es importante que alguien hable sobre la historia detrás de la canción de adoración.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	God wants us to speak about the power of praise in difficult seasons.	Dios quiere que hablemos sobre el poder de la alabanza en las temporadas difíciles.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	May the music speak louder than any words could in this moment of worship.	Que la música hable más fuerte que cualquier palabra en este momento de adoración.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I pray that the choir speaks through song to the hearts of the congregation.	Oro para que el coro hable a través de la canción a los corazones de la congregación.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I do not believe the new pastor speaks from personal experience on this topic.	No creo que el nuevo pastor hable desde la experiencia personal sobre este tema.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is possible that the elder speaks about this at the next board meeting.	Es posible que el anciano hable sobre esto en la próxima reunión de la junta.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I hope the speaker speaks in a way that reaches both young and old.	Espero que el orador hable de una manera que llegue tanto a los jóvenes como a los mayores.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is necessary that someone speak about the brokenness in our community.	Es necesario que alguien hable sobre el quebrantamiento en nuestra comunidad.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I want each member to speak freely about what God is doing in their life.	Quiero que cada miembro hable libremente sobre lo que Dios está haciendo en su vida.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	May every voice in this congregation speak of the glory of our God.	Que cada voz en esta congregación hable de la gloria de nuestro Dios.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I pray that we speak with boldness and love in equal measure.	Oro para que hablemos con valentía y amor en igual medida.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is important that we speak to the broken with gentleness and truth.	Es importante que hablemos a los quebrantados con gentileza y verdad.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	God wants the church to speak hope to those who feel forgotten.	Dios quiere que la iglesia hable esperanza a los que se sienten olvidados.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	So that the gospel speaks clearly, we must remove all unnecessary barriers.	Para que el evangelio hable con claridad, debemos eliminar todas las barreras innecesarias.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	May every servant in this church speak as one who ministers grace.	Que cada siervo en esta iglesia hable como quien ministra gracia.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I hope you speak with the new family about how to get connected at church.	Espero que hables con la nueva familia sobre cómo conectarse en la iglesia.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is good that she speak with the elder about the counseling ministry.	Es bueno que hable con el anciano sobre el ministerio de consejería.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	So that the body of Christ speaks with one voice, we need deep unity.	Para que el cuerpo de Cristo hable con una sola voz, necesitamos una profunda unidad.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I need you to speak with the youth about the Bible camp coming up.	Necesito que hables con los jóvenes sobre el campamento bíblico que se acerca.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I pray that the word preached today speaks to every heart in the room.	Oro para que la palabra predicada hoy hable a cada corazón en el salón.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	May you speak the blessing of Aaron over your congregation today.	Que hables la bendición de Aarón sobre tu congregación hoy.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is important that the leader speak with humility at all times.	Es importante que el líder hable con humildad en todo momento.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	God desires that we speak only what the Spirit directs us to say.	Dios desea que hablemos solo lo que el Espíritu nos dirija a decir.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	So that the testimony speaks for itself, live it out faithfully.	Para que el testimonio hable por sí mismo, vívelo fielmente.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I want the sermon to speak to both the saved and the unsaved tonight.	Quiero que el sermón hable tanto a los salvos como a los no salvos esta noche.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is necessary that we speak about the Great Commission before the year ends.	Es necesario que hablemos sobre la Gran Comisión antes de que termine el año.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	May the truth of Scripture speak powerfully into the lives of all who are here.	Que la verdad de las Escrituras hable poderosamente en la vida de todos los que están aquí.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I pray that each person speaks what God has placed on their heart.	Oro para que cada persona hable lo que Dios ha puesto en su corazón.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is good that the deacon speak with the members about the benevolence fund.	Es bueno que el diácono hable con los miembros sobre el fondo de beneficencia.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	God wants us to speak wisdom to those who are making important decisions.	Dios quiere que hablemos sabiduría a los que están tomando decisiones importantes.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	So that the message speaks to everyone, we must translate it well.	Para que el mensaje hable a todos, debemos traducirlo bien.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I hope the evangelist speaks about eternal life at the crusade tomorrow.	Espero que el evangelista hable sobre la vida eterna en la cruzada de mañana.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is important that we speak Scripture into the atmosphere around us.	Es importante que hablemos las Escrituras en la atmósfera a nuestro alrededor.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	May every word you speak today plant a seed of hope in someone.	Que cada palabra que hables hoy plante una semilla de esperanza en alguien.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I pray that this season speaks to us of God closeness and care.	Oro para que esta temporada nos hable de la cercanía y el cuidado de Dios.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is necessary that we speak to each other as brothers and sisters in Christ.	Es necesario que nos hablemos como hermanos y hermanas en Cristo.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	God desires that we speak about his love to every nation and people group.	Dios desea que hablemos de su amor a cada nación y grupo de personas.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	May you always speak from a place of deep faith and conviction.	Que siempre hables desde un lugar de fe profunda y convicción.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I hope the worship team speaks through music about the holiness of God.	Espero que el equipo de adoración hable a través de la música sobre la santidad de Dios.	Hablar Present Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If I spoke more Spanish, I could share the gospel with more people.	Si hablara más español, podría compartir el evangelio con más personas.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	The pastor hoped we would speak about the sermon throughout the week.	El pastor esperaba que habláramos sobre el sermón durante toda la semana.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If she spoke with more confidence, her ministry would grow.	Si hablara con más confianza, su ministerio crecería.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We prayed that we would speak only what the Spirit directed.	Oramos para que habláramos solo lo que el Espíritu dirigiera.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke more openly about their struggles, healing would come.	Si hablaran más abiertamente sobre sus luchas, la sanidad llegaría.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If only I spoke the language of the people I was trying to reach.	Ojalá hablara el idioma de la gente a la que estaba tratando de llegar.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	God wanted us to speak in love and truth at all times.	Dios quería que habláramos en amor y verdad en todo momento.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If he spoke more gently, people would be more willing to listen.	Si hablara con más gentileza, la gente estaría más dispuesta a escuchar.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We needed everyone to speak at the testimony night before the meeting ended.	Necesitábamos que todos hablaran en la noche de testimonios antes de que terminara la reunión.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke more about Scripture, the group would grow in maturity.	Si hablaran más sobre las Escrituras, el grupo crecería en madurez.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If I spoke the local language, I could communicate the gospel more clearly.	Si hablara el idioma local, podría comunicar el evangelio con más claridad.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	I wished you would speak with the mission team before the departure.	Ojalá que hablaras con el equipo misionero antes de la partida.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If she spoke with the hotel staff, she could resolve the issue quickly.	Si hablara con el personal del hotel, podría resolver el problema rápidamente.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We hoped we would speak to at least one person in the village about Jesus.	Esperábamos que habláramos con al menos una persona en el pueblo sobre Jesús.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke more slowly, I would understand what they were saying.	Si hablaran más despacio, entendería lo que estaban diciendo.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If the waiter spoke English, it would be easier to order the right dish.	Si el mesero hablara inglés, sería más fácil pedir el plato correcto.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	I wished the chef would speak about the ingredients so I could know what was in the food.	Ojalá que el chef hablara sobre los ingredientes para que pudiera saber qué había en la comida.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If she spoke about her recipe, others would learn how to cook it too.	Si hablara sobre su receta, otros también aprenderían cómo cocinarla.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We hoped someone would speak about the dish before we all sat down to eat.	Esperábamos que alguien hablara sobre el plato antes de que todos nos sentáramos a comer.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke about the food traditions, we would understand the culture better.	Si hablaran sobre las tradiciones culinarias, entenderíamos mejor la cultura.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If I spoke more with my neighbor, I could share the love of Christ with him.	Si hablara más con mi vecino, podría compartir el amor de Cristo con él.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	Mom wished we would speak more kindly to one another at home.
+Mamá deseaba que nos habláramos con más amabilidad el uno al otro en casa.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If she spoke at home about her faith more, the whole family might follow.	Si hablara más en casa sobre su fe, toda la familia podría seguirla.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We prayed that we would speak words of life at home every day.	Oramos para que habláramos palabras de vida en casa cada día.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke more gently to the children, the home would be more peaceful.	Si hablaran más suavemente a los niños, el hogar sería más tranquilo.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If I spoke more with my father, our relationship would be stronger.	Si hablara más con mi padre, nuestra relación sería más fuerte.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	She hoped her parents would speak to her about their faith journey.	Ella esperaba que sus padres le hablaran sobre su camino de fe.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If he spoke openly with his children about God, they would grow up in faith.	Si hablara abiertamente con sus hijos sobre Dios, crecerían en la fe.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We hoped the family would speak honestly about the difficult season.	Esperábamos que la familia hablara honestamente sobre la temporada difícil.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke with their children about the Bible more, the impact would be great.	Si hablaran con sus hijos sobre la Biblia más seguido, el impacto sería grande.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If I spoke more with my friends about God, our friendships would deepen.	Si hablara más con mis amigos sobre Dios, nuestras amistades se profundizarían.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	She hoped her friend would speak to her before making the decision.	Ella esperaba que su amiga le hablara antes de tomar la decisión.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If he spoke more vulnerably with his friends, they could walk alongside him.	Si hablara más vulnerablemente con sus amigos, podrían caminar junto a él.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We hoped everyone would speak about the challenge so we could pray together.	Esperábamos que todos hablaran sobre el desafío para que pudiéramos orar juntos.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke more about what they were believing for, faith would rise.	Si hablaran más sobre lo que estaban creyendo, la fe aumentaría.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If the dog could speak, it would say it loves the family devotional time.	Si el perro pudiera hablar, diría que ama el tiempo devocional familiar.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	I needed someone to speak to the cat to calm it before the vet visit.	Necesitaba que alguien le hablara al gato para calmarlo antes de la visita al veterinario.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If the rabbit were calmer when someone spoke to it, handling would be easier.	Si el conejo estuviera más tranquilo cuando alguien le hablara, manejarlo sería más fácil.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We hoped someone at the shelter would speak to the animals every day.	Esperábamos que alguien en el refugio le hablara a los animales todos los días.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke kindly to the new pet, it would adjust more quickly.	Si le hablaran con amabilidad al nuevo animal, se adaptaría más rápidamente.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If I spoke more clearly in class, the students would learn faster.	Si hablara más claramente en clase, los estudiantes aprenderían más rápido.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	The teacher wished the student would speak up when confused.	La maestra deseaba que el estudiante hablara cuando estuviera confundido.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If she spoke more in the study group, she would understand the material better.	Si hablara más en el grupo de estudio, entendería el material mejor.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We wanted everyone to speak about what they were learning from the Word.	Queríamos que todos hablaran sobre lo que estaban aprendiendo de la Palabra.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke about the lesson afterward, retention would improve.	Si hablaran sobre la lección después, la retención mejoraría.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If I spoke more with the doctor, I would have better control of my health.	Si hablara más con el médico, tendría un mejor control de mi salud.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	The nurse wished the patient would speak about the pain they were feeling.	La enfermera deseaba que el paciente hablara sobre el dolor que sentía.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If she spoke to the chaplain, she might find comfort in her grief.	Si hablara con el capellán, podría encontrar consuelo en su duelo.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We hoped the community would speak about mental health without stigma.	Esperábamos que la comunidad hablara sobre la salud mental sin estigma.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke about their health concerns, the doctors could help them better.	Si hablaran sobre sus preocupaciones de salud, los médicos podrían ayudarlos mejor.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If I spoke less and listened more at work, I would be a better leader.	Si hablara menos y escuchara más en el trabajo, sería un mejor líder.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	The boss wished the team would speak up about problems before they became big.	El jefe deseaba que el equipo hablara sobre los problemas antes de que se volvieran grandes.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If she spoke at more conferences, her platform and ministry would grow.	Si hablara en más conferencias, su plataforma y ministerio crecerían.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We needed someone to speak at the board meeting about the budget crisis.	Necesitábamos que alguien hablara en la reunión de la junta sobre la crisis presupuestaria.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke about collaboration more, the team would be more effective.	Si hablaran más sobre la colaboración, el equipo sería más efectivo.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If I spoke at the worship night, I would share about God faithfulness in hard times.	Si hablara en la noche de adoración, compartiría sobre la fidelidad de Dios en los tiempos difíciles.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	The director wished everyone would speak more in rehearsal about improvements.	El director deseaba que todos hablaran más en el ensayo sobre mejoras.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If she spoke between songs, it would give people time to respond.	Si hablara entre canciones, daría a la gente tiempo para responder.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We hoped the singer would speak about the inspiration behind the album.	Esperábamos que la cantante hablara sobre la inspiración detrás del álbum.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke more about the theology in their songs, worship would deepen.	Si hablaran más sobre la teología en sus canciones, la adoración se profundizaría.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If only the church would speak more about social justice and compassion.	Ojalá la iglesia hablara más sobre la justicia social y la compasión.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	God desired that we would speak to the lost with urgency and love.	Dios deseaba que habláramos a los perdidos con urgencia y amor.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If the sermon spoke more directly to daily life, more people would apply it.	Si el sermón hablara más directamente a la vida diaria, más personas lo aplicarían.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We prayed that we would speak with one voice about the mission of the church.	Oramos para que habláramos con una sola voz sobre la misión de la iglesia.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke more about transparency, trust in the leadership would grow.	Si hablaran más sobre la transparencia, la confianza en el liderazgo crecería.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If I spoke about my testimony more often, it might help someone in the same situation.	Si hablara sobre mi testimonio más seguido, podría ayudar a alguien en la misma situación.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	The team hoped the leader would speak about the kingdom vision more clearly.	El equipo esperaba que el líder hablara sobre la visión del reino con más claridad.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If she spoke more about prayer, the whole congregation would be inspired.	Si hablara más sobre la oración, toda la congregación se inspiraría.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We needed the elder to speak about unity before the vote took place.	Necesitábamos que el anciano hablara sobre la unidad antes de que se llevara a cabo la votación.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke more about sacrifice, the offering would reflect greater generosity.	Si hablaran más sobre el sacrificio, la ofrenda reflejaría una mayor generosidad.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If I spoke more Spanish at home, my children would be bilingual too.	Si hablara más español en casa, mis hijos también serían bilingües.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	She wished her congregation would speak about giving more generously.	Ella deseaba que su congregación hablara sobre dar más generosamente.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If he spoke about healing testimonies, more people would come forward for prayer.	Si hablara sobre testimonios de sanidad, más personas se acercarían para oración.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We hoped the volunteers would speak about their experience to encourage others.	Esperábamos que los voluntarios hablaran sobre su experiencia para alentar a otros.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke about discipleship more, the church would see greater maturity.	Si hablaran más sobre el discipulado, la iglesia vería una mayor madurez.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If I spoke less harshly, my words would carry more weight.	Si hablara con menos dureza, mis palabras tendrían más peso.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	God wished his people would speak more kindly to the stranger in their midst.	Dios deseaba que su pueblo hablara con más amabilidad al extraño en medio de ellos.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If the worship team spoke more in rehearsal, unity would be stronger.	Si el equipo de adoración hablara más en el ensayo, la unidad sería más fuerte.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We prayed that the new converts would speak openly about their faith.	Oramos para que los nuevos convertidos hablaran abiertamente sobre su fe.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke less about problems and more about solutions, progress would come.	Si hablaran menos sobre los problemas y más sobre las soluciones, vendría el progreso.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If I spoke at every prayer gathering, my faith would grow stronger.	Si hablara en cada reunión de oración, mi fe crecería más fuerte.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	The boss hoped we would speak about the project openly before the deadline.	El jefe esperaba que habláramos sobre el proyecto abiertamente antes de la fecha límite.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If she spoke the language of those she served, her impact would double.	Si hablara el idioma de los que servía, su impacto se duplicaría.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We needed the church leader to speak before the congregation grew concerned.	Necesitábamos que el líder de la iglesia hablara antes de que la congregación se preocupara.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke more about grace and less about rules, more people would stay.	Si hablaran más sobre la gracia y menos sobre las reglas, más personas se quedarían.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If I spoke more encouragement over others, my own faith would strengthen too.	Si hablara más aliento sobre otros, mi propia fe también se fortalecería.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	God wished his church would speak more about the kingdom and less about tradition.	Dios deseaba que su iglesia hablara más sobre el reino y menos sobre la tradición.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If the preacher spoke about the cross every week, hearts would be continually broken.	Si el predicador hablara sobre la cruz cada semana, los corazones estarían continuamente quebrantados.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We hoped the community would speak more honestly about poverty and justice.	Esperábamos que la comunidad hablara más honestamente sobre la pobreza y la justicia.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke more about the prophets, the church would develop a sharper vision.	Si hablaran más sobre los profetas, la iglesia desarrollaría una visión más aguda.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If I spoke from my own life experiences, the message would be more real.	Si hablara desde mis propias experiencias de vida, el mensaje sería más real.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	The elder hoped we would speak more about personal holiness in small groups.	El anciano esperaba que habláramos más sobre la santidad personal en los grupos pequeños.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If she spoke about her life before Christ, many would be moved to accept him.	Si hablara sobre su vida antes de Cristo, muchos se moverían a aceptarlo.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We needed the congregation to speak before the community meeting ended.	Necesitábamos que la congregación hablara antes de que terminara la reunión comunitaria.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke in one accord about the vision, the church would move forward.	Si hablaran en un acuerdo sobre la visión, la iglesia avanzaría.	Hablar Imperfect Subjunctive
+Basic	Hablar::Present::Subjunctive	I want you to speak with the prayer team before the service begins.	Quiero que hables con el equipo de oración antes de que comience el culto.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	It is necessary that someone speak about the need for more volunteers.	Es necesario que alguien hable sobre la necesidad de más voluntarios.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	God desires that we speak words of peace and not strife.	Dios desea que hablemos palabras de paz y no de contienda.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	May the message you speak today be exactly what someone needed to hear.	Que el mensaje que hables hoy sea exactamente lo que alguien necesitaba escuchar.	Hablar Present Subjunctive
+Basic	Hablar::Present::Subjunctive	I pray that the church speaks with compassion to the hurting in our city.	Oro para que la iglesia hable con compasión a los heridos en nuestra ciudad.	Hablar Present Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If I spoke more tenderly, my words would bring comfort rather than pain.	Si hablara con más ternura, mis palabras traerían consuelo en lugar de dolor.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	The pastor hoped we would speak about the Bible stories with the children often.	El pastor esperaba que habláramos sobre las historias bíblicas con los niños frecuentemente.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If she spoke more about what God was doing, the atmosphere would shift.	Si hablara más sobre lo que Dios estaba haciendo, la atmósfera cambiaría.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	We prayed that each person would speak only what the Spirit gave them to say.	Oramos para que cada persona hablara solo lo que el Espíritu le diera que decir.	Hablar Imperfect Subjunctive
+Basic	Hablar::Imperfect::Subjunctive	If they spoke about the goodness of God daily, their faith would remain strong.	Si hablaran sobre la bondad de Dios a diario, su fe permanecería fuerte.	Hablar Imperfect Subjunctive
+Basic	Hablar::Present::Perfect	I have spoken about the gospel to everyone in my neighborhood.	He hablado sobre el evangelio a todos en mi vecindario.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken with the pastor about your calling?	¿Has hablado con el pastor sobre tu llamado?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	She has spoken at four churches this year about revival.	Ha hablado en cuatro iglesias este año sobre el avivamiento.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken about this topic many times in our small group.	Hemos hablado sobre este tema muchas veces en nuestro grupo pequeño.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken powerfully about healing and restoration.	Han hablado poderosamente sobre la sanidad y la restauración.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	I have spoken to God about this situation many times in prayer.	He hablado con Dios sobre esta situación muchas veces en oración.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken to the elder about your leadership development?	¿Has hablado con el anciano sobre tu desarrollo de liderazgo?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	He has spoken at the national conference about discipleship models.	Ha hablado en la conferencia nacional sobre modelos de discipulado.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken about the mission of the church in every staff meeting.	Hemos hablado sobre la misión de la iglesia en cada reunión del personal.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken the truth in love to the struggling members.	Han hablado la verdad en amor a los miembros que están luchando.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	I have spoken Spanish on every mission trip I have taken.	He hablado español en cada viaje misionero que he realizado.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken with the local pastor during your trip?	¿Has hablado con el pastor local durante tu viaje?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	She has spoken to people in five different countries about the love of Jesus.	Ha hablado con personas en cinco países diferentes sobre el amor de Jesús.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken with the mission team about the next trip abroad.	Hemos hablado con el equipo misionero sobre el próximo viaje al exterior.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken to thousands through their international ministry.	Han hablado a miles a través de su ministerio internacional.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	I have spoken with the chef about using the recipe for the church banquet.	He hablado con el chef sobre usar la receta para el banquete de la iglesia.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken to the restaurant about the group reservation?	¿Has hablado con el restaurante sobre la reservación de grupo?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	She has spoken about the cultural significance of the foods we eat.	Ha hablado sobre el significado cultural de los alimentos que comemos.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken about incorporating healthier meals into our church events.	Hemos hablado sobre incorporar comidas más saludables en nuestros eventos de la iglesia.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken about the connection between food, fellowship, and faith.	Han hablado sobre la conexión entre la comida, la comunidad y la fe.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	I have spoken with my neighbor about faith every week this month.	He hablado con mi vecino sobre la fe cada semana de este mes.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken with your roommate about what you believe?	¿Has hablado con tu compañero de cuarto sobre lo que crees?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	She has spoken about making home a sanctuary and place of prayer.	Ha hablado sobre hacer del hogar un santuario y un lugar de oración.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken about the devotional life we want to establish at home.	Hemos hablado sobre la vida devocional que queremos establecer en casa.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken about setting aside space in their home for prayer.	Han hablado sobre reservar un espacio en su hogar para la oración.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	I have spoken with my children about the story of creation every week.	He hablado con mis hijos sobre la historia de la creación cada semana.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken with your parents about your decision to enter ministry?	¿Has hablado con tus padres sobre tu decisión de entrar al ministerio?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	She has spoken to her grandmother about the faith that shaped their family.	Ha hablado con su abuela sobre la fe que moldeó a su familia.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken about God faithfulness in our family for many generations.	Hemos hablado sobre la fidelidad de Dios en nuestra familia por muchas generaciones.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken about family prayer to every couple they have mentored.	Han hablado sobre la oración familiar a cada pareja que han mentoreado.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	I have spoken honestly with my friend about the hard season I am facing.	He hablado honestamente con mi amigo sobre la temporada difícil que estoy enfrentando.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken with a trusted friend about what you are going through?	¿Has hablado con un amigo de confianza sobre lo que estás pasando?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	She has spoken openly about her past and how God has redeemed it.	Ha hablado abiertamente sobre su pasado y cómo Dios lo ha redimido.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken to each other every day through this difficult season.	Nos hemos hablado el uno al otro cada día durante esta temporada difícil.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken truth into each other lives through years of friendship.	Han hablado verdad en la vida del otro a través de años de amistad.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	I have spoken calmly to my dog every time it has been afraid.	He hablado con calma a mi perro cada vez que ha tenido miedo.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken with the vet about your cat diet and health?	¿Has hablado con el veterinario sobre la dieta y la salud de tu gato?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	She has spoken softly to the rescue animals at the shelter.	Ha hablado suavemente a los animales rescatados en el refugio.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken about how to care for the animals God entrusted to us.	Hemos hablado sobre cómo cuidar a los animales que Dios nos confió.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken about stewardship of creation in their environmental ministry.	Han hablado sobre la mayordomía de la creación en su ministerio ambiental.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	I have spoken at the school chapel three times this semester.	He hablado en la capilla de la escuela tres veces este semestre.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken with your professor about the theology of prayer?	¿Has hablado con tu profesor sobre la teología de la oración?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	She has spoken about the life of the apostle Paul in her class this year.	Ha hablado sobre la vida del apóstol Pablo en su clase este año.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken about how the Reformation shaped modern Christianity.	Hemos hablado sobre cómo la Reforma moldeó el cristianismo moderno.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken about the importance of Scripture in every lecture this year.	Han hablado sobre la importancia de las Escrituras en cada conferencia de este año.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	I have spoken with the doctor about my concerns regarding my health.	He hablado con el médico sobre mis preocupaciones con respecto a mi salud.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken to the counselor about managing the anxiety?	¿Has hablado con el consejero sobre manejar la ansiedad?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	She has spoken openly about her mental health journey to help others.	Ha hablado abiertamente sobre su camino de salud mental para ayudar a otros.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken about the healing power of community and belonging.	Hemos hablado sobre el poder sanador de la comunidad y el sentido de pertenencia.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken to the congregation about caring for those with illness.	Han hablado a la congregación sobre cuidar a los que tienen enfermedades.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	I have spoken to my team about keeping faith central in our work.	He hablado con mi equipo sobre mantener la fe central en nuestro trabajo.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken with the ministry director about your ideas?	¿Has hablado con el director del ministerio sobre tus ideas?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	She has spoken at leadership forums about faith-based community development.	Ha hablado en foros de liderazgo sobre el desarrollo comunitario basado en la fe.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken about how to integrate our faith into every aspect of work.	Hemos hablado sobre cómo integrar nuestra fe en cada aspecto del trabajo.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken about the importance of serving humbly in every role.	Han hablado sobre la importancia de servir humildemente en cada papel.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	I have spoken at the worship night about what God has been doing this year.	He hablado en la noche de adoración sobre lo que Dios ha estado haciendo este año.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken with the worship team about the new song arrangement?	¿Has hablado con el equipo de adoración sobre el nuevo arreglo musical?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	She has spoken about how music helped her through her deepest grief.	Ha hablado sobre cómo la música la ayudó durante su duelo más profundo.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken about the spiritual impact of choosing songs that reflect Scripture.	Hemos hablado sobre el impacto espiritual de elegir canciones que reflejen las Escrituras.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken about worship as a weapon in spiritual warfare.	Han hablado sobre la adoración como un arma en la guerra espiritual.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	I have spoken about the love of God to hundreds of people this year.	He hablado sobre el amor de Dios a cientos de personas este año.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken about what God has placed on your heart recently?	¿Has hablado sobre lo que Dios ha puesto en tu corazón recientemente?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	He has spoken the truth with grace and has changed many lives.	Ha hablado la verdad con gracia y ha cambiado muchas vidas.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken about the Great Commission in every sermon this year.	Hemos hablado sobre la Gran Comisión en cada sermón de este año.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken about the cross as the foundation of all ministry.	Han hablado sobre la cruz como el fundamento de todo ministerio.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	I have spoken blessings over my family every morning this month.	He hablado bendiciones sobre mi familia cada mañana de este mes.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken with anyone who needs to hear about Jesus today?	¿Has hablado con alguien que necesita escuchar sobre Jesús hoy?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	She has spoken with conviction about the hope that only Christ can give.	Ha hablado con convicción sobre la esperanza que solo Cristo puede dar.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken about the power of forgiveness in healing broken relationships.	Hemos hablado sobre el poder del perdón en la sanidad de relaciones quebradas.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken boldly about Jesus in places where it is not easy to do so.	Han hablado con valentía sobre Jesús en lugares donde no es fácil hacerlo.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	I have spoken about the importance of prayer every chance I have had.	He hablado sobre la importancia de la oración cada vez que he tenido la oportunidad.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken about your mission story at the church lately?	¿Has hablado sobre tu historia misionera en la iglesia últimamente?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	He has spoken to the broken and the lost with the same grace and care.	Ha hablado a los quebrantados y a los perdidos con la misma gracia y cuidado.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken about the story of Job and how God restored him.	Hemos hablado sobre la historia de Job y cómo Dios lo restauró.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken words of faith over every difficult situation they faced.	Han hablado palabras de fe sobre cada situación difícil que han enfrentado.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	I have spoken the promises of God over my life since I first believed.	He hablado las promesas de Dios sobre mi vida desde que primero creí.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken about the fruits of the Spirit with your discipleship group?	¿Has hablado sobre los frutos del Espíritu con tu grupo de discipulado?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	She has spoken with the orphan ministry team about expanding their reach.	Ha hablado con el equipo del ministerio de huérfanos sobre ampliar su alcance.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken at the prayer vigil about the unreached people groups of the world.	Hemos hablado en la vigilia de oración sobre los grupos de personas no alcanzadas del mundo.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken about the need to reach the next generation with the gospel.	Han hablado sobre la necesidad de alcanzar a la próxima generación con el evangelio.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	I have spoken about the armor of God to the men Bible study group.	He hablado sobre la armadura de Dios al grupo de estudio bíblico de hombres.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken about your spiritual journey with someone new this week?	¿Has hablado sobre tu camino espiritual con alguien nuevo esta semana?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	He has spoken about perseverance and faith at every retreat he has led.	Ha hablado sobre la perseverancia y la fe en cada retiro que ha dirigido.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken to the community about the church as a place of belonging.	Hemos hablado a la comunidad sobre la iglesia como un lugar de pertenencia.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken about the importance of rest as a spiritual discipline.	Han hablado sobre la importancia del descanso como una disciplina espiritual.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	I have spoken about my faith at work and God has opened many doors.	He hablado sobre mi fe en el trabajo y Dios ha abierto muchas puertas.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken about your plans with God in prayer before moving forward?	¿Has hablado sobre tus planes con Dios en oración antes de seguir adelante?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	She has spoken God truth into my life more times than I can count.	Ha hablado la verdad de Dios en mi vida más veces de las que puedo contar.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken about surrender and trust as core values of our ministry.	Hemos hablado sobre la rendición y la confianza como valores fundamentales de nuestro ministerio.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken life and hope into the lives of countless people.	Han hablado vida y esperanza en las vidas de innumerables personas.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	I have spoken to God about my dreams and he has been faithful to respond.	He hablado con Dios sobre mis sueños y él ha sido fiel en responder.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken about the call to serve the poor with your church community?	¿Has hablado sobre el llamado a servir a los pobres con tu comunidad de la iglesia?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	He has spoken about the goodness of God even in his darkest hour.	Ha hablado sobre la bondad de Dios incluso en su hora más oscura.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken about the kingdom of God in every context of our lives.	Hemos hablado sobre el reino de Dios en cada contexto de nuestras vidas.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken about spiritual breakthrough and what it requires.	Han hablado sobre el avance espiritual y lo que requiere.	Hablar Present Perfect
+Basic	Hablar::Past::Perfect	I had spoken with the pastor before the decision was announced.	Había hablado con el pastor antes de que se anunciara la decisión.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had you spoken with the elder about your concerns before the meeting?	¿Habías hablado con el anciano sobre tus preocupaciones antes de la reunión?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	She had spoken about the need for revival before it actually came.	Había hablado sobre la necesidad de avivamiento antes de que realmente llegara.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken about the mission vision long before we launched the trip.	Habíamos hablado sobre la visión misionera mucho antes de lanzar el viaje.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken about unity before the difficult season tested the church.	Habían hablado sobre la unidad antes de que la temporada difícil pusiera a prueba a la iglesia.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	I had spoken to God about this matter long before I saw the answer.	Había hablado con Dios sobre este asunto mucho antes de ver la respuesta.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had you spoken with the worship leader before they chose the songs?	¿Habías hablado con el líder de adoración antes de que eligieran las canciones?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	He had spoken about the coming revival before the first signs appeared.	Había hablado sobre el próximo avivamiento antes de que aparecieran las primeras señales.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken at the prayer meeting before the outreach event that evening.	Habíamos hablado en la reunión de oración antes del evento de alcance esa tarde.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken about the discipleship program before the new semester began.	Habían hablado sobre el programa de discipulado antes de que comenzara el nuevo semestre.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	I had spoken some Spanish before arriving at the mission field.	Había hablado algo de español antes de llegar al campo misionero.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had you spoken with the locals before the team arrived?	¿Habías hablado con los lugareños antes de que llegara el equipo?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	She had spoken with the missionary family before the visit was arranged.	Había hablado con la familia misionera antes de que se organizara la visita.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken with the church leaders before we arrived in the country.	Habíamos hablado con los líderes de la iglesia antes de llegar al país.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken about the logistics before the team departed for the trip.	Habían hablado sobre la logística antes de que el equipo partiera para el viaje.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	I had spoken with the chef about the special menu before the banquet.	Había hablado con el chef sobre el menú especial antes del banquete.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had you spoken with the restaurant about the dietary restrictions?	¿Habías hablado con el restaurante sobre las restricciones dietéticas?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	She had spoken about the family recipe before anyone else got a chance to share.	Había hablado sobre la receta familiar antes de que alguien más tuviera la oportunidad de compartir.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken about the potluck menu before the event was planned.	Habíamos hablado sobre el menú del almuerzo compartido antes de que se planificara el evento.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken about the importance of sharing meals in community before starting the ministry.	Habían hablado sobre la importancia de compartir comidas en comunidad antes de iniciar el ministerio.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	I had spoken with my neighbor about faith before inviting him to church.	Había hablado con mi vecino sobre la fe antes de invitarlo a la iglesia.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had you spoken about the home group meeting with the new family?	¿Habías hablado sobre la reunión del grupo en casa con la nueva familia?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	She had spoken about dedicating the home to God before they moved in.	Había hablado sobre dedicar el hogar a Dios antes de que se mudaran.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken about our family values before the children were old enough to understand.	Habíamos hablado sobre nuestros valores familiares antes de que los niños fueran lo suficientemente mayores para entender.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken about making the home a place of prayer before the renovation.	Habían hablado sobre hacer del hogar un lugar de oración antes de la renovación.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	I had spoken with my father about faith before he passed away.	Había hablado con mi padre sobre la fe antes de que falleciera.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had you spoken to your children about the dangers they would face?	¿Habías hablado con tus hijos sobre los peligros que enfrentarían?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	She had spoken to her mother about the importance of prayer before the surgery.	Había hablado con su madre sobre la importancia de la oración antes de la cirugía.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken about family devotions before we established the routine.	Habíamos hablado sobre las devociones familiares antes de establecer la rutina.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken about the faith of their grandparents before attending the reunion.	Habían hablado sobre la fe de sus abuelos antes de asistir a la reunión.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	I had spoken with my friend about God before he gave his life to Christ.	Había hablado con mi amigo sobre Dios antes de que entregara su vida a Cristo.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had you spoken with your friend about the difficult situation before it got worse?	¿Habías hablado con tu amigo sobre la situación difícil antes de que empeorara?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	She had spoken honestly with her friend before the misunderstanding grew.	Había hablado honestamente con su amiga antes de que el malentendido creciera.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken about accountability before we formed the prayer partnership.	Habíamos hablado sobre la rendición de cuentas antes de formar la asociación de oración.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken as close friends for years before they became ministry partners.	Habían hablado como amigos cercanos por años antes de convertirse en socios del ministerio.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	I had spoken calmly to the dog before the fireworks began.	Había hablado con calma al perro antes de que comenzaran los fuegos artificiales.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had the vet spoken with you about the cat medication before you gave it?	¿El veterinario había hablado contigo sobre el medicamento del gato antes de que se lo dieras?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	She had spoken softly to the rabbit before picking it up for the first time.	Había hablado suavemente al conejo antes de cargarlo por primera vez.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken to the shelter staff before adopting the dog.	Habíamos hablado con el personal del refugio antes de adoptar al perro.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken about the pet care responsibilities before bringing the animal home.	Habían hablado sobre las responsabilidades del cuidado de mascotas antes de traer al animal a casa.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	I had spoken about the theology course before enrolling in it.	Había hablado sobre el curso de teología antes de inscribirme en él.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had you spoken with the professor about your research before submitting it?	¿Habías hablado con el profesor sobre tu investigación antes de presentarla?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	She had spoken about the importance of Christian education before founding the school.	Había hablado sobre la importancia de la educación cristiana antes de fundar la escuela.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken about the Bible curriculum before choosing one for our class.	Habíamos hablado sobre el currículo bíblico antes de elegir uno para nuestra clase.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken about the graduation ceremony long before it arrived.	Habían hablado sobre la ceremonia de graduación mucho antes de que llegara.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	I had spoken with the doctor about the treatment before the diagnosis came.	Había hablado con el médico sobre el tratamiento antes de que llegara el diagnóstico.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had you spoken with a counselor before the anxiety became severe?	¿Habías hablado con un consejero antes de que la ansiedad se volviera severa?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	She had spoken openly about her struggles before the breakthrough came.	Había hablado abiertamente sobre sus luchas antes de que llegara el avance.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken about the prayer ministry for healing before it was launched.	Habíamos hablado sobre el ministerio de oración por sanidad antes de que se lanzara.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken about the connection between faith and health before the wellness ministry began.	Habían hablado sobre la conexión entre la fe y la salud antes de que comenzara el ministerio de bienestar.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	I had spoken with my supervisor about the ministry project before it stalled.	Había hablado con mi supervisor sobre el proyecto ministerial antes de que se estancara.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had you spoken with the team about the outreach before the date changed?	¿Habías hablado con el equipo sobre el alcance antes de que cambiara la fecha?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	She had spoken at the conference about servant leadership before taking the role.	Había hablado en la conferencia sobre el liderazgo de servicio antes de asumir el papel.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken about the church budget before presenting it to the congregation.	Habíamos hablado sobre el presupuesto de la iglesia antes de presentarlo a la congregación.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken about every detail of the event before the planning meeting.	Habían hablado sobre cada detalle del evento antes de la reunión de planificación.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	I had spoken about my testimony before the Sunday I was asked to share it.	Había hablado sobre mi testimonio antes del domingo en que me pidieron compartirlo.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had you spoken with the worship team before the concert began?	¿Habías hablado con el equipo de adoración antes de que comenzara el concierto?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	She had spoken about the hymn history before the choir performed it.	Había hablado sobre la historia del himno antes de que el coro lo interpretara.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken about the theme of the worship album before starting to record.	Habíamos hablado sobre el tema del álbum de adoración antes de comenzar a grabar.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken about incorporating traditional songs before the service design was finalized.	Habían hablado sobre incorporar canciones tradicionales antes de que se finalizara el diseño del culto.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	I had spoken about the cross of Christ before I truly understood its meaning.	Había hablado sobre la cruz de Cristo antes de entender verdaderamente su significado.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had you spoken about the kingdom of God before you experienced its power?	¿Habías hablado sobre el reino de Dios antes de experimentar su poder?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	He had spoken about grace long before he needed it most in his own life.	Había hablado sobre la gracia mucho antes de necesitarla más en su propia vida.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken about the fear of the Lord before the revival broke out.	Habíamos hablado sobre el temor del Señor antes de que estallara el avivamiento.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken about the Great Commission before the church planted its first outreach.	Habían hablado sobre la Gran Comisión antes de que la iglesia plantara su primer alcance.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	I had spoken about surrendering everything to God before I actually did it.	Había hablado sobre rendirle todo a Dios antes de que realmente lo hiciera.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had you spoken about holiness with the discipleship group before the retreat?	¿Habías hablado sobre la santidad con el grupo de discipulado antes del retiro?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	She had spoken the promises of God over her family before the diagnosis came.	Había hablado las promesas de Dios sobre su familia antes de que llegara el diagnóstico.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken about intercession before the prayer movement began in our city.	Habíamos hablado sobre la intercesión antes de que comenzara el movimiento de oración en nuestra ciudad.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken about the fruit of the Spirit before they understood its source.	Habían hablado sobre el fruto del Espíritu antes de entender su fuente.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	I had spoken blessings over the congregation for years before the harvest came.	Había hablado bendiciones sobre la congregación por años antes de que llegara la cosecha.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had you spoken about the need for revival before the Spirit began moving?	¿Habías hablado sobre la necesidad de avivamiento antes de que el Espíritu comenzara a moverse?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	He had spoken about the blood of Jesus before fully understanding its power.	Había hablado sobre la sangre de Jesús antes de entender completamente su poder.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken about forgiveness before we needed to apply it ourselves.	Habíamos hablado sobre el perdón antes de necesitar aplicarlo nosotros mismos.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken to hundreds of people about Christ before the harvest began.	Habían hablado con cientos de personas sobre Cristo antes de que comenzara la cosecha.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	I had spoken about God provision before I had ever truly experienced it.	Había hablado sobre la provisión de Dios antes de haberla experimentado verdaderamente.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had you spoken about the mission to the congregation before the funds ran out?	¿Habías hablado sobre la misión a la congregación antes de que se acabaran los fondos?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	She had spoken about her calling before anyone had confirmed it.	Había hablado sobre su llamado antes de que alguien lo hubiera confirmado.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken about the church planting strategy before the leadership team was formed.	Habíamos hablado sobre la estrategia de plantación de iglesias antes de que se formara el equipo de liderazgo.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken about the needs of the poor before the benevolence fund was established.	Habían hablado sobre las necesidades de los pobres antes de que se estableciera el fondo de beneficencia.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	I had spoken about discipleship long before I had anyone to disciple.	Había hablado sobre el discipulado mucho antes de tener a alguien a quien discipular.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had you spoken with the leadership about the proposed changes before they were announced?	¿Habías hablado con el liderazgo sobre los cambios propuestos antes de que se anunciaran?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	He had spoken about the mercy of God before his own life reflected it.	Había hablado sobre la misericordia de Dios antes de que su propia vida la reflejara.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken about the cost of following Jesus before many gave up.	Habíamos hablado sobre el costo de seguir a Jesús antes de que muchos se rindieran.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken about the power of prayer before they saw the miracle.	Habían hablado sobre el poder de la oración antes de ver el milagro.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	I had spoken with many people about God before the breakthrough in my own walk.	Había hablado con muchas personas sobre Dios antes del avance en mi propio caminar.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had you spoken about the season of waiting before God answered your prayer?	¿Habías hablado sobre la temporada de espera antes de que Dios respondiera tu oración?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	She had spoken about the story of Esther before the women conference.	Había hablado sobre la historia de Ester antes de la conferencia de mujeres.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken about the armor of God before the spiritual battle intensified.	Habíamos hablado sobre la armadura de Dios antes de que la batalla espiritual se intensificara.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken about eternal life before the tragedy reminded everyone of its reality.	Habían hablado sobre la vida eterna antes de que la tragedia le recordara a todos su realidad.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	I had spoken at the worship service about God love before that love changed my life.	Había hablado en el culto de adoración sobre el amor de Dios antes de que ese amor cambiara mi vida.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had you spoken about the book of Revelation before the prophecy conference began?	¿Habías hablado sobre el libro de Apocalipsis antes de que comenzara la conferencia profética?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	He had spoken about the joy of the Lord before his circumstances changed.	Había hablado sobre el gozo del Señor antes de que sus circunstancias cambiaran.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken about overcoming fear with faith before the difficult news arrived.	Habíamos hablado sobre superar el miedo con la fe antes de que llegaran las malas noticias.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken the Word of God over the sick before the healing took place.	Habían hablado la Palabra de Dios sobre los enfermos antes de que tuviera lugar la sanidad.	Hablar Past Perfect
+Basic	Hablar::Present::Perfect	I have spoken about God kindness to every person who has asked me about my faith.	He hablado sobre la bondad de Dios a cada persona que me ha preguntado sobre mi fe.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	Have you spoken with the deacon about the prayer chain request?	¿Has hablado con el diácono sobre la solicitud de la cadena de oración?	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	She has spoken about her experience in missions at three conferences this year.	Ha hablado sobre su experiencia en misiones en tres conferencias este año.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	We have spoken about the core values of our ministry to every new volunteer.	Hemos hablado sobre los valores fundamentales de nuestro ministerio a cada nuevo voluntario.	Hablar Present Perfect
+Basic	Hablar::Present::Perfect	They have spoken with one voice about their commitment to the lost and the least.	Han hablado con una sola voz sobre su compromiso con los perdidos y los necesitados.	Hablar Present Perfect
+Basic	Hablar::Past::Perfect	I had spoken about the importance of prayer before the church started its prayer movement.	Había hablado sobre la importancia de la oración antes de que la iglesia comenzara su movimiento de oración.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	Had you spoken with the counselor before the decision was finalized?	¿Habías hablado con el consejero antes de que se finalizara la decisión?	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	She had spoken about the necessity of community before she truly found it.	Había hablado sobre la necesidad de la comunidad antes de encontrarla verdaderamente.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	We had spoken about the next step in ministry before God opened the door.	Habíamos hablado sobre el próximo paso en el ministerio antes de que Dios abriera la puerta.	Hablar Past Perfect
+Basic	Hablar::Past::Perfect	They had spoken about the church planting vision long before the first service was held.	Habían hablado sobre la visión de plantación de iglesias mucho antes de que se realizara el primer culto.	Hablar Past Perfect

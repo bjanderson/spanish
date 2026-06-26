@@ -1,0 +1,937 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Tener::Present::Indicative	I have a Bible.	Tengo una Biblia.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have faith?	¿Tienes fe?	Tener Present Indicative
+Basic	Tener::Present::Indicative	She has a prayer book.	Tiene un libro de oraciones.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have God's blessing.	Tenemos la bendición de Dios.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have strong faith.	Tienen una fe fuerte.	Tener Present Indicative
+Basic	Tener::Present::Indicative	He has a verse to share.	Tiene un versículo para compartir.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have your Bible today?	¿Tienes tu Biblia hoy?	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have many blessings.	Tenemos muchas bendiciones.	Tener Present Indicative
+Basic	Tener::Present::Indicative	She has great hope in God.	Tiene mucha esperanza en Dios.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have God's love in their hearts.	Tienen el amor de Dios en sus corazones.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have a devotional book.	Tengo un libro devocional.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have time to pray?	¿Tienes tiempo para orar?	Tener Present Indicative
+Basic	Tener::Present::Indicative	He has a kind heart.	Tiene un corazón bondadoso.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have the Word of God.	Tenemos la Palabra de Dios.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have hope in the Lord.	Tienen esperanza en el Señor.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have a seat at church.	Tengo un asiento en la iglesia.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have the bulletin?	¿Tienes el boletín?	Tener Present Indicative
+Basic	Tener::Present::Indicative	She has the hymnal.	Tiene el himnario.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have a Bible study group.	Tenemos un grupo de estudio bíblico.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have a new pastor.	Tienen un pastor nuevo.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have choir practice today.	Tengo ensayo del coro hoy.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have the Sunday schedule?	¿Tienes el horario del domingo?	Tener Present Indicative
+Basic	Tener::Present::Indicative	He has a small group at church.	Tiene un grupo pequeño en la iglesia.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have Sunday service at nine.	Tenemos servicio dominical a las nueve.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have a prayer meeting on Wednesday.	Tienen una reunión de oración el miércoles.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have a memory verse to learn.	Tengo un versículo para memorizar.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have the church newsletter?	¿Tienes el boletín de la iglesia?	Tener Present Indicative
+Basic	Tener::Present::Indicative	She has a gift for teaching.	Tiene un don para enseñar.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have communion this Sunday.	Tenemos comunión este domingo.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have a mission trip next month.	Tienen un viaje misionero el próximo mes.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have a passport.	Tengo un pasaporte.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have your ticket?	¿Tienes tu boleto?	Tener Present Indicative
+Basic	Tener::Present::Indicative	She has a suitcase.	Tiene una maleta.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have reservations at the hotel.	Tenemos reservaciones en el hotel.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have a map of the city.	Tienen un mapa de la ciudad.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have a travel bag.	Tengo una bolsa de viaje.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have your ID?	¿Tienes tu identificación?	Tener Present Indicative
+Basic	Tener::Present::Indicative	He has a travel guide.	Tiene una guía de viaje.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have time to visit the museum.	Tenemos tiempo para visitar el museo.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have a flight early tomorrow.	Tienen un vuelo temprano mañana.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have a reservation for dinner.	Tengo una reservación para cenar.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have the menu?	¿Tienes el menú?	Tener Present Indicative
+Basic	Tener::Present::Indicative	She has the check.	Tiene la cuenta.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have a table by the window.	Tenemos una mesa junto a la ventana.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have the best food in town.	Tienen la mejor comida del pueblo.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have a food allergy.	Tengo una alergia alimentaria.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have a vegetarian option?	¿Tienes una opción vegetariana?	Tener Present Indicative
+Basic	Tener::Present::Indicative	He has a good appetite.	Tiene buen apetito.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have enough money for dinner.	Tenemos suficiente dinero para la cena.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have excellent service.	Tienen un servicio excelente.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have fresh bread at home.	Tengo pan fresco en casa.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have milk in the fridge?	¿Tienes leche en el refrigerador?	Tener Present Indicative
+Basic	Tener::Present::Indicative	She has fruit on the table.	Tiene fruta en la mesa.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have enough rice for dinner.	Tenemos suficiente arroz para la cena.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have a garden full of vegetables.	Tienen un jardín lleno de verduras.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have sugar for the coffee.	Tengo azúcar para el café.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have eggs for breakfast?	¿Tienes huevos para el desayuno?	Tener Present Indicative
+Basic	Tener::Present::Indicative	He has a recipe for soup.	Tiene una receta de sopa.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have a lot of food for the party.	Tenemos mucha comida para la fiesta.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have fresh tortillas every morning.	Tienen tortillas frescas cada mañana.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have a comfortable house.	Tengo una casa cómoda.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have a garden?	¿Tienes un jardín?	Tener Present Indicative
+Basic	Tener::Present::Indicative	She has a clean kitchen.	Tiene una cocina limpia.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have a big table in the dining room.	Tenemos una mesa grande en el comedor.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have a swimming pool.	Tienen una piscina.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have two bedrooms.	Tengo dos habitaciones.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have a garage?	¿Tienes un garaje?	Tener Present Indicative
+Basic	Tener::Present::Indicative	He has a large living room.	Tiene una sala grande.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have a cozy fireplace.	Tenemos una chimenea acogedora.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have new furniture.	Tienen muebles nuevos.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have three children.	Tengo tres hijos.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have siblings?	¿Tienes hermanos?	Tener Present Indicative
+Basic	Tener::Present::Indicative	She has a wonderful husband.	Tiene un esposo maravilloso.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have a big family.	Tenemos una familia grande.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have grandparents who visit often.	Tienen abuelos que visitan seguido.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have a loving wife.	Tengo una esposa cariñosa.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have cousins nearby?	¿Tienes primos cerca?	Tener Present Indicative
+Basic	Tener::Present::Indicative	He has two daughters.	Tiene dos hijas.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have a family reunion this summer.	Tenemos una reunión familiar este verano.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have a baby on the way.	Tienen un bebé en camino.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have good friends at church.	Tengo buenos amigos en la iglesia.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have plans with friends tonight?	¿Tienes planes con amigos esta noche?	Tener Present Indicative
+Basic	Tener::Present::Indicative	She has a best friend from school.	Tiene una mejor amiga de la escuela.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have a close group of friends.	Tenemos un grupo de amigos cercanos.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have friends who travel with them.	Tienen amigos que viajan con ellos.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have a dog named Max.	Tengo un perro llamado Max.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have a cat?	¿Tienes un gato?	Tener Present Indicative
+Basic	Tener::Present::Indicative	She has a parrot that talks.	Tiene un loro que habla.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have two dogs and a cat.	Tenemos dos perros y un gato.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have a goldfish.	Tienen un pez dorado.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have homework to finish.	Tengo tarea que terminar.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have your pencil?	¿Tienes tu lápiz?	Tener Present Indicative
+Basic	Tener::Present::Indicative	She has a big test tomorrow.	Tiene un examen grande mañana.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have class at eight in the morning.	Tenemos clase a las ocho de la mañana.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have a scholarship for college.	Tienen una beca para la universidad.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have a doctor's appointment.	Tengo una cita con el médico.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have a headache?	¿Tienes dolor de cabeza?	Tener Present Indicative
+Basic	Tener::Present::Indicative	She has a cold this week.	Tiene un resfriado esta semana.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have good health insurance.	Tenemos un buen seguro médico.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have a nurse who visits regularly.	Tienen una enfermera que visita regularmente.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have a meeting at noon.	Tengo una reunión al mediodía.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have your report ready?	¿Tienes tu informe listo?	Tener Present Indicative
+Basic	Tener::Present::Indicative	She has a new job.	Tiene un trabajo nuevo.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have a deadline today.	Tenemos una fecha límite hoy.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have a great team.	Tienen un equipo excelente.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have a guitar.	Tengo una guitarra.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have a favorite worship song?	¿Tienes una canción de alabanza favorita?	Tener Present Indicative
+Basic	Tener::Present::Indicative	He has a beautiful voice.	Tiene una voz hermosa.	Tener Present Indicative
+Basic	Tener::Present::Indicative	We have worship practice tonight.	Tenemos práctica de alabanza esta noche.	Tener Present Indicative
+Basic	Tener::Present::Indicative	They have a band at church.	Tienen una banda en la iglesia.	Tener Present Indicative
+Basic	Tener::Present::Indicative	I have tickets to the concert.	Tengo boletos para el concierto.	Tener Present Indicative
+Basic	Tener::Present::Indicative	Do you have a piano at home?	¿Tienes un piano en casa?	Tener Present Indicative
+Basic	Tener::Present::Indicative	He has musical talent.	Tiene talento musical.	Tener Present Indicative
+Basic	Tener::Preterit::Indicative	I had patience during the trial.	Tuve paciencia durante la prueba.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have time to read the Bible?	¿Tuviste tiempo para leer la Biblia?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	She had a vision from God.	Tuvo una visión de Dios.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had a powerful worship service.	Tuvimos un servicio de alabanza poderoso.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had a moment of prayer together.	Tuvieron un momento de oración juntos.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had a dream about the sermon.	Tuve un sueño sobre el sermón.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have a chance to pray?	¿Tuviste la oportunidad de orar?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	He had an encounter with God.	Tuvo un encuentro con Dios.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had a great Bible study last night.	Tuvimos un gran estudio bíblico anoche.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had many blessings this year.	Tuvieron muchas bendiciones este año.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had the Bible in my hands.	Tuve la Biblia en mis manos.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have a good sermon today?	¿Tuviste un buen sermón hoy?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	She had faith even in difficult times.	Tuvo fe incluso en tiempos difíciles.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had communion for the first time.	Tuvimos comunión por primera vez.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had a missionary visiting last Sunday.	Tuvieron un misionero de visita el domingo pasado.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had a seat in the front row.	Tuve un asiento en la primera fila.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have the church bulletin?	¿Tuviste el boletín de la iglesia?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	He had a role in the Christmas play.	Tuvo un papel en la obra de Navidad.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had a prayer vigil last Friday.	Tuvimos una vigilia de oración el viernes pasado.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had baptism after the service.	Tuvieron un bautismo después del servicio.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had a great trip last summer.	Tuve un gran viaje el verano pasado.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have trouble at the airport?	¿Tuviste problemas en el aeropuerto?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	She had a connecting flight to catch.	Tuvo un vuelo de conexión que tomar.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had a wonderful time in the city.	Tuvimos un tiempo maravilloso en la ciudad.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had delays at the border.	Tuvieron retrasos en la frontera.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had my passport checked twice.	Tuve que presentar mi pasaporte dos veces.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have good weather on your trip?	¿Tuviste buen clima en tu viaje?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	He had a window seat on the plane.	Tuvo un asiento junto a la ventana en el avión.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had an excellent tour guide.	Tuvimos un guía turístico excelente.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had to change hotels.	Tuvieron que cambiar de hotel.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had the special last night.	Tuve el especial anoche.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have dessert?	¿Tuviste postre?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	She had a wonderful meal.	Tuvo una comida maravillosa.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had a table reservation.	Tuvimos una reservación de mesa.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had excellent food at that place.	Tuvieron comida excelente en ese lugar.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had a problem with my order.	Tuve un problema con mi pedido.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have the soup or the salad?	¿Tuviste la sopa o la ensalada?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	He had to wait an hour at the restaurant.	Tuvo que esperar una hora en el restaurante.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had a birthday dinner there.	Tuvimos una cena de cumpleaños allí.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had a discount at the restaurant.	Tuvieron un descuento en el restaurante.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had enough food for everyone.	Tuve suficiente comida para todos.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have breakfast this morning?	¿Tuviste desayuno esta mañana?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	She had homemade tamales for dinner.	Tuvo tamales caseros para cenar.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had a big meal after church.	Tuvimos una gran comida después de la iglesia.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had fresh fruit from the market.	Tuvieron fruta fresca del mercado.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had leftover soup for lunch.	Tuve sopa sobrante para el almuerzo.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have coffee this morning?	¿Tuviste café esta mañana?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	He had a snack before the meeting.	Tuvo una merienda antes de la reunión.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had a potluck at church.	Tuvimos un almuerzo compartido en la iglesia.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had enough rice for the week.	Tuvieron suficiente arroz para la semana.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had trouble with the washing machine.	Tuve problemas con la lavadora.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have a chance to clean the house?	¿Tuviste la oportunidad de limpiar la casa?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	She had a visitor at home.	Tuvo una visita en casa.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had a gathering at the house.	Tuvimos una reunión en la casa.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had a leak in the roof.	Tuvieron una gotera en el techo.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had guests over for dinner.	Tuve invitados a cenar.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have enough room for everyone?	¿Tuviste suficiente espacio para todos?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	He had to fix the car in the garage.	Tuvo que arreglar el carro en el garaje.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had a family movie night.	Tuvimos una noche de cine familiar.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had a garage sale last weekend.	Tuvieron una venta de garaje el fin de semana pasado.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had a great conversation with my father.	Tuve una gran conversación con mi padre.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have time with your family?	¿Tuviste tiempo con tu familia?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	She had a baby last year.	Tuvo un bebé el año pasado.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had a family meeting yesterday.	Tuvimos una reunión familiar ayer.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had a birthday party for their son.	Tuvieron una fiesta de cumpleaños para su hijo.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had to visit my grandmother.	Tuve que visitar a mi abuela.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have lunch with your parents?	¿Tuviste almuerzo con tus padres?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	He had a long talk with his brother.	Tuvo una larga conversación con su hermano.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had our anniversary dinner last night.	Tuvimos nuestra cena de aniversario anoche.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had twins last spring.	Tuvieron gemelos la primavera pasada.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had coffee with friends after church.	Tuve café con amigos después de la iglesia.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have fun with your friends?	¿Tuviste diversión con tus amigos?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	She had a farewell party with her friends.	Tuvo una fiesta de despedida con sus amigos.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had a great time at the park.	Tuvimos un gran tiempo en el parque.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had a reunion after many years.	Tuvieron una reunión después de muchos años.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had a dog when I was a child.	Tuve un perro cuando era niño.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have a pet growing up?	¿Tuviste una mascota de niño?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	She had to take the cat to the vet.	Tuvo que llevar al gato al veterinario.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had a rabbit for three years.	Tuvimos un conejo por tres años.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had two dogs last year.	Tuvieron dos perros el año pasado.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had a difficult exam yesterday.	Tuve un examen difícil ayer.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have homework last night?	¿Tuviste tarea anoche?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	She had to stay late at school.	Tuvo que quedarse tarde en la escuela.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had a guest speaker in class.	Tuvimos un orador invitado en clase.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had a field trip to the museum.	Tuvieron una excursión al museo.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had a scholarship for one year.	Tuve una beca por un año.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have a good teacher?	¿Tuviste un buen maestro?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	He had trouble with math last semester.	Tuvo problemas con matemáticas el semestre pasado.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had a graduation ceremony last month.	Tuvimos una ceremonia de graduación el mes pasado.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had an all-night study session.	Tuvieron una sesión de estudio toda la noche.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had a fever last week.	Tuve fiebre la semana pasada.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have to go to the doctor?	¿Tuviste que ir al médico?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	She had surgery last month.	Tuvo una cirugía el mes pasado.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had a health checkup at the clinic.	Tuvimos un chequeo de salud en la clínica.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had a difficult recovery.	Tuvieron una recuperación difícil.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had a long day at work.	Tuve un día largo en el trabajo.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have a good interview?	¿Tuviste una buena entrevista?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	She had a promotion last year.	Tuvo un ascenso el año pasado.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had a staff meeting this morning.	Tuvimos una reunión de personal esta mañana.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had a big project to finish.	Tuvieron un proyecto grande que terminar.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	I had a concert last Saturday.	Tuve un concierto el sábado pasado.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	Did you have music practice this week?	¿Tuviste práctica de música esta semana?	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	He had a solo in the church choir.	Tuvo un solo en el coro de la iglesia.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	We had worship practice before the service.	Tuvimos práctica de alabanza antes del servicio.	Tener Preterit Indicative
+Basic	Tener::Preterit::Indicative	They had a music festival at the park.	Tuvieron un festival de música en el parque.	Tener Preterit Indicative
+Basic	Tener::Imperfect::Indicative	I used to have a small Bible.	Tenía una Biblia pequeña.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have faith back then?	¿Tenías fe en ese entonces?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	She had a prayer journal for years.	Tenía un diario de oración por años.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had a church near the house.	Teníamos una iglesia cerca de la casa.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had a pastor who preached every Sunday.	Tenían un pastor que predicaba cada domingo.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have a devotion every morning.	Tenía una devoción cada mañana.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have a Bible as a child?	¿Tenías una Biblia de niño?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	He had a deep faith.	Tenía una fe profunda.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had prayer every night as a family.	Teníamos oración cada noche como familia.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had a large congregation.	Tenían una congregación grande.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have so much hope in the Lord.	Tenía mucha esperanza en el Señor.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have a church to go to?	¿Tenías una iglesia adonde ir?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	She had a gift for singing worship.	Tenía un don para cantar alabanzas.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had Bible study every Wednesday.	Teníamos estudio bíblico cada miércoles.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had missionaries who visited regularly.	Tenían misioneros que visitaban regularmente.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have a trip planned every summer.	Tenía un viaje planeado cada verano.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have your passport with you?	¿Tenías tu pasaporte contigo?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	She had a love for traveling.	Tenía un amor por viajar.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had a travel budget every year.	Teníamos un presupuesto de viaje cada año.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had plans to visit many countries.	Tenían planes para visitar muchos países.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have a suitcase packed and ready.	Tenía una maleta lista para viajar.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have a favorite place to travel?	¿Tenías un lugar favorito para viajar?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	He had a job that required travel.	Tenía un trabajo que requería viajar.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had a guide who knew the city well.	Teníamos un guía que conocía bien la ciudad.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had reservations at a nice hotel.	Tenían reservaciones en un hotel bonito.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have a favorite restaurant downtown.	Tenía un restaurante favorito en el centro.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have a place you liked to eat?	¿Tenías un lugar que te gustara comer?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	She had a table reserved every Friday.	Tenía una mesa reservada cada viernes.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had dinner at that place every Sunday.	Teníamos cena en ese lugar cada domingo.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had the best service in town.	Tenían el mejor servicio del pueblo.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have a coupon for the restaurant.	Tenía un cupón para el restaurante.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have a favorite dish there?	¿Tenías un platillo favorito ahí?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	He had to wait every time he went.	Tenía que esperar cada vez que iba.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had a regular table by the window.	Teníamos una mesa habitual junto a la ventana.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had live music on weekends.	Tenían música en vivo los fines de semana.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have food allergies as a child.	Tenía alergias alimentarias de niño.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have a favorite food?	¿Tenías una comida favorita?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	She had a garden with fresh vegetables.	Tenía un jardín con verduras frescas.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had beans and rice every day.	Teníamos frijoles y arroz cada día.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had enough food to share.	Tenían suficiente comida para compartir.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have homemade tortillas every morning.	Tenía tortillas hechas en casa cada mañana.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have plenty to eat?	¿Tenías suficiente para comer?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	He had a garden behind the house.	Tenía un jardín detrás de la casa.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had fresh fruit from the tree.	Teníamos fruta fresca del árbol.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had a big pot of soup on the stove.	Tenían una olla grande de sopa en la estufa.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have a small house near the church.	Tenía una casa pequeña cerca de la iglesia.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have a yard growing up?	¿Tenías un patio al crecer?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	She had a beautiful garden.	Tenía un jardín hermoso.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had a big house in the countryside.	Teníamos una casa grande en el campo.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had very kind neighbors.	Tenían vecinos muy amables.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have a room with a mountain view.	Tenía una habitación con vista a las montañas.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have your own room?	¿Tenías tu propio cuarto?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	He had a workshop in the garage.	Tenía un taller en el garaje.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had a hammock in the backyard.	Teníamos una hamaca en el patio trasero.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had a cozy kitchen where they cooked together.	Tenían una cocina acogedora donde cocinaban juntos.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have a large family.	Tenía una familia grande.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have brothers or sisters?	¿Tenías hermanos o hermanas?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	She had a grandmother who told Bible stories.	Tenía una abuela que contaba historias bíblicas.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had Sunday lunch together every week.	Teníamos almuerzo del domingo juntos cada semana.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had many relatives in the same town.	Tenían muchos parientes en el mismo pueblo.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have a father who prayed every morning.	Tenía un padre que oraba cada mañana.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have a close family?	¿Tenías una familia unida?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	He had a mother who loved cooking.	Tenía una madre que amaba cocinar.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had family dinners every night.	Teníamos cenas familiares cada noche.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had family traditions during the holidays.	Tenían tradiciones familiares durante los días festivos.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have many friends at school.	Tenía muchos amigos en la escuela.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have a best friend as a child?	¿Tenías un mejor amigo de niño?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	She had a circle of close friends.	Tenía un círculo de amigos cercanos.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had a group that met every week.	Teníamos un grupo que se reunía cada semana.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had friends who prayed together.	Tenían amigos que oraban juntos.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have a dog named Toby.	Tenía un perro llamado Toby.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have a pet at home?	¿Tenías una mascota en casa?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	She had a cat that slept on her bed.	Tenía un gato que dormía en su cama.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had chickens in the backyard.	Teníamos gallinas en el patio.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had a parrot that sang hymns.	Tenían un loro que cantaba himnos.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have a lot of homework every day.	Tenía mucha tarea cada día.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have a good teacher in school?	¿Tenías un buen maestro en la escuela?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	She had a hard time with spelling.	Tenía dificultad con la ortografía.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had class from eight to three.	Teníamos clase de las ocho a las tres.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had a library with many books.	Tenían una biblioteca con muchos libros.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have to study every night.	Tenía que estudiar cada noche.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have many books at home?	¿Tenías muchos libros en casa?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	He had a scholarship that helped his family.	Tenía una beca que ayudaba a su familia.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had a great principal at the school.	Teníamos un gran director en la escuela.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had a music class on Fridays.	Tenían una clase de música los viernes.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have allergies every spring.	Tenía alergias cada primavera.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have health problems as a child?	¿Tenías problemas de salud de niño?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	She had to take medicine every day.	Tenía que tomar medicina cada día.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had a family doctor nearby.	Teníamos un médico de familia cerca.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had checkups at the clinic every year.	Tenían chequeos en la clínica cada año.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have a strong immune system.	Tenía un sistema inmune fuerte.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have a good doctor?	¿Tenías un buen médico?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	He had a special diet for his health.	Tenía una dieta especial para su salud.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had good habits growing up.	Teníamos buenos hábitos al crecer.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had access to a good hospital.	Tenían acceso a un buen hospital.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have a job I loved.	Tenía un trabajo que amaba.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have a difficult boss?	¿Tenías un jefe difícil?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	She had a long commute every day.	Tenía un largo trayecto cada día.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had a small office with a great team.	Teníamos una oficina pequeña con un gran equipo.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had deadlines every Friday.	Tenían fechas límite cada viernes.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	I used to have guitar lessons every Tuesday.	Tenía clases de guitarra cada martes.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	Did you have a favorite worship song?	¿Tenías una canción de alabanza favorita?	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	He had a talent for playing the piano.	Tenía un talento para tocar el piano.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	We had a choir that practiced twice a week.	Teníamos un coro que practicaba dos veces a la semana.	Tener Imperfect Indicative
+Basic	Tener::Imperfect::Indicative	They had a worship band at the old church.	Tenían una banda de alabanza en la antigua iglesia.	Tener Imperfect Indicative
+Basic	Tener::Future::Indicative	I will have more faith after this study.	Tendré más fe después de este estudio.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have time to attend the service?	¿Tendrás tiempo para asistir al servicio?	Tener Future Indicative
+Basic	Tener::Future::Indicative	She will have a Bible for her confirmation.	Tendrá una Biblia para su confirmación.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have a special prayer meeting next week.	Tendremos una reunión de oración especial la próxima semana.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have a new church building soon.	Tendrán un nuevo edificio de iglesia pronto.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have a devotional ready for the group.	Tendré un devocional listo para el grupo.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have your Bible at the study?	¿Tendrás tu Biblia en el estudio?	Tener Future Indicative
+Basic	Tener::Future::Indicative	He will have a sermon prepared for Sunday.	Tendrá un sermón preparado para el domingo.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have many blessings this year.	Tendremos muchas bendiciones este año.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have a mission trip next spring.	Tendrán un viaje misionero la próxima primavera.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have a chance to share my testimony.	Tendré la oportunidad de compartir mi testimonio.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have communion this Sunday?	¿Tendrás comunión este domingo?	Tener Future Indicative
+Basic	Tener::Future::Indicative	She will have a leadership role at church.	Tendrá un papel de liderazgo en la iglesia.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have a baptism ceremony next month.	Tendremos una ceremonia de bautismo el próximo mes.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have a youth group starting soon.	Tendrán un grupo juvenil que comenzará pronto.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have my passport ready for the trip.	Tendré mi pasaporte listo para el viaje.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have your ticket for the flight?	¿Tendrás tu boleto para el vuelo?	Tener Future Indicative
+Basic	Tener::Future::Indicative	She will have a hotel reservation.	Tendrá una reservación de hotel.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have enough time at the airport.	Tendremos suficiente tiempo en el aeropuerto.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have a layover in Mexico City.	Tendrán una escala en Ciudad de México.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have a window seat on the plane.	Tendré un asiento junto a la ventana en el avión.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have luggage to check in?	¿Tendrás equipaje que facturar?	Tener Future Indicative
+Basic	Tener::Future::Indicative	He will have a rental car for the week.	Tendrá un carro rentado por la semana.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have a tour guide for the city.	Tendremos un guía turístico para la ciudad.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have a great trip this summer.	Tendrán un gran viaje este verano.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have a reservation at the restaurant.	Tendré una reservación en el restaurante.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have the menu ready?	¿Tendrás el menú listo?	Tener Future Indicative
+Basic	Tener::Future::Indicative	She will have a table for four.	Tendrá una mesa para cuatro personas.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have dinner after the service.	Tendremos cena después del servicio.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have a special menu for Easter.	Tendrán un menú especial para Pascua.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have fresh bread for the meal.	Tendré pan fresco para la comida.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have enough food for everyone?	¿Tendrás suficiente comida para todos?	Tener Future Indicative
+Basic	Tener::Future::Indicative	She will have tamales for the celebration.	Tendrá tamales para la celebración.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have a potluck after church.	Tendremos un almuerzo compartido después de la iglesia.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have fresh vegetables from the garden.	Tendrán verduras frescas del jardín.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have a new house by next year.	Tendré una casa nueva para el próximo año.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have room for guests?	¿Tendrás espacio para los invitados?	Tener Future Indicative
+Basic	Tener::Future::Indicative	She will have a bigger kitchen soon.	Tendrá una cocina más grande pronto.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have a garden in the backyard.	Tendremos un jardín en el patio trasero.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have a new home near the church.	Tendrán una casa nueva cerca de la iglesia.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have a family gathering at my house.	Tendré una reunión familiar en mi casa.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have enough chairs for everyone?	¿Tendrás suficientes sillas para todos?	Tener Future Indicative
+Basic	Tener::Future::Indicative	He will have a workshop in the garage.	Tendrá un taller en el garaje.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have a clean house for Christmas.	Tendremos una casa limpia para Navidad.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have a big backyard for the kids.	Tendrán un patio grande para los niños.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have more children someday.	Tendré más hijos algún día.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have a baby soon?	¿Tendrás un bebé pronto?	Tener Future Indicative
+Basic	Tener::Future::Indicative	She will have her parents visiting next week.	Tendrá a sus padres de visita la próxima semana.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have a family reunion this Christmas.	Tendremos una reunión familiar esta Navidad.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have grandchildren soon.	Tendrán nietos pronto.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have a birthday party for my son.	Tendré una fiesta de cumpleaños para mi hijo.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have time to visit your parents?	¿Tendrás tiempo para visitar a tus padres?	Tener Future Indicative
+Basic	Tener::Future::Indicative	He will have a close relationship with his children.	Tendrá una relación cercana con sus hijos.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have a holiday dinner with the whole family.	Tendremos una cena festiva con toda la familia.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have a wedding anniversary party.	Tendrán una fiesta de aniversario de boda.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have more free time to spend with friends.	Tendré más tiempo libre para pasar con amigos.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have plans with your friends?	¿Tendrás planes con tus amigos?	Tener Future Indicative
+Basic	Tener::Future::Indicative	She will have a group of friends at the event.	Tendrá un grupo de amigos en el evento.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have a reunion with old friends.	Tendremos una reunión con amigos de antes.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have a gathering for friends at church.	Tendrán una reunión para amigos en la iglesia.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have a new pet next month.	Tendré una mascota nueva el próximo mes.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have a dog or a cat?	¿Tendrás un perro o un gato?	Tener Future Indicative
+Basic	Tener::Future::Indicative	She will have a puppy by Christmas.	Tendrá un cachorro para Navidad.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have a fish tank in the living room.	Tendremos una pecera en la sala.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have two cats in the new house.	Tendrán dos gatos en la casa nueva.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have finals next week.	Tendré exámenes finales la próxima semana.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have time to study tonight?	¿Tendrás tiempo para estudiar esta noche?	Tener Future Indicative
+Basic	Tener::Future::Indicative	She will have a scholarship for university.	Tendrá una beca para la universidad.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have class every day next semester.	Tendremos clase cada día el próximo semestre.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have a graduation ceremony in May.	Tendrán una ceremonia de graduación en mayo.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have a checkup at the doctor next Monday.	Tendré un chequeo con el médico el próximo lunes.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have health insurance at the new job?	¿Tendrás seguro médico en el nuevo trabajo?	Tener Future Indicative
+Basic	Tener::Future::Indicative	She will have surgery next Thursday.	Tendrá cirugía el próximo jueves.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have a physical exam at the clinic.	Tendremos un examen físico en la clínica.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have a healthy baby in the spring.	Tendrán un bebé sano en la primavera.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have a new job by the end of the month.	Tendré un trabajo nuevo para fin de mes.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have a meeting with your boss?	¿Tendrás una reunión con tu jefe?	Tener Future Indicative
+Basic	Tener::Future::Indicative	She will have a promotion at work.	Tendrá un ascenso en el trabajo.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have a deadline at the end of the week.	Tendremos una fecha límite al final de la semana.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have a big contract to sign.	Tendrán un contrato grande que firmar.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have a guitar solo at the concert.	Tendré un solo de guitarra en el concierto.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have a part in the worship band?	¿Tendrás un papel en la banda de alabanza?	Tener Future Indicative
+Basic	Tener::Future::Indicative	She will have a singing role in the choir.	Tendrá un papel de canto en el coro.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have live worship music at the retreat.	Tendremos música de alabanza en vivo en el retiro.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have a music festival at church next year.	Tendrán un festival de música en la iglesia el próximo año.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have a Bible verse memorized by Sunday.	Tendré un versículo bíblico memorizado para el domingo.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have a devotional for the group?	¿Tendrás un devocional para el grupo?	Tener Future Indicative
+Basic	Tener::Future::Indicative	He will have a prayer partner at church.	Tendrá un compañero de oración en la iglesia.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have a special offering next Sunday.	Tendremos una ofrenda especial el próximo domingo.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have a retreat for the whole family.	Tendrán un retiro para toda la familia.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have all my documents for the trip.	Tendré todos mis documentos para el viaje.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have internet access at the hotel?	¿Tendrás acceso a internet en el hotel?	Tener Future Indicative
+Basic	Tener::Future::Indicative	She will have a connecting flight in Miami.	Tendrá un vuelo de conexión en Miami.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have a snack on the flight.	Tendremos una merienda en el vuelo.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have local guides at every stop.	Tendrán guías locales en cada parada.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have dessert after dinner.	Tendré postre después de la cena.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have the appetizer or just the main course?	¿Tendrás la entrada o solo el plato principal?	Tener Future Indicative
+Basic	Tener::Future::Indicative	He will have the same dish as last time.	Tendrá el mismo platillo que la última vez.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have coffee after the meal.	Tendremos café después de la comida.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have a family discount at the restaurant.	Tendrán un descuento familiar en el restaurante.	Tener Future Indicative
+Basic	Tener::Future::Indicative	I will have homework every night this week.	Tendré tarea cada noche esta semana.	Tener Future Indicative
+Basic	Tener::Future::Indicative	Will you have your notes ready for the exam?	¿Tendrás tus apuntes listos para el examen?	Tener Future Indicative
+Basic	Tener::Future::Indicative	She will have an internship this summer.	Tendrá una pasantía este verano.	Tener Future Indicative
+Basic	Tener::Future::Indicative	We will have more Bible classes next year.	Tendremos más clases bíblicas el próximo año.	Tener Future Indicative
+Basic	Tener::Future::Indicative	They will have a new school building soon.	Tendrán un nuevo edificio escolar pronto.	Tener Future Indicative
+Basic	Tener::Conditional	I would have more patience if I prayed more.	Tendría más paciencia si orara más.	Tener Conditional
+Basic	Tener::Conditional	Would you have time to read the Bible?	¿Tendrías tiempo para leer la Biblia?	Tener Conditional
+Basic	Tener::Conditional	She would have more peace if she trusted God.	Tendría más paz si confiara en Dios.	Tener Conditional
+Basic	Tener::Conditional	We would have more joy if we praised God daily.	Tendríamos más alegría si alabáramos a Dios a diario.	Tener Conditional
+Basic	Tener::Conditional	They would have a stronger faith with prayer.	Tendrían una fe más fuerte con la oración.	Tener Conditional
+Basic	Tener::Conditional	I would have a Bible group if there were more people.	Tendría un grupo bíblico si hubiera más personas.	Tener Conditional
+Basic	Tener::Conditional	Would you have the bulletin if you arrived on time?	¿Tendrías el boletín si llegaras a tiempo?	Tener Conditional
+Basic	Tener::Conditional	He would have a sermon ready if given more time.	Tendría un sermón listo si tuviera más tiempo.	Tener Conditional
+Basic	Tener::Conditional	We would have a bigger church if we invited more people.	Tendríamos una iglesia más grande si invitáramos a más personas.	Tener Conditional
+Basic	Tener::Conditional	They would have a new pastor if they prayed together.	Tendrían un pastor nuevo si oraran juntos.	Tener Conditional
+Basic	Tener::Conditional	I would have a passport if I planned to travel.	Tendría un pasaporte si planeara viajar.	Tener Conditional
+Basic	Tener::Conditional	Would you have a hotel reservation?	¿Tendrías una reservación de hotel?	Tener Conditional
+Basic	Tener::Conditional	She would have a suitcase packed already.	Tendría una maleta lista ya.	Tener Conditional
+Basic	Tener::Conditional	We would have more time if we left earlier.	Tendríamos más tiempo si saliéramos más temprano.	Tener Conditional
+Basic	Tener::Conditional	They would have a better trip with a guide.	Tendrían un mejor viaje con un guía.	Tener Conditional
+Basic	Tener::Conditional	I would have a reservation if the restaurant were open.	Tendría una reservación si el restaurante estuviera abierto.	Tener Conditional
+Basic	Tener::Conditional	Would you have the menu in English?	¿Tendrías el menú en inglés?	Tener Conditional
+Basic	Tener::Conditional	She would have a table ready by seven.	Tendría una mesa lista para las siete.	Tener Conditional
+Basic	Tener::Conditional	We would have enough food for the whole group.	Tendríamos suficiente comida para todo el grupo.	Tener Conditional
+Basic	Tener::Conditional	They would have better service at a nicer place.	Tendrían mejor servicio en un lugar más bonito.	Tener Conditional
+Basic	Tener::Conditional	I would have fresh bread if I woke up earlier.	Tendría pan fresco si me despertara más temprano.	Tener Conditional
+Basic	Tener::Conditional	Would you have enough fruit for the week?	¿Tendrías suficiente fruta para la semana?	Tener Conditional
+Basic	Tener::Conditional	She would have a bigger garden if she had more space.	Tendría un jardín más grande si tuviera más espacio.	Tener Conditional
+Basic	Tener::Conditional	We would have more food if we cooked together.	Tendríamos más comida si cocináramos juntos.	Tener Conditional
+Basic	Tener::Conditional	They would have fresh vegetables from a garden.	Tendrían verduras frescas de un jardín.	Tener Conditional
+Basic	Tener::Conditional	I would have a bigger house near the church.	Tendría una casa más grande cerca de la iglesia.	Tener Conditional
+Basic	Tener::Conditional	Would you have a garden if you had land?	¿Tendrías un jardín si tuvieras terreno?	Tener Conditional
+Basic	Tener::Conditional	She would have a cleaner kitchen with help.	Tendría una cocina más limpia con ayuda.	Tener Conditional
+Basic	Tener::Conditional	We would have more space for guests.	Tendríamos más espacio para los invitados.	Tener Conditional
+Basic	Tener::Conditional	They would have a pool if they saved enough money.	Tendrían una piscina si ahorraran suficiente dinero.	Tener Conditional
+Basic	Tener::Conditional	I would have more children if God allowed it.	Tendría más hijos si Dios lo permitiera.	Tener Conditional
+Basic	Tener::Conditional	Would you have a big family someday?	¿Tendrías una familia grande algún día?	Tener Conditional
+Basic	Tener::Conditional	She would have grandchildren by now.	Tendría nietos para ahora.	Tener Conditional
+Basic	Tener::Conditional	We would have a family reunion every year.	Tendríamos una reunión familiar cada año.	Tener Conditional
+Basic	Tener::Conditional	They would have more time for family if they worked less.	Tendrían más tiempo para la familia si trabajaran menos.	Tener Conditional
+Basic	Tener::Conditional	I would have more friends if I went to church more.	Tendría más amigos si fuera más a la iglesia.	Tener Conditional
+Basic	Tener::Conditional	Would you have a friend group at a new church?	¿Tendrías un grupo de amigos en una iglesia nueva?	Tener Conditional
+Basic	Tener::Conditional	She would have more friends if she joined a Bible study.	Tendría más amigos si se uniera a un estudio bíblico.	Tener Conditional
+Basic	Tener::Conditional	We would have a closer friendship with more time together.	Tendríamos una amistad más cercana con más tiempo juntos.	Tener Conditional
+Basic	Tener::Conditional	They would have stronger friendships through church.	Tendrían amistades más fuertes por medio de la iglesia.	Tener Conditional
+Basic	Tener::Conditional	I would have a dog if I had a bigger yard.	Tendría un perro si tuviera un patio más grande.	Tener Conditional
+Basic	Tener::Conditional	Would you have a cat if you were not allergic?	¿Tendrías un gato si no fueras alérgico?	Tener Conditional
+Basic	Tener::Conditional	She would have a parrot if she lived alone.	Tendría un loro si viviera sola.	Tener Conditional
+Basic	Tener::Conditional	We would have more pets if we had more space.	Tendríamos más mascotas si tuviéramos más espacio.	Tener Conditional
+Basic	Tener::Conditional	They would have a horse if they lived on a farm.	Tendrían un caballo si vivieran en una finca.	Tener Conditional
+Basic	Tener::Conditional	I would have better grades if I studied more.	Tendría mejores calificaciones si estudiara más.	Tener Conditional
+Basic	Tener::Conditional	Would you have a scholarship if you applied?	¿Tendrías una beca si aplicaras?	Tener Conditional
+Basic	Tener::Conditional	She would have an easier time in school with a tutor.	Tendría más facilidad en la escuela con un tutor.	Tener Conditional
+Basic	Tener::Conditional	We would have more time to study without distractions.	Tendríamos más tiempo para estudiar sin distracciones.	Tener Conditional
+Basic	Tener::Conditional	They would have better results with more practice.	Tendrían mejores resultados con más práctica.	Tener Conditional
+Basic	Tener::Conditional	I would have a healthier life with more exercise.	Tendría una vida más sana con más ejercicio.	Tener Conditional
+Basic	Tener::Conditional	Would you have fewer headaches if you slept more?	¿Tendrías menos dolores de cabeza si durmieras más?	Tener Conditional
+Basic	Tener::Conditional	She would have more energy with a better diet.	Tendría más energía con una mejor dieta.	Tener Conditional
+Basic	Tener::Conditional	We would have better health if we ate less sugar.	Tendríamos mejor salud si comiéramos menos azúcar.	Tener Conditional
+Basic	Tener::Conditional	They would have a faster recovery with rest.	Tendrían una recuperación más rápida con descanso.	Tener Conditional
+Basic	Tener::Conditional	I would have a better job with more experience.	Tendría un mejor trabajo con más experiencia.	Tener Conditional
+Basic	Tener::Conditional	Would you have a raise if you worked harder?	¿Tendrías un aumento si trabajaras más?	Tener Conditional
+Basic	Tener::Conditional	She would have a promotion with more effort.	Tendría un ascenso con más esfuerzo.	Tener Conditional
+Basic	Tener::Conditional	We would have fewer problems if we communicated better.	Tendríamos menos problemas si nos comunicáramos mejor.	Tener Conditional
+Basic	Tener::Conditional	They would have a better team with more training.	Tendrían un mejor equipo con más capacitación.	Tener Conditional
+Basic	Tener::Conditional	I would have a guitar if I could play.	Tendría una guitarra si supiera tocar.	Tener Conditional
+Basic	Tener::Conditional	Would you have a favorite worship song?	¿Tendrías una canción de alabanza favorita?	Tener Conditional
+Basic	Tener::Conditional	She would have a solo in the choir if she auditioned.	Tendría un solo en el coro si audicionara.	Tener Conditional
+Basic	Tener::Conditional	We would have better music with more practice.	Tendríamos mejor música con más práctica.	Tener Conditional
+Basic	Tener::Conditional	They would have a band if they had instruments.	Tendrían una banda si tuvieran instrumentos.	Tener Conditional
+Basic	Tener::Conditional	I would have tickets to the concert if they were not sold out.	Tendría boletos para el concierto si no estuvieran agotados.	Tener Conditional
+Basic	Tener::Conditional	Would you have a piano if you had more room?	¿Tendrías un piano si tuvieras más espacio?	Tener Conditional
+Basic	Tener::Conditional	He would have musical talent if he practiced.	Tendría talento musical si practicara.	Tener Conditional
+Basic	Tener::Conditional	We would have a worship team if more people volunteered.	Tendríamos un equipo de alabanza si más personas se ofrecieran.	Tener Conditional
+Basic	Tener::Conditional	They would have a concert at church every month.	Tendrían un concierto en la iglesia cada mes.	Tener Conditional
+Basic	Tener::Conditional	I would have more energy if I slept eight hours.	Tendría más energía si durmiera ocho horas.	Tener Conditional
+Basic	Tener::Conditional	Would you have a car if you saved enough?	¿Tendrías un carro si ahorraras suficiente?	Tener Conditional
+Basic	Tener::Conditional	She would have a garden apartment if she moved.	Tendría un apartamento con jardín si se mudara.	Tener Conditional
+Basic	Tener::Conditional	We would have more visitors if the church were closer.	Tendríamos más visitantes si la iglesia estuviera más cerca.	Tener Conditional
+Basic	Tener::Conditional	They would have a happier life if they trusted God more.	Tendrían una vida más feliz si confiaran más en Dios.	Tener Conditional
+Basic	Tener::Conditional	I would have more Scripture memorized if I tried.	Tendría más Escrituras memorizadas si lo intentara.	Tener Conditional
+Basic	Tener::Conditional	Would you have more peace if you prayed each morning?	¿Tendrías más paz si oraras cada mañana?	Tener Conditional
+Basic	Tener::Conditional	He would have a stronger prayer life with accountability.	Tendría una vida de oración más fuerte con rendición de cuentas.	Tener Conditional
+Basic	Tener::Conditional	We would have a full church if we invited our neighbors.	Tendríamos una iglesia llena si invitáramos a nuestros vecinos.	Tener Conditional
+Basic	Tener::Conditional	They would have more missionaries if the church gave more.	Tendrían más misioneros si la iglesia diera más.	Tener Conditional
+Basic	Tener::Conditional	I would have a better diet if I planned my meals.	Tendría una mejor dieta si planeara mis comidas.	Tener Conditional
+Basic	Tener::Conditional	Would you have more energy without so much coffee?	¿Tendrías más energía sin tanto café?	Tener Conditional
+Basic	Tener::Conditional	She would have her health back with proper rest.	Tendría su salud de vuelta con el descanso adecuado.	Tener Conditional
+Basic	Tener::Conditional	We would have a healthier household with better habits.	Tendríamos un hogar más sano con mejores hábitos.	Tener Conditional
+Basic	Tener::Conditional	They would have fewer hospital visits with a good diet.	Tendrían menos visitas al hospital con una buena dieta.	Tener Conditional
+Basic	Tener::Conditional	I would have visited my family if I had a car.	Tendría que visitar a mi familia si tuviera un carro.	Tener Conditional
+Basic	Tener::Conditional	Would you have a pet if you did not travel so much?	¿Tendrías una mascota si no viajaras tanto?	Tener Conditional
+Basic	Tener::Conditional	She would have her homework done if she started earlier.	Tendría su tarea hecha si empezara más temprano.	Tener Conditional
+Basic	Tener::Conditional	We would have more savings if we budgeted better.	Tendríamos más ahorros si presupuestáramos mejor.	Tener Conditional
+Basic	Tener::Conditional	They would have a new car if they saved for a year.	Tendrían un carro nuevo si ahorraran por un año.	Tener Conditional
+Basic	Tener::Conditional	I would have a bigger office with more clients.	Tendría una oficina más grande con más clientes.	Tener Conditional
+Basic	Tener::Conditional	Would you have a second job if you needed more money?	¿Tendrías un segundo trabajo si necesitaras más dinero?	Tener Conditional
+Basic	Tener::Conditional	He would have a partner in ministry if he asked.	Tendría un compañero en el ministerio si pidiera.	Tener Conditional
+Basic	Tener::Conditional	We would have a recording studio if we had funds.	Tendríamos un estudio de grabación si tuviéramos fondos.	Tener Conditional
+Basic	Tener::Conditional	They would have more instruments if the church donated.	Tendrían más instrumentos si la iglesia donara.	Tener Conditional
+Basic	Tener::Conditional	I would have a quiet time every day if I woke up earlier.	Tendría un tiempo tranquilo cada día si me despertara más temprano.	Tener Conditional
+Basic	Tener::Conditional	Would you have a Bible verse for every situation?	¿Tendrías un versículo bíblico para cada situación?	Tener Conditional
+Basic	Tener::Conditional	She would have a prayer journal if she were more consistent.	Tendría un diario de oración si fuera más constante.	Tener Conditional
+Basic	Tener::Conditional	We would have more students if the class were free.	Tendríamos más estudiantes si la clase fuera gratuita.	Tener Conditional
+Basic	Tener::Conditional	They would have a better relationship if they talked more.	Tendrían una mejor relación si hablaran más.	Tener Conditional
+Basic	Tener::Present::Subjunctive	I hope you have faith.	Espero que tengas fe.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is important that he have his Bible.	Es importante que tenga su Biblia.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	God wants us to have peace.	Dios quiere que tengamos paz.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I pray that they have hope.	Oro para que tengan esperanza.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is good that you have your Bible.	Es bueno que tengas tu Biblia.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	The pastor wants us to have devotionals.	El pastor quiere que tengamos devocionales.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope she has a prayer group.	Espero que tenga un grupo de oración.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	God desires that we have joy.	Dios desea que tengamos alegría.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	May you have strength in this trial.	Que tengas fortaleza en esta prueba.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I am glad that he has faith.	Me alegra que tenga fe.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is necessary that we have more worship.	Es necesario que tengamos más adoración.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	She wants him to have the hymnal.	Ella quiere que él tenga el himnario.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	God wills that we have peace.	La voluntad de Dios es que tengamos paz.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I pray that you have wisdom from above.	Oro para que tengas sabiduría de lo alto.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It matters that we have love for one another.	Importa que tengamos amor el uno por el otro.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	The church needs us to have faith.	La iglesia necesita que tengamos fe.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is possible that he has a gift for preaching.	Es posible que tenga un don para predicar.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I do not think they have the Bible in class.	No creo que tengan la Biblia en clase.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope we have a good Bible study.	Ojalá que tengamos un buen estudio bíblico.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	So that you have hope, read the Word.	Para que tengas esperanza, lee la Palabra.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope you have your passport ready.	Espero que tengas tu pasaporte listo.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is important that she have her ticket on time.	Es importante que tenga su boleto a tiempo.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I need you to have your luggage ready.	Necesito que tengas tu equipaje listo.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	So that we have time, we must leave early.	Para que tengamos tiempo, debemos salir temprano.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope they have a room available.	Ojalá que tengan una habitación disponible.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is necessary that you have your visa.	Es necesario que tengas tu visa.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I want us to have a guide for the city.	Quiero que tengamos un guía para la ciudad.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope he has his itinerary.	Espero que tenga su itinerario.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is good that we have reservations.	Es bueno que tengamos reservaciones.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	So that they have access, they need their documents.	Para que tengan acceso, necesitan sus documentos.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope you are hungry.	Espero que tengas hambre.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I need you to have the bill ready.	Necesito que tengas la cuenta lista.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	So that we have a good table, we should reserve.	Para que tengamos buena mesa, hay que reservar.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope they have the special today.	Ojalá que tengan el especial hoy.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is possible that he has a gluten-free option.	Es posible que tenga una opción sin gluten.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I want us to have enough food for everyone.	Quiero que tengamos suficiente comida para todos.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is good that we have time for dinner.	Es bueno que tengamos tiempo para cenar.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	So that they have something vegetarian, they should ask.	Para que tengan algo vegetariano, deben preguntar.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope you have enough sugar.	Espero que tengas suficiente azúcar.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is important that she have fresh milk.	Es importante que tenga leche fresca.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I need you to have the ingredients ready.	Necesito que tengas los ingredientes listos.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	So that we have something tasty, we must cook well.	Para que tengamos algo rico, debemos cocinar bien.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope they have fresh fruit at the market.	Ojalá que tengan fruta fresca en el mercado.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is good that you have bread for breakfast.	Es bueno que tengas pan para el desayuno.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I want us to have a good dinner tonight.	Quiero que tengamos una buena cena esta noche.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope he has rice for the meal.	Espero que tenga arroz para la comida.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope you have space at home.	Espero que tengas espacio en casa.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is important that she have her own room.	Es importante que tenga su propio cuarto.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	So that they have comfort, we need to buy furniture.	Para que tengan comodidad, debemos comprar muebles.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope she has a garden in the new house.	Ojalá que tenga un jardín en la casa nueva.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is good that we have hot water.	Es bueno que tengamos agua caliente.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I want you to have a comfortable house.	Quiero que tengas una casa cómoda.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope she has everything needed at home.	Espero que tenga todo lo necesario en casa.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope you have time for your family.	Espero que tengas tiempo para tu familia.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is important that she have patience with her children.	Es importante que tenga paciencia con sus hijos.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	God wants us to have united families.	Dios quiere que tengamos familias unidas.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I pray that they have a healthy baby.	Oro para que tengan un bebé sano.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is good that you have siblings who support you.	Es bueno que tengas hermanos que te apoyen.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I want us to have a family dinner soon.	Quiero que tengamos una cena familiar pronto.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope she has time with her grandparents.	Espero que tenga tiempo con sus abuelos.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is necessary that they have a strong relationship.	Es necesario que tengan una relación fuerte.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope you have good friends at church.	Espero que tengas buenos amigos en la iglesia.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is important that she have friends who support her.	Es importante que tenga amigos que la apoyen.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	So that we have community, we must be friends.	Para que tengamos comunidad, debemos ser amigos.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope they have friends in their new city.	Ojalá que tengan amigos en su nueva ciudad.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is good that you have a best friend.	Es bueno que tengas un mejor amigo.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope you have a pet that makes you happy.	Espero que tengas una mascota que te alegre.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is important that she have enough food for the dog.	Es importante que tenga suficiente comida para el perro.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	So that we have a cat, we must have space.	Para que tengamos un gato, debemos tener espacio.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope they have a friendly dog.	Ojalá que tengan un perro amigable.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is good that she has a trusted vet.	Es bueno que tenga un veterinario de confianza.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope you have your books for class.	Espero que tengas tus libros para clase.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is important that she have her materials ready.	Es importante que tenga sus materiales listos.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	So that we have good results, we need to study.	Para que tengamos buenos resultados, hay que estudiar.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope they have a good teacher this year.	Ojalá que tengan un buen maestro este año.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is necessary that he have a scholarship to continue.	Es necesario que tenga una beca para continuar.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I want us to have access to the library.	Quiero que tengamos acceso a la biblioteca.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope she has time to do the homework.	Espero que tenga tiempo para hacer la tarea.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is good that you have all your notes organized.	Es bueno que tengas todas tus notas organizadas.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope you have good health.	Espero que tengas buena salud.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is important that she have her medicine on time.	Es importante que tenga su medicina a tiempo.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	So that we have good health, we must rest.	Para que tengamos salud, debemos descansar.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope they have a trusted doctor.	Ojalá que tengan un médico de confianza.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is necessary that he have a doctor appointment.	Es necesario que tenga una cita con el médico.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope you have a good job.	Espero que tengas un buen trabajo.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is important that she have experience for that position.	Es importante que tenga experiencia para ese puesto.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	So that we have success, we must work together.	Para que tengamos éxito, debemos trabajar juntos.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope they have more staff soon.	Ojalá que tengan más personal pronto.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is necessary that he have a report ready.	Es necesario que tenga un informe listo.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope you have a guitar for the worship service.	Espero que tengas una guitarra para el culto.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is important that she have her instrument tuned.	Es importante que tenga su instrumento afinado.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	So that we have good music, we must practice.	Para que tengamos buena música, hay que practicar.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope they have a piano in the new church.	Ojalá que tengan un piano en la iglesia nueva.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is good that he has a talent for music.	Es bueno que tenga talento para la música.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I want us to have live worship this Sunday.	Quiero que tengamos alabanza en vivo este domingo.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I hope she has a song prepared for the service.	Espero que tenga una canción preparada para el culto.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is necessary that they have a worship band.	Es necesario que tengan una banda de alabanza.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	May they have peace during this difficult time.	Que tengan paz durante este tiempo difícil.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	So that he has success, he must prepare well.	Para que tenga éxito, debe prepararse bien.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I do not think we have enough time.	No creo que tengamos suficiente tiempo.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	It is possible that she has natural talent.	Es posible que tenga talento natural.	Tener Present Subjunctive
+Basic	Tener::Present::Subjunctive	I doubt they have sufficient funds for the project.	Dudo que tengan fondos suficientes para el proyecto.	Tener Present Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If I had more faith, I would pray more.	Si tuviera más fe, oraría más.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	I wished you had your Bible with you.	Esperaba que tuvieras tu Biblia contigo.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If he had more time, he would read more Scripture.	Si tuviera más tiempo, leería más la Escritura.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	God wanted us to have peace in every situation.	Dios quería que tuviéramos paz en toda situación.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If they had more hope, they would not worry.	Si tuvieran más esperanza, no se preocuparían.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If only I had the patience of Job.	Ojalá tuviera la paciencia de Job.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	The pastor wanted you to have the bulletin.	El pastor quería que tuvieras el boletín.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If she had a prayer journal, she would grow more.	Si tuviera un diario de oración, crecería más.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	We prayed that we would have wisdom.	Oramos para que tuviéramos sabiduría.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If they had a larger church, more people would come.	Si tuvieran una iglesia más grande, vendrían más personas.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	I wished I had more courage to share my faith.	Ojalá tuviera más valentía para compartir mi fe.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	The church wanted us to have a mission trip.	La iglesia quería que tuviéramos un viaje misionero.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If he had the hymnal, he could sing along.	Si tuviera el himnario, podría cantar junto.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	She prayed that her children would have faith.	Ella oró para que sus hijos tuvieran fe.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If only we had more time for prayer.	Ojalá tuviéramos más tiempo para la oración.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If I had a passport, I would travel to serve.	Si tuviera un pasaporte, viajaría para servir.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	I needed you to have all your travel documents.	Necesitaba que tuvieras todos tus documentos de viaje.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If she had her ticket, she could board the plane.	Si tuviera su boleto, podría abordar el avión.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	We hoped we would have good seats on the flight.	Esperábamos que tuviéramos buenos asientos en el vuelo.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If they had reservations, we would not have to wait.	Si tuvieran reservaciones, no tendríamos que esperar.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	I wished I had more money for the trip.	Ojalá tuviera más dinero para el viaje.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	The agency wanted you to have your itinerary ready.	La agencia quería que tuvieras tu itinerario listo.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If he had a guide, he would not get lost.	Si tuviera un guía, no se perdería.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	We prayed that we would have a safe journey.	Oramos para que tuviéramos un viaje seguro.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If they had a map, they could find their way.	Si tuvieran un mapa, podrían encontrar el camino.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If I had a reservation, I would not have to wait.	Si tuviera una reservación, no tendría que esperar.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	The waiter wanted you to have the menu in advance.	El mesero quería que tuvieras el menú de antemano.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If she had the check, she could pay and leave.	Si tuviera la cuenta, podría pagar y salir.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	We wanted us to have a table by the window.	Queríamos que tuviéramos una mesa junto a la ventana.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If they had better service, we would return.	Si tuvieran mejor servicio, volveríamos.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If I had fresh bread, I would make sandwiches.	Si tuviera pan fresco, haría sándwiches.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	Mom wanted you to have enough fruit.	Mamá quería que tuvieras suficiente fruta.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If she had milk, she could make the recipe.	Si tuviera leche, podría hacer la receta.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	We hoped we would have enough food for the potluck.	Esperábamos que tuviéramos suficiente comida para el almuerzo compartido.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If they had more vegetables, they could cook a stew.	Si tuvieran más verduras, podrían cocinar un guiso.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If I had a bigger house, I would host Bible study.	Si tuviera una casa más grande, organizaría el estudio bíblico.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	I needed you to have your own room.	Necesitaba que tuvieras tu propio cuarto.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If she had more space, she would have a garden.	Si tuviera más espacio, tendría un jardín.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	We wished we would have a bigger yard for the kids.	Ojalá tuviéramos un patio más grande para los niños.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If they had a pool, everyone would come over.	Si tuvieran una piscina, todos vendrían.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If I had more children, the house would be full of joy.	Si tuviera más hijos, la casa estaría llena de alegría.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	I wanted you to have more time with your family.	Quería que tuvieras más tiempo con tu familia.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If she had her parents nearby, she would feel better.	Si tuviera a sus padres cerca, se sentiría mejor.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	We prayed that we would have a peaceful home.	Oramos para que tuviéramos un hogar en paz.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If they had more family nearby, they would not be lonely.	Si tuvieran más familia cerca, no estarían solos.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If I had a close friend here, I would feel more at home.	Si tuviera un amigo cercano aquí, me sentiría más en casa.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	I wanted you to have a friend at the new church.	Quería que tuvieras un amigo en la iglesia nueva.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If she had a support group, she would not struggle alone.	Si tuviera un grupo de apoyo, no lucharía sola.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	We hoped we would have more visitors at Bible study.	Esperábamos que tuviéramos más visitantes en el estudio bíblico.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If they had closer friendships, they would grow in faith.	Si tuvieran amistades más cercanas, crecerían en la fe.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If I had a dog, I would take it to the park.	Si tuviera un perro, lo llevaría al parque.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	I wished you had a bigger yard for the animals.	Ojalá tuvieras un patio más grande para los animales.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If she had a cat, the house would feel warmer.	Si tuviera un gato, la casa se sentiría más acogedora.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	We hoped we would have room for the new puppy.	Esperábamos que tuviéramos espacio para el cachorro nuevo.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If they had a farm, they would have many animals.	Si tuvieran una finca, tendrían muchos animales.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If I had better study habits, I would pass every test.	Si tuviera mejores hábitos de estudio, pasaría cada examen.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	The teacher wanted you to have your homework done.	El maestro quería que tuvieras tu tarea hecha.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If she had the textbook, she could study tonight.	Si tuviera el libro de texto, podría estudiar esta noche.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	We wanted us to have enough supplies for the project.	Queríamos que tuviéramos suficientes materiales para el proyecto.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If they had a scholarship, they could continue studying.	Si tuvieran una beca, podrían seguir estudiando.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If I had better health, I could serve more at church.	Si tuviera mejor salud, podría servir más en la iglesia.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	The doctor wanted you to have more rest.	El médico quería que tuvieras más descanso.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If she had insurance, she could see a specialist.	Si tuviera seguro médico, podría ver a un especialista.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	We prayed that we would have a full recovery.	Oramos para que tuviéramos una recuperación completa.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If they had a closer clinic, it would be easier.	Si tuvieran una clínica más cercana, sería más fácil.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If I had a better job, I would give more to the church.	Si tuviera un mejor trabajo, daría más a la iglesia.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	The company wanted you to have a contract ready.	La empresa quería que tuvieras un contrato listo.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If she had a promotion, the family would be more comfortable.	Si tuviera un ascenso, la familia estaría más cómoda.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	We needed us to have more time to meet the deadline.	Necesitábamos que tuviéramos más tiempo para cumplir la fecha límite.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If they had a bigger team, they would finish sooner.	Si tuvieran un equipo más grande, terminarían antes.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If I had a guitar, I would play at the worship service.	Si tuviera una guitarra, tocaría en el culto.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	The director wanted you to have your music prepared.	El director quería que tuvieras tu música preparada.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If she had a better voice, she would join the choir.	Si tuviera una mejor voz, se uniría al coro.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	We hoped we would have a piano for the new building.	Esperábamos que tuviéramos un piano para el nuevo edificio.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If they had more instruments, the band would sound fuller.	Si tuvieran más instrumentos, la banda sonaría más completa.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If only I had the wisdom of Solomon.	Ojalá tuviera la sabiduría de Salomón.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	I wished you had more joy in the Lord.	Ojalá tuvieras más alegría en el Señor.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If she had the strength of David, she would not fear.	Si tuviera la fortaleza de David, no tendría miedo.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	We prayed that we would have unity in the church.	Oramos para que tuviéramos unidad en la iglesia.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If they had more volunteers, the ministry would grow.	Si tuvieran más voluntarios, el ministerio crecería.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If I had better cooking skills, I would make the meal.	Si tuviera mejores habilidades culinarias, prepararía la comida.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	She wished she had enough rice for the whole family.	Ojalá tuviera suficiente arroz para toda la familia.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If he had a bigger refrigerator, he could buy more.	Si tuviera un refrigerador más grande, podría comprar más.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	We hoped we would have fruit from the garden.	Esperábamos que tuviéramos fruta del jardín.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If they had fresh ingredients, the food would taste better.	Si tuvieran ingredientes frescos, la comida sabría mejor.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If I had a spare room, I would host a missionary.	Si tuviera un cuarto libre, hospedaría a un misionero.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	I wanted you to have a key to the house.	Quería que tuvieras una llave de la casa.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If she had a helper, she could clean the house faster.	Si tuviera ayuda, podría limpiar la casa más rápido.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	We needed us to have enough chairs for everyone.	Necesitábamos que tuviéramos suficientes sillas para todos.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If they had a bigger living room, church could meet there.	Si tuvieran una sala más grande, la iglesia podría reunirse ahí.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If I had more patience, I would be a better parent.	Si tuviera más paciencia, sería un mejor padre.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	I hoped you had enough time to visit your grandparents.	Esperaba que tuvieras suficiente tiempo para visitar a tus abuelos.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If he had a bigger family, he would never be alone.	Si tuviera una familia más grande, nunca estaría solo.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	We prayed that we would have unity at the family gathering.	Oramos para que tuviéramos unidad en la reunión familiar.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If they had more time, they would visit more often.	Si tuvieran más tiempo, visitarían más seguido.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If I had studied more, I would have better grades.	Si tuviera mejores notas de estudio, tendría calificaciones mejores.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	The teacher wished the students had their pencils.	El maestro ojalá que los alumnos tuvieran sus lápices.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If she had a tutor, she would pass the course.	Si tuviera un tutor, pasaría el curso.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	We needed us to have all the materials before class.	Necesitábamos que tuviéramos todos los materiales antes de clase.	Tener Imperfect Subjunctive
+Basic	Tener::Imperfect::Subjunctive	If they had access to the library, they could research more.	Si tuvieran acceso a la biblioteca, podrían investigar más.	Tener Imperfect Subjunctive
+Basic	Tener::Present::Perfect	I have had a lot of faith this year.	He tenido mucha fe este año.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had time to read the Bible?	¿Has tenido tiempo para leer la Biblia?	Tener Present Perfect
+Basic	Tener::Present::Perfect	She has had a difficult week.	Ha tenido una semana difícil.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had many blessings this month.	Hemos tenido muchas bendiciones este mes.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had a wonderful pastor for years.	Han tenido un pastor maravilloso por años.	Tener Present Perfect
+Basic	Tener::Present::Perfect	I have had the opportunity to share my testimony.	He tenido la oportunidad de compartir mi testimonio.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had a chance to pray today?	¿Has tenido la oportunidad de orar hoy?	Tener Present Perfect
+Basic	Tener::Present::Perfect	He has had a strong faith his whole life.	Ha tenido una fe fuerte toda su vida.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had Bible study every week this year.	Hemos tenido estudio bíblico cada semana este año.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had many answered prayers.	Han tenido muchas oraciones respondidas.	Tener Present Perfect
+Basic	Tener::Present::Perfect	I have had peace in my heart since I trusted God.	He tenido paz en mi corazón desde que confié en Dios.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had a devotional this morning?	¿Has tenido un devocional esta mañana?	Tener Present Perfect
+Basic	Tener::Present::Perfect	She has had a gift for leading worship.	Ha tenido un don para dirigir la alabanza.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had communion every first Sunday.	Hemos tenido comunión cada primer domingo.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had a missionary living with them.	Han tenido a un misionero viviendo con ellos.	Tener Present Perfect
+Basic	Tener::Present::Perfect	I have had a great trip this summer.	He tenido un gran viaje este verano.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had your passport for long?	¿Has tenido tu pasaporte por mucho tiempo?	Tener Present Perfect
+Basic	Tener::Present::Perfect	She has had three international flights this year.	Ha tenido tres vuelos internacionales este año.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had good weather on all our trips.	Hemos tenido buen clima en todos nuestros viajes.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had delays every time they fly.	Han tenido retrasos cada vez que vuelan.	Tener Present Perfect
+Basic	Tener::Present::Perfect	I have had a reservation at that restaurant twice.	He tenido una reservación en ese restaurante dos veces.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had the chance to try the new menu?	¿Has tenido la oportunidad de probar el nuevo menú?	Tener Present Perfect
+Basic	Tener::Present::Perfect	She has had the same table every time.	Ha tenido la misma mesa cada vez.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had excellent service there.	Hemos tenido un servicio excelente allí.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had a potluck at church every month.	Han tenido un almuerzo compartido en la iglesia cada mes.	Tener Present Perfect
+Basic	Tener::Present::Perfect	I have had fresh bread every morning this week.	He tenido pan fresco cada mañana esta semana.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had breakfast yet?	¿Has tenido desayuno ya?	Tener Present Perfect
+Basic	Tener::Present::Perfect	She has had a vegetable garden for two years.	Ha tenido un jardín de verduras por dos años.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had enough food for every gathering.	Hemos tenido suficiente comida para cada reunión.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had fresh tortillas from the market.	Han tenido tortillas frescas del mercado.	Tener Present Perfect
+Basic	Tener::Present::Perfect	I have had the same house for ten years.	He tenido la misma casa por diez años.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had any problems with the roof?	¿Has tenido algún problema con el techo?	Tener Present Perfect
+Basic	Tener::Present::Perfect	She has had visitors every weekend.	Ha tenido visitas cada fin de semana.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had a full house this holiday season.	Hemos tenido la casa llena esta temporada navideña.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had the same neighbors for years.	Han tenido los mismos vecinos por años.	Tener Present Perfect
+Basic	Tener::Present::Perfect	I have had three children who all love God.	He tenido tres hijos que todos aman a Dios.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had a chance to visit your parents?	¿Has tenido la oportunidad de visitar a tus padres?	Tener Present Perfect
+Basic	Tener::Present::Perfect	She has had a loving marriage for twenty years.	Ha tenido un matrimonio amoroso por veinte años.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had family reunions every Christmas.	Hemos tenido reuniones familiares cada Navidad.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had grandchildren since last year.	Han tenido nietos desde el año pasado.	Tener Present Perfect
+Basic	Tener::Present::Perfect	I have had good friends at this church for years.	He tenido buenos amigos en esta iglesia por años.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had time to see your friends lately?	¿Has tenido tiempo para ver a tus amigos últimamente?	Tener Present Perfect
+Basic	Tener::Present::Perfect	She has had a best friend since childhood.	Ha tenido una mejor amiga desde la infancia.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had the same circle of friends for years.	Hemos tenido el mismo círculo de amigos por años.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had each other through every difficulty.	Han tenido el uno al otro en cada dificultad.	Tener Present Perfect
+Basic	Tener::Present::Perfect	I have had a dog for five years.	He tenido un perro por cinco años.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had a pet before?	¿Has tenido una mascota antes?	Tener Present Perfect
+Basic	Tener::Present::Perfect	She has had the same cat since it was a kitten.	Ha tenido el mismo gato desde que era un gatito.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had chickens in the yard for years.	Hemos tenido gallinas en el patio por años.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had a bird that learned to talk.	Han tenido un pájaro que aprendió a hablar.	Tener Present Perfect
+Basic	Tener::Present::Perfect	I have had a lot of homework this semester.	He tenido mucha tarea este semestre.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had a good experience at this school?	¿Has tenido una buena experiencia en esta escuela?	Tener Present Perfect
+Basic	Tener::Present::Perfect	She has had the same teacher for two years.	Ha tenido al mismo maestro por dos años.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had challenging classes this year.	Hemos tenido clases difíciles este año.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had a scholarship since freshman year.	Han tenido una beca desde el primer año.	Tener Present Perfect
+Basic	Tener::Present::Perfect	I have had a headache all day.	He tenido dolor de cabeza todo el día.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had any health issues this year?	¿Has tenido algún problema de salud este año?	Tener Present Perfect
+Basic	Tener::Present::Perfect	She has had the same doctor for ten years.	Ha tenido al mismo médico por diez años.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had good health as a family.	Hemos tenido buena salud como familia.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had regular checkups at the clinic.	Han tenido chequeos regulares en la clínica.	Tener Present Perfect
+Basic	Tener::Present::Perfect	I have had the same job for eight years.	He tenido el mismo trabajo por ocho años.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had a performance review this year?	¿Has tenido una evaluación de desempeño este año?	Tener Present Perfect
+Basic	Tener::Present::Perfect	She has had two promotions at work.	Ha tenido dos ascensos en el trabajo.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had a great team this year.	Hemos tenido un gran equipo este año.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had a big project all month.	Han tenido un proyecto grande todo el mes.	Tener Present Perfect
+Basic	Tener::Present::Perfect	I have had a guitar since I was twelve.	He tenido una guitarra desde que tenía doce años.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had music lessons before?	¿Has tenido clases de música antes?	Tener Present Perfect
+Basic	Tener::Present::Perfect	She has had a solo in the choir twice.	Ha tenido un solo en el coro dos veces.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had live music at every service this month.	Hemos tenido música en vivo en cada culto este mes.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had a worship team since the church began.	Han tenido un equipo de alabanza desde que la iglesia comenzó.	Tener Present Perfect
+Basic	Tener::Present::Perfect	I have had the joy of the Lord as my strength.	He tenido la alegría del Señor como mi fortaleza.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had a moment of peace today?	¿Has tenido un momento de paz hoy?	Tener Present Perfect
+Basic	Tener::Present::Perfect	He has had a calling to ministry for many years.	Ha tenido un llamado al ministerio por muchos años.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had the protection of God through every trial.	Hemos tenido la protección de Dios en cada prueba.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had so much growth in their faith this year.	Han tenido tanto crecimiento en su fe este año.	Tener Present Perfect
+Basic	Tener::Present::Perfect	I have had a peaceful morning in God s presence.	He tenido una mañana tranquila en la presencia de Dios.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had a good week at work?	¿Has tenido una buena semana en el trabajo?	Tener Present Perfect
+Basic	Tener::Present::Perfect	She has had the same neighbors for years.	Ha tenido los mismos vecinos por años.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had so much to be grateful for.	Hemos tenido tanto por lo que ser agradecidos.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had a lot of rain this month.	Han tenido mucha lluvia este mes.	Tener Present Perfect
+Basic	Tener::Present::Perfect	I have had a recurring Bible verse on my heart.	He tenido un versículo bíblico recurrente en mi corazón.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had enough water today?	¿Has tenido suficiente agua hoy?	Tener Present Perfect
+Basic	Tener::Present::Perfect	He has had the blessing of a loving family.	Ha tenido la bendición de una familia amorosa.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had wonderful worship every Sunday.	Hemos tenido alabanza maravillosa cada domingo.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had guests from four countries at church.	Han tenido invitados de cuatro países en la iglesia.	Tener Present Perfect
+Basic	Tener::Present::Perfect	I have had the same prayer partner for three years.	He tenido el mismo compañero de oración por tres años.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had any news from your family abroad?	¿Has tenido noticias de tu familia en el extranjero?	Tener Present Perfect
+Basic	Tener::Present::Perfect	She has had a fruitful ministry this year.	Ha tenido un ministerio fructífero este año.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had a strong community at this church.	Hemos tenido una comunidad fuerte en esta iglesia.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had many new members join this year.	Han tenido muchos miembros nuevos que se unieron este año.	Tener Present Perfect
+Basic	Tener::Present::Perfect	I have had the privilege of serving in the worship team.	He tenido el privilegio de servir en el equipo de alabanza.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had your instrument repaired?	¿Has tenido tu instrumento reparado?	Tener Present Perfect
+Basic	Tener::Present::Perfect	He has had a passion for teaching the Word.	Ha tenido una pasión por enseñar la Palabra.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had many miracles in this congregation.	Hemos tenido muchos milagros en esta congregación.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had a blessing in every area of their lives.	Han tenido una bendición en cada área de sus vidas.	Tener Present Perfect
+Basic	Tener::Present::Perfect	I have had a good relationship with my coworkers.	He tenido una buena relación con mis compañeros de trabajo.	Tener Present Perfect
+Basic	Tener::Present::Perfect	Have you had trouble sleeping this week?	¿Has tenido dificultad para dormir esta semana?	Tener Present Perfect
+Basic	Tener::Present::Perfect	She has had a positive attitude despite the challenges.	Ha tenido una actitud positiva a pesar de los desafíos.	Tener Present Perfect
+Basic	Tener::Present::Perfect	We have had God s grace in every situation.	Hemos tenido la gracia de Dios en cada situación.	Tener Present Perfect
+Basic	Tener::Present::Perfect	They have had consistent growth in their faith walk.	Han tenido un crecimiento constante en su caminar de fe.	Tener Present Perfect
+Basic	Tener::Past::Perfect	Before that day, I had had very little faith.	Antes de ese día, había tenido muy poca fe.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had time to pray before the service?	¿Habías tenido tiempo para orar antes del servicio?	Tener Past Perfect
+Basic	Tener::Past::Perfect	She had had a vision before she came to church.	Había tenido una visión antes de venir a la iglesia.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had Bible study every week until the move.	Habíamos tenido estudio bíblico cada semana hasta la mudanza.	Tener Past Perfect
+Basic	Tener::Past::Perfect	They had had a strong prayer group before it disbanded.	Habían tenido un grupo de oración fuerte antes de que se disolviera.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had a devotional routine for a year before I stopped.	Había tenido una rutina devocional por un año antes de parar.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had the opportunity to share the gospel before?	¿Habías tenido la oportunidad de compartir el evangelio antes?	Tener Past Perfect
+Basic	Tener::Past::Perfect	He had had a calling to preach since he was young.	Había tenido un llamado a predicar desde joven.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had communion just the Sunday before.	Habíamos tenido comunión el domingo anterior.	Tener Past Perfect
+Basic	Tener::Past::Perfect	They had had a pastor for twenty years before he retired.	Habían tenido un pastor por veinte años antes de que se jubilara.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had my passport for five years before it expired.	Había tenido mi pasaporte por cinco años antes de que venciera.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had a hotel reservation before the trip?	¿Habías tenido una reservación de hotel antes del viaje?	Tener Past Perfect
+Basic	Tener::Past::Perfect	She had had a connecting flight but it was canceled.	Había tenido un vuelo de conexión pero fue cancelado.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had a great guide on our last trip.	Habíamos tenido un excelente guía en nuestro último viaje.	Tener Past Perfect
+Basic	Tener::Past::Perfect	They had had plans to visit before the storm hit.	Habían tenido planes de visitar antes de que llegara la tormenta.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had a reservation but I forgot to confirm it.	Había tenido una reservación pero olvidé confirmarla.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had that dish before?	¿Habías tenido ese platillo antes?	Tener Past Perfect
+Basic	Tener::Past::Perfect	She had had the same table every Sunday until they remodeled.	Había tenido la misma mesa cada domingo hasta que remodelaron.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had dinner there twice before they closed.	Habíamos tenido cena allí dos veces antes de que cerraran.	Tener Past Perfect
+Basic	Tener::Past::Perfect	They had had their best sales before the pandemic.	Habían tenido sus mejores ventas antes de la pandemia.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had fresh bread every day before the bakery closed.	Había tenido pan fresco cada día antes de que cerrara la panadería.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had coffee before the meeting?	¿Habías tenido café antes de la reunión?	Tener Past Perfect
+Basic	Tener::Past::Perfect	She had had a big garden before they moved to the apartment.	Había tenido un jardín grande antes de mudarse al apartamento.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had enough food until the last guests arrived.	Habíamos tenido suficiente comida hasta que llegaron los últimos invitados.	Tener Past Perfect
+Basic	Tener::Past::Perfect	They had had fresh vegetables every week before the drought.	Habían tenido verduras frescas cada semana antes de la sequía.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had the same house for fifteen years before selling it.	Había tenido la misma casa por quince años antes de venderla.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had a yard before moving to the city?	¿Habías tenido un patio antes de mudarte a la ciudad?	Tener Past Perfect
+Basic	Tener::Past::Perfect	She had had a beautiful porch before the renovation.	Había tenido un porche hermoso antes de la renovación.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had more space before the family grew.	Habíamos tenido más espacio antes de que creciera la familia.	Tener Past Perfect
+Basic	Tener::Past::Perfect	They had had a hammock in the yard before it broke.	Habían tenido una hamaca en el patio antes de que se rompiera.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had three children before we moved to this city.	Había tenido tres hijos antes de mudarnos a esta ciudad.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had contact with your family during the trip?	¿Habías tenido contacto con tu familia durante el viaje?	Tener Past Perfect
+Basic	Tener::Past::Perfect	She had had her parents nearby before they moved away.	Había tenido a sus padres cerca antes de que se mudaran.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had family gatherings every year until recently.	Habíamos tenido reuniones familiares cada año hasta hace poco.	Tener Past Perfect
+Basic	Tener::Past::Perfect	They had had a baby before the church was planted.	Habían tenido un bebé antes de que se fundara la iglesia.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had many friends before I moved to a new city.	Había tenido muchos amigos antes de mudarme a una ciudad nueva.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had a close friend at the old church?	¿Habías tenido un amigo cercano en la antigua iglesia?	Tener Past Perfect
+Basic	Tener::Past::Perfect	She had had a best friend who moved abroad.	Había tenido una mejor amiga que se fue al extranjero.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had the same Bible study group for five years.	Habíamos tenido el mismo grupo de estudio bíblico por cinco años.	Tener Past Perfect
+Basic	Tener::Past::Perfect	They had had great friendships before the church split.	Habían tenido grandes amistades antes de la división de la iglesia.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had a dog for years before we had to give it away.	Había tenido un perro por años antes de tener que regalarlo.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had a pet before this one?	¿Habías tenido una mascota antes de esta?	Tener Past Perfect
+Basic	Tener::Past::Perfect	She had had two cats before moving to the new house.	Había tenido dos gatos antes de mudarse a la casa nueva.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had chickens in the yard before the neighbors complained.	Habíamos tenido gallinas en el patio antes de que se quejaran los vecinos.	Tener Past Perfect
+Basic	Tener::Past::Perfect	They had had a goldfish for three years before it died.	Habían tenido un pez dorado por tres años antes de que muriera.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had all the notes before I lost my notebook.	Había tenido todos los apuntes antes de perder mi cuaderno.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had a scholarship before this year?	¿Habías tenido una beca antes de este año?	Tener Past Perfect
+Basic	Tener::Past::Perfect	She had had the same teacher for two years before graduation.	Había tenido al mismo maestro por dos años antes de graduarse.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had class in that room until they renovated the school.	Habíamos tenido clase en ese salón hasta que renovaron la escuela.	Tener Past Perfect
+Basic	Tener::Past::Perfect	They had had an excellent principal before he retired.	Habían tenido un excelente director antes de que se jubilara.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had good health until the accident.	Había tenido buena salud hasta el accidente.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had any allergies as a child?	¿Habías tenido alguna alergia de niño?	Tener Past Perfect
+Basic	Tener::Past::Perfect	She had had the same doctor for years before he retired.	Había tenido al mismo médico por años antes de que se jubilara.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had good insurance until the company changed plans.	Habíamos tenido un buen seguro hasta que la empresa cambió de plan.	Tener Past Perfect
+Basic	Tener::Past::Perfect	They had had a nurse visiting them before the hospital took over.	Habían tenido una enfermera visitándolos antes de que el hospital se hiciera cargo.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had the same job for five years before the layoff.	Había tenido el mismo trabajo por cinco años antes del despido.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had a good relationship with your boss before?	¿Habías tenido una buena relación con tu jefe antes?	Tener Past Perfect
+Basic	Tener::Past::Perfect	She had had a promotion just months before leaving.	Había tenido un ascenso justo meses antes de irse.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had the same clients for years before the merger.	Habíamos tenido los mismos clientes por años antes de la fusión.	Tener Past Perfect
+Basic	Tener::Past::Perfect	They had had a successful business before the economic crisis.	Habían tenido un negocio exitoso antes de la crisis económica.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had a guitar for years before I learned to play it.	Había tenido una guitarra por años antes de aprender a tocarla.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had music training before joining the choir?	¿Habías tenido formación musical antes de unirte al coro?	Tener Past Perfect
+Basic	Tener::Past::Perfect	She had had a beautiful voice before her illness.	Había tenido una voz hermosa antes de su enfermedad.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had a worship band before the church moved buildings.	Habíamos tenido una banda de alabanza antes de que la iglesia cambiara de edificio.	Tener Past Perfect
+Basic	Tener::Past::Perfect	They had had concerts at the park every summer until last year.	Habían tenido conciertos en el parque cada verano hasta el año pasado.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had peace in my heart before the crisis hit.	Había tenido paz en mi corazón antes de que llegara la crisis.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had any doubts before you made the decision?	¿Habías tenido alguna duda antes de tomar la decisión?	Tener Past Perfect
+Basic	Tener::Past::Perfect	He had had the same calling since he was a teenager.	Había tenido el mismo llamado desde que era adolescente.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had God s protection long before we realized it.	Habíamos tenido la protección de Dios mucho antes de darnos cuenta.	Tener Past Perfect
+Basic	Tener::Past::Perfect	They had had a revival at their church the year before.	Habían tenido un avivamiento en su iglesia el año anterior.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had a long conversation with God before making the decision.	Había tenido una larga conversación con Dios antes de tomar la decisión.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had a dream about the mission before they announced it?	¿Habías tenido un sueño sobre la misión antes de que la anunciaran?	Tener Past Perfect
+Basic	Tener::Past::Perfect	She had had a mentor before moving to the new city.	Había tenido un mentor antes de mudarse a la nueva ciudad.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had so many good memories in that church building.	Habíamos tenido tantos buenos recuerdos en ese edificio de la iglesia.	Tener Past Perfect
+Basic	Tener::Past::Perfect	They had had an outstanding choir before half the members left.	Habían tenido un coro sobresaliente antes de que la mitad de los miembros se fueran.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had breakfast before the long flight.	Había tenido desayuno antes del largo vuelo.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had any training before starting the new role?	¿Habías tenido alguna capacitación antes de comenzar el nuevo cargo?	Tener Past Perfect
+Basic	Tener::Past::Perfect	She had had a productive garden before the frost came.	Había tenido un jardín productivo antes de que llegara la helada.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had the same routine for years before everything changed.	Habíamos tenido la misma rutina por años antes de que todo cambiara.	Tener Past Perfect
+Basic	Tener::Past::Perfect	They had had a plan for the trip long before the dates were set.	Habían tenido un plan para el viaje mucho antes de que se fijaran las fechas.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had this Bible since my confirmation.	Había tenido esta Biblia desde mi confirmación.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had any concerns before joining the ministry?	¿Habías tenido alguna preocupación antes de unirte al ministerio?	Tener Past Perfect
+Basic	Tener::Past::Perfect	He had had a wonderful friendship with the elder pastor.	Había tenido una amistad maravillosa con el pastor anciano.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had the same worship leader for a decade.	Habíamos tenido el mismo líder de alabanza por una década.	Tener Past Perfect
+Basic	Tener::Past::Perfect	They had had a full congregation before the church split.	Habían tenido una congregación llena antes de la división de la iglesia.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had a sense of God s calling long before seminary.	Había tenido un sentido del llamado de Dios mucho antes del seminario.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had my passport checked before boarding.	Había tenido que presentar mi pasaporte antes de abordar.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had a layover before reaching your destination?	¿Habías tenido una escala antes de llegar a tu destino?	Tener Past Perfect
+Basic	Tener::Past::Perfect	She had had a favorite restaurant there before it closed.	Había tenido un restaurante favorito ahí antes de que cerrara.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had many conversations about faith before the baptism.	Habíamos tenido muchas conversaciones sobre la fe antes del bautismo.	Tener Past Perfect
+Basic	Tener::Past::Perfect	They had had a large family before hard times came.	Habían tenido una familia grande antes de que llegaran los tiempos difíciles.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had the same prayer partner for years before she moved.	Había tenido el mismo compañero de oración por años antes de que se mudara.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had a car before moving to the city?	¿Habías tenido un carro antes de mudarte a la ciudad?	Tener Past Perfect
+Basic	Tener::Past::Perfect	He had had a quiet time with God every morning for years.	Había tenido un tiempo de quietud con Dios cada mañana por años.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had a youth group before the pandemic.	Habíamos tenido un grupo juvenil antes de la pandemia.	Tener Past Perfect
+Basic	Tener::Past::Perfect	They had had enough savings before the emergency.	Habían tenido suficientes ahorros antes de la emergencia.	Tener Past Perfect
+Basic	Tener::Past::Perfect	I had had a chance to visit before the trip was canceled.	Había tenido la oportunidad de visitar antes de que cancelaran el viaje.	Tener Past Perfect
+Basic	Tener::Past::Perfect	Had you had your health checked before the mission trip?	¿Habías tenido un chequeo de salud antes del viaje misionero?	Tener Past Perfect
+Basic	Tener::Past::Perfect	She had had the music memorized before the concert.	Había tenido la música memorizada antes del concierto.	Tener Past Perfect
+Basic	Tener::Past::Perfect	We had had a full team before several members moved away.	Habíamos tenido un equipo completo antes de que varios miembros se mudaran.	Tener Past Perfect

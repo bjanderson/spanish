@@ -8,7 +8,7 @@
 #front column:3
 #back column:4
 #tags column:5
-Basic	Spanish Practice	all, every	todo	100_Most_Common_Words_-_Adjectives
+Basic	Verb::Tense::Mood	english word	spanish word	verb tense mood
 ```
 
 - English text goes in front (column:3).
@@ -38,3 +38,14 @@ Basic	Spanish Practice	all, every	todo	100_Most_Common_Words_-_Adjectives
   - health
   - work
   - music
+
+## Create Files
+
+- Create a single anki import txt file for each verb
+- Each file should be formatted according to the Anki Text File Format
+- Create one file at a time. Finish one file before moving on to the next
+- Do not read any other files
+- Create entries for each different verb tense and mood
+- Create at least 100 entries for each tense
+- Fill in any missing tenses in each verb file in the Anki folder
+<!-- - Create files for the following verbs: saber, conocer -->

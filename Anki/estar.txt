@@ -1,0 +1,907 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Estar::Present::Indicative	I am happy to be at church this morning.	Estoy feliz de estar en la iglesia esta mañana.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Are you ready for the Bible study tonight?	¿Estás listo para el estudio bíblico esta noche?	Estar Present Indicative
+Basic	Estar::Present::Indicative	She is at the prayer meeting right now.	Está en la reunión de oración ahora mismo.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are gathered here in the name of Jesus.	Estamos reunidos aquí en el nombre de Jesús.	Estar Present Indicative
+Basic	Estar::Present::Indicative	They are at the mission field this week.	Están en el campo misionero esta semana.	Estar Present Indicative
+Basic	Estar::Present::Indicative	I am excited about the upcoming church retreat.	Estoy emocionado por el próximo retiro de la iglesia.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Are you feeling the presence of God today?	¿Estás sintiendo la presencia de Dios hoy?	Estar Present Indicative
+Basic	Estar::Present::Indicative	He is moved by the worship music.	Está conmovido por la música de adoración.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are praying for our community right now.	Estamos orando por nuestra comunidad ahora mismo.	Estar Present Indicative
+Basic	Estar::Present::Indicative	They are standing in faith during difficult times.	Están de pie en la fe durante tiempos difíciles.	Estar Present Indicative
+Basic	Estar::Present::Indicative	I am at the airport waiting for my flight to the mission trip.	Estoy en el aeropuerto esperando mi vuelo al viaje misionero.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Are you staying at the hotel near the conference center?	¿Estás quedándote en el hotel cerca del centro de conferencias?	Estar Present Indicative
+Basic	Estar::Present::Indicative	The luggage is at the baggage claim.	El equipaje está en el área de reclamo de equipaje.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are in a beautiful country doing mission work.	Estamos en un hermoso país haciendo trabajo misionero.	Estar Present Indicative
+Basic	Estar::Present::Indicative	They are traveling to a remote village to share the gospel.	Están viajando a un pueblo remoto para compartir el evangelio.	Estar Present Indicative
+Basic	Estar::Present::Indicative	The food is ready on the table.	La comida está lista en la mesa.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Are the tamales still warm?	¿Están los tamales todavía calientes?	Estar Present Indicative
+Basic	Estar::Present::Indicative	The soup is too salty today.	La sopa está muy salada hoy.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are thankful for this meal that God provided.	Estamos agradecidos por esta comida que Dios proveyó.	Estar Present Indicative
+Basic	Estar::Present::Indicative	The fruit at the market is fresh and ripe.	La fruta en el mercado está fresca y madura.	Estar Present Indicative
+Basic	Estar::Present::Indicative	I am at home today resting and reading the Bible.	Estoy en casa hoy descansando y leyendo la Biblia.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Is the house clean for the Bible study group?	¿Está la casa limpia para el grupo de estudio bíblico?	Estar Present Indicative
+Basic	Estar::Present::Indicative	The kitchen is a mess after the family gathering.	La cocina está desordenada después de la reunión familiar.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are at home preparing for the holiday celebration.	Estamos en casa preparando para la celebración de las fiestas.	Estar Present Indicative
+Basic	Estar::Present::Indicative	The door is open, come on in.	La puerta está abierta, adelante.	Estar Present Indicative
+Basic	Estar::Present::Indicative	I am at the park with my children after church.	Estoy en el parque con mis hijos después de la iglesia.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Are your parents doing well?	¿Están bien tus padres?	Estar Present Indicative
+Basic	Estar::Present::Indicative	My grandmother is not feeling well today.	Mi abuela no está sintiéndose bien hoy.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are all together for the family reunion.	Estamos todos juntos para la reunión familiar.	Estar Present Indicative
+Basic	Estar::Present::Indicative	The children are excited about the Christmas program.	Los niños están emocionados por el programa de Navidad.	Estar Present Indicative
+Basic	Estar::Present::Indicative	I am worried about my friend who is sick.	Estoy preocupado por mi amigo que está enfermo.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Are you available to meet for coffee after church?	¿Estás disponible para reunirte para tomar café después de la iglesia?	Estar Present Indicative
+Basic	Estar::Present::Indicative	She is going through a very hard time right now.	Está pasando por un momento muy difícil ahora mismo.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are here for you no matter what.	Estamos aquí para ti sin importar qué.	Estar Present Indicative
+Basic	Estar::Present::Indicative	They are celebrating a birthday at the church hall tonight.	Están celebrando un cumpleaños en el salón de la iglesia esta noche.	Estar Present Indicative
+Basic	Estar::Present::Indicative	My dog is very tired after the long walk.	Mi perro está muy cansado después de la larga caminata.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Is the cat feeling better after the vet visit?	¿Está el gato sintiéndose mejor después de la visita al veterinario?	Estar Present Indicative
+Basic	Estar::Present::Indicative	The rabbit is calm and comfortable in its new home.	El conejo está tranquilo y cómodo en su nuevo hogar.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are looking after the neighbors pets while they are traveling.	Estamos cuidando las mascotas de los vecinos mientras están de viaje.	Estar Present Indicative
+Basic	Estar::Present::Indicative	The animals at the shelter are waiting to be adopted.	Los animales en el refugio están esperando ser adoptados.	Estar Present Indicative
+Basic	Estar::Present::Indicative	I am studying for the theology exam this week.	Estoy estudiando para el examen de teología esta semana.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Are you still in school or are you working full time?	¿Todavía estás en la escuela o estás trabajando a tiempo completo?	Estar Present Indicative
+Basic	Estar::Present::Indicative	The students are focused on the Bible passage.	Los estudiantes están enfocados en el pasaje bíblico.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are learning so much in this class together.	Estamos aprendiendo mucho en esta clase juntos.	Estar Present Indicative
+Basic	Estar::Present::Indicative	The library is open until nine tonight.	La biblioteca está abierta hasta las nueve esta noche.	Estar Present Indicative
+Basic	Estar::Present::Indicative	I am not feeling well and need to see a doctor.	No estoy sintiéndome bien y necesito ver a un médico.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Are you still recovering from the surgery?	¿Todavía estás recuperándote de la cirugía?	Estar Present Indicative
+Basic	Estar::Present::Indicative	The patient is stable and resting comfortably.	El paciente está estable y descansando cómodamente.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are fasting and praying for her healing.	Estamos ayunando y orando por su sanidad.	Estar Present Indicative
+Basic	Estar::Present::Indicative	The doctor is confident about the diagnosis.	El médico está seguro del diagnóstico.	Estar Present Indicative
+Basic	Estar::Present::Indicative	I am busy with a new project at work.	Estoy ocupado con un nuevo proyecto en el trabajo.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Are you stressed about the presentation?	¿Estás estresado por la presentación?	Estar Present Indicative
+Basic	Estar::Present::Indicative	She is focused and working hard on the ministry proposal.	Está enfocada y trabajando duro en la propuesta ministerial.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are committed to serving God through our work.	Estamos comprometidos a servir a Dios a través de nuestro trabajo.	Estar Present Indicative
+Basic	Estar::Present::Indicative	The volunteers are ready to begin the community event.	Los voluntarios están listos para comenzar el evento comunitario.	Estar Present Indicative
+Basic	Estar::Present::Indicative	I am in the middle of practicing for the worship concert.	Estoy en medio de practicar para el concierto de adoración.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Are you in tune for the rehearsal tonight?	¿Estás afinado para el ensayo esta noche?	Estar Present Indicative
+Basic	Estar::Present::Indicative	The choir is ready to perform for the Easter service.	El coro está listo para actuar en el culto de Pascua.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are excited about the new worship song we wrote.	Estamos emocionados por la nueva canción de adoración que escribimos.	Estar Present Indicative
+Basic	Estar::Present::Indicative	The instruments are set up and the sound check is done.	Los instrumentos están listos y la prueba de sonido está hecha.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Jesus is always with us no matter where we are.	Jesús siempre está con nosotros sin importar dónde estemos.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Are you at peace knowing God is in control?	¿Estás en paz sabiendo que Dios tiene el control?	Estar Present Indicative
+Basic	Estar::Present::Indicative	The Holy Spirit is present in this place.	El Espíritu Santo está presente en este lugar.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are standing on the promises of God.	Estamos de pie sobre las promesas de Dios.	Estar Present Indicative
+Basic	Estar::Present::Indicative	They are encouraged by the faithfulness of God.	Están alentados por la fidelidad de Dios.	Estar Present Indicative
+Basic	Estar::Present::Indicative	I am at a crossroads and seeking God direction.	Estoy en una encrucijada y buscando la dirección de Dios.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Are you at peace with the decision you made?	¿Estás en paz con la decisión que tomaste?	Estar Present Indicative
+Basic	Estar::Present::Indicative	He is struggling but trusting God through it.	Está luchando pero confiando en Dios a través de ello.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are leaning on God in this difficult season.	Estamos apoyándonos en Dios en esta difícil temporada.	Estar Present Indicative
+Basic	Estar::Present::Indicative	They are filled with the Spirit and ready to serve.	Están llenos del Espíritu y listos para servir.	Estar Present Indicative
+Basic	Estar::Present::Indicative	I am grateful that the children are safe.	Estoy agradecido de que los niños estén seguros.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Is everyone seated and ready for the service to begin?	¿Está todo el mundo sentado y listo para que comience el culto?	Estar Present Indicative
+Basic	Estar::Present::Indicative	The offering basket is at the back of the sanctuary.	La canasta de la ofrenda está en la parte trasera del santuario.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are watching the sunrise and thanking God for a new day.	Estamos viendo el amanecer y agradeciendo a Dios por un nuevo día.	Estar Present Indicative
+Basic	Estar::Present::Indicative	The sermon is very encouraging today.	El sermón está muy alentador hoy.	Estar Present Indicative
+Basic	Estar::Present::Indicative	I am at the coffee shop reading the Bible before work.	Estoy en la cafetería leyendo la Biblia antes del trabajo.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Are you eating at the church potluck today?	¿Estás comiendo en el almuerzo compartido de la iglesia hoy?	Estar Present Indicative
+Basic	Estar::Present::Indicative	The bread is still warm from the oven.	El pan todavía está caliente del horno.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are sitting together at the table to give thanks.	Estamos sentados juntos en la mesa para dar gracias.	Estar Present Indicative
+Basic	Estar::Present::Indicative	The vegetables are fresh from the garden.	Las verduras están frescas del jardín.	Estar Present Indicative
+Basic	Estar::Present::Indicative	I am walking through a season of growth in my faith.	Estoy pasando por una temporada de crecimiento en mi fe.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Are you feeling called to a deeper walk with God?	¿Estás sintiendo el llamado a un caminar más profundo con Dios?	Estar Present Indicative
+Basic	Estar::Present::Indicative	She is at peace with God and herself.	Está en paz con Dios y consigo misma.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are praying without ceasing as the Word commands.	Estamos orando sin cesar como la Palabra lo ordena.	Estar Present Indicative
+Basic	Estar::Present::Indicative	They are sharing the love of God with their neighbors.	Están compartiendo el amor de Dios con sus vecinos.	Estar Present Indicative
+Basic	Estar::Present::Indicative	I am blessed to have such a caring church family.	Estoy bendecido de tener una familia de iglesia tan cariñosa.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Are you attending the evangelism training this weekend?	¿Estás asistiendo al entrenamiento de evangelismo este fin de semana?	Estar Present Indicative
+Basic	Estar::Present::Indicative	The new believer is growing quickly in the faith.	El nuevo creyente está creciendo rápidamente en la fe.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are united in our love for God and for each other.	Estamos unidos en nuestro amor por Dios y el uno por el otro.	Estar Present Indicative
+Basic	Estar::Present::Indicative	They are celebrating what God has done in their lives.	Están celebrando lo que Dios ha hecho en sus vidas.	Estar Present Indicative
+Basic	Estar::Present::Indicative	I am looking forward to the church camp next summer.	Estoy esperando el campamento de la iglesia el próximo verano.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Is the pastor available to meet this afternoon?	¿Está el pastor disponible para reunirse esta tarde?	Estar Present Indicative
+Basic	Estar::Present::Indicative	The youth group is planning a mission trip.	El grupo juvenil está planeando un viaje misionero.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are excited to welcome new members to the church today.	Estamos emocionados de dar la bienvenida a nuevos miembros a la iglesia hoy.	Estar Present Indicative
+Basic	Estar::Present::Indicative	The worship team is practicing for Sunday morning.	El equipo de adoración está practicando para el domingo por la mañana.	Estar Present Indicative
+Basic	Estar::Present::Indicative	I am on the phone with my family discussing our faith.	Estoy hablando por teléfono con mi familia sobre nuestra fe.	Estar Present Indicative
+Basic	Estar::Present::Indicative	Are you reading a good Christian book right now?	¿Estás leyendo un buen libro cristiano ahora mismo?	Estar Present Indicative
+Basic	Estar::Present::Indicative	He is at peace knowing he is in the will of God.	Está en paz sabiendo que está en la voluntad de Dios.	Estar Present Indicative
+Basic	Estar::Present::Indicative	We are gathered around the table for our family devotional.	Estamos reunidos alrededor de la mesa para nuestra devoción familiar.	Estar Present Indicative
+Basic	Estar::Present::Indicative	They are at the hospital praying for the sick.	Están en el hospital orando por los enfermos.	Estar Present Indicative
+Basic	Estar::Preterit::Indicative	I was at church for the entire service on Sunday.	Estuve en la iglesia durante todo el culto el domingo.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Were you at the prayer meeting last night?	¿Estuviste en la reunión de oración anoche?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	She was at the Bible study all evening.	Estuvo en el estudio bíblico toda la tarde.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were in the front row at the Easter service.	Estuvimos en la primera fila en el culto de Pascua.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	They were at the mission conference for three days.	Estuvieron en la conferencia misionera por tres días.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	I was moved by the worship during the revival.	Estuve conmovido por la adoración durante el avivamiento.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Were you at the church retreat last weekend?	¿Estuviste en el retiro de la iglesia el fin de semana pasado?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	He was present at the baptism ceremony.	Estuvo presente en la ceremonia de bautismo.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were at the altar praying for an hour.	Estuvimos en el altar orando por una hora.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	They were involved in the outreach event on Saturday.	Estuvieron involucrados en el evento de alcance el sábado.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	I was at the airport for five hours during the layover.	Estuve en el aeropuerto por cinco horas durante la escala.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Were you at the hotel when the group arrived?	¿Estuviste en el hotel cuando llegó el grupo?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	She was at the market in the village for most of the morning.	Estuvo en el mercado del pueblo durante la mayor parte de la mañana.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were in the mountains during the mission trip.	Estuvimos en las montañas durante el viaje misionero.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	They were at a remote church in the jungle.	Estuvieron en una iglesia remota en la selva.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	I was at the restaurant near the church after the service.	Estuve en el restaurante cerca de la iglesia después del culto.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Was the food warm when you arrived at the potluck?	¿Estuvo la comida caliente cuando llegaste al almuerzo compartido?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	The tamales were delicious and ready on time.	Los tamales estuvieron deliciosos y listos a tiempo.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were at the dinner table for over two hours.	Estuvimos en la mesa de la cena por más de dos horas.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	They were thankful for the homemade meal.	Estuvieron agradecidos por la comida casera.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	The soup was too cold by the time we sat down.	La sopa estuvo muy fría para cuando nos sentamos.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Was the bread fresh when it arrived at the table?	¿Estuvo el pan fresco cuando llegó a la mesa?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	She was in the kitchen preparing the meal for three hours.	Estuvo en la cocina preparando la comida por tres horas.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were seated near the window with a beautiful view.	Estuvimos sentados cerca de la ventana con una vista hermosa.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	They were at the taco stand after the evening service.	Estuvieron en el puesto de tacos después del culto de la noche.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	I was at home all day for the family Christmas celebration.	Estuve en casa todo el día para la celebración navideña familiar.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Was the house ready for the Bible study group?	¿Estuvo la casa lista para el grupo de estudio bíblico?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	She was in the living room reading the Bible all morning.	Estuvo en la sala leyendo la Biblia toda la mañana.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were at the house until midnight celebrating.	Estuvimos en la casa hasta la medianoche celebrando.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	They were at the new home helping them move in.	Estuvieron en la nueva casa ayudándolos a mudarse.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	I was with my family at Grandma house for Thanksgiving.	Estuve con mi familia en casa de la abuela para Acción de Gracias.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Were you with the kids when they heard the good news?	¿Estuviste con los niños cuando escucharon las buenas noticias?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	She was at her parents house when the baby was born.	Estuvo en la casa de sus padres cuando nació el bebé.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were together as a family for the first time in years.	Estuvimos juntos como familia por primera vez en años.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	They were at the hospital all night with the newborn.	Estuvieron en el hospital toda la noche con el recién nacido.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	I was with my best friend when she accepted Christ.	Estuve con mi mejor amiga cuando aceptó a Cristo.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Were you at the park when the group met?	¿Estuviste en el parque cuando se reunió el grupo?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	She was there for me during my darkest moment.	Estuvo allí para mí en mi momento más oscuro.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were at the coffee shop talking about faith for hours.	Estuvimos en la cafetería hablando de fe por horas.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	They were at the city park for a community outreach event.	Estuvieron en el parque de la ciudad para un evento de alcance comunitario.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	My dog was at the vet all morning for his checkup.	Mi perro estuvo en el veterinario toda la mañana para su chequeo.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Was the cat comfortable at the boarding facility?	¿Estuvo el gato cómodo en la instalación de hospedaje?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	The rabbit was at the vet for a routine visit.	El conejo estuvo en el veterinario para una visita de rutina.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were at the pet store buying supplies for the new puppy.	Estuvimos en la tienda de mascotas comprando suministros para el nuevo cachorro.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	They were at the animal shelter volunteering on Saturday.	Estuvieron en el refugio de animales haciendo voluntariado el sábado.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	I was at school studying for the theology exam all week.	Estuve en la escuela estudiando para el examen de teología toda la semana.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Were you at the library when the group met?	¿Estuviste en la biblioteca cuando se reunió el grupo?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	She was at school until seven preparing her presentation.	Estuvo en la escuela hasta las siete preparando su presentación.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were in the classroom learning about the book of Acts.	Estuvimos en el salón de clases aprendiendo sobre el libro de Hechos.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	They were at the seminary all weekend for the intensive course.	Estuvieron en el seminario todo el fin de semana para el curso intensivo.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	I was at the clinic for my annual checkup on Monday.	Estuve en la clínica para mi chequeo anual el lunes.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Were you at the hospital when he had the surgery?	¿Estuviste en el hospital cuando tuvo la cirugía?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	She was in the recovery room for three hours.	Estuvo en la sala de recuperación por tres horas.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were at the pharmacy picking up his medication.	Estuvimos en la farmacia recogiendo su medicamento.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	They were at the health fair giving free consultations.	Estuvieron en la feria de salud dando consultas gratuitas.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	I was at work late finishing the ministry report.	Estuve en el trabajo hasta tarde terminando el informe ministerial.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Were you at the office when the announcement was made?	¿Estuviste en la oficina cuando se hizo el anuncio?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	She was at the conference representing the organization.	Estuvo en la conferencia representando a la organización.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were at the budget meeting for most of the afternoon.	Estuvimos en la reunión de presupuesto durante la mayor parte de la tarde.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	They were at the volunteer training all day Saturday.	Estuvieron en el entrenamiento de voluntarios todo el sábado.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	I was at the rehearsal for the Christmas cantata.	Estuve en el ensayo para la cantata de Navidad.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Were you at the concert when the choir performed?	¿Estuviste en el concierto cuando actuó el coro?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	She was at the microphone singing praises all night.	Estuvo en el micrófono cantando alabanzas toda la noche.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were at the sound booth running the worship service.	Estuvimos en la cabina de sonido manejando el culto de adoración.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	They were at the stage set up from early morning.	Estuvieron en el escenario desde temprano en la mañana.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Moses was in the desert for forty years before the Exodus.	Moisés estuvo en el desierto por cuarenta años antes del Éxodo.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Was Jesus in the Garden of Gethsemane that night?	¿Estuvo Jesús en el Huerto de Getsemaní esa noche?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Jonah was inside the fish for three days.	Jonás estuvo dentro del pez por tres días.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were in awe after reading the story of Elijah on the mountain.	Estuvimos asombrados después de leer la historia de Elías en la montaña.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Paul and Silas were in prison when they sang praises to God.	Pablo y Silas estuvieron en la cárcel cuando cantaron alabanzas a Dios.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	I was at a crossroads until God gave me clarity.	Estuve en una encrucijada hasta que Dios me dio claridad.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Were you at peace during the most difficult part of the trial?	¿Estuviste en paz durante la parte más difícil de la prueba?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	She was broken before God restored her.	Estuvo quebrantada antes de que Dios la restaurara.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were in a season of waiting on God for years.	Estuvimos en una temporada de esperar en Dios por años.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	They were discouraged but kept trusting in God.	Estuvieron desalentados pero siguieron confiando en Dios.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	I was at the point of giving up when God intervened.	Estuve al punto de rendirme cuando Dios intervino.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Were you at the conference when the guest speaker shared that testimony?	¿Estuviste en la conferencia cuando el orador invitado compartió ese testimonio?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	He was very ill but stayed focused on God.	Estuvo muy enfermo pero se mantuvo enfocado en Dios.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were at the lowest point of our lives when God lifted us up.	Estuvimos en el punto más bajo de nuestras vidas cuando Dios nos levantó.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	They were filled with joy after the healing service.	Estuvieron llenos de alegría después del culto de sanidad.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	I was at the school helping with the Bible club.	Estuve en la escuela ayudando con el club bíblico.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Were you at the children church program last week?	¿Estuviste en el programa de la iglesia de niños la semana pasada?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	She was at the youth camp all summer as a counselor.	Estuvo en el campamento juvenil todo el verano como consejera.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were at the summer mission program for six weeks.	Estuvimos en el programa misionero de verano por seis semanas.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	They were at the food pantry from eight in the morning until noon.	Estuvieron en la despensa de alimentos desde las ocho de la mañana hasta el mediodía.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	I was at the prayer walk around the neighborhood.	Estuve en la caminata de oración alrededor del vecindario.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Were you at the church building committee meeting?	¿Estuviste en la reunión del comité de construcción de la iglesia?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	She was at the wedding reception at the church hall.	Estuvo en la recepción de la boda en el salón de la iglesia.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were at the baptism service for the new believers.	Estuvimos en el culto de bautismo para los nuevos creyentes.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	They were at the graveside service praying for the family.	Estuvieron en el servicio junto a la tumba orando por la familia.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	I was at home sick and missed the Sunday service.	Estuve en casa enfermo y me perdí el culto del domingo.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Were you at the Bible camp when it rained all week?	¿Estuviste en el campamento bíblico cuando llovió toda la semana?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	She was at the church office answering prayer requests.	Estuvo en la oficina de la iglesia respondiendo peticiones de oración.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were at the Sunday school class until the last minute.	Estuvimos en la clase de escuela dominical hasta el último minuto.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	They were at the family table when the blessing was given.	Estuvieron en la mesa familiar cuando se dio la bendición.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	I was at the beach with the family and read my Bible there.	Estuve en la playa con la familia y leí mi Biblia allí.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	Were you at the park with the church youth group?	¿Estuviste en el parque con el grupo juvenil de la iglesia?	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	She was at the grocery store buying ingredients for the church potluck.	Estuvo en el supermercado comprando ingredientes para el almuerzo compartido de la iglesia.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	We were at the campfire singing hymns under the stars.	Estuvimos en la fogata cantando himnos bajo las estrellas.	Estar Preterit Indicative
+Basic	Estar::Preterit::Indicative	They were at the church very early to set up for the event.	Estuvieron en la iglesia muy temprano para preparar el evento.	Estar Preterit Indicative
+Basic	Estar::Imperfect::Indicative	I was at church every Sunday as a child.	Estaba en la iglesia cada domingo de niño.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Were you always nervous before giving your testimony?	¿Siempre estabas nervioso antes de dar tu testimonio?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	She was always at the front row during worship.	Siempre estaba en la primera fila durante la adoración.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were at Bible study every Thursday night.	Estábamos en el estudio bíblico cada jueves por la noche.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	They were always ready to serve at the church.	Siempre estaban listos para servir en la iglesia.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	I was always excited when the pastor preached on the Psalms.	Siempre estaba emocionado cuando el pastor predicaba sobre los Salmos.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Were you at the prayer room before the service?	¿Estabas en el cuarto de oración antes del culto?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	He was deeply moved during the worship music.	Estaba profundamente conmovido durante la música de adoración.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were always at the church when it opened in the morning.	Siempre estábamos en la iglesia cuando abría por la mañana.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	They were involved in the mission every year during the summer.	Estaban involucrados en la misión cada año durante el verano.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	I was traveling to different countries for mission work.	Estaba viajando a diferentes países para el trabajo misionero.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Were you staying at a host family during the trip?	¿Estabas quedándote con una familia anfitriona durante el viaje?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	She was always at the airport early for her flights.	Siempre estaba en el aeropuerto temprano para sus vuelos.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were in a remote village sharing the gospel that week.	Estábamos en un pueblo remoto compartiendo el evangelio esa semana.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	They were on a mission trip every summer for ten years.	Estaban en un viaje misionero cada verano durante diez años.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	The food was always ready before everyone arrived.	La comida siempre estaba lista antes de que todos llegaran.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Was the soup hot enough when it was served?	¿Estaba la sopa suficientemente caliente cuando se sirvió?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	She was always in the kitchen preparing food for the family.	Siempre estaba en la cocina preparando comida para la familia.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were always at the table together for dinner.	Siempre estábamos en la mesa juntos para cenar.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	They were always hungry when they returned from church.	Siempre estaban hambrientos cuando regresaban de la iglesia.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	The tortillas were warm and fresh every Sunday morning.	Las tortillas estaban calientes y frescas cada domingo por la mañana.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Was the restaurant open after the evening service?	¿Estaba el restaurante abierto después del culto de la tarde?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	She was always at the market early buying fresh produce.	Siempre estaba en el mercado temprano comprando productos frescos.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were seated near the pastor table at the church dinner.	Estábamos sentados cerca de la mesa del pastor en la cena de la iglesia.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	They were always hungry for the Word and for good food.	Siempre estaban hambrientos por la Palabra y por buena comida.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	I was always at home on Sunday afternoons with my family.	Siempre estaba en casa los domingos por la tarde con mi familia.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Was the house always full of people after church?	¿Estaba la casa siempre llena de gente después de la iglesia?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	The kitchen was warm and filled with wonderful smells.	La cocina estaba caliente y llena de maravillosos aromas.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were always at home for the family Christmas celebration.	Siempre estábamos en casa para la celebración navideña familiar.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	They were always busy fixing things around the house.	Siempre estaban ocupados arreglando cosas en la casa.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	I was always close to my grandparents growing up.	Siempre estaba cerca de mis abuelos cuando crecía.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Were your parents home when you got back from school?	¿Estaban tus padres en casa cuando llegabas de la escuela?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	She was always at her daughter side when she needed her.	Siempre estaba al lado de su hija cuando la necesitaba.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were always together as a family on holidays.	Siempre estábamos juntos como familia en los días festivos.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	The children were excited every time we went to church camp.	Los niños estaban emocionados cada vez que íbamos al campamento de la iglesia.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	I was always available for my friends when they needed me.	Siempre estaba disponible para mis amigos cuando me necesitaban.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Were your friends at the youth group every Friday?	¿Estaban tus amigos en el grupo juvenil cada viernes?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	She was always present when someone needed comfort.	Siempre estaba presente cuando alguien necesitaba consuelo.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were always there for each other in good and bad times.	Siempre estábamos ahí el uno para el otro en tiempos buenos y malos.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	They were always meeting after church to pray together.	Siempre estaban reuniéndose después de la iglesia para orar juntos.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	My dog was always waiting at the door when I got home.	Mi perro siempre estaba esperando en la puerta cuando llegaba a casa.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Was the cat always sleeping on the couch?	¿El gato siempre estaba durmiendo en el sofá?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	The rabbit was always calm and easy to handle.	El conejo siempre estaba tranquilo y fácil de manejar.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were always careful to care for the animals properly.	Siempre estábamos pendientes de cuidar a los animales correctamente.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	The animals were always fed before the family ate.	Los animales siempre estaban alimentados antes de que comiera la familia.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	I was always engaged in the Bible class.	Siempre estaba comprometido en la clase de Biblia.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Were the students prepared for the lesson each week?	¿Los estudiantes estaban preparados para la lección cada semana?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	She was always at the top of her class in Bible knowledge.	Siempre estaba en la cima de su clase en conocimiento bíblico.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were studying together every evening before the exam.	Estábamos estudiando juntos cada tarde antes del examen.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	They were always eager to learn more about the Scriptures.	Siempre estaban ansiosos por aprender más sobre las Escrituras.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	I was feeling tired but pushed through the health program.	Estaba cansado pero seguí adelante con el programa de salud.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Was the patient doing well before the relapse?	¿Estaba el paciente bien antes de la recaída?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	She was always at the clinic volunteering on weekends.	Siempre estaba en la clínica como voluntaria los fines de semana.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were all praying for his recovery every day.	Todos estábamos orando por su recuperación cada día.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	They were in poor health but faithful in their attendance.	Estaban en mala salud pero fieles en su asistencia.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	I was always focused on the task at work.	Siempre estaba enfocado en la tarea en el trabajo.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Were you stressed about the deadline at that time?	¿Estabas estresado por la fecha límite en ese momento?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	She was always prepared for the ministry meetings.	Siempre estaba preparada para las reuniones del ministerio.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were working hard to meet the needs of the community.	Estábamos trabajando duro para satisfacer las necesidades de la comunidad.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	They were always busy but never too busy to pray.	Siempre estaban ocupados pero nunca demasiado ocupados para orar.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	I was at the piano practicing the worship songs every evening.	Estaba en el piano practicando las canciones de adoración cada tarde.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Was the choir always on time for rehearsal?	¿El coro siempre estaba a tiempo para el ensayo?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	She was always in tune and ready to lead the congregation.	Siempre estaba afinada y lista para dirigir a la congregación.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were practicing new worship songs every week.	Estábamos practicando nuevas canciones de adoración cada semana.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	They were always inspired to write music for God.	Siempre estaban inspirados para escribir música para Dios.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	I was always moved by the testimonies shared at church.	Siempre estaba conmovido por los testimonios compartidos en la iglesia.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Were you at peace during the season of waiting on God?	¿Estabas en paz durante la temporada de espera en Dios?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	He was always grounded in the Scriptures.	Siempre estaba arraigado en las Escrituras.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were always encouraged by the faithfulness of God.	Siempre estábamos alentados por la fidelidad de Dios.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	They were at the church every time the doors were open.	Estaban en la iglesia cada vez que se abrían las puertas.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	I was always ready to pray with anyone who needed it.	Siempre estaba listo para orar con cualquiera que lo necesitara.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Were you involved in the church music ministry before?	¿Estabas involucrado en el ministerio de música de la iglesia antes?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	She was always praying for those who were far from God.	Siempre estaba orando por los que estaban lejos de Dios.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were in the Word daily and growing in our faith.	Estábamos en la Palabra a diario y creciendo en nuestra fe.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	They were diligent in serving God through every opportunity.	Estaban diligentes en servir a Dios en cada oportunidad.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	I was deeply grateful for every blessing God gave me.	Estaba profundamente agradecido por cada bendición que Dios me daba.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Were you involved in outreach ministry at that time?	¿Estabas involucrado en el ministerio de alcance en ese tiempo?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	He was always seeking the will of God in his decisions.	Siempre estaba buscando la voluntad de Dios en sus decisiones.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were gathered around the fire at the church campout.	Estábamos reunidos alrededor de la fogata en el campamento de la iglesia.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	They were on their knees in prayer every morning.	Estaban de rodillas en oración cada mañana.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	I was at peace knowing God was in control.	Estaba en paz sabiendo que Dios tenía el control.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Were you at your parents house when you got the news?	¿Estabas en la casa de tus padres cuando recibiste la noticia?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	She was always at her grandparents on Sunday afternoons.	Siempre estaba con sus abuelos los domingos por la tarde.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were sitting on the porch reading Scripture together.	Estábamos sentados en el porche leyendo las Escrituras juntos.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	They were always grateful for the love of their church family.	Siempre estaban agradecidos por el amor de su familia de la iglesia.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	I was thankful for every moment spent in worship.	Estaba agradecido por cada momento pasado en adoración.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Were you excited when they announced the mission trip?	¿Estabas emocionado cuando anunciaron el viaje misionero?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	He was nervous before giving his first sermon.	Estaba nervioso antes de dar su primer sermón.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were anxious about the church plant but trusted God.	Estábamos ansiosos por la planta de iglesia pero confiamos en Dios.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	They were encouraged when the congregation grew.	Estaban alentados cuando la congregación creció.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	I was preparing my heart for communion each week.	Estaba preparando mi corazón para la comunión cada semana.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Were you at the hospital visiting the sick members?	¿Estabas en el hospital visitando a los miembros enfermos?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	She was interceding for the family every morning.	Estaba intercediendo por la familia cada mañana.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were at the altar seeking God together.	Estábamos en el altar buscando a Dios juntos.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	They were at the community outreach every Saturday.	Estaban en el alcance comunitario cada sábado.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	I was always leaning on God during the hard times.	Siempre estaba apoyándome en Dios durante los tiempos difíciles.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	Were you at the retreat center when the breakthrough happened?	¿Estabas en el centro de retiro cuando ocurrió el avance espiritual?	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	He was overwhelmed by the grace of God.	Estaba abrumado por la gracia de Dios.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	We were in a season of revival and growth.	Estábamos en una temporada de avivamiento y crecimiento.	Estar Imperfect Indicative
+Basic	Estar::Imperfect::Indicative	They were at the feet of Jesus in prayer and worship.	Estaban a los pies de Jesús en oración y adoración.	Estar Imperfect Indicative
+Basic	Estar::Future::Indicative	I will be at church early to help set up.	Estaré en la iglesia temprano para ayudar a preparar.	Estar Future Indicative
+Basic	Estar::Future::Indicative	Will you be at the prayer meeting on Wednesday?	¿Estarás en la reunión de oración el miércoles?	Estar Future Indicative
+Basic	Estar::Future::Indicative	She will be at the Bible study tonight.	Estará en el estudio bíblico esta noche.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be at the church retreat next weekend.	Estaremos en el retiro de la iglesia el próximo fin de semana.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be at the mission conference in the spring.	Estarán en la conferencia misionera en la primavera.	Estar Future Indicative
+Basic	Estar::Future::Indicative	I will be ready for the worship service on Sunday.	Estaré listo para el culto de adoración el domingo.	Estar Future Indicative
+Basic	Estar::Future::Indicative	Will you be available to lead the prayer time?	¿Estarás disponible para dirigir el tiempo de oración?	Estar Future Indicative
+Basic	Estar::Future::Indicative	He will be present at the elder board meeting.	Estará presente en la reunión de la junta de ancianos.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be at the altar seeking God every morning this week.	Estaremos en el altar buscando a Dios cada mañana esta semana.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be at the evangelism training all weekend.	Estarán en el entrenamiento de evangelismo todo el fin de semana.	Estar Future Indicative
+Basic	Estar::Future::Indicative	I will be at the airport by five in the morning.	Estaré en el aeropuerto a las cinco de la mañana.	Estar Future Indicative
+Basic	Estar::Future::Indicative	Will you be staying at the host church during the trip?	¿Estarás quedándote en la iglesia anfitriona durante el viaje?	Estar Future Indicative
+Basic	Estar::Future::Indicative	She will be at the embassy getting her visa approved.	Estará en la embajada aprobando su visa.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be in a new country sharing the gospel.	Estaremos en un nuevo país compartiendo el evangelio.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be at the village church for three weeks.	Estarán en la iglesia del pueblo por tres semanas.	Estar Future Indicative
+Basic	Estar::Future::Indicative	The food will be ready before the guests arrive.	La comida estará lista antes de que lleguen los invitados.	Estar Future Indicative
+Basic	Estar::Future::Indicative	Will the tamales be warm enough for the gathering?	¿Estarán los tamales suficientemente calientes para la reunión?	Estar Future Indicative
+Basic	Estar::Future::Indicative	She will be at the kitchen preparing the church potluck.	Estará en la cocina preparando el almuerzo compartido de la iglesia.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be at the restaurant after the Sunday service.	Estaremos en el restaurante después del culto del domingo.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be grateful for the homemade food we bring.	Estarán agradecidos por la comida casera que llevemos.	Estar Future Indicative
+Basic	Estar::Future::Indicative	I will be at home hosting the Christmas dinner this year.	Estaré en casa organizando la cena de Navidad este año.	Estar Future Indicative
+Basic	Estar::Future::Indicative	Will the house be clean before your family arrives?	¿Estará la casa limpia antes de que llegue tu familia?	Estar Future Indicative
+Basic	Estar::Future::Indicative	She will be at her parents house for the holiday.	Estará en la casa de sus padres para las fiestas.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be at home for the family Christmas celebration.	Estaremos en casa para la celebración familiar de Navidad.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be settled in their new home by the summer.	Estarán establecidos en su nuevo hogar para el verano.	Estar Future Indicative
+Basic	Estar::Future::Indicative	I will be with my children at the church Christmas program.	Estaré con mis hijos en el programa de Navidad de la iglesia.	Estar Future Indicative
+Basic	Estar::Future::Indicative	Will you be home for Thanksgiving this year?	¿Estarás en casa para Acción de Gracias este año?	Estar Future Indicative
+Basic	Estar::Future::Indicative	He will be with his family for the entire holiday week.	Estará con su familia durante toda la semana de vacaciones.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be together as a family for the first time in years.	Estaremos juntos como familia por primera vez en años.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be at the hospital welcoming the new baby.	Estarán en el hospital dando la bienvenida al nuevo bebé.	Estar Future Indicative
+Basic	Estar::Future::Indicative	I will be at the coffee shop with my friend from church.	Estaré en la cafetería con mi amigo de la iglesia.	Estar Future Indicative
+Basic	Estar::Future::Indicative	Will you be available for the small group this Friday?	¿Estarás disponible para el grupo pequeño este viernes?	Estar Future Indicative
+Basic	Estar::Future::Indicative	She will be there for you no matter what happens.	Estará ahí para ti sin importar lo que pase.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be celebrating with our church friends after the baptism.	Estaremos celebrando con nuestros amigos de la iglesia después del bautismo.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be at the youth group every week this semester.	Estarán en el grupo juvenil cada semana este semestre.	Estar Future Indicative
+Basic	Estar::Future::Indicative	My dog will be at the vet for his annual shots tomorrow.	Mi perro estará en el veterinario para sus vacunas anuales mañana.	Estar Future Indicative
+Basic	Estar::Future::Indicative	Will the cat be comfortable in the new house?	¿Estará el gato cómodo en la nueva casa?	Estar Future Indicative
+Basic	Estar::Future::Indicative	The rabbit will be in a larger pen after the move.	El conejo estará en un corral más grande después de la mudanza.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be responsible for the animals while the family travels.	Estaremos a cargo de los animales mientras la familia viaja.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be at the animal shelter volunteering all weekend.	Estarán en el refugio de animales como voluntarios todo el fin de semana.	Estar Future Indicative
+Basic	Estar::Future::Indicative	I will be at school preparing for the Bible exam.	Estaré en la escuela preparándome para el examen bíblico.	Estar Future Indicative
+Basic	Estar::Future::Indicative	Will you be ready for the group presentation on Thursday?	¿Estarás listo para la presentación grupal el jueves?	Estar Future Indicative
+Basic	Estar::Future::Indicative	She will be at the top of her class this semester.	Estará en la cima de su clase este semestre.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be studying at the library every night this week.	Estaremos estudiando en la biblioteca cada noche esta semana.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be at the seminary graduation ceremony next month.	Estarán en la ceremonia de graduación del seminario el próximo mes.	Estar Future Indicative
+Basic	Estar::Future::Indicative	I will be at the doctor office for my annual checkup.	Estaré en el consultorio del médico para mi chequeo anual.	Estar Future Indicative
+Basic	Estar::Future::Indicative	Will the patient be stable after the procedure?	¿Estará el paciente estable después del procedimiento?	Estar Future Indicative
+Basic	Estar::Future::Indicative	She will be in recovery for two weeks after the surgery.	Estará en recuperación por dos semanas después de la cirugía.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be praying for you throughout your recovery.	Estaremos orando por ti durante toda tu recuperación.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be at the health clinic volunteering next Saturday.	Estarán en la clínica de salud como voluntarios el próximo sábado.	Estar Future Indicative
+Basic	Estar::Future::Indicative	I will be at the office early to finish the ministry report.	Estaré en la oficina temprano para terminar el informe ministerial.	Estar Future Indicative
+Basic	Estar::Future::Indicative	Will you be at the board meeting on Monday?	¿Estarás en la reunión de la junta el lunes?	Estar Future Indicative
+Basic	Estar::Future::Indicative	She will be at the conference representing the ministry.	Estará en la conferencia representando al ministerio.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be working together on the outreach project.	Estaremos trabajando juntos en el proyecto de alcance.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be at the volunteer orientation on Tuesday evening.	Estarán en la orientación de voluntarios el martes por la tarde.	Estar Future Indicative
+Basic	Estar::Future::Indicative	I will be at the rehearsal for the Easter cantata.	Estaré en el ensayo para la cantata de Pascua.	Estar Future Indicative
+Basic	Estar::Future::Indicative	Will you be at the microphone for the special music?	¿Estarás en el micrófono para la música especial?	Estar Future Indicative
+Basic	Estar::Future::Indicative	She will be leading worship for the entire conference.	Estará dirigiendo la adoración durante toda la conferencia.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be recording the new worship album next month.	Estaremos grabando el nuevo álbum de adoración el próximo mes.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be at the stage long before the concert starts.	Estarán en el escenario mucho antes de que comience el concierto.	Estar Future Indicative
+Basic	Estar::Future::Indicative	God will always be with us no matter where we go.	Dios siempre estará con nosotros sin importar a dónde vayamos.	Estar Future Indicative
+Basic	Estar::Future::Indicative	Will the Holy Spirit be evident in the service?	¿Estará el Espíritu Santo evidente en el culto?	Estar Future Indicative
+Basic	Estar::Future::Indicative	He will be standing in faith even through hard times.	Estará de pie en la fe incluso en tiempos difíciles.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be at peace because we trust in God.	Estaremos en paz porque confiamos en Dios.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be encouraged by the truth of Scripture.	Estarán alentados por la verdad de las Escrituras.	Estar Future Indicative
+Basic	Estar::Future::Indicative	I will be seeking God direction in this new season.	Estaré buscando la dirección de Dios en esta nueva temporada.	Estar Future Indicative
+Basic	Estar::Future::Indicative	Will you be fasting this week?	¿Estarás ayunando esta semana?	Estar Future Indicative
+Basic	Estar::Future::Indicative	He will be growing stronger in his faith every day.	Estará creciendo más fuerte en su fe cada día.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be resting in God promise for our lives.	Estaremos descansando en la promesa de Dios para nuestras vidas.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be walking in the fullness of God blessing.	Estarán caminando en la plenitud de la bendición de Dios.	Estar Future Indicative
+Basic	Estar::Future::Indicative	I will be thinking of you in my prayers.	Estaré pensando en ti en mis oraciones.	Estar Future Indicative
+Basic	Estar::Future::Indicative	Will you be participating in the church fast this month?	¿Estarás participando en el ayuno de la iglesia este mes?	Estar Future Indicative
+Basic	Estar::Future::Indicative	He will be at the front of the congregation giving his testimony.	Estará al frente de la congregación dando su testimonio.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be grateful for every open door God gives us.	Estaremos agradecidos por cada puerta abierta que Dios nos dé.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be filled with the Spirit and ready to serve.	Estarán llenos del Espíritu y listos para servir.	Estar Future Indicative
+Basic	Estar::Future::Indicative	I will be at the food pantry serving on Saturday morning.	Estaré en la despensa de alimentos sirviendo el sábado por la mañana.	Estar Future Indicative
+Basic	Estar::Future::Indicative	Will you be involved in the community outreach this year?	¿Estarás involucrado en el alcance comunitario este año?	Estar Future Indicative
+Basic	Estar::Future::Indicative	She will be at the head table at the church banquet.	Estará en la mesa de honor en el banquete de la iglesia.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be praying without ceasing for the lost.	Estaremos orando sin cesar por los perdidos.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be at the discipleship class every Tuesday.	Estarán en la clase de discipulado cada martes.	Estar Future Indicative
+Basic	Estar::Future::Indicative	I will be at my best when I am walking in the Spirit.	Estaré en mi mejor momento cuando camine en el Espíritu.	Estar Future Indicative
+Basic	Estar::Future::Indicative	Will you be ready to share your faith at any moment?	¿Estarás listo para compartir tu fe en cualquier momento?	Estar Future Indicative
+Basic	Estar::Future::Indicative	He will be at the city square sharing the gospel.	Estará en la plaza de la ciudad compartiendo el evangelio.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be at the prayer vigil from midnight to dawn.	Estaremos en la vigilia de oración desde la medianoche hasta el amanecer.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be at the pastors conference all week.	Estarán en la conferencia de pastores toda la semana.	Estar Future Indicative
+Basic	Estar::Future::Indicative	I will be at the wedding in the church next Saturday.	Estaré en la boda en la iglesia el próximo sábado.	Estar Future Indicative
+Basic	Estar::Future::Indicative	Will you be at the baby dedication this Sunday?	¿Estarás en la dedicación del bebé este domingo?	Estar Future Indicative
+Basic	Estar::Future::Indicative	She will be at the missions dinner to share her story.	Estará en la cena misionera para compartir su historia.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be standing on the Word of God no matter what.	Estaremos firmes en la Palabra de Dios sin importar qué.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be at the new members class next Sunday morning.	Estarán en la clase de nuevos miembros el próximo domingo por la mañana.	Estar Future Indicative
+Basic	Estar::Future::Indicative	I will be at home studying the book of Romans this week.	Estaré en casa estudiando el libro de Romanos esta semana.	Estar Future Indicative
+Basic	Estar::Future::Indicative	Will you be watching the online sermon with me tonight?	¿Estarás viendo el sermón en línea conmigo esta noche?	Estar Future Indicative
+Basic	Estar::Future::Indicative	He will be at the early morning men prayer group.	Estará en el grupo de oración de hombres temprano por la mañana.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be in fellowship with the body of Christ throughout eternity.	Estaremos en comunión con el cuerpo de Cristo por toda la eternidad.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be at the local soup kitchen serving dinner.	Estarán en el comedor comunitario sirviendo la cena.	Estar Future Indicative
+Basic	Estar::Conditional	I would be at church every Sunday if I lived nearby.	Estaría en la iglesia cada domingo si viviera cerca.	Estar Conditional
+Basic	Estar::Conditional	Would you be at the retreat if you had the time off work?	¿Estarías en el retiro si tuvieras el tiempo libre del trabajo?	Estar Conditional
+Basic	Estar::Conditional	She would be at every Bible study if she had transportation.	Estaría en cada estudio bíblico si tuviera transporte.	Estar Conditional
+Basic	Estar::Conditional	We would be at the prayer meeting more if it were closer.	Estaríamos en la reunión de oración más seguido si estuviera más cerca.	Estar Conditional
+Basic	Estar::Conditional	They would be at church every Sunday if the services were in Spanish.	Estarían en la iglesia cada domingo si los cultos fueran en español.	Estar Conditional
+Basic	Estar::Conditional	I would be more at peace if I prayed before each meeting.	Estaría más en paz si orara antes de cada reunión.	Estar Conditional
+Basic	Estar::Conditional	Would you be ready for baptism if the pastor asked you?	¿Estarías listo para el bautismo si el pastor te lo preguntara?	Estar Conditional
+Basic	Estar::Conditional	He would be more focused during worship if he had fewer distractions.	Estaría más enfocado durante la adoración si tuviera menos distracciones.	Estar Conditional
+Basic	Estar::Conditional	We would be at the altar praying if the Holy Spirit moved us.	Estaríamos en el altar orando si el Espíritu Santo nos moviera.	Estar Conditional
+Basic	Estar::Conditional	They would be at the mission field if they had the support.	Estarían en el campo misionero si tuvieran el apoyo.	Estar Conditional
+Basic	Estar::Conditional	I would be at the airport earlier if the traffic were lighter.	Estaría en el aeropuerto antes si el tráfico fuera menos.	Estar Conditional
+Basic	Estar::Conditional	Would you be staying at the same hotel as the team?	¿Estarías quedándote en el mismo hotel que el equipo?	Estar Conditional
+Basic	Estar::Conditional	She would be at the mission site by now if the flight had not been delayed.	Estaría en el sitio misionero ya si el vuelo no se hubiera retrasado.	Estar Conditional
+Basic	Estar::Conditional	We would be in the village right now if we had left on time.	Estaríamos en el pueblo ahora mismo si hubiéramos salido a tiempo.	Estar Conditional
+Basic	Estar::Conditional	They would be at the remote church if the road were passable.	Estarían en la iglesia remota si el camino fuera transitable.	Estar Conditional
+Basic	Estar::Conditional	The food would be ready sooner if we had more help in the kitchen.	La comida estaría lista antes si tuviéramos más ayuda en la cocina.	Estar Conditional
+Basic	Estar::Conditional	Would the soup be better if you added more vegetables?	¿Estaría la sopa mejor si le agregaras más verduras?	Estar Conditional
+Basic	Estar::Conditional	She would be cooking more for the church if she had the ingredients.	Estaría cocinando más para la iglesia si tuviera los ingredientes.	Estar Conditional
+Basic	Estar::Conditional	We would be sitting together at dinner if the table were bigger.	Estaríamos sentados juntos en la cena si la mesa fuera más grande.	Estar Conditional
+Basic	Estar::Conditional	They would be at the potluck if they had received the invitation.	Estarían en el almuerzo compartido si hubieran recibido la invitación.	Estar Conditional
+Basic	Estar::Conditional	I would be at home resting if I did not have so much to do.	Estaría en casa descansando si no tuviera tanto que hacer.	Estar Conditional
+Basic	Estar::Conditional	Would the house be cleaner if everyone helped?	¿Estaría la casa más limpia si todos ayudaran?	Estar Conditional
+Basic	Estar::Conditional	She would be at home more if she had a flexible schedule.	Estaría más en casa si tuviera un horario flexible.	Estar Conditional
+Basic	Estar::Conditional	We would be hosting more people if our home were bigger.	Estaríamos recibiendo a más personas si nuestra casa fuera más grande.	Estar Conditional
+Basic	Estar::Conditional	They would be at the house more often if they lived nearby.	Estarían en la casa más seguido si vivieran cerca.	Estar Conditional
+Basic	Estar::Conditional	I would be at my parents house if they needed help.	Estaría en la casa de mis padres si me necesitaran.	Estar Conditional
+Basic	Estar::Conditional	Would you be at the family gathering if you had the money to travel?	¿Estarías en la reunión familiar si tuvieras el dinero para viajar?	Estar Conditional
+Basic	Estar::Conditional	He would be at home more if he had a better work-life balance.	Estaría más en casa si tuviera un mejor equilibrio entre el trabajo y la vida.	Estar Conditional
+Basic	Estar::Conditional	We would be together as a family every holiday if we could.	Estaríamos juntos como familia en cada festividad si pudiéramos.	Estar Conditional
+Basic	Estar::Conditional	They would be at the hospital sooner if they knew about the illness.	Estarían en el hospital antes si supieran sobre la enfermedad.	Estar Conditional
+Basic	Estar::Conditional	I would be available for my friends more if I managed time better.	Estaría más disponible para mis amigos si administrara mejor el tiempo.	Estar Conditional
+Basic	Estar::Conditional	Would you be at the group meeting if someone could give you a ride?	¿Estarías en la reunión del grupo si alguien pudiera llevarte?	Estar Conditional
+Basic	Estar::Conditional	She would be there for her friend no matter what.	Estaría ahí para su amiga sin importar qué.	Estar Conditional
+Basic	Estar::Conditional	We would be celebrating with friends if we had finished the project.	Estaríamos celebrando con amigos si hubiéramos terminado el proyecto.	Estar Conditional
+Basic	Estar::Conditional	They would be at the church picnic if the weather permitted.	Estarían en el picnic de la iglesia si el tiempo lo permitiera.	Estar Conditional
+Basic	Estar::Conditional	My dog would be calmer if he had more exercise.	Mi perro estaría más tranquilo si tuviera más ejercicio.	Estar Conditional
+Basic	Estar::Conditional	Would the cat be happier with a bigger space to roam?	¿Estaría el gato más feliz con un espacio más grande para moverse?	Estar Conditional
+Basic	Estar::Conditional	The rabbit would be healthier if it had more vegetables to eat.	El conejo estaría más saludable si tuviera más verduras para comer.	Estar Conditional
+Basic	Estar::Conditional	We would be better pet owners if we were more consistent.	Estaríamos siendo mejores dueños de mascotas si fuéramos más consistentes.	Estar Conditional
+Basic	Estar::Conditional	They would be at the shelter volunteering if they had more free time.	Estarían en el refugio como voluntarios si tuvieran más tiempo libre.	Estar Conditional
+Basic	Estar::Conditional	I would be better prepared for the exam if I had studied more.	Estaría mejor preparado para el examen si hubiera estudiado más.	Estar Conditional
+Basic	Estar::Conditional	Would you be at the study group if you were not working tonight?	¿Estarías en el grupo de estudio si no estuvieras trabajando esta noche?	Estar Conditional
+Basic	Estar::Conditional	She would be at the top of her class if she focused more.	Estaría en la cima de su clase si se enfocara más.	Estar Conditional
+Basic	Estar::Conditional	We would be more prepared if the professor gave us more time.	Estaríamos más preparados si el profesor nos diera más tiempo.	Estar Conditional
+Basic	Estar::Conditional	They would be graduating this year if they had passed all their classes.	Estarían graduándose este año si hubieran pasado todas sus clases.	Estar Conditional
+Basic	Estar::Conditional	I would be in better health if I followed the doctor advice.	Estaría en mejor salud si siguiera el consejo del médico.	Estar Conditional
+Basic	Estar::Conditional	Would the patient be stable if the medication were different?	¿Estaría el paciente estable si el medicamento fuera diferente?	Estar Conditional
+Basic	Estar::Conditional	She would be feeling better by now if she had rested more.	Estaría sintiéndose mejor ya si hubiera descansado más.	Estar Conditional
+Basic	Estar::Conditional	We would be healthier if we cooked at home more often.	Estaríamos más saludables si cocináramos en casa más seguido.	Estar Conditional
+Basic	Estar::Conditional	They would be at the clinic sooner if they had known about the symptoms.	Estarían en la clínica antes si hubieran sabido sobre los síntomas.	Estar Conditional
+Basic	Estar::Conditional	I would be less stressed at work if I had better boundaries.	Estaría menos estresado en el trabajo si tuviera mejores límites.	Estar Conditional
+Basic	Estar::Conditional	Would you be at the meeting if the agenda were shared in advance?	¿Estarías en la reunión si la agenda se compartiera de antemano?	Estar Conditional
+Basic	Estar::Conditional	She would be more productive if the office were quieter.	Estaría más productiva si la oficina fuera más tranquila.	Estar Conditional
+Basic	Estar::Conditional	We would be more effective in ministry with more volunteers.	Estaríamos más efectivos en el ministerio con más voluntarios.	Estar Conditional
+Basic	Estar::Conditional	They would be at the project launch if they had not gotten sick.	Estarían en el lanzamiento del proyecto si no se hubieran enfermado.	Estar Conditional
+Basic	Estar::Conditional	I would be at the sound booth if the tech person were absent.	Estaría en la cabina de sonido si el técnico estuviera ausente.	Estar Conditional
+Basic	Estar::Conditional	Would you be on stage if they asked you to perform tonight?	¿Estarías en el escenario si te pidieran actuar esta noche?	Estar Conditional
+Basic	Estar::Conditional	She would be leading worship if the regular leader were away.	Estaría dirigiendo la adoración si el líder habitual estuviera de viaje.	Estar Conditional
+Basic	Estar::Conditional	We would be recording music right now if the studio were available.	Estaríamos grabando música ahora mismo si el estudio estuviera disponible.	Estar Conditional
+Basic	Estar::Conditional	They would be at every rehearsal if they had more flexibility.	Estarían en cada ensayo si tuvieran más flexibilidad.	Estar Conditional
+Basic	Estar::Conditional	I would be more at peace if I trusted God with my whole heart.	Estaría más en paz si confiara en Dios con todo mi corazón.	Estar Conditional
+Basic	Estar::Conditional	Would the service be more anointed if we prayed together beforehand?	¿Estaría el culto más ungido si oráramos juntos de antemano?	Estar Conditional
+Basic	Estar::Conditional	He would be filled with joy if he surrendered his fear to God.	Estaría lleno de alegría si le rindiera su miedo a Dios.	Estar Conditional
+Basic	Estar::Conditional	We would be in a better place spiritually if we prioritized prayer.	Estaríamos en un mejor lugar espiritualmente si priorizáramos la oración.	Estar Conditional
+Basic	Estar::Conditional	They would be more confident sharing their faith if they practiced more.	Estarían más seguros compartiendo su fe si practicaran más.	Estar Conditional
+Basic	Estar::Conditional	I would be available to serve more if I had fewer commitments.	Estaría disponible para servir más si tuviera menos compromisos.	Estar Conditional
+Basic	Estar::Conditional	Would the church be more unified if everyone committed to prayer?	¿Estaría la iglesia más unida si todos se comprometieran a la oración?	Estar Conditional
+Basic	Estar::Conditional	He would be more effective as a leader if he listened more.	Estaría siendo más efectivo como líder si escuchara más.	Estar Conditional
+Basic	Estar::Conditional	We would be a stronger community if we served each other more.	Estaríamos siendo una comunidad más fuerte si nos sirviéramos más entre nosotros.	Estar Conditional
+Basic	Estar::Conditional	They would be more encouraged if the church prayed for them regularly.	Estarían más alentados si la iglesia orara por ellos regularmente.	Estar Conditional
+Basic	Estar::Conditional	I would be at peace with the decision if I knew it was God will.	Estaría en paz con la decisión si supiera que era la voluntad de Dios.	Estar Conditional
+Basic	Estar::Conditional	Would you be willing to be a mentor if someone needed guidance?	¿Estarías dispuesto a ser un mentor si alguien necesitara orientación?	Estar Conditional
+Basic	Estar::Conditional	She would be more open to ministry if she healed from her past.	Estaría más abierta al ministerio si sanara de su pasado.	Estar Conditional
+Basic	Estar::Conditional	We would be at the food bank more if it were open on weekends.	Estaríamos en el banco de alimentos más seguido si estuviera abierto los fines de semana.	Estar Conditional
+Basic	Estar::Conditional	They would be volunteering every week if the schedule allowed it.	Estarían siendo voluntarios cada semana si el horario lo permitiera.	Estar Conditional
+Basic	Estar::Conditional	I would be at the Bible camp if I could take the week off.	Estaría en el campamento bíblico si pudiera tomarme la semana libre.	Estar Conditional
+Basic	Estar::Conditional	Would you be at the church plant launch if you were in town?	¿Estarías en el lanzamiento de la planta de iglesia si estuvieras en la ciudad?	Estar Conditional
+Basic	Estar::Conditional	He would be at every youth group meeting if he could drive.	Estaría en cada reunión del grupo juvenil si pudiera manejar.	Estar Conditional
+Basic	Estar::Conditional	We would be ready to share the gospel if we trained regularly.	Estaríamos listos para compartir el evangelio si entrenáramos regularmente.	Estar Conditional
+Basic	Estar::Conditional	They would be at the church early if the parking were not an issue.	Estarían en la iglesia temprano si el estacionamiento no fuera un problema.	Estar Conditional
+Basic	Estar::Conditional	I would be studying the Scriptures more if I had a mentor.	Estaría estudiando las Escrituras más si tuviera un mentor.	Estar Conditional
+Basic	Estar::Conditional	Would you be more committed to fasting if the group did it together?	¿Estarías más comprometido con el ayuno si el grupo lo hiciera juntos?	Estar Conditional
+Basic	Estar::Conditional	She would be growing in the Spirit if she had the right community.	Estaría creciendo en el Espíritu si tuviera la comunidad adecuada.	Estar Conditional
+Basic	Estar::Conditional	We would be doing more for the poor if we had more resources.	Estaríamos haciendo más por los pobres si tuviéramos más recursos.	Estar Conditional
+Basic	Estar::Conditional	They would be at the mission prayer meeting if the time changed.	Estarían en la reunión de oración misionera si el horario cambiara.	Estar Conditional
+Basic	Estar::Conditional	I would be resting more if my schedule were not so demanding.	Estaría descansando más si mi horario no fuera tan exigente.	Estar Conditional
+Basic	Estar::Conditional	Would you be at peace if you forgave the person who hurt you?	¿Estarías en paz si perdonaras a la persona que te hirió?	Estar Conditional
+Basic	Estar::Conditional	He would be transformed if he surrendered his life fully to God.	Estaría transformado si le entregara su vida completamente a Dios.	Estar Conditional
+Basic	Estar::Conditional	We would be walking in victory if we put on the full armor of God.	Estaríamos caminando en victoria si nos pusiéramos toda la armadura de Dios.	Estar Conditional
+Basic	Estar::Conditional	They would be a testimony to many if they shared what God did.	Estarían siendo un testimonio para muchos si compartieran lo que Dios hizo.	Estar Conditional
+Basic	Estar::Present::Subjunctive	I hope you are at church this Sunday.	Espero que estés en la iglesia este domingo.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is important that she be ready before the service begins.	Es importante que esté lista antes de que comience el culto.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	God wants us to be at peace in all circumstances.	Dios quiere que estemos en paz en todas las circunstancias.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I pray that they be filled with the Spirit.	Oro para que estén llenos del Espíritu.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is good that he be present for the baptism ceremony.	Es bueno que esté presente para la ceremonia de bautismo.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	May we be united in prayer before the service.	Que estemos unidos en oración antes del culto.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I need you to be ready to lead the worship team tonight.	Necesito que estés listo para dirigir el equipo de adoración esta noche.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is necessary that we be committed to the mission.	Es necesario que estemos comprometidos con la misión.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	So that they be effective, they need to be in the Word daily.	Para que estén siendo efectivos, necesitan estar en la Palabra a diario.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I am glad that you are at the Bible study every week.	Me alegra que estés en el estudio bíblico cada semana.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I hope you are well after the difficult week.	Espero que estés bien después de la semana difícil.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is important that the team be focused during the rehearsal.	Es importante que el equipo esté enfocado durante el ensayo.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	God desires that we be surrendered to his will.	Dios desea que estemos rendidos a su voluntad.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	May the church be prepared to welcome the newcomers.	Que la iglesia esté preparada para dar la bienvenida a los recién llegados.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I pray that you be strengthened in the inner person.	Oro para que estés fortalecido en el ser interior.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I need the guide to be at the meeting point by seven.	Necesito que el guía esté en el punto de encuentro a las siete.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is important that the team be ready before the flight leaves.	Es importante que el equipo esté listo antes de que salga el vuelo.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	So that we be safe, we must stay together in the city.	Para que estemos seguros, debemos mantenernos juntos en la ciudad.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I hope the weather is good during the mission trip.	Espero que el tiempo esté bueno durante el viaje misionero.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is good that she be at the hotel before midnight.	Es bueno que esté en el hotel antes de la medianoche.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I hope the food is warm when we arrive at the potluck.	Espero que la comida esté caliente cuando lleguemos al almuerzo compartido.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is important that the ingredients be fresh for the tamales.	Es importante que los ingredientes estén frescos para los tamales.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	So that the meal be ready on time, we need to start early.	Para que la comida esté lista a tiempo, necesitamos empezar temprano.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I need the table to be set before the family arrives.	Necesito que la mesa esté puesta antes de que llegue la familia.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is necessary that the restaurant be open on Sunday.	Es necesario que el restaurante esté abierto el domingo.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I want the house to be clean before the guests arrive.	Quiero que la casa esté limpia antes de que lleguen los invitados.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is important that the home be peaceful and welcoming.	Es importante que el hogar esté tranquilo y acogedor.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	So that we be comfortable, the heating must be working.	Para que estemos cómodos, la calefacción debe estar funcionando.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I hope the yard is ready before the party begins.	Espero que el jardín esté listo antes de que empiece la fiesta.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is good that the kitchen be organized before cooking begins.	Es bueno que la cocina esté organizada antes de que empiece la cocina.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I want my children to be happy and healthy.	Quiero que mis hijos estén felices y saludables.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is important that the parents be present at the family meeting.	Es importante que los padres estén presentes en la reunión familiar.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	God desires that we be available for our families.	Dios desea que estemos disponibles para nuestras familias.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	May our family be rooted in faith and love.	Que nuestra familia esté arraigada en la fe y el amor.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I pray that the children be safe and protected by God.	Oro para que los niños estén seguros y protegidos por Dios.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I hope you are available to meet with your friends today.	Espero que estés disponible para reunirte con tus amigos hoy.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is good that she be there for her friend in this crisis.	Es bueno que esté ahí para su amiga en esta crisis.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	So that we be good friends, we must be present for each other.	Para que seamos buenos amigos, debemos estar presentes el uno para el otro.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I pray that we be at peace with everyone around us.	Oro para que estemos en paz con todos a nuestro alrededor.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is important that they be supportive of one another.	Es importante que estén siendo solidarios el uno con el otro.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I need the dog to be calm during the vet visit.	Necesito que el perro esté tranquilo durante la visita al veterinario.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is important that the cat be comfortable in the new home.	Es importante que el gato esté cómodo en la nueva casa.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	So that the pet be healthy, it must eat the right food.	Para que la mascota esté saludable, debe comer la comida adecuada.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I hope the animals are well cared for while we travel.	Espero que los animales estén bien cuidados mientras viajamos.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is good that the shelter animals be in a safe environment.	Es bueno que los animales del refugio estén en un entorno seguro.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I want you to be focused during the Bible class.	Quiero que estés enfocado durante la clase de Biblia.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is important that she be prepared for the theology exam.	Es importante que esté preparada para el examen de teología.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	God wants us to be diligent in the study of his Word.	Dios quiere que estemos diligentes en el estudio de su Palabra.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	May you be attentive and open to what God is teaching you.	Que estés atento y abierto a lo que Dios te está enseñando.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I pray that the students be engaged and inspired in class.	Oro para que los estudiantes estén comprometidos e inspirados en clase.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I hope you are feeling better after the treatment.	Espero que estés sintiéndote mejor después del tratamiento.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is important that the patient be monitored throughout the night.	Es importante que el paciente esté monitoreado durante toda la noche.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	So that we be well, we must rest and eat properly.	Para que estemos bien, debemos descansar y comer bien.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I pray that the sick members be healed by the power of God.	Oro para que los miembros enfermos estén sanados por el poder de Dios.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is necessary that the clinic be accessible to everyone in need.	Es necesario que la clínica esté accesible para todos los que la necesiten.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I want you to be less stressed about the project at work.	Quiero que estés menos estresado por el proyecto en el trabajo.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is important that he be focused during the ministry presentation.	Es importante que esté enfocado durante la presentación ministerial.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	So that she be effective in her role, she needs more training.	Para que esté siendo efectiva en su papel, necesita más entrenamiento.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I hope the team is ready before the event starts.	Espero que el equipo esté listo antes de que empiece el evento.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is good that they be committed to serving the community.	Es bueno que estén comprometidos a servir a la comunidad.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I hope the sound system is working for the worship concert.	Espero que el sistema de sonido esté funcionando para el concierto de adoración.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is important that the worship team be in unity before the service.	Es importante que el equipo de adoración esté en unidad antes del culto.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	So that the music be excellent, all musicians must be prepared.	Para que la música esté excelente, todos los músicos deben estar preparados.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I pray that the choir be in tune and full of the Spirit.	Oro para que el coro esté afinado y lleno del Espíritu.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is good that she be at the microphone for the solo.	Es bueno que esté en el micrófono para el solo.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	May God be glorified in the songs we sing tonight.	Que Dios esté glorificado en las canciones que cantemos esta noche.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I pray that the gospel be proclaimed with clarity tonight.	Oro para que el evangelio esté siendo proclamado con claridad esta noche.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is important that the sermon be grounded in Scripture.	Es importante que el sermón esté fundamentado en las Escrituras.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	God wants the lost to be found by the truth.	Dios quiere que los perdidos estén siendo encontrados por la verdad.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	May all who are here tonight be touched by the Spirit of God.	Que todos los que estén aquí esta noche sean tocados por el Espíritu de Dios.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I hope everyone is encouraged after the Bible study.	Espero que todos estén alentados después del estudio bíblico.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I do not believe the pastor is aware of the situation.	No creo que el pastor esté consciente de la situación.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is possible that they are already on their way.	Es posible que ya estén en camino.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I hope the new members are comfortable in the congregation.	Espero que los nuevos miembros estén cómodos en la congregación.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is necessary that the leadership be aligned before moving forward.	Es necesario que el liderazgo esté alineado antes de seguir adelante.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I want the volunteers to be energized and motivated.	Quiero que los voluntarios estén energizados y motivados.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	May the hearts of those who hear the gospel be open.	Que los corazones de los que escuchen el evangelio estén abiertos.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I pray that our children be surrounded by godly friends.	Oro para que nuestros hijos estén rodeados de amigos temerosos de Dios.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is important that we be faithful in the little things God gives us.	Es importante que estemos siendo fieles en las cosas pequeñas que Dios nos da.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	So that the prayer be effective, our hearts must be sincere.	Para que la oración esté siendo efectiva, nuestros corazones deben ser sinceros.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I hope the congregation is encouraged by the testimony tonight.	Espero que la congregación esté alentada por el testimonio de esta noche.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is good that the body of Christ be active in serving the poor.	Es bueno que el cuerpo de Cristo esté activo sirviendo a los pobres.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I need the announcement to be ready before the service starts.	Necesito que el anuncio esté listo antes de que empiece el culto.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is important that everyone be welcomed warmly at the door.	Es importante que todos estén siendo bienvenidos calurosamente en la puerta.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	So that the ministry be healthy, the team must communicate.	Para que el ministerio esté saludable, el equipo debe comunicarse.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I pray that the new couple be rooted in the Word.	Oro para que la nueva pareja esté arraigada en la Palabra.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	May you always be in the center of God will for your life.	Que siempre estés en el centro de la voluntad de Dios para tu vida.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I want this church to be a refuge for the hurting.	Quiero que esta iglesia esté siendo un refugio para los heridos.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is necessary that every believer be growing in their faith.	Es necesario que cada creyente esté creciendo en su fe.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	God desires that we be clothed in humility.	Dios desea que estemos vestidos de humildad.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	May the peace of God be with you wherever you go.	Que la paz de Dios esté contigo dondequiera que vayas.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I pray that the church be at peace after the difficult season.	Oro para que la iglesia esté en paz después de la temporada difícil.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is important that the testimony be truthful and edifying.	Es importante que el testimonio esté siendo veraz y edificante.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	So that we be used by God, we must be yielded to the Spirit.	Para que estemos siendo usados por Dios, debemos estar rendidos al Espíritu.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I hope the community event is a blessing to all who attend.	Espero que el evento comunitario esté siendo una bendición para todos los que asistan.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	It is good that the church be known for love and service.	Es bueno que la iglesia esté siendo conocida por el amor y el servicio.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I want every person to be valued and seen in this congregation.	Quiero que cada persona esté siendo valorada y vista en esta congregación.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	May this church be positioned to reach the next generation.	Que esta iglesia esté posicionada para alcanzar a la próxima generación.	Estar Present Subjunctive
+Basic	Estar::Present::Subjunctive	I pray that every family be touched by the love of Christ.	Oro para que cada familia esté siendo tocada por el amor de Cristo.	Estar Present Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If I were at church more often, my faith would grow.	Si estuviera en la iglesia más seguido, mi fe crecería.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	The pastor hoped we would be ready for the mission call.	El pastor esperaba que estuviéramos listos para el llamado misionero.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If she were at the prayer meeting, the atmosphere would change.	Si estuviera en la reunión de oración, la atmósfera cambiaría.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We prayed that we would be united before the outreach event.	Oramos para que estuviéramos unidos antes del evento de alcance.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If they were more committed, the ministry would flourish.	Si estuvieran más comprometidos, el ministerio florecería.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If only I were more at peace with my calling.	Ojalá estuviera más en paz con mi llamado.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	God wanted us to be filled with the Spirit daily.	Dios quería que estuviéramos llenos del Espíritu a diario.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If he were more available, he could lead the discipleship group.	Si estuviera más disponible, podría dirigir el grupo de discipulado.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We needed everyone to be present for the church vote.	Necesitábamos que todos estuvieran presentes para la votación de la iglesia.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If they were more rooted in Scripture, they would not be swayed.	Si estuvieran más arraigados en las Escrituras, no serían influenciados.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If I were at the airport on time, I would not have missed the flight.	Si estuviera en el aeropuerto a tiempo, no habría perdido el vuelo.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	I wished you would be at the hotel when the group checked in.	Ojalá que estuvieras en el hotel cuando el grupo hiciera el registro.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If she were at the mission site, she could help with translation.	Si estuviera en el sitio misionero, podría ayudar con la traducción.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We hoped we would be in the village before sunset.	Esperábamos que estuviéramos en el pueblo antes de la puesta del sol.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If they were at the conference, they would be inspired.	Si estuvieran en la conferencia, estarían inspirados.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If the food were warm, more people would enjoy the potluck.	Si la comida estuviera caliente, más personas disfrutarían el almuerzo compartido.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	I wished the tamales would be ready before the guests arrived.	Ojalá que los tamales estuvieran listos antes de que llegaran los invitados.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If the soup were hotter, it would be more comforting.	Si la sopa estuviera más caliente, sería más reconfortante.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We hoped the table would be set before the guests came.	Esperábamos que la mesa estuviera puesta antes de que llegaran los invitados.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If the restaurant were open, we could eat after the service.	Si el restaurante estuviera abierto, podríamos comer después del culto.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If the house were cleaner, I would feel more at ease.	Si la casa estuviera más limpia, me sentiría más tranquilo.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	I needed the room to be ready before the Bible study group arrived.	Necesitaba que el cuarto estuviera listo antes de que llegara el grupo de estudio bíblico.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If the apartment were closer to the church, we would move.	Si el apartamento estuviera más cerca de la iglesia, nos mudaríamos.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We hoped our new home would be blessed by God.	Esperábamos que nuestro nuevo hogar estuviera bendecido por Dios.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If the yard were safer, the children could play more freely.	Si el patio estuviera más seguro, los niños podrían jugar más libremente.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If I were home more, I would spend more time with my family.	Si estuviera más en casa, pasaría más tiempo con mi familia.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	Mom wished my father would be at dinner more often.	Mamá deseaba que mi padre estuviera en la cena más seguido.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If she were home more, the children would feel more secure.	Si estuviera más en casa, los niños se sentirían más seguros.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We prayed that we would be together as a family more often.	Oramos para que estuviéramos juntos como familia más seguido.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If they were more present, the children would feel loved.	Si estuvieran más presentes, los niños se sentirían amados.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If I were available more often, I could be a better friend.	Si estuviera disponible más seguido, podría ser un mejor amigo.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	She hoped her friends would be there for her during the trial.	Ella esperaba que sus amigos estuvieran ahí para ella durante la prueba.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If he were more emotionally present, the friendship would deepen.	Si estuviera más emocionalmente presente, la amistad se profundizaría.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We hoped everyone would be at the gathering to celebrate.	Esperábamos que todos estuvieran en la reunión para celebrar.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If they were more consistent in showing up, the group would grow.	Si estuvieran más consistentes en asistir, el grupo crecería.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If the dog were calmer, the vet visits would be easier.	Si el perro estuviera más tranquilo, las visitas al veterinario serían más fáciles.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	I needed the cat to be comfortable before the move.	Necesitaba que el gato estuviera cómodo antes de la mudanza.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If the rabbit were less anxious, it would be easier to handle.	Si el conejo estuviera menos ansioso, sería más fácil manejarlo.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We hoped the animals would be settled in the new house quickly.	Esperábamos que los animales estuvieran establecidos en la nueva casa rápidamente.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If they were more careful with the pets, accidents would be avoided.	Si estuvieran más cuidadosos con las mascotas, los accidentes se evitarían.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If I were more focused in class, I would learn faster.	Si estuviera más enfocado en clase, aprendería más rápido.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	The teacher wished the students would be more prepared.	La maestra deseaba que los estudiantes estuvieran más preparados.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If she were more attentive, she would pass all her classes.	Si estuviera más atenta, pasaría todas sus clases.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We wanted everyone to be present for the graduation ceremony.	Queríamos que todos estuvieran presentes para la ceremonia de graduación.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If they were more disciplined in studying, they would excel.	Si estuvieran más disciplinados en el estudio, sobresaldrían.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If I were in better health, I could serve more faithfully.	Si estuviera en mejor salud, podría servir más fielmente.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	The doctor wished the patient would be more cooperative.	El médico deseaba que el paciente estuviera más cooperativo.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If the clinic were open on Sundays, more people could be helped.	Si la clínica estuviera abierta los domingos, más personas podrían ser ayudadas.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We hoped the whole team would be present for the medical mission.	Esperábamos que todo el equipo estuviera presente para la misión médica.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If they were healthier, they could participate in more activities.	Si estuvieran más saludables, podrían participar en más actividades.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If I were less stressed, I could serve God more effectively.	Si estuviera menos estresado, podría servir a Dios más efectivamente.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	The boss wished everyone would be on time for the meetings.	El jefe deseaba que todos estuvieran a tiempo para las reuniones.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If she were more organized, she could manage the ministry better.	Si estuviera más organizada, podría manejar el ministerio mejor.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We needed the report to be ready before the board meeting.	Necesitábamos que el informe estuviera listo antes de la reunión de la junta.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If they were more efficient, the project would be done sooner.	Si estuvieran más eficientes, el proyecto estaría terminado antes.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If I were at the rehearsal more, my music would improve.	Si estuviera en el ensayo más seguido, mi música mejoraría.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	The director wished the choir would be more in tune.	El director deseaba que el coro estuviera más afinado.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If she were at more rehearsals, she would be ready for the concert.	Si estuviera en más ensayos, estaría lista para el concierto.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We hoped the worship team would be anointed for the service.	Esperábamos que el equipo de adoración estuviera ungido para el culto.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If they were more prepared, the performance would bless more people.	Si estuvieran más preparados, la actuación bendeciría a más personas.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If only the congregation were more engaged during worship.	Ojalá la congregación estuviera más comprometida durante la adoración.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	God desired that we would be at peace even in the storms.	Dios deseaba que estuviéramos en paz incluso en las tormentas.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If the sermon were longer, we would all still stay.	Si el sermón estuviera más largo, todos nos quedaríamos de igual manera.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We prayed that we would be ready when Jesus returned.	Oramos para que estuviéramos listos cuando Jesús regresara.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If they were more rooted in prayer, they would face trials better.	Si estuvieran más arraigados en la oración, enfrentarían las pruebas mejor.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If I were more surrendered to God, his plans would unfold clearly.	Si estuviera más rendido a Dios, sus planes se revelarían con claridad.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	She wished the congregation would be more generous with the offering.	Ella deseaba que la congregación estuviera siendo más generosa con la ofrenda.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If he were more open to the Spirit, great things would happen.	Si estuviera más abierto al Espíritu, grandes cosas ocurrirían.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We hoped the prayer meeting would be full of faith.	Esperábamos que la reunión de oración estuviera llena de fe.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If they were less distracted, the ministry would be more effective.	Si estuvieran menos distraídos, el ministerio sería más efectivo.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If I were in a stronger community, my faith would grow faster.	Si estuviera en una comunidad más fuerte, mi fe crecería más rápido.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	The team hoped we would be aligned in vision and purpose.	El equipo esperaba que estuviéramos alineados en visión y propósito.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If she were more healed from her past, she could lead others.	Si estuviera más sanada de su pasado, podría guiar a otros.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We needed the sanctuary to be ready before the guests arrived.	Necesitábamos que el santuario estuviera listo antes de que llegaran los invitados.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If they were more generous, many more people would be helped.	Si estuvieran siendo más generosos, muchas más personas serían ayudadas.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If I were more consistent in prayer, my life would be different.	Si estuviera más consistente en la oración, mi vida sería diferente.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	God wished his people would be always at his feet in worship.	Dios deseaba que su pueblo siempre estuviera a sus pies en adoración.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If the worship team were more unified, the sound would be richer.	Si el equipo de adoración estuviera más unido, el sonido sería más rico.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We prayed that the new converts would be grounded in the faith.	Oramos para que los nuevos convertidos estuvieran arraigados en la fe.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If they were more dedicated to fasting, breakthroughs would come.	Si estuvieran más dedicados al ayuno, los avances espirituales llegarían.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If I were at the grocery store earlier, I would have gotten everything.	Si estuviera en el supermercado más temprano, habría conseguido todo.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	She hoped her family would be together for the summer.	Ella esperaba que su familia estuviera junta para el verano.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If the school were closer, the children could walk there daily.	Si la escuela estuviera más cerca, los niños podrían caminar allí a diario.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We hoped the exam would be well-structured and fair.	Esperábamos que el examen estuviera bien estructurado y justo.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If they were more focused in class, they would retain more.	Si estuvieran más enfocados en clase, retendrían más.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If I were more patient as a teacher, I would explain things better.	Si estuviera más paciente como maestro, explicaría las cosas mejor.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	The doctor hoped the patient would be stable by morning.	El médico esperaba que el paciente estuviera estable para la mañana.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If the treatment were less intense, more would comply with it.	Si el tratamiento estuviera menos intenso, más personas lo cumplirían.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We hoped the health campaign would be well-attended by the community.	Esperábamos que la campaña de salud estuviera bien asistida por la comunidad.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If they were more health-conscious, they could prevent many illnesses.	Si estuvieran más conscientes de su salud, podrían prevenir muchas enfermedades.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If I were less overwhelmed at work, I could serve more at church.	Si estuviera menos agobiado en el trabajo, podría servir más en la iglesia.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	The boss wished the team would be more collaborative.	El jefe deseaba que el equipo estuviera siendo más colaborativo.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If she were in a different role, she could impact more lives.	Si estuviera en un papel diferente, podría impactar más vidas.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We hoped the church budget would be approved before the year ended.	Esperábamos que el presupuesto de la iglesia estuviera aprobado antes de que terminara el año.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If they were more aligned in purpose, the team would accomplish more.	Si estuvieran más alineados en propósito, el equipo lograría más.	Estar Imperfect Subjunctive
+Basic	Estar::Present::Perfect	I have been at this church for three years.	He estado en esta iglesia por tres años.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been at the prayer meeting this week?	¿Has estado en la reunión de oración esta semana?	Estar Present Perfect
+Basic	Estar::Present::Perfect	She has been at the mission field for two months now.	Ha estado en el campo misionero por dos meses ya.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been at this retreat center before.	Hemos estado en este centro de retiro antes.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been busy preparing for the church conference.	Han estado ocupados preparando para la conferencia de la iglesia.	Estar Present Perfect
+Basic	Estar::Present::Perfect	I have been praying for you every morning this week.	He estado orando por ti cada mañana esta semana.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been involved in the children ministry?	¿Has estado involucrado en el ministerio de niños?	Estar Present Perfect
+Basic	Estar::Present::Perfect	He has been at the hospital visiting the sick members.	Ha estado en el hospital visitando a los miembros enfermos.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been meeting at his house for the small group.	Hemos estado reuniéndonos en su casa para el grupo pequeño.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been at the outreach event every Saturday this month.	Han estado en el evento de alcance cada sábado de este mes.	Estar Present Perfect
+Basic	Estar::Present::Perfect	I have been at several mission trips over the years.	He estado en varios viajes misioneros a lo largo de los años.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been to Latin America for mission work?	¿Has estado en América Latina para trabajo misionero?	Estar Present Perfect
+Basic	Estar::Present::Perfect	She has been at the host family house during the trip.	Ha estado en la casa de la familia anfitriona durante el viaje.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been in four countries this year on mission trips.	Hemos estado en cuatro países este año en viajes misioneros.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been at the remote village sharing the gospel.	Han estado en el pueblo remoto compartiendo el evangelio.	Estar Present Perfect
+Basic	Estar::Present::Perfect	The food has been delicious at every church potluck this year.	La comida ha estado deliciosa en cada almuerzo compartido de la iglesia este año.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been eating well this week?	¿Has estado comiendo bien esta semana?	Estar Present Perfect
+Basic	Estar::Present::Perfect	She has been at the kitchen cooking for the family all afternoon.	Ha estado en la cocina cocinando para la familia toda la tarde.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been at the same restaurant after Sunday service for months.	Hemos estado en el mismo restaurante después del culto del domingo por meses.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been grateful for every meal provided during the trip.	Han estado agradecidos por cada comida provista durante el viaje.	Estar Present Perfect
+Basic	Estar::Present::Perfect	I have been at home resting this week after the conference.	He estado en casa descansando esta semana después de la conferencia.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been keeping the house clean while I was away?	¿Has estado manteniendo la casa limpia mientras estaba fuera?	Estar Present Perfect
+Basic	Estar::Present::Perfect	She has been at home preparing for the Bible study group.	Ha estado en casa preparando para el grupo de estudio bíblico.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been decorating the house for the holiday celebration.	Hemos estado decorando la casa para la celebración de las fiestas.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been living in their new home for six months.	Han estado viviendo en su nuevo hogar por seis meses.	Estar Present Perfect
+Basic	Estar::Present::Perfect	I have been spending more time with my family this year.	He estado pasando más tiempo con mi familia este año.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been in touch with your parents this week?	¿Has estado en contacto con tus padres esta semana?	Estar Present Perfect
+Basic	Estar::Present::Perfect	She has been at her grandparents house helping with chores.	Ha estado en la casa de sus abuelos ayudando con los quehaceres.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been praying for our family members who are far from God.	Hemos estado orando por los miembros de nuestra familia que están lejos de Dios.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been closer than ever as a family this year.	Han estado más unidos que nunca como familia este año.	Estar Present Perfect
+Basic	Estar::Present::Perfect	I have been checking in on my friends from church regularly.	He estado revisando a mis amigos de la iglesia con regularidad.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been at the small group with the new friends?	¿Has estado en el grupo pequeño con los nuevos amigos?	Estar Present Perfect
+Basic	Estar::Present::Perfect	She has been there for me through every difficult moment.	Ha estado ahí para mí en cada momento difícil.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been growing in our friendship through shared faith.	Hemos estado creciendo en nuestra amistad a través de la fe compartida.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been encouraging each other through the hard season.	Han estado animándose mutuamente durante la temporada difícil.	Estar Present Perfect
+Basic	Estar::Present::Perfect	My dog has been at the vet twice this month already.	Mi perro ha estado en el veterinario dos veces este mes ya.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been taking the cat to checkups regularly?	¿Has estado llevando al gato a chequeos regularmente?	Estar Present Perfect
+Basic	Estar::Present::Perfect	The rabbit has been calm and well-adjusted since we adopted it.	El conejo ha estado tranquilo y bien adaptado desde que lo adoptamos.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been volunteers at the animal shelter for a year.	Hemos estado como voluntarios en el refugio de animales por un año.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been taking great care of their animals.	Han estado cuidando muy bien a sus animales.	Estar Present Perfect
+Basic	Estar::Present::Perfect	I have been studying theology at the seminary this year.	He estado estudiando teología en el seminario este año.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been at the study group this semester?	¿Has estado en el grupo de estudio este semestre?	Estar Present Perfect
+Basic	Estar::Present::Perfect	She has been at the top of her class in Scripture memorization.	Ha estado en la cima de su clase en memorización de las Escrituras.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been preparing for the Bible quiz all month.	Hemos estado preparándonos para el concurso bíblico todo el mes.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been learning about the fruits of the Spirit in class.	Han estado aprendiendo sobre los frutos del Espíritu en clase.	Estar Present Perfect
+Basic	Estar::Present::Perfect	I have been feeling better since the doctor changed my medication.	He estado sintiéndome mejor desde que el médico cambió mi medicamento.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been following the treatment plan?	¿Has estado siguiendo el plan de tratamiento?	Estar Present Perfect
+Basic	Estar::Present::Perfect	She has been in the hospital for three days but is improving.	Ha estado en el hospital por tres días pero está mejorando.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been fasting and praying for the healing of our friend.	Hemos estado ayunando y orando por la sanidad de nuestro amigo.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been at the clinic serving patients faithfully.	Han estado en la clínica sirviendo a los pacientes fielmente.	Estar Present Perfect
+Basic	Estar::Present::Perfect	I have been at the office late trying to finish the ministry budget.	He estado en la oficina hasta tarde tratando de terminar el presupuesto ministerial.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been busy with the new ministry launch?	¿Has estado ocupado con el lanzamiento del nuevo ministerio?	Estar Present Perfect
+Basic	Estar::Present::Perfect	She has been at the front lines of the community outreach.	Ha estado en la primera línea del alcance comunitario.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been working hard to meet the needs of the community.	Hemos estado trabajando duro para satisfacer las necesidades de la comunidad.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been committed to the mission since day one.	Han estado comprometidos con la misión desde el primer día.	Estar Present Perfect
+Basic	Estar::Present::Perfect	I have been at the piano practicing worship songs every evening.	He estado en el piano practicando canciones de adoración cada tarde.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been at every choir rehearsal this month?	¿Has estado en cada ensayo del coro este mes?	Estar Present Perfect
+Basic	Estar::Present::Perfect	She has been leading worship with great passion and skill.	Ha estado dirigiendo la adoración con gran pasión y habilidad.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been preparing new arrangements for the Easter service.	Hemos estado preparando nuevos arreglos para el culto de Pascua.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been at the recording studio all week for the new album.	Han estado en el estudio de grabación toda la semana para el nuevo álbum.	Estar Present Perfect
+Basic	Estar::Present::Perfect	God has been faithful to us through every season of life.	Dios ha estado fiel con nosotros en cada temporada de la vida.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been at peace even in the middle of the storm?	¿Has estado en paz incluso en medio de la tormenta?	Estar Present Perfect
+Basic	Estar::Present::Perfect	He has been standing on the promises of God through the trial.	Ha estado de pie sobre las promesas de Dios durante la prueba.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been trusting God with the details of our lives.	Hemos estado confiando en Dios con los detalles de nuestras vidas.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been walking in victory since they surrendered to God.	Han estado caminando en victoria desde que se rindieron a Dios.	Estar Present Perfect
+Basic	Estar::Present::Perfect	I have been growing stronger in my faith through this process.	He estado creciendo más fuerte en mi fe a través de este proceso.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been reading the Bible daily this month?	¿Has estado leyendo la Biblia a diario este mes?	Estar Present Perfect
+Basic	Estar::Present::Perfect	He has been discipling young men in the church for years.	Ha estado discipulando a jóvenes en la iglesia por años.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been interceding for revival in our nation.	Hemos estado intercediendo por el avivamiento en nuestra nación.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been sharing the gospel boldly in the marketplace.	Han estado compartiendo el evangelio con valentía en el mercado.	Estar Present Perfect
+Basic	Estar::Present::Perfect	I have been at the food pantry every week serving the hungry.	He estado en la despensa de alimentos cada semana sirviendo a los hambrientos.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been volunteering at the community outreach this month?	¿Has estado siendo voluntario en el alcance comunitario este mes?	Estar Present Perfect
+Basic	Estar::Present::Perfect	She has been a consistent presence at the homeless shelter.	Ha estado siendo una presencia consistente en el refugio para personas sin hogar.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been serving the poor and sharing the love of Christ.	Hemos estado sirviendo a los pobres y compartiendo el amor de Cristo.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been a blessing to everyone they have encountered.	Han estado siendo una bendición para todos los que han encontrado.	Estar Present Perfect
+Basic	Estar::Present::Perfect	I have been seeking God with all my heart in this season.	He estado buscando a Dios con todo mi corazón en esta temporada.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been engaged in the church discipleship program?	¿Has estado involucrado en el programa de discipulado de la iglesia?	Estar Present Perfect
+Basic	Estar::Present::Perfect	He has been at the prayer wall every morning this week.	Ha estado en el muro de oración cada mañana esta semana.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been encouraged by the testimonies of answered prayers.	Hemos estado alentados por los testimonios de oraciones respondidas.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been growing in the grace and knowledge of Christ.	Han estado creciendo en la gracia y el conocimiento de Cristo.	Estar Present Perfect
+Basic	Estar::Present::Perfect	I have been at peace knowing God is with me wherever I go.	He estado en paz sabiendo que Dios está conmigo dondequiera que vaya.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been putting God first in all your decisions?	¿Has estado poniendo a Dios primero en todas tus decisiones?	Estar Present Perfect
+Basic	Estar::Present::Perfect	She has been growing in spiritual maturity over the past year.	Ha estado creciendo en madurez espiritual durante el último año.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been equipped by God for every good work.	Hemos estado siendo equipados por Dios para toda buena obra.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been renewed in their commitment to the church.	Han estado siendo renovados en su compromiso con la iglesia.	Estar Present Perfect
+Basic	Estar::Present::Perfect	I have been at the gym three times this week for my health.	He estado en el gimnasio tres veces esta semana para mi salud.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been eating healthy since the doctor visit?	¿Has estado comiendo saludable desde la visita al médico?	Estar Present Perfect
+Basic	Estar::Present::Perfect	He has been doing physical therapy since the accident.	Ha estado haciendo terapia física desde el accidente.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been grateful to God for the restoration of our health.	Hemos estado agradecidos a Dios por la restauración de nuestra salud.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been at the wellness clinic every Saturday this month.	Han estado en la clínica de bienestar cada sábado de este mes.	Estar Present Perfect
+Basic	Estar::Present::Perfect	I have been at the table of the Lord finding nourishment in his Word.	He estado en la mesa del Señor encontrando alimento en su Palabra.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been at the altar seeking God this week?	¿Has estado en el altar buscando a Dios esta semana?	Estar Present Perfect
+Basic	Estar::Present::Perfect	She has been a pillar of faith during the hardest times.	Ha estado siendo un pilar de fe durante los tiempos más difíciles.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been abiding in Christ and bearing fruit for the kingdom.	Hemos estado permaneciendo en Cristo y dando fruto para el reino.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been filled with joy because they trust in God.	Han estado llenos de alegría porque confían en Dios.	Estar Present Perfect
+Basic	Estar::Present::Perfect	I have been waiting on the Lord and he has been renewing my strength.	He estado esperando en el Señor y él ha estado renovando mis fuerzas.	Estar Present Perfect
+Basic	Estar::Present::Perfect	Have you been at peace with the path God has set for you?	¿Has estado en paz con el camino que Dios ha trazado para ti?	Estar Present Perfect
+Basic	Estar::Present::Perfect	He has been a testimony of God grace to everyone who knows him.	Ha estado siendo un testimonio de la gracia de Dios para todos los que lo conocen.	Estar Present Perfect
+Basic	Estar::Present::Perfect	We have been called to be a light in this dark world.	Hemos estado siendo llamados a ser una luz en este mundo oscuro.	Estar Present Perfect
+Basic	Estar::Present::Perfect	They have been at the center of God will for their lives.	Han estado en el centro de la voluntad de Dios para sus vidas.	Estar Present Perfect
+Basic	Estar::Past::Perfect	I had been at the church for an hour before the service started.	Había estado en la iglesia por una hora antes de que comenzara el culto.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had you been at the prayer meeting before the revival began?	¿Habías estado en la reunión de oración antes de que comenzara el avivamiento?	Estar Past Perfect
+Basic	Estar::Past::Perfect	She had been at the altar praying before anyone else arrived.	Había estado en el altar orando antes de que llegara alguien más.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been at the retreat center for two days before the rest came.	Habíamos estado en el centro de retiro por dos días antes de que llegaran los demás.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been at the mission field for a year before we joined them.	Habían estado en el campo misionero por un año antes de que nos uniéramos a ellos.	Estar Past Perfect
+Basic	Estar::Past::Perfect	I had been praying about this decision for months before acting.	Había estado orando sobre esta decisión por meses antes de actuar.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had you been at the Bible college before transferring?	¿Habías estado en el colegio bíblico antes de transferirte?	Estar Past Perfect
+Basic	Estar::Past::Perfect	He had been at the discipleship class for a year before leading one.	Había estado en la clase de discipulado por un año antes de dirigir una.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been meeting in a home before the church building was ready.	Habíamos estado reuniéndonos en una casa antes de que el edificio de la iglesia estuviera listo.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been at the evangelism training before the mission trip.	Habían estado en el entrenamiento de evangelismo antes del viaje misionero.	Estar Past Perfect
+Basic	Estar::Past::Perfect	I had been at the airport for three hours before the flight was announced.	Había estado en el aeropuerto por tres horas antes de que se anunciara el vuelo.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had you been at the hotel long before the rest of the team arrived?	¿Habías estado en el hotel mucho tiempo antes de que llegara el resto del equipo?	Estar Past Perfect
+Basic	Estar::Past::Perfect	She had been at the host family for a week before we departed.	Había estado con la familia anfitriona por una semana antes de que partiéramos.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been in the village for three days before the medical team arrived.	Habíamos estado en el pueblo por tres días antes de que llegara el equipo médico.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been at the conference center since early morning.	Habían estado en el centro de conferencias desde temprano en la mañana.	Estar Past Perfect
+Basic	Estar::Past::Perfect	The food had been warm for a long time before we finally sat down.	La comida había estado caliente por mucho tiempo antes de que finalmente nos sentáramos.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had the restaurant been open before they remodeled it?	¿Había estado el restaurante abierto antes de que lo remodelaran?	Estar Past Perfect
+Basic	Estar::Past::Perfect	She had been at the kitchen cooking since early afternoon.	Había estado en la cocina cocinando desde temprano en la tarde.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been seated at the table waiting when the food finally arrived.	Habíamos estado sentados en la mesa esperando cuando finalmente llegó la comida.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been at the potluck for hours before the pastor arrived.	Habían estado en el almuerzo compartido por horas antes de que llegara el pastor.	Estar Past Perfect
+Basic	Estar::Past::Perfect	I had been at home all day before going to the evening service.	Había estado en casa todo el día antes de ir al culto de la tarde.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had the house been ready before the guests showed up?	¿Había estado la casa lista antes de que llegaran los invitados?	Estar Past Perfect
+Basic	Estar::Past::Perfect	She had been at the kitchen since dawn preparing the Christmas meal.	Había estado en la cocina desde el amanecer preparando la comida de Navidad.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been at home setting up before the family arrived.	Habíamos estado en casa preparando antes de que llegara la familia.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been at the new house for just a week when it started raining.	Habían estado en la nueva casa solo una semana cuando empezó a llover.	Estar Past Perfect
+Basic	Estar::Past::Perfect	I had been with my parents all week before the surgery.	Había estado con mis padres toda la semana antes de la cirugía.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had you been at your grandparents house before the holidays?	¿Habías estado en la casa de tus abuelos antes de las fiestas?	Estar Past Perfect
+Basic	Estar::Past::Perfect	She had been at the hospital with her mother for two nights.	Había estado en el hospital con su madre por dos noches.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been planning the family reunion for months before it happened.	Habíamos estado planeando la reunión familiar por meses antes de que ocurriera.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been together as a family before the pandemic separated them.	Habían estado juntos como familia antes de que la pandemia los separara.	Estar Past Perfect
+Basic	Estar::Past::Perfect	I had been at the coffee shop with my friend before she moved away.	Había estado en la cafetería con mi amiga antes de que se mudara.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had you been spending time with friends from the church?	¿Habías estado pasando tiempo con amigos de la iglesia?	Estar Past Perfect
+Basic	Estar::Past::Perfect	She had been there for him through every hard season before this one.	Había estado ahí para él en cada temporada difícil antes de esta.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been meeting as a friend group every Friday before work got busy.	Habíamos estado reuniéndonos como grupo de amigos cada viernes antes de que el trabajo se pusiera ocupado.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been the closest of friends before the misunderstanding.	Habían estado siendo los mejores amigos antes del malentendido.	Estar Past Perfect
+Basic	Estar::Past::Perfect	The dog had been at the groomer before we took the family photo.	El perro había estado en el peluquero antes de que tomáramos la foto familiar.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had the cat been comfortable in the old house before the move?	¿Había estado el gato cómodo en la casa vieja antes de la mudanza?	Estar Past Perfect
+Basic	Estar::Past::Perfect	The rabbit had been shy for weeks before it got used to us.	El conejo había estado tímido por semanas antes de acostumbrarse a nosotros.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been taking care of the animals before the family returned from vacation.	Habíamos estado cuidando a los animales antes de que la familia regresara de vacaciones.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been volunteering at the shelter long before they adopted their pet.	Habían estado siendo voluntarios en el refugio mucho antes de adoptar a su mascota.	Estar Past Perfect
+Basic	Estar::Past::Perfect	I had been studying theology for a year before starting the ministry.	Había estado estudiando teología por un año antes de empezar el ministerio.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had you been at the seminary before transferring to this school?	¿Habías estado en el seminario antes de transferirte a esta escuela?	Estar Past Perfect
+Basic	Estar::Past::Perfect	She had been at the top of her class before the health setback.	Había estado en la cima de su clase antes del problema de salud.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been studying together for weeks before the exam.	Habíamos estado estudiando juntos por semanas antes del examen.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been at the Bible quiz training every week before the competition.	Habían estado en el entrenamiento del concurso bíblico cada semana antes de la competencia.	Estar Past Perfect
+Basic	Estar::Past::Perfect	I had been feeling unwell for days before going to the doctor.	Había estado sintiéndome mal por días antes de ir al médico.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had the patient been stable before the emergency occurred?	¿Había estado el paciente estable antes de que ocurriera la emergencia?	Estar Past Perfect
+Basic	Estar::Past::Perfect	She had been in recovery for two months before the setback.	Había estado en recuperación por dos meses antes de la recaída.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been praying for his healing for a long time before the miracle.	Habíamos estado orando por su sanidad por mucho tiempo antes del milagro.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been at the community health clinic helping families.	Habían estado en la clínica comunitaria de salud ayudando a las familias.	Estar Past Perfect
+Basic	Estar::Past::Perfect	I had been at the office working on the proposal before the meeting.	Había estado en la oficina trabajando en la propuesta antes de la reunión.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had you been busy with the ministry project before it was canceled?	¿Habías estado ocupado con el proyecto del ministerio antes de que fuera cancelado?	Estar Past Perfect
+Basic	Estar::Past::Perfect	She had been at the conference networking before we arrived.	Había estado en la conferencia haciendo contactos antes de que llegáramos.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been working together on the budget before the deadline passed.	Habíamos estado trabajando juntos en el presupuesto antes de que pasara la fecha límite.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been at the volunteer training before the event began.	Habían estado en el entrenamiento de voluntarios antes de que comenzara el evento.	Estar Past Perfect
+Basic	Estar::Past::Perfect	I had been at the rehearsal for hours before the concert started.	Había estado en el ensayo por horas antes de que comenzara el concierto.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had you been at the stage setup before the worship team arrived?	¿Habías estado en la preparación del escenario antes de que llegara el equipo de adoración?	Estar Past Perfect
+Basic	Estar::Past::Perfect	She had been at the microphone practicing before the congregation arrived.	Había estado en el micrófono practicando antes de que llegara la congregación.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been recording songs for the album before the studio booked another artist.	Habíamos estado grabando canciones para el álbum antes de que el estudio reservara a otro artista.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been at the sound booth testing equipment since early morning.	Habían estado en la cabina de sonido probando el equipo desde temprano en la mañana.	Estar Past Perfect
+Basic	Estar::Past::Perfect	God had been faithful even when I had not been faithful to him.	Dios había estado fiel incluso cuando yo no había sido fiel a él.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had the church been at peace before the conflict arose?	¿Había estado la iglesia en paz antes de que surgiera el conflicto?	Estar Past Perfect
+Basic	Estar::Past::Perfect	He had been at the altar seeking God before the breakthrough came.	Había estado en el altar buscando a Dios antes de que llegara el avance espiritual.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been standing on the promises of God before the answer came.	Habíamos estado de pie sobre las promesas de Dios antes de que llegara la respuesta.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been trusting God even when circumstances looked impossible.	Habían estado confiando en Dios incluso cuando las circunstancias parecían imposibles.	Estar Past Perfect
+Basic	Estar::Past::Perfect	I had been in a difficult season before God turned everything around.	Había estado en una temporada difícil antes de que Dios cambiara todo.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had you been at peace before you received the difficult news?	¿Habías estado en paz antes de recibir las malas noticias?	Estar Past Perfect
+Basic	Estar::Past::Perfect	He had been going through trials before God answered his prayer.	Había estado pasando por pruebas antes de que Dios respondiera su oración.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been in a spiritual drought before the revival came.	Habíamos estado en una sequía espiritual antes de que llegara el avivamiento.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been burdened for the lost before the evangelism movement began.	Habían estado cargados por los perdidos antes de que comenzara el movimiento de evangelismo.	Estar Past Perfect
+Basic	Estar::Past::Perfect	I had been at the food pantry every week before moving to a new city.	Había estado en la despensa de alimentos cada semana antes de mudarme a una nueva ciudad.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had you been volunteering at the shelter before you joined the staff?	¿Habías estado siendo voluntario en el refugio antes de unirte al personal?	Estar Past Perfect
+Basic	Estar::Past::Perfect	She had been the face of the outreach ministry before she retired.	Había estado siendo la cara del ministerio de alcance antes de jubilarse.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been serving the poor and vulnerable before the organization was formed.	Habíamos estado sirviendo a los pobres y vulnerables antes de que se formara la organización.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been a light in the community before the church was built.	Habían estado siendo una luz en la comunidad antes de que se construyera la iglesia.	Estar Past Perfect
+Basic	Estar::Past::Perfect	I had been seeking God direction before the doors opened.	Había estado buscando la dirección de Dios antes de que se abrieran las puertas.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had the congregation been growing before the new leadership arrived?	¿Había estado la congregación creciendo antes de que llegara el nuevo liderazgo?	Estar Past Perfect
+Basic	Estar::Past::Perfect	He had been mentoring young people before he started the discipleship program.	Había estado mentoreando a jóvenes antes de que comenzara el programa de discipulado.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been committed to prayer before the breakthrough finally came.	Habíamos estado comprometidos con la oración antes de que finalmente llegara el avance espiritual.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been interceding for the nation for years before the revival.	Habían estado intercediendo por la nación por años antes del avivamiento.	Estar Past Perfect
+Basic	Estar::Past::Perfect	I had been at the gym regularly before the injury stopped me.	Había estado en el gimnasio regularmente antes de que la lesión me detuviera.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had the patient been doing physical therapy before the setback?	¿Había estado el paciente haciendo terapia física antes de la recaída?	Estar Past Perfect
+Basic	Estar::Past::Perfect	She had been following the nutrition plan before the health crisis.	Había estado siguiendo el plan de nutrición antes de la crisis de salud.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been at the community health fair helping families before the funding ended.	Habíamos estado en la feria de salud comunitaria ayudando a familias antes de que se acabara el financiamiento.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been doing preventive care for years before the diagnosis.	Habían estado haciendo atención preventiva por años antes del diagnóstico.	Estar Past Perfect
+Basic	Estar::Past::Perfect	I had been at the music studio before the worship team needed me.	Había estado en el estudio de música antes de que el equipo de adoración me necesitara.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had you been at the youth worship night before it was canceled?	¿Habías estado en la noche de adoración juvenil antes de que fuera cancelada?	Estar Past Perfect
+Basic	Estar::Past::Perfect	She had been leading the choir for a decade before stepping down.	Había estado dirigiendo el coro por una década antes de renunciar.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been creating worship music together before the pandemic.	Habíamos estado creando música de adoración juntos antes de la pandemia.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been practicing the new song for weeks before performing it.	Habían estado practicando la nueva canción por semanas antes de interpretarla.	Estar Past Perfect
+Basic	Estar::Past::Perfect	I had been leaning on God before the answer finally arrived.	Había estado apoyándome en Dios antes de que finalmente llegara la respuesta.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had you been at peace before the unexpected news arrived?	¿Habías estado en paz antes de que llegara la noticia inesperada?	Estar Past Perfect
+Basic	Estar::Past::Perfect	He had been walking in faith before the testimony became public.	Había estado caminando en fe antes de que el testimonio se hiciera público.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been encouraged by God word even before the situation changed.	Habíamos estado siendo alentados por la Palabra de Dios incluso antes de que cambiara la situación.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been at the feet of Jesus before they stepped into the mission.	Habían estado a los pies de Jesús antes de entrar en la misión.	Estar Past Perfect
+Basic	Estar::Past::Perfect	I had been waiting on God for years before he moved in a mighty way.	Había estado esperando en Dios por años antes de que él se moviera de manera poderosa.	Estar Past Perfect
+Basic	Estar::Past::Perfect	Had you been abiding in Christ before the fruit began to appear?	¿Habías estado permaneciendo en Cristo antes de que comenzara a aparecer el fruto?	Estar Past Perfect
+Basic	Estar::Past::Perfect	She had been filled with the Spirit before the revival broke out.	Había estado llena del Espíritu antes de que estallara el avivamiento.	Estar Past Perfect
+Basic	Estar::Past::Perfect	We had been trusting God with our finances before the miracle came.	Habíamos estado confiando en Dios con nuestras finanzas antes de que llegara el milagro.	Estar Past Perfect
+Basic	Estar::Past::Perfect	They had been committed to their calling even before they saw the fruit.	Habían estado comprometidos con su llamado incluso antes de ver el fruto.	Estar Past Perfect
+Basic	Estar::Conditional	I would be at church every Sunday if I lived closer.	Estaría en la iglesia todos los domingos si viviera más cerca.	Estar Conditional
+Basic	Estar::Conditional	She would be at peace if she trusted God more fully.	Estaría en paz si confiara más plenamente en Dios.	Estar Conditional
+Basic	Estar::Conditional	Would you be willing to be at the hospital visiting the sick?	¿Estarías dispuesto a estar en el hospital visitando a los enfermos?	Estar Conditional
+Basic	Estar::Conditional	We would be at the conference if the tickets were affordable.	Estaríamos en la conferencia si los boletos fueran asequibles.	Estar Conditional
+Basic	Estar::Conditional	They would be at the small group if they had transportation.	Estarían en el grupo pequeño si tuvieran transporte.	Estar Conditional
+Basic	Estar::Conditional	I would be at the food pantry every week if I had more free time.	Estaría en la despensa de alimentos cada semana si tuviera más tiempo libre.	Estar Conditional
+Basic	Estar::Conditional	He would be at the prayer meeting if he was not traveling for work.	Estaría en la reunión de oración si no estuviera viajando por trabajo.	Estar Conditional
+Basic	Estar::Conditional	Would the family be together for the holidays if travel were cheaper?	¿Estaría la familia reunida para las fiestas si el viaje fuera más económico?	Estar Conditional
+Basic	Estar::Conditional	We would be at the mission site helping if the visa process were faster.	Estaríamos en el sitio misionero ayudando si el proceso de visa fuera más rápido.	Estar Conditional
+Basic	Estar::Conditional	They would be at the worship rehearsal if the scheduling allowed it.	Estarían en el ensayo de adoración si el horario lo permitiera.	Estar Conditional
+Basic	Estar::Future::Indicative	I will be at the sunrise prayer service next Easter.	Estaré en el culto de oración al amanecer la próxima Pascua.	Estar Future Indicative
+Basic	Estar::Future::Indicative	She will be at the women Bible study starting next month.	Estará en el estudio bíblico de mujeres a partir del próximo mes.	Estar Future Indicative
+Basic	Estar::Future::Indicative	We will be at the church picnic as a whole family this year.	Estaremos en el picnic de la iglesia como toda la familia este año.	Estar Future Indicative
+Basic	Estar::Future::Indicative	The worship team will be at the recording session all weekend.	El equipo de adoración estará en la sesión de grabación todo el fin de semana.	Estar Future Indicative
+Basic	Estar::Future::Indicative	They will be at the new house by the time we finish the dedication service.	Estarán en la nueva casa para cuando terminemos el culto de dedicación.	Estar Future Indicative
+Basic	Estar::Present::Subjunctive	I hope that God is always at the center of your decisions.	Espero que Dios siempre esté en el centro de tus decisiones.	Estar Present Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If I were more prayerful, I would see more miracles in my life.	Si estuviera siendo más orante, vería más milagros en mi vida.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	The team wished the equipment would be working before showtime.	El equipo deseaba que el equipo estuviera funcionando antes de la función.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If the whole congregation were present, the celebration would be greater.	Si toda la congregación estuviera presente, la celebración sería mayor.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	We needed the proposal to be complete before the deadline arrived.	Necesitábamos que la propuesta estuviera completa antes de que llegara la fecha límite.	Estar Imperfect Subjunctive
+Basic	Estar::Imperfect::Subjunctive	If the children were more settled, the parents could rest easier.	Si los niños estuvieran más establecidos, los padres podrían descansar más tranquilos.	Estar Imperfect Subjunctive

@@ -1,0 +1,917 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Hacer::Present::Indicative	I do my devotional every morning.	Hago mi devoción cada mañana.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you make time for prayer?	¿Haces tiempo para orar?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	She does her Bible reading every night.	Hace su lectura bíblica cada noche.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make room for worship in our lives.	Hacemos espacio para la adoración en nuestras vidas.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They do their best to serve God.	Hacen lo mejor para servir a Dios.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	I make an effort to attend every service.	Hago un esfuerzo para asistir a cada servicio.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you do any volunteer work at church?	¿Haces trabajo voluntario en la iglesia?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	He makes beautiful music for worship.	Hace música hermosa para la adoración.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make good use of our talents for God.	Hacemos buen uso de nuestros talentos para Dios.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They make disciples wherever they go.	Hacen discípulos dondequiera que van.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	I do what the Bible says.	Hago lo que dice la Biblia.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you do a quiet time each morning?	¿Haces un tiempo de quietud cada mañana?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	She does the announcements at church.	Hace los anuncios en la iglesia.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make decisions based on prayer.	Hacemos decisiones basadas en la oración.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They do a lot to support the missionaries.	Hacen mucho para apoyar a los misioneros.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	I make notes during the sermon.	Hago apuntes durante el sermón.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you do the children's ministry?	¿Haces el ministerio de niños?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	He does a great job leading the choir.	Hace un gran trabajo dirigiendo el coro.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make an offering every Sunday.	Hacemos una ofrenda cada domingo.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They make the church feel welcoming.	Hacen que la iglesia se sienta acogedora.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	I pack my suitcase the night before.	Hago mi maleta la noche anterior.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you make your travel arrangements in advance?	¿Haces tus arreglos de viaje con anticipación?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	She makes a list of places to visit.	Hace una lista de lugares para visitar.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make the most of every trip we take.	Hacemos el mayor provecho de cada viaje que hacemos.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They make hotel reservations early.	Hacen reservaciones de hotel con tiempo.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	I check in at the airport two hours early.	Hago el registro en el aeropuerto dos horas antes.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you make copies of your travel documents?	¿Haces copias de tus documentos de viaje?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	He makes the most of every layover.	Hace el mayor provecho de cada escala.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make plans to visit new places each year.	Hacemos planes para visitar lugares nuevos cada año.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They make every trip a mission opportunity.	Hacen de cada viaje una oportunidad misionera.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	I make a reservation for dinner.	Hago una reservación para cenar.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you make your own food or eat out?	¿Haces tu propia comida o comes afuera?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	She makes the best enchiladas in town.	Hace las mejores enchiladas del pueblo.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make a point of trying local food when we travel.	Hacemos el esfuerzo de probar la comida local cuando viajamos.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They make a great team in the kitchen.	Hacen un gran equipo en la cocina.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	I make fresh tortillas every morning.	Hago tortillas frescas cada mañana.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you make coffee before church?	¿Haces café antes de la iglesia?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	He makes soup from scratch.	Hace sopa desde cero.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make a big meal on Sundays.	Hacemos una gran comida los domingos.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They make tamales for Christmas.	Hacen tamales para Navidad.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	I make the bed every morning.	Hago la cama cada mañana.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you do housework on Saturdays?	¿Haces las tareas del hogar los sábados?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	She does the laundry twice a week.	Hace la ropa dos veces a la semana.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make home repairs together.	Hacemos reparaciones del hogar juntos.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They make the house feel like a home.	Hacen que la casa se sienta como un hogar.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	I do the grocery shopping on Fridays.	Hago las compras del supermercado los viernes.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you do the dishes after every meal?	¿Haces los platos después de cada comida?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	He does yard work every weekend.	Hace el trabajo del jardín cada fin de semana.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make our home a place of prayer.	Hacemos de nuestro hogar un lugar de oración.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They make room for family dinner every night.	Hacen espacio para la cena familiar cada noche.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	I make breakfast for my family.	Hago el desayuno para mi familia.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you do activities with your children?	¿Haces actividades con tus hijos?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	She makes time for her parents every week.	Hace tiempo para sus padres cada semana.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make memories together as a family.	Hacemos recuerdos juntos como familia.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They make it a priority to pray together.	Hacen de la oración una prioridad juntos.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	I make my son lunch for school.	Hago el almuerzo de mi hijo para la escuela.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you do anything special for your spouse?	¿Haces algo especial para tu esposo/a?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	He makes his wife feel loved every day.	Hace que su esposa se sienta amada cada día.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make family devotions part of our routine.	Hacemos de las devociones familiares parte de nuestra rutina.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They make great sacrifices for their children.	Hacen grandes sacrificios por sus hijos.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	I make plans with friends after church.	Hago planes con amigos después de la iglesia.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you do anything fun with your friends?	¿Haces algo divertido con tus amigos?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	She makes everyone feel welcome.	Hace que todos se sientan bienvenidos.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make the most of our time together.	Hacemos el mayor provecho de nuestro tiempo juntos.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They make a difference in each other's lives.	Hacen una diferencia en las vidas de los demás.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	I feed the dog every morning.	Hago que el perro coma cada mañana.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you do tricks with your dog?	¿Haces trucos con tu perro?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	She makes sure the cat has fresh water.	Hace que el gato tenga agua fresca.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make time to walk our dog each day.	Hacemos tiempo para pasear a nuestro perro cada día.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They make sure their pets are healthy.	Hacen que sus mascotas estén sanas.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	I do my homework before dinner.	Hago mi tarea antes de cenar.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you do extra credit work?	¿Haces trabajo extra?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	She does a good job in every class.	Hace un buen trabajo en todas las clases.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make a study group for every exam.	Hacemos un grupo de estudio para cada examen.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They make beautiful projects for school.	Hacen proyectos hermosos para la escuela.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	I make a schedule to manage my time.	Hago un horario para administrar mi tiempo.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you do research for your reports?	¿Haces investigación para tus informes?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	He does extra reading outside of class.	Hace lectura adicional fuera de clase.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make use of the school library.	Hacemos uso de la biblioteca de la escuela.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They do community service at church.	Hacen servicio comunitario en la iglesia.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	I do exercise every day for my health.	Hago ejercicio cada día para mi salud.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you do yoga or stretching?	¿Haces yoga o estiramientos?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	She does her physical therapy every morning.	Hace su terapia física cada mañana.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make healthy choices for our family.	Hacemos elecciones saludables para nuestra familia.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They do regular checkups at the clinic.	Hacen chequeos regulares en la clínica.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	I do a good job at work every day.	Hago un buen trabajo cada día.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you do presentations at your job?	¿Haces presentaciones en tu trabajo?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	She does the accounting for the company.	Hace la contabilidad de la empresa.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make progress on the project every day.	Hacemos progreso en el proyecto cada día.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They make reports for every meeting.	Hacen informes para cada reunión.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	I make music to worship God.	Hago música para adorar a Dios.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you do any singing at church?	¿Haces algún canto en la iglesia?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	She does an amazing job playing the piano.	Hace un trabajo increíble tocando el piano.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make music together as a worship team.	Hacemos música juntos como equipo de alabanza.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They make a joyful noise unto the Lord.	Hacen una alabanza alegre al Señor.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	I do my best to glorify God in everything.	Hago mi mejor esfuerzo para glorificar a Dios en todo.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	Do you make a difference in your community?	¿Haces una diferencia en tu comunidad?	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	He makes everyone around him feel loved.	Hace que todos a su alrededor se sientan amados.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	We make God the center of our home.	Hacemos a Dios el centro de nuestro hogar.	Hacer Present Indicative
+Basic	Hacer::Present::Indicative	They make the world a better place through service.	Hacen del mundo un lugar mejor a través del servicio.	Hacer Present Indicative
+Basic	Hacer::Preterit::Indicative	I did my devotional this morning.	Hice mi devoción esta mañana.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you do anything special for church today?	¿Hiciste algo especial para la iglesia hoy?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	She made an offering at the service.	Hizo una ofrenda en el servicio.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made a prayer wall at church last week.	Hicimos un muro de oración en la iglesia la semana pasada.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made a difference in many lives.	Hicieron una diferencia en muchas vidas.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	I made notes during the sermon.	Hice apuntes durante el sermón.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you do the Bible reading last night?	¿Hiciste la lectura bíblica anoche?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	He made a commitment to serve at church.	Hizo un compromiso para servir en la iglesia.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made a special effort to invite our neighbors.	Hicimos un esfuerzo especial para invitar a nuestros vecinos.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made a beautiful mural for the church wall.	Hicieron un mural hermoso para la pared de la iglesia.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	I prayed before I made the decision.	Oré antes de hacer la decisión.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you do the Sunday school lesson?	¿Hiciste la lección de escuela dominical?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	She made a testimony about her healing.	Hizo un testimonio sobre su sanación.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made disciples during the mission trip.	Hicimos discípulos durante el viaje misionero.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made the event a great success.	Hicieron del evento un gran éxito.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	I packed my suitcase last night.	Hice mi maleta anoche.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you make all your travel arrangements?	¿Hiciste todos tus arreglos de viaje?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	She made a list of things to bring on the trip.	Hizo una lista de cosas para llevar en el viaje.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made a stop at the market during our trip.	Hicimos una parada en el mercado durante nuestro viaje.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made the most of their layover in the city.	Hicieron el mayor provecho de su escala en la ciudad.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	I checked in at the hotel early.	Hice el registro en el hotel temprano.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you do any sightseeing on the trip?	¿Hiciste algún recorrido turístico en el viaje?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	He made a reservation at the best restaurant in town.	Hizo una reservación en el mejor restaurante del pueblo.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made memories we will never forget.	Hicimos recuerdos que nunca olvidaremos.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made friends at every place they visited.	Hicieron amigos en cada lugar que visitaron.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	I made tamales for Christmas.	Hice tamales para Navidad.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you make dinner last night?	¿Hiciste la cena anoche?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	She made a special meal for the potluck.	Hizo una comida especial para el almuerzo compartido.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made reservations at the restaurant.	Hicimos reservaciones en el restaurante.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made the best meal we have ever had.	Hicieron la mejor comida que hemos tenido.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	I made soup for the whole family.	Hice sopa para toda la familia.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you make fresh juice this morning?	¿Hiciste jugo fresco esta mañana?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	He made tortillas from scratch.	Hizo tortillas desde cero.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made a big Sunday lunch after church.	Hicimos un gran almuerzo dominical después de la iglesia.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made enough food for thirty people.	Hicieron suficiente comida para treinta personas.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	I made the bed and cleaned my room.	Hice la cama y limpié mi cuarto.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you do the laundry yesterday?	¿Hiciste la ropa ayer?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	She made repairs in the kitchen.	Hizo reparaciones en la cocina.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made the house ready before the guests arrived.	Hicimos que la casa estuviera lista antes de que llegaran los invitados.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made a garden in the backyard.	Hicieron un jardín en el patio trasero.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	I did the grocery shopping this afternoon.	Hice las compras esta tarde.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you do the dishes after dinner?	¿Hiciste los platos después de cenar?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	He made coffee for everyone in the morning.	Hizo café para todos en la mañana.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made our home a sanctuary of peace.	Hicimos de nuestro hogar un santuario de paz.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made room in their house for a missionary.	Hicieron espacio en su casa para un misionero.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	I made breakfast for the whole family.	Hice el desayuno para toda la familia.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you do activities with your kids this weekend?	¿Hiciste actividades con tus hijos este fin de semana?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	She made a scrapbook of family memories.	Hizo un álbum de recuerdos familiares.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made a family decision to serve in the ministry.	Hicimos una decisión familiar de servir en el ministerio.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made a birthday cake for their grandmother.	Hicieron un pastel de cumpleaños para su abuela.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	I made plans with friends for Saturday.	Hice planes con amigos para el sábado.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you do anything with your friends this week?	¿Hiciste algo con tus amigos esta semana?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	She made her friend feel better after a bad day.	Hizo que su amiga se sintiera mejor después de un mal día.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made a prayer circle for our friend in need.	Hicimos un círculo de oración por nuestro amigo en necesidad.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made a birthday surprise for their best friend.	Hicieron una sorpresa de cumpleaños para su mejor amigo.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	I made a toy for my dog out of rope.	Hice un juguete para mi perro con cuerda.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you make sure the cat was fed?	¿Hiciste que el gato estuviera alimentado?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	She made a bed for the new puppy.	Hizo una cama para el cachorro nuevo.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made a cozy corner for our pet.	Hicimos un rincón acogedor para nuestra mascota.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made sure the animals were safe during the storm.	Hicieron que los animales estuvieran seguros durante la tormenta.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	I did all my homework before dinner.	Hice toda mi tarea antes de cenar.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you do your science project?	¿Hiciste tu proyecto de ciencias?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	She made an excellent presentation in class.	Hizo una presentación excelente en clase.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made a study guide for the final exam.	Hicimos una guía de estudio para el examen final.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made every effort to pass the course.	Hicieron todo el esfuerzo para pasar el curso.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	I did exercise three times this week.	Hice ejercicio tres veces esta semana.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you do your physical therapy today?	¿Hiciste tu terapia física hoy?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	She made an appointment with the specialist.	Hizo una cita con el especialista.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made healthy choices at the grocery store.	Hicimos elecciones saludables en el supermercado.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made a donation to the hospital ministry.	Hicieron una donación al ministerio del hospital.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	I did a great job on the report.	Hice un gran trabajo en el informe.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you do the presentation at the meeting?	¿Hiciste la presentación en la reunión?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	She made a proposal that impressed everyone.	Hizo una propuesta que impresionó a todos.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made a plan to grow the business this year.	Hicimos un plan para hacer crecer el negocio este año.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made a significant contribution to the project.	Hicieron una contribución significativa al proyecto.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	I played a song at the worship service.	Hice una canción en el culto de adoración.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you perform at the church concert?	¿Hiciste una actuación en el concierto de la iglesia?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	She made a recording of the choir.	Hizo una grabación del coro.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made a music video for the church online.	Hicimos un video musical para la iglesia en línea.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made a joyful sound that filled the whole building.	Hicieron un sonido de alegría que llenó todo el edificio.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	I did my part to make the event successful.	Hice mi parte para que el evento fuera un éxito.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you make a decision about the ministry position?	¿Hiciste una decisión sobre el puesto en el ministerio?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	He made a sacrifice to follow God s call.	Hizo un sacrificio para seguir el llamado de Dios.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made a commitment to God as a family.	Hicimos un compromiso con Dios como familia.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made the right choice by putting God first.	Hicieron la decisión correcta al poner a Dios primero.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	I made a commitment to follow God this year.	Hice un compromiso de seguir a Dios este año.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you do anything to help at the food bank?	¿Hiciste algo para ayudar en el banco de alimentos?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	She made a quilt for the new baby.	Hizo una cobija para el bebé nuevo.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made a group decision to change the meeting time.	Hicimos una decisión grupal de cambiar la hora de la reunión.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made a donation to the mission fund.	Hicieron una donación al fondo misionero.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	I made the announcement at the beginning of the service.	Hice el anuncio al comienzo del servicio.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you do anything to prepare for the retreat?	¿Hiciste algo para prepararte para el retiro?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	He made a card for the pastor on his birthday.	Hizo una tarjeta para el pastor en su cumpleaños.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made an effort to welcome every new visitor.	Hicimos un esfuerzo para dar la bienvenida a cada visitante nuevo.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made handmade decorations for the Christmas event.	Hicieron decoraciones hechas a mano para el evento de Navidad.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	I made the bed and tidied the house before the guests came.	Hice la cama y ordené la casa antes de que llegaran los invitados.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	Did you do any cooking for the potluck?	¿Hiciste algo de cocina para el almuerzo compartido?	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	She made a beautiful centerpiece for the table.	Hizo un centro de mesa hermoso.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	We made a trip to visit the elderly in our congregation.	Hicimos un viaje para visitar a los ancianos de nuestra congregación.	Hacer Preterit Indicative
+Basic	Hacer::Preterit::Indicative	They made good progress on the new church building.	Hicieron un buen progreso en el nuevo edificio de la iglesia.	Hacer Preterit Indicative
+Basic	Hacer::Imperfect::Indicative	I used to do my devotional right after waking up.	Hacía mi devoción justo después de despertar.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you do Bible study every Wednesday?	¿Hacías estudio bíblico cada miércoles?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	She used to make the announcements at church.	Hacía los anuncios en la iglesia.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to make an offering every week.	Hacíamos una ofrenda cada semana.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to do a lot to support the poor.	Hacían mucho para apoyar a los pobres.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	I used to make notes in my Bible.	Hacía apuntes en mi Biblia.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you do ministry for children when you were young?	¿Hacías ministerio para niños cuando eras joven?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	He used to make beautiful music for worship.	Hacía música hermosa para la adoración.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to make decisions together as a church family.	Hacíamos decisiones juntos como familia de la iglesia.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to do outreach every month.	Hacían alcance comunitario cada mes.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	I used to pack my bag the night before travel.	Hacía mi maleta la noche antes de viajar.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you make travel plans every summer?	¿Hacías planes de viaje cada verano?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	She used to make a list of activities for every trip.	Hacía una lista de actividades en cada viaje.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to make the most of every family vacation.	Hacíamos el mayor provecho de cada vacación familiar.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to make mission trips every year.	Hacían viajes misioneros cada año.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	I used to check in at the airport very early.	Hacía el registro en el aeropuerto muy temprano.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you make reservations every time?	¿Hacías reservaciones cada vez?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	He used to make the most of every trip he took.	Hacía el mayor provecho de cada viaje que tomaba.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to make a big Sunday lunch after church.	Hacíamos un gran almuerzo dominical después de la iglesia.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to make tamales every Christmas season.	Hacían tamales cada temporada de Navidad.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	I used to call ahead to make dinner reservations.	Hacía llamadas para reservar la cena.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you make your own food every day?	¿Hacías tu propia comida cada día?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	She used to make the best soup in the neighborhood.	Hacía la mejor sopa del vecindario.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to make fresh tortillas every morning.	Hacíamos tortillas frescas cada mañana.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to make enough food to share with neighbors.	Hacían suficiente comida para compartir con los vecinos.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	I used to make coffee before the Bible study.	Hacía café antes del estudio bíblico.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you do the grocery shopping every week?	¿Hacías las compras del supermercado cada semana?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	He used to make the bed as soon as he woke up.	Hacía la cama tan pronto como se despertaba.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to make home repairs on the weekends.	Hacíamos reparaciones del hogar los fines de semana.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to make the house very welcoming for guests.	Hacían que la casa fuera muy acogedora para los invitados.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	I used to do the laundry on Mondays.	Hacía la ropa los lunes.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you do yard work every Saturday?	¿Hacías el trabajo del jardín cada sábado?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	She used to make the dishes shine after every meal.	Hacía que los platos brillaran después de cada comida.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to make our home a place of prayer.	Hacíamos de nuestro hogar un lugar de oración.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to do everything together as a family.	Hacían todo juntos como familia.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	I used to make breakfast for everyone before school.	Hacía el desayuno para todos antes de la escuela.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you do activities with your kids on Saturdays?	¿Hacías actividades con tus hijos los sábados?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	She used to make time for her parents every week.	Hacía tiempo para sus padres cada semana.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to make memories on every family trip.	Hacíamos recuerdos en cada viaje familiar.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to do everything they could for their children.	Hacían todo lo que podían por sus hijos.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	I used to make lunch for my kids every school day.	Hacía el almuerzo para mis hijos cada día de escuela.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you do special things to celebrate birthdays?	¿Hacías cosas especiales para celebrar cumpleaños?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	He used to make his wife feel special every day.	Hacía que su esposa se sintiera especial cada día.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to make family devotions every evening.	Hacíamos devociones familiares cada tarde.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to make great sacrifices for their family.	Hacían grandes sacrificios por su familia.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	I used to make plans with friends every weekend.	Hacía planes con amigos cada fin de semana.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you make time for your friends growing up?	¿Hacías tiempo para tus amigos al crecer?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	She used to make everyone laugh at Bible study.	Hacía que todos se rieran en el estudio bíblico.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to make plans for every holiday together.	Hacíamos planes para cada día festivo juntos.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to make everyone feel at home.	Hacían que todos se sintieran en casa.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	I used to make toys for my dog out of old rope.	Hacía juguetes para mi perro con cuerda vieja.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you do anything special for your pet?	¿Hacías algo especial para tu mascota?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	She used to make sure the animals were fed before she ate.	Hacía que los animales estuvieran alimentados antes de comer.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to make a cozy bed for our pets every night.	Hacíamos una cama acogedora para nuestras mascotas cada noche.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to do tricks with their dog every afternoon.	Hacían trucos con su perro cada tarde.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	I used to do my homework as soon as I got home.	Hacía mi tarea tan pronto como llegaba a casa.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you do extra assignments at school?	¿Hacías trabajos extra en la escuela?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	She used to make excellent grades in every subject.	Hacía excelentes calificaciones en cada materia.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to make study guides together before exams.	Hacíamos guías de estudio juntos antes de los exámenes.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to do science experiments after school.	Hacían experimentos de ciencias después de la escuela.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	I used to do exercise every morning before school.	Hacía ejercicio cada mañana antes de la escuela.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you do physical therapy when you were injured?	¿Hacías terapia física cuando estabas lesionado?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	She used to make appointments with the doctor every six months.	Hacía citas con el médico cada seis meses.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to make healthy choices when shopping.	Hacíamos elecciones saludables al hacer las compras.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to do a lot for the patients in the hospital.	Hacían mucho por los pacientes en el hospital.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	I used to make reports every Monday morning.	Hacía informes cada lunes por la mañana.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you do presentations at your old job?	¿Hacías presentaciones en tu antiguo trabajo?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	She used to make budgets for every project.	Hacía presupuestos para cada proyecto.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to make decisions as a team every week.	Hacíamos decisiones en equipo cada semana.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to do community outreach through the company.	Hacían alcance comunitario a través de la empresa.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	I used to make worship music every Sunday evening.	Hacía música de adoración cada domingo por la tarde.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you do any singing in the choir?	¿Hacías canto en el coro?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	He used to make recordings of the worship team.	Hacía grabaciones del equipo de alabanza.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to make music videos for the church online.	Hacíamos videos musicales para la iglesia en línea.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to make new arrangements of old hymns.	Hacían nuevos arreglos de himnos antiguos.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	I used to do everything with a grateful heart.	Hacía todo con un corazón agradecido.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you do your best in everything?	¿Hacías tu mejor esfuerzo en todo?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	She used to make people feel loved wherever she went.	Hacía que las personas se sintieran amadas dondequiera que iba.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to make God the center of all our decisions.	Hacíamos a Dios el centro de todas nuestras decisiones.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to do everything in love.	Hacían todo en amor.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	I used to do the cooking while she set the table.	Hacía la comida mientras ella ponía la mesa.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you make juice every morning?	¿Hacías jugo cada mañana?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	He used to make handmade gifts for everyone at Christmas.	Hacía regalos hechos a mano para todos en Navidad.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to make a big pot of beans every Sunday.	Hacíamos una olla grande de frijoles cada domingo.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to do the dishes together every night.	Hacían los platos juntos cada noche.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	I used to make the bulletin for the church service.	Hacía el boletín para el servicio de la iglesia.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you do volunteer work at the church as a teenager?	¿Hacías trabajo voluntario en la iglesia de adolescente?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	She used to do the accounting for the church budget.	Hacía la contabilidad del presupuesto de la iglesia.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to do outreach in the neighborhood every month.	Hacíamos alcance en el vecindario cada mes.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to make music for every church service.	Hacían música para cada servicio de la iglesia.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	I used to make crafts with the kids at Sunday school.	Hacía manualidades con los niños en la escuela dominical.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you do hospital visits as part of your ministry?	¿Hacías visitas al hospital como parte de tu ministerio?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	He used to make the prayer list every week.	Hacía la lista de oración cada semana.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to do a candlelight service every Christmas Eve.	Hacíamos un servicio de velas cada Nochebuena.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to make the most of every moment together.	Hacían el mayor provecho de cada momento juntos.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	I used to make fresh salsa for the family on Sundays.	Hacía salsa fresca para la familia los domingos.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	Did you do exercise with your family?	¿Hacías ejercicio con tu familia?	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	She used to make a gratitude list in her journal.	Hacía una lista de gratitud en su diario.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	We used to make sandwiches after the youth group meeting.	Hacíamos sándwiches después de la reunión del grupo juvenil.	Hacer Imperfect Indicative
+Basic	Hacer::Imperfect::Indicative	They used to do summer camps for kids at the church.	Hacían campamentos de verano para niños en la iglesia.	Hacer Imperfect Indicative
+Basic	Hacer::Future::Indicative	I will do my devotional every morning this year.	Haré mi devoción cada mañana este año.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you make time to attend the retreat?	¿Harás tiempo para asistir al retiro?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	She will make the announcement at Sunday service.	Hará el anuncio en el servicio del domingo.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will make an offering for the mission fund.	Haremos una ofrenda para el fondo misionero.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will do a lot for the community this year.	Harán mucho por la comunidad este año.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	I will make a commitment to serve at church.	Haré un compromiso de servir en la iglesia.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you do the Bible reading before the group meets?	¿Harás la lectura bíblica antes de que se reúna el grupo?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	He will make a great sermon for Easter Sunday.	Hará un gran sermón para el domingo de Pascua.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will make a prayer wall at the upcoming retreat.	Haremos un muro de oración en el próximo retiro.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will do their best to share the gospel this summer.	Harán su mejor esfuerzo para compartir el evangelio este verano.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	I will pack my suitcase the day before the trip.	Haré mi maleta el día antes del viaje.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you make hotel reservations in advance?	¿Harás reservaciones de hotel con anticipación?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	She will make a travel itinerary for the group.	Hará un itinerario de viaje para el grupo.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will make the most of every day on this trip.	Haremos el mayor provecho de cada día en este viaje.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will make stops at important sites along the way.	Harán paradas en sitios importantes en el camino.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	I will make tamales for the Christmas celebration.	Haré tamales para la celebración de Navidad.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you make something special for the potluck?	¿Harás algo especial para el almuerzo compartido?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	She will make dinner reservations for the whole family.	Hará reservaciones de cena para toda la familia.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will make the church menu for the annual banquet.	Haremos el menú de la iglesia para el banquete anual.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will make fresh bread for the communion service.	Harán pan fresco para el servicio de comunión.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	I will make the bed every day without exception.	Haré la cama cada día sin excepción.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you do the dishes after the gathering?	¿Harás los platos después de la reunión?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	She will make repairs in the church kitchen.	Hará reparaciones en la cocina de la iglesia.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will make our home ready for the Bible study group.	Haremos que nuestra casa esté lista para el grupo de estudio bíblico.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will do yard work before the family arrives.	Harán el trabajo del jardín antes de que llegue la familia.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	I will make breakfast for the whole family on Sunday.	Haré el desayuno para toda la familia el domingo.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you make time to call your parents this week?	¿Harás tiempo para llamar a tus padres esta semana?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	He will make something special for the anniversary.	Hará algo especial para el aniversario.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will make memories together at the family reunion.	Haremos recuerdos juntos en la reunión familiar.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will make it a priority to read the Bible daily.	Harán de la lectura bíblica diaria una prioridad.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	I will make plans to see my friends after church.	Haré planes para ver a mis amigos después de la iglesia.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you do anything fun with your friends?	¿Harás algo divertido con tus amigos?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	She will make everyone feel welcome at the event.	Hará que todos se sientan bienvenidos en el evento.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will make a community garden for the neighborhood.	Haremos un jardín comunitario para el vecindario.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will make a difference in many lives through ministry.	Harán una diferencia en muchas vidas a través del ministerio.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	I will do my homework right after school.	Haré mi tarea justo después de la escuela.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you make a study guide for the exam?	¿Harás una guía de estudio para el examen?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	She will make a good grade on the project.	Hará una buena calificación en el proyecto.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will do research together for the report.	Haremos investigación juntos para el informe.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will make the science fair project next week.	Harán el proyecto de la feria de ciencias la próxima semana.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	I will do exercise three times a week for my health.	Haré ejercicio tres veces a la semana para mi salud.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you do your physical therapy tomorrow?	¿Harás tu terapia física mañana?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	She will make an appointment with the doctor next week.	Hará una cita con el médico la próxima semana.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will make healthy choices at every meal.	Haremos elecciones saludables en cada comida.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will do a health fair at the church this spring.	Harán una feria de salud en la iglesia esta primavera.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	I will make a good impression at the job interview.	Haré una buena impresión en la entrevista de trabajo.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you do the monthly report this Friday?	¿Harás el informe mensual este viernes?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	She will make a proposal for the new project.	Hará una propuesta para el nuevo proyecto.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will make progress on the budget this week.	Haremos progreso en el presupuesto esta semana.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will do great things with the grant money.	Harán grandes cosas con el dinero de la beca.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	I will make music to glorify God this Sunday.	Haré música para glorificar a Dios este domingo.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you do a solo at the church concert?	¿Harás un solo en el concierto de la iglesia?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	She will make a recording of the worship team.	Hará una grabación del equipo de alabanza.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will make a joyful noise unto the Lord.	Haremos una alabanza alegre al Señor.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will make a new arrangement of a classic hymn.	Harán un nuevo arreglo de un himno clásico.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	I will make every effort to serve God with my gifts.	Haré todo el esfuerzo por servir a Dios con mis dones.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you do what is right even when it is difficult?	¿Harás lo correcto incluso cuando sea difícil?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	He will make a lasting impact on the community.	Hará un impacto duradero en la comunidad.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will make God first in everything we do.	Haremos a Dios primero en todo lo que hacemos.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will do remarkable things for the kingdom of God.	Harán cosas notables para el reino de Dios.	Hacer Future Indicative
+Basic	Hacer::Conditional	I would do my devotional earlier if I woke up sooner.	Haría mi devoción más temprano si me despertara antes.	Hacer Conditional
+Basic	Hacer::Conditional	Would you make time to pray if you had a quieter morning?	¿Harías tiempo para orar si tuvieras una mañana más tranquila?	Hacer Conditional
+Basic	Hacer::Conditional	She would make the announcement if she were more confident.	Haría el anuncio si fuera más segura de sí misma.	Hacer Conditional
+Basic	Hacer::Conditional	We would make more disciples if we invited more people.	Haríamos más discípulos si invitáramos a más personas.	Hacer Conditional
+Basic	Hacer::Conditional	They would do more for the poor if they had more resources.	Harían más por los pobres si tuvieran más recursos.	Hacer Conditional
+Basic	Hacer::Conditional	I would make a better offering if I managed my money well.	Haría una mejor ofrenda si administrara bien mi dinero.	Hacer Conditional
+Basic	Hacer::Conditional	Would you do the children ministry if someone helped you?	¿Harías el ministerio de niños si alguien te ayudara?	Hacer Conditional
+Basic	Hacer::Conditional	He would make a powerful sermon with more preparation.	Haría un sermón poderoso con más preparación.	Hacer Conditional
+Basic	Hacer::Conditional	We would make a prayer wall if we had the wall space.	Haríamos un muro de oración si tuviéramos espacio en la pared.	Hacer Conditional
+Basic	Hacer::Conditional	They would do a mission trip if they raised enough funds.	Harían un viaje misionero si recaudaran suficientes fondos.	Hacer Conditional
+Basic	Hacer::Conditional	I would make hotel reservations sooner if I planned ahead.	Haría reservaciones de hotel antes si planeara con anticipación.	Hacer Conditional
+Basic	Hacer::Conditional	Would you make a travel list for every trip?	¿Harías una lista de viaje para cada viaje?	Hacer Conditional
+Basic	Hacer::Conditional	She would make the most of every day abroad.	Haría el mayor provecho de cada día en el extranjero.	Hacer Conditional
+Basic	Hacer::Conditional	We would make a mission trip every year if we could.	Haríamos un viaje misionero cada año si pudiéramos.	Hacer Conditional
+Basic	Hacer::Conditional	They would make a stop at every historical site.	Harían una parada en cada sitio histórico.	Hacer Conditional
+Basic	Hacer::Conditional	I would make tamales more often if I had more time.	Haría tamales más seguido si tuviera más tiempo.	Hacer Conditional
+Basic	Hacer::Conditional	Would you make something homemade for the potluck?	¿Harías algo casero para el almuerzo compartido?	Hacer Conditional
+Basic	Hacer::Conditional	She would make the best dessert for the celebration.	Haría el mejor postre para la celebración.	Hacer Conditional
+Basic	Hacer::Conditional	We would make a big dinner if everyone came on Sunday.	Haríamos una gran cena si todos vinieran el domingo.	Hacer Conditional
+Basic	Hacer::Conditional	They would make fresh tortillas if they had more time.	Harían tortillas frescas si tuvieran más tiempo.	Hacer Conditional
+Basic	Hacer::Conditional	I would make the bed every day if I woke up earlier.	Haría la cama cada día si me despertara más temprano.	Hacer Conditional
+Basic	Hacer::Conditional	Would you do the laundry more often with a bigger washer?	¿Harías la ropa más seguido con una lavadora más grande?	Hacer Conditional
+Basic	Hacer::Conditional	She would make the house cleaner with more help.	Haría la casa más limpia con más ayuda.	Hacer Conditional
+Basic	Hacer::Conditional	We would make more repairs if we had the tools.	Haríamos más reparaciones si tuviéramos las herramientas.	Hacer Conditional
+Basic	Hacer::Conditional	They would make the garden bigger with more space.	Harían el jardín más grande con más espacio.	Hacer Conditional
+Basic	Hacer::Conditional	I would make breakfast for the neighbors if they needed it.	Haría el desayuno para los vecinos si lo necesitaran.	Hacer Conditional
+Basic	Hacer::Conditional	Would you make time for your family if you worked less?	¿Harías tiempo para tu familia si trabajaras menos?	Hacer Conditional
+Basic	Hacer::Conditional	He would make everyone laugh at the family gathering.	Haría reír a todos en la reunión familiar.	Hacer Conditional
+Basic	Hacer::Conditional	We would make family devotions nightly if we had structure.	Haríamos devociones familiares cada noche si tuviéramos estructura.	Hacer Conditional
+Basic	Hacer::Conditional	They would make more family memories if they spent less time working.	Harían más recuerdos familiares si trabajaran menos tiempo.	Hacer Conditional
+Basic	Hacer::Conditional	I would make more plans with friends if I had free time.	Haría más planes con amigos si tuviera tiempo libre.	Hacer Conditional
+Basic	Hacer::Conditional	Would you do something special for a friend in need?	¿Harías algo especial por un amigo en necesidad?	Hacer Conditional
+Basic	Hacer::Conditional	She would make a card for every person going through a hard time.	Haría una tarjeta para cada persona que pasa por un momento difícil.	Hacer Conditional
+Basic	Hacer::Conditional	We would make a group trip if everyone agreed.	Haríamos un viaje en grupo si todos estuvieran de acuerdo.	Hacer Conditional
+Basic	Hacer::Conditional	They would do anything for a friend in need.	Harían cualquier cosa por un amigo en necesidad.	Hacer Conditional
+Basic	Hacer::Conditional	I would make more crafts if I had art supplies.	Haría más manualidades si tuviera materiales de arte.	Hacer Conditional
+Basic	Hacer::Conditional	Would you make a toy for your dog if you had the material?	¿Harías un juguete para tu perro si tuvieras el material?	Hacer Conditional
+Basic	Hacer::Conditional	She would make sure the animals had food before leaving.	Haría que los animales tuvieran comida antes de salir.	Hacer Conditional
+Basic	Hacer::Conditional	We would make a pet door if we owned the house.	Haríamos una puerta para mascotas si fuéramos dueños de la casa.	Hacer Conditional
+Basic	Hacer::Conditional	They would make a bigger yard for the pets if they moved.	Harían un patio más grande para las mascotas si se mudaran.	Hacer Conditional
+Basic	Hacer::Conditional	I would do more research if I had access to the library.	Haría más investigación si tuviera acceso a la biblioteca.	Hacer Conditional
+Basic	Hacer::Conditional	Would you make a study plan if you had a big exam coming?	¿Harías un plan de estudio si tuvieras un examen grande?	Hacer Conditional
+Basic	Hacer::Conditional	She would make excellent grades with a better tutor.	Haría excelentes calificaciones con un mejor tutor.	Hacer Conditional
+Basic	Hacer::Conditional	We would do more group projects if we had the space.	Haríamos más proyectos grupales si tuviéramos el espacio.	Hacer Conditional
+Basic	Hacer::Conditional	They would do better in school with a quiet place to study.	Harían mejor en la escuela con un lugar tranquilo para estudiar.	Hacer Conditional
+Basic	Hacer::Conditional	I would do more exercise if I had a gym nearby.	Haría más ejercicio si tuviera un gimnasio cerca.	Hacer Conditional
+Basic	Hacer::Conditional	Would you make healthier meals if you knew how to cook?	¿Harías comidas más saludables si supieras cocinar?	Hacer Conditional
+Basic	Hacer::Conditional	She would make an appointment sooner if she felt sick.	Haría una cita antes si se sintiera enferma.	Hacer Conditional
+Basic	Hacer::Conditional	We would make healthier choices with better accountability.	Haríamos elecciones más saludables con más responsabilidad mutua.	Hacer Conditional
+Basic	Hacer::Conditional	They would do more for the hospital patients if they could volunteer.	Harían más por los pacientes del hospital si pudieran ser voluntarios.	Hacer Conditional
+Basic	Hacer::Conditional	I would do a better job if I had more training.	Haría un mejor trabajo si tuviera más capacitación.	Hacer Conditional
+Basic	Hacer::Conditional	Would you make the report if you had more data?	¿Harías el informe si tuvieras más datos?	Hacer Conditional
+Basic	Hacer::Conditional	She would make a stronger proposal with more support.	Haría una propuesta más fuerte con más apoyo.	Hacer Conditional
+Basic	Hacer::Conditional	We would make more progress with a bigger team.	Haríamos más progreso con un equipo más grande.	Hacer Conditional
+Basic	Hacer::Conditional	They would do great work if they had better tools.	Harían un gran trabajo si tuvieran mejores herramientas.	Hacer Conditional
+Basic	Hacer::Conditional	I would make more worship music if I had a studio.	Haría más música de adoración si tuviera un estudio.	Hacer Conditional
+Basic	Hacer::Conditional	Would you do a solo if the choir director asked you?	¿Harías un solo si el director del coro te lo pidiera?	Hacer Conditional
+Basic	Hacer::Conditional	She would make recordings of every service if she could.	Haría grabaciones de cada servicio si pudiera.	Hacer Conditional
+Basic	Hacer::Conditional	We would make a music album for the church if we had funding.	Haríamos un álbum de música para la iglesia si tuviéramos financiamiento.	Hacer Conditional
+Basic	Hacer::Conditional	They would make a new arrangement if they had more time to rehearse.	Harían un nuevo arreglo si tuvieran más tiempo para ensayar.	Hacer Conditional
+Basic	Hacer::Present::Subjunctive	It is important that I do my devotional every day.	Es importante que haga mi devoción cada día.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope you make time to pray this morning.	Espero que hagas tiempo para orar esta mañana.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	God wants us to do good works.	Dios quiere que hagamos buenas obras.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I pray that they do their best for the Lord.	Oro para que hagan su mejor esfuerzo para el Señor.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is good that she does the Bible reading each night.	Es bueno que haga la lectura bíblica cada noche.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	The pastor wants us to make an offering this Sunday.	El pastor quiere que hagamos una ofrenda este domingo.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope he does a great job leading worship.	Espero que haga un gran trabajo dirigiendo la alabanza.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	God desires that we make disciples in all nations.	Dios desea que hagamos discípulos en todas las naciones.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	May you do everything for the glory of God.	Que hagas todo para la gloria de Dios.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I am glad that she does volunteer work at church.	Me alegra que haga trabajo voluntario en la iglesia.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is necessary that we do more outreach this year.	Es necesario que hagamos más alcance este año.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	She wants him to do the announcements on Sunday.	Ella quiere que él haga los anuncios el domingo.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I pray that we make a difference in many lives.	Oro para que hagamos una diferencia en muchas vidas.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is good that you make notes during the sermon.	Es bueno que hagas apuntes durante el sermón.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	May they do great things for the kingdom of God.	Que hagan grandes cosas para el reino de Dios.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I need you to make travel arrangements this week.	Necesito que hagas los arreglos de viaje esta semana.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is important that she make hotel reservations early.	Es importante que haga reservaciones de hotel con tiempo.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	So that we make the flight, we must leave by noon.	Para que hagamos el vuelo, debemos salir al mediodía.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope they do the check-in before the deadline.	Espero que hagan el registro antes del plazo.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is good that he makes the most of every layover.	Es bueno que haga el mayor provecho de cada escala.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope you make fresh tortillas for the gathering.	Espero que hagas tortillas frescas para la reunión.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is important that she make a reservation at the restaurant.	Es importante que haga una reservación en el restaurante.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I need you to make something special for the potluck.	Necesito que hagas algo especial para el almuerzo compartido.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	So that we make a good impression, the food must be excellent.	Para que hagamos una buena impresión, la comida debe ser excelente.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope they make enough food for all the guests.	Espero que hagan suficiente comida para todos los invitados.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is important that you make the bed every morning.	Es importante que hagas la cama cada mañana.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I need her to do the laundry before the weekend.	Necesito que ella haga la ropa antes del fin de semana.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	So that we make room for guests, we need to clean.	Para que hagamos espacio para los invitados, necesitamos limpiar.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope he does the yard work before it rains.	Espero que haga el trabajo del jardín antes de que llueva.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is good that they make the house feel like a home.	Es bueno que hagan que la casa se sienta como un hogar.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I want you to make time for your family.	Quiero que hagas tiempo para tu familia.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is important that he make breakfast for the children.	Es importante que haga el desayuno para los niños.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	God wants us to make sacrifices for our families.	Dios quiere que hagamos sacrificios por nuestras familias.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I pray that she makes memories with her children.	Oro para que haga recuerdos con sus hijos.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is good that you make special moments with your kids.	Es bueno que hagas momentos especiales con tus hijos.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope you make plans with your friends this weekend.	Espero que hagas planes con tus amigos este fin de semana.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is important that she makes everyone feel welcome.	Es importante que haga que todos se sientan bienvenidos.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	So that we make the most of our time, let us plan well.	Para que hagamos el mayor provecho de nuestro tiempo, planifiquemos bien.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope they make a positive difference in the community.	Espero que hagan una diferencia positiva en la comunidad.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is good that you make sure the pet has food.	Es bueno que hagas que la mascota tenga comida.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I need her to make a vet appointment for the cat.	Necesito que haga una cita veterinaria para el gato.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	So that we make the animals comfortable, we need supplies.	Para que hagamos que los animales estén cómodos, necesitamos suministros.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope he does the homework before dinner.	Espero que haga la tarea antes de cenar.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is important that she makes a study guide for the exam.	Es importante que haga una guía de estudio para el examen.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	So that we make progress, everyone must participate.	Para que hagamos progreso, todos deben participar.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope they do well in school this semester.	Espero que hagan bien en la escuela este semestre.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is necessary that you make time for exercise.	Es necesario que hagas tiempo para el ejercicio.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope she makes an appointment with the specialist.	Espero que haga una cita con el especialista.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is good that we make healthy choices every day.	Es bueno que hagamos elecciones saludables cada día.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I pray that they do good work for the patients.	Oro para que hagan un buen trabajo por los pacientes.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I need you to do the report before the meeting.	Necesito que hagas el informe antes de la reunión.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is important that she makes a proposal this week.	Es importante que haga una propuesta esta semana.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	So that we make the deadline, we need to start now.	Para que hagamos la fecha límite, necesitamos empezar ahora.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope they do a great job at the presentation.	Espero que hagan un gran trabajo en la presentación.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is necessary that he make a good impression.	Es necesario que haga una buena impresión.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope you make music for the worship service.	Espero que hagas música para el culto de adoración.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is good that she makes recordings of the choir.	Es bueno que haga grabaciones del coro.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	So that we make beautiful worship, we must practice.	Para que hagamos una alabanza hermosa, debemos practicar.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope they make a new song for the Easter service.	Espero que hagan una canción nueva para el servicio de Pascua.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is necessary that we make music that honors God.	Es necesario que hagamos música que honre a Dios.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	May you do everything with love and devotion.	Que hagas todo con amor y devoción.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I do not think he will do enough to pass the course.	No creo que haga suficiente para pasar el curso.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is possible that she makes the team this year.	Es posible que haga el equipo este año.	Hacer Present Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If I did my devotional daily, I would grow more in faith.	Si hiciera mi devoción a diario, crecería más en la fe.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	The pastor wanted you to make time for the prayer meeting.	El pastor quería que hicieras tiempo para la reunión de oración.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If she made the announcement, more people would come.	Si hiciera el anuncio, vendría más gente.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We prayed that we would make a real difference in the community.	Oramos para que hiciéramos una verdadera diferencia en la comunidad.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they made more disciples, the church would grow fast.	Si hicieran más discípulos, la iglesia crecería rápido.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If only I did a better job sharing the gospel.	Ojalá hiciera un mejor trabajo compartiendo el evangelio.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	The church asked that you make an offering every week.	La iglesia pedía que hicieras una ofrenda cada semana.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If he made the music more joyful, more people would sing.	Si hiciera la música más alegre, más personas cantarían.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We hoped we would make a good impression on the visitors.	Esperábamos que hiciéramos una buena impresión en los visitantes.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they made the mission trip happen, lives would change.	Si hicieran el viaje misionero, las vidas cambiarían.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If I made hotel reservations earlier, we would save money.	Si hiciera reservaciones de hotel antes, ahorraríamos dinero.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	I wished you would make copies of the documents.	Ojalá que hicieras copias de los documentos.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If she made the trip, she would grow in her faith.	Si hiciera el viaje, crecería en su fe.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We needed to make the most of every moment abroad.	Necesitábamos que hiciéramos el mayor provecho de cada momento en el extranjero.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they made a stop here, they could visit us.	Si hicieran una parada aquí, podrían visitarnos.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If I made tamales from scratch, they would taste better.	Si hiciera tamales desde cero, sabrían mejor.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	Mom wanted you to make something for the potluck.	Mamá quería que hicieras algo para el almuerzo compartido.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If she made fresh juice, breakfast would be complete.	Si hiciera jugo fresco, el desayuno estaría completo.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We hoped we would make enough food for everyone.	Esperábamos que hiciéramos suficiente comida para todos.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they made the meal together, it would bring the family closer.	Si hicieran la comida juntos, la familia se acercaría más.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If I made the bed every day, the room would look neater.	Si hiciera la cama cada día, el cuarto se vería más ordenado.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	I needed you to do the laundry before Sunday.	Necesitaba que hicieras la ropa antes del domingo.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If she did the yard work, the garden would look beautiful.	Si hiciera el trabajo del jardín, el jardín se vería hermoso.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We hoped we would make our home ready for the guests.	Esperábamos que hiciéramos la casa lista para los invitados.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they did the repairs, the house would be safer.	Si hicieran las reparaciones, la casa sería más segura.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If I made breakfast earlier, the kids would not be late.	Si hiciera el desayuno más temprano, los niños no llegarían tarde.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	I wanted you to do something special for your parents.	Quería que hicieras algo especial para tus padres.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If she made family devotions a habit, the home would change.	Si hiciera de las devociones familiares un hábito, el hogar cambiaría.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We prayed that we would make good memories together.	Oramos para que hiciéramos buenos recuerdos juntos.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they made sacrifices for their children, it would be worth it.	Si hicieran sacrificios por sus hijos, valdría la pena.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If I made more plans with friends, I would be less lonely.	Si hiciera más planes con amigos, me sentiría menos solo.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	I wanted you to make everyone feel included.	Quería que hicieras que todos se sintieran incluidos.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If she made more time for friends, they would stay close.	Si hiciera más tiempo para los amigos, se mantendrían cercanos.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We hoped we would make lasting friendships at the new church.	Esperábamos que hiciéramos amistades duraderas en la nueva iglesia.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they made an effort to connect, the group would be stronger.	Si hicieran el esfuerzo de conectarse, el grupo sería más fuerte.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If I made toys for the dog, it would be happier.	Si hiciera juguetes para el perro, estaría más contento.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	I needed you to do the vet appointment for the cat.	Necesitaba que hicieras la cita veterinaria para el gato.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If she made sure the animals were fed, there would be no problem.	Si hiciera que los animales estuvieran alimentados, no habría problema.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We hoped we would make a safe space for the pets.	Esperábamos que hiciéramos un espacio seguro para las mascotas.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they made time to care for the animals, everything would be fine.	Si hicieran tiempo para cuidar a los animales, todo estaría bien.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If I did my homework on time, I would not be stressed.	Si hiciera mi tarea a tiempo, no estaría estresado.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	The teacher wanted you to make a study plan.	El maestro quería que hicieras un plan de estudio.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If she made better notes in class, she would pass easily.	Si hiciera mejores apuntes en clase, pasaría fácilmente.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We wanted us to make a group project together.	Queríamos que hiciéramos un proyecto grupal juntos.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they did more practice, they would improve their grades.	Si hicieran más práctica, mejorarían sus calificaciones.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If I did more exercise, I would feel much better.	Si hiciera más ejercicio, me sentiría mucho mejor.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	The doctor wanted you to make a follow-up appointment.	El médico quería que hicieras una cita de seguimiento.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If she made healthier food choices, she would recover faster.	Si hiciera elecciones de comida más saludables, se recuperaría más rápido.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We hoped we would make progress in the health program.	Esperábamos que hiciéramos progreso en el programa de salud.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they did the therapy consistently, recovery would come.	Si hicieran la terapia de forma constante, llegaría la recuperación.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If I did a better job at work, I would get a raise.	Si hiciera un mejor trabajo, recibiría un aumento.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	The boss wanted you to make the report by Friday.	El jefe quería que hicieras el informe para el viernes.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If she made the proposal more detailed, it would be accepted.	Si hiciera la propuesta más detallada, sería aceptada.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We needed us to make progress before the deadline.	Necesitábamos que hiciéramos progreso antes de la fecha límite.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they made the changes, the project would be approved.	Si hicieran los cambios, el proyecto sería aprobado.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If I made music more often, my skills would improve.	Si hiciera música más seguido, mis habilidades mejorarían.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	The director wanted you to make a rehearsal schedule.	El director quería que hicieras un horario de ensayo.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If she made more recordings, people would hear her gift.	Si hiciera más grabaciones, la gente escucharía su don.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We hoped we would make a beautiful song together.	Esperábamos que hiciéramos una canción hermosa juntos.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they made new arrangements, the choir would sound fresh.	Si hicieran nuevos arreglos, el coro sonaría fresco.	Hacer Imperfect Subjunctive
+Basic	Hacer::Present::Perfect	I have done my devotional every day this week.	He hecho mi devoción cada día esta semana.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you made time for prayer today?	¿Has hecho tiempo para orar hoy?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	She has done a great job with the children ministry.	Ha hecho un gran trabajo con el ministerio de niños.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have made progress in our Bible reading plan.	Hemos hecho progreso en nuestro plan de lectura bíblica.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have done a lot for the mission this year.	Han hecho mucho por el ministerio este año.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	I have made notes in every sermon this month.	He hecho apuntes en cada sermón este mes.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you done the Bible study lesson for tonight?	¿Has hecho la lección de estudio bíblico para esta noche?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	He has done a beautiful job decorating the church.	Ha hecho un trabajo hermoso decorando la iglesia.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have made an offering every Sunday this year.	Hemos hecho una ofrenda cada domingo este año.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have made a real impact in the community.	Han hecho un impacto real en la comunidad.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	I have made all the travel reservations.	He hecho todas las reservaciones de viaje.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you made your packing list for the trip?	¿Has hecho tu lista de empaque para el viaje?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	She has made copies of all the travel documents.	Ha hecho copias de todos los documentos de viaje.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have made stops at several beautiful places.	Hemos hecho paradas en varios lugares hermosos.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have made every trip into a mission opportunity.	Han hecho de cada viaje una oportunidad misionera.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	I have made fresh tortillas every morning this week.	He hecho tortillas frescas cada mañana esta semana.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you made dinner for the family tonight?	¿Has hecho la cena para la familia esta noche?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	She has made the best enchiladas I have ever tasted.	Ha hecho las mejores enchiladas que he probado.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have made a big Sunday lunch every week this year.	Hemos hecho un gran almuerzo dominical cada semana este año.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have made traditional food for every celebration.	Han hecho comida tradicional para cada celebración.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	I have made the bed every morning this month.	He hecho la cama cada mañana este mes.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you done the dishes yet?	¿Has hecho los platos ya?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	She has made repairs all around the house.	Ha hecho reparaciones por toda la casa.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have made our home a peaceful place.	Hemos hecho de nuestro hogar un lugar de paz.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have made beautiful changes to the house this year.	Han hecho cambios hermosos en la casa este año.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	I have made breakfast for my family every morning.	He hecho el desayuno para mi familia cada mañana.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you made any plans for the weekend with family?	¿Has hecho algún plan para el fin de semana con la familia?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	She has made her children feel loved and secure.	Ha hecho que sus hijos se sientan amados y seguros.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have made many beautiful memories as a family.	Hemos hecho muchos recuerdos hermosos como familia.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have made great sacrifices for their children.	Han hecho grandes sacrificios por sus hijos.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	I have made plans with friends every Sunday.	He hecho planes con amigos cada domingo.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you done anything fun with your friends this month?	¿Has hecho algo divertido con tus amigos este mes?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	She has made everyone around her feel special.	Ha hecho que todos a su alrededor se sientan especiales.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have made a tradition of eating together after church.	Hemos hecho una tradición de comer juntos después de la iglesia.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have made a difference in the lives of many friends.	Han hecho una diferencia en la vida de muchos amigos.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	I have made a cozy bed for my dog every night.	He hecho una cama acogedora para mi perro cada noche.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you done the vet appointment for the cat?	¿Has hecho la cita veterinaria para el gato?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	She has made sure the animals are fed every day.	Ha hecho que los animales estén alimentados cada día.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have made our yard safe for the pets.	Hemos hecho que el patio sea seguro para las mascotas.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have made wonderful toys for their dog.	Han hecho juguetes maravillosos para su perro.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	I have done all my homework for this week.	He hecho toda mi tarea para esta semana.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you made a study guide for the final exam?	¿Has hecho una guía de estudio para el examen final?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	She has made excellent progress in her studies.	Ha hecho un excelente progreso en sus estudios.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have made a study group for every subject.	Hemos hecho un grupo de estudio para cada materia.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have done great projects for the science fair.	Han hecho proyectos excelentes para la feria de ciencias.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	I have done exercise five times this week.	He hecho ejercicio cinco veces esta semana.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you made an appointment with the doctor?	¿Has hecho una cita con el médico?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	She has done her physical therapy every day this month.	Ha hecho su terapia física cada día este mes.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have made healthy eating a family habit.	Hemos hecho de la alimentación saludable un hábito familiar.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have done a lot to support the hospital ministry.	Han hecho mucho para apoyar el ministerio del hospital.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	I have done a good job at work this quarter.	He hecho un buen trabajo en el trabajo este trimestre.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you made the monthly report yet?	¿Has hecho el informe mensual ya?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	She has made an excellent proposal for the new contract.	Ha hecho una propuesta excelente para el nuevo contrato.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have made good decisions as a team this year.	Hemos hecho buenas decisiones en equipo este año.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have done great work on the project.	Han hecho un gran trabajo en el proyecto.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	I have made music for the church every Sunday this year.	He hecho música para la iglesia cada domingo este año.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you done a solo at a worship service before?	¿Has hecho un solo en un culto de adoración antes?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	She has made beautiful recordings of the choir.	Ha hecho grabaciones hermosas del coro.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have made new arrangements of many classic hymns.	Hemos hecho nuevos arreglos de muchos himnos clásicos.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have made joyful music that blesses the whole church.	Han hecho música alegre que bendice a toda la iglesia.	Hacer Present Perfect
+Basic	Hacer::Past::Perfect	Before that day, I had done my devotional only once that week.	Antes de ese día, había hecho mi devoción solo una vez esa semana.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you made the announcement before the service started?	¿Habías hecho el anuncio antes de que comenzara el servicio?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made beautiful music for years before joining the choir.	Había hecho música hermosa por años antes de unirse al coro.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made a prayer wall before the retreat began.	Habíamos hecho un muro de oración antes de que comenzara el retiro.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had done a lot of outreach before the new pastor arrived.	Habían hecho mucho alcance antes de que llegara el nuevo pastor.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had made all the reservations before we left for the trip.	Había hecho todas las reservaciones antes de salir al viaje.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you made copies of your passport before the trip?	¿Habías hecho copias de tu pasaporte antes del viaje?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made a packing list days before the departure.	Había hecho una lista de empaque días antes de la salida.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made several stops before reaching the final destination.	Habíamos hecho varias paradas antes de llegar al destino final.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had made plans for the trip months in advance.	Habían hecho planes para el viaje con meses de anticipación.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had made tamales before the family arrived.	Había hecho tamales antes de que llegara la familia.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you made dinner before the guests knocked on the door?	¿Habías hecho la cena antes de que los invitados tocaran la puerta?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made fresh tortillas before the market opened.	Había hecho tortillas frescas antes de que abriera el mercado.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made a reservation before arriving at the restaurant.	Habíamos hecho una reservación antes de llegar al restaurante.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had made enough food for everyone long before the event.	Habían hecho suficiente comida para todos mucho antes del evento.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had made the bed before Mom came to check on me.	Había hecho la cama antes de que mamá viniera a revisar.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you done the dishes before your parents arrived?	¿Habías hecho los platos antes de que llegaran tus padres?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made all the repairs before the rainy season.	Había hecho todas las reparaciones antes de la temporada de lluvias.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made the house clean before the Bible study group arrived.	Habíamos hecho que la casa estuviera limpia antes de que llegara el grupo de estudio bíblico.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had made a beautiful garden before selling the house.	Habían hecho un jardín hermoso antes de vender la casa.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had made breakfast before the kids woke up.	Había hecho el desayuno antes de que los niños se despertaran.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you made plans with your family for the holiday?	¿Habías hecho planes con tu familia para las fiestas?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made a birthday cake before the party started.	Había hecho un pastel de cumpleaños antes de que comenzara la fiesta.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made family devotions a routine before the move.	Habíamos hecho de las devociones familiares una rutina antes de la mudanza.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had made wonderful memories together before he passed away.	Habían hecho recuerdos maravillosos juntos antes de que él falleciera.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had made plans with friends before the storm canceled everything.	Había hecho planes con amigos antes de que la tormenta cancelara todo.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you done something special for your friend?	¿Habías hecho algo especial para tu amigo?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made a gift for her best friend before the farewell party.	Había hecho un regalo para su mejor amiga antes de la fiesta de despedida.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made a group dinner before the semester ended.	Habíamos hecho una cena grupal antes de que terminara el semestre.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had made many plans together before parting ways.	Habían hecho muchos planes juntos antes de separarse.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had made a cozy bed for the dog before the puppy arrived.	Había hecho una cama acogedora para el perro antes de que llegara el cachorro.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you done the vet appointment before the holiday weekend?	¿Habías hecho la cita veterinaria antes del fin de semana de fiesta?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made sure the animals were fed before leaving the house.	Había hecho que los animales estuvieran alimentados antes de salir de casa.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made the yard safe for the new puppy before bringing it home.	Habíamos hecho que el patio fuera seguro para el cachorro nuevo antes de traerlo.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had made special accommodations for the pet before the trip.	Habían hecho arreglos especiales para la mascota antes del viaje.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had done all my homework before the test was announced.	Había hecho toda mi tarea antes de que se anunciara el examen.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you made a study plan before the semester started?	¿Habías hecho un plan de estudio antes de que comenzara el semestre?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made excellent progress before switching schools.	Había hecho un excelente progreso antes de cambiar de escuela.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made a study guide before the professor changed the syllabus.	Habíamos hecho una guía de estudio antes de que el profesor cambiara el programa.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had done the project before the deadline moved up.	Habían hecho el proyecto antes de que se adelantara la fecha límite.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had done exercise three days in a row before the injury.	Había hecho ejercicio tres días seguidos antes de la lesión.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you made an appointment before the pain got worse?	¿Habías hecho una cita antes de que el dolor empeorara?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made healthier food choices before the diagnosis.	Había hecho elecciones de comida más saludables antes del diagnóstico.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made all the preparations before the clinic opened.	Habíamos hecho todos los preparativos antes de que abriera la clínica.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had done the therapy consistently before they were discharged.	Habían hecho la terapia de forma constante antes de que les dieran de alta.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had made a good impression before the final interview.	Había hecho una buena impresión antes de la entrevista final.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you done the report before the meeting was postponed?	¿Habías hecho el informe antes de que se pospusiera la reunión?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made the proposal before the client changed their mind.	Había hecho la propuesta antes de que el cliente cambiara de opinión.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made significant progress before the company restructured.	Habíamos hecho un progreso significativo antes de que la empresa se reestructurara.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had done great work before the project was canceled.	Habían hecho un gran trabajo antes de que cancelaran el proyecto.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had made a worship song before the album was recorded.	Había hecho una canción de adoración antes de que se grabara el álbum.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you made a recording of the last worship service?	¿Habías hecho una grabación del último culto de adoración?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made a new arrangement before the choir director heard it.	Había hecho un nuevo arreglo antes de que el director del coro lo escuchara.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made beautiful music together before the team disbanded.	Habíamos hecho música hermosa juntos antes de que el equipo se disolviera.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had made a joyful sound that the whole church remembered.	Habían hecho un sonido alegre que toda la iglesia recordaba.	Hacer Past Perfect
+Basic	Hacer::Future::Indicative	I will do the grocery shopping for the week.	Haré las compras de la semana.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you make your bed before the guests arrive?	¿Harás tu cama antes de que lleguen los invitados?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	She will do the reading plan starting next month.	Hará el plan de lectura a partir del próximo mes.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will make traditional food for the church potluck.	Haremos comida tradicional para el almuerzo compartido de la iglesia.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will make plans to visit the mission field.	Harán planes para visitar el campo misionero.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	I will make my prayer journal entries every night.	Haré mis entradas de diario de oración cada noche.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you do the decorations for the Christmas play?	¿Harás los decorados para la obra de Navidad?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	He will make a big effort to attend every Bible study.	Hará un gran esfuerzo por asistir a cada estudio bíblico.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will make the most of the rest day on our trip.	Haremos el mayor provecho del día de descanso en nuestro viaje.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will do a fundraiser for the new church building.	Harán una recaudación de fondos para el nuevo edificio de la iglesia.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	I will make a grocery list before going to the store.	Haré una lista de compras antes de ir a la tienda.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you do the cooking for the birthday dinner?	¿Harás la comida para la cena de cumpleaños?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	She will make fresh lemonade for the summer gathering.	Hará limonada fresca para la reunión de verano.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will make repairs to the church roof next month.	Haremos reparaciones al techo de la iglesia el próximo mes.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will do the flower arrangements for the wedding.	Harán los arreglos florales para la boda.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	I will make a shopping list for our camping trip.	Haré una lista de compras para nuestro viaje de campamento.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you make tamales for Christmas this year?	¿Harás tamales para la Navidad este año?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	He will make sure everyone has a seat at the table.	Hará que todos tengan un asiento en la mesa.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will make a family video for the reunion.	Haremos un video familiar para la reunión.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will make a prayer chain for the sick members.	Harán una cadena de oración para los miembros enfermos.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	I will make every day count for God.	Haré que cada día cuente para Dios.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you do the youth group lesson next Sunday?	¿Harás la lección del grupo juvenil el próximo domingo?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	She will do her best at the choir audition.	Hará su mejor esfuerzo en la audición del coro.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will make new friends at the church retreat.	Haremos nuevos amigos en el retiro de la iglesia.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will make a neighborhood cleanup project this spring.	Harán un proyecto de limpieza del vecindario esta primavera.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	I will make a schedule for my daily Bible reading.	Haré un horario para mi lectura bíblica diaria.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you make something for the school bake sale?	¿Harás algo para la venta de pasteles de la escuela?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	He will make the school newsletter each month.	Hará el boletín de la escuela cada mes.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will make an appointment with the nutritionist.	Haremos una cita con el nutricionista.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will do all they can for the patient.	Harán todo lo que puedan por el paciente.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	I will make a business plan for the new ministry.	Haré un plan de negocio para el nuevo ministerio.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you do the presentation for the board meeting?	¿Harás la presentación para la reunión de la junta?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	She will make new contacts at the conference.	Hará nuevos contactos en la conferencia.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will make a team schedule for the whole quarter.	Haremos un horario de equipo para todo el trimestre.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will do the final review before submitting.	Harán la revisión final antes de entregar.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	I will make a new worship set for the conference.	Haré un nuevo conjunto de adoración para la conferencia.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	Will you make a playlist for the youth service?	¿Harás una lista de reproducción para el servicio juvenil?	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	He will make a guitar arrangement of the old hymn.	Hará un arreglo de guitarra del viejo himno.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	We will make music that brings glory to God.	Haremos música que traiga gloria a Dios.	Hacer Future Indicative
+Basic	Hacer::Future::Indicative	They will do a concert for the community next month.	Harán un concierto para la comunidad el próximo mes.	Hacer Future Indicative
+Basic	Hacer::Conditional	If I had more energy, I would do morning devotionals every day.	Si tuviera más energía, haría devociones matutinas cada día.	Hacer Conditional
+Basic	Hacer::Conditional	Would you make the children feel welcome at church?	¿Harías que los niños se sintieran bienvenidos en la iglesia?	Hacer Conditional
+Basic	Hacer::Conditional	He would do a great job as Sunday school teacher.	Haría un gran trabajo como maestro de escuela dominical.	Hacer Conditional
+Basic	Hacer::Conditional	We would make a prayer room if the space allowed it.	Haríamos un cuarto de oración si el espacio lo permitiera.	Hacer Conditional
+Basic	Hacer::Conditional	They would make the service more accessible for newcomers.	Harían el servicio más accesible para los nuevos.	Hacer Conditional
+Basic	Hacer::Conditional	I would make a homemade meal for my neighbor if they were sick.	Haría una comida casera para mi vecino si estuviera enfermo.	Hacer Conditional
+Basic	Hacer::Conditional	Would you do the shopping at the local market instead?	¿Harías las compras en el mercado local en cambio?	Hacer Conditional
+Basic	Hacer::Conditional	She would make fruit salad for the summer picnic.	Haría ensalada de frutas para el picnic de verano.	Hacer Conditional
+Basic	Hacer::Conditional	We would make a garden if we had more land.	Haríamos un jardín si tuviéramos más terreno.	Hacer Conditional
+Basic	Hacer::Conditional	They would do the cooking if someone bought the groceries.	Harían la comida si alguien comprara los víveres.	Hacer Conditional
+Basic	Hacer::Conditional	I would make a travel video if I had a better camera.	Haría un video de viaje si tuviera una mejor cámara.	Hacer Conditional
+Basic	Hacer::Conditional	Would you make a guide for first-time visitors to the city?	¿Harías una guía para los visitantes por primera vez a la ciudad?	Hacer Conditional
+Basic	Hacer::Conditional	He would do everything possible to make the mission a success.	Haría todo lo posible para que la misión fuera un éxito.	Hacer Conditional
+Basic	Hacer::Conditional	We would make stops at every bookstore on the trip.	Haríamos paradas en cada librería del viaje.	Hacer Conditional
+Basic	Hacer::Conditional	They would make the exchange students feel right at home.	Harían que los estudiantes de intercambio se sintieran como en casa.	Hacer Conditional
+Basic	Hacer::Conditional	I would make the house brighter if I repainted it.	Haría la casa más luminosa si la repintara.	Hacer Conditional
+Basic	Hacer::Conditional	Would you do the floors if you had the right tools?	¿Harías los pisos si tuvieras las herramientas adecuadas?	Hacer Conditional
+Basic	Hacer::Conditional	She would make a reading nook for the kids if she had the space.	Haría un rincón de lectura para los niños si tuviera el espacio.	Hacer Conditional
+Basic	Hacer::Conditional	We would make the kitchen bigger if we remodeled.	Haríamos la cocina más grande si remodeláramos.	Hacer Conditional
+Basic	Hacer::Conditional	They would make a garden shed for storing tools.	Harían un cobertizo de jardín para guardar herramientas.	Hacer Conditional
+Basic	Hacer::Conditional	I would make each child a scrapbook if I had the time.	Haría un álbum de recortes para cada hijo si tuviera el tiempo.	Hacer Conditional
+Basic	Hacer::Conditional	Would you do family devotions more often if you had a guide?	¿Harías devociones familiares más seguido si tuvieras una guía?	Hacer Conditional
+Basic	Hacer::Conditional	He would make the best grandpa if he lived closer.	Haría el mejor abuelo si viviera más cerca.	Hacer Conditional
+Basic	Hacer::Conditional	We would make traditions around every holiday.	Haríamos tradiciones en cada festividad.	Hacer Conditional
+Basic	Hacer::Conditional	They would do anything to protect their children.	Harían cualquier cosa para proteger a sus hijos.	Hacer Conditional
+Basic	Hacer::Conditional	I would make a birthday cake from scratch for my best friend.	Haría un pastel de cumpleaños desde cero para mi mejor amigo.	Hacer Conditional
+Basic	Hacer::Conditional	Would you do a road trip with friends this summer?	¿Harías un viaje por carretera con amigos este verano?	Hacer Conditional
+Basic	Hacer::Conditional	She would make a scrapbook to remember their friendship.	Haría un álbum de recortes para recordar su amistad.	Hacer Conditional
+Basic	Hacer::Conditional	We would make a group effort to help our friend move.	Haríamos un esfuerzo grupal para ayudar a nuestro amigo a mudarse.	Hacer Conditional
+Basic	Hacer::Conditional	They would do something kind every day for someone in need.	Harían algo amable cada día para alguien en necesidad.	Hacer Conditional
+Basic	Hacer::Conditional	I would make educational toys for the dog if I could sew.	Haría juguetes educativos para el perro si pudiera coser.	Hacer Conditional
+Basic	Hacer::Conditional	Would you make special treats for the pets at Christmas?	¿Harías golosinas especiales para las mascotas en Navidad?	Hacer Conditional
+Basic	Hacer::Conditional	She would make a cat tree if she knew how to build.	Haría un árbol para el gato si supiera construir.	Hacer Conditional
+Basic	Hacer::Conditional	We would make a dog park in our yard if we had the space.	Haríamos un parque para perros en el patio si tuviéramos espacio.	Hacer Conditional
+Basic	Hacer::Conditional	They would make sure the animals were well cared for before leaving.	Harían que los animales estuvieran bien cuidados antes de salir.	Hacer Conditional
+Basic	Hacer::Conditional	I would make a study room in the house if I could.	Haría un cuarto de estudio en la casa si pudiera.	Hacer Conditional
+Basic	Hacer::Conditional	Would you make a science project with your kids?	¿Harías un proyecto de ciencias con tus hijos?	Hacer Conditional
+Basic	Hacer::Conditional	He would make a tutor schedule for his children if they struggled.	Haría un horario de tutoría para sus hijos si tuvieran dificultades.	Hacer Conditional
+Basic	Hacer::Conditional	We would do more volunteer hours at the school if we had time.	Haríamos más horas de voluntariado en la escuela si tuviéramos tiempo.	Hacer Conditional
+Basic	Hacer::Conditional	They would make learning fun if they could afford the materials.	Harían el aprendizaje divertido si pudieran costear los materiales.	Hacer Conditional
+Basic	Hacer::Present::Subjunctive	I hope you make a memory verse each week.	Espero que hagas un versículo de memoria cada semana.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is wonderful that he does the Bible reading in Spanish.	Es maravilloso que haga la lectura bíblica en español.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I pray that we do what God has called us to do.	Oro para que hagamos lo que Dios nos ha llamado a hacer.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is a blessing that they do the translation work.	Es una bendición que hagan el trabajo de traducción.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	God asks that we make peace with everyone.	Dios pide que hagamos las paces con todos.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I want us to do a group mission trip this year.	Quiero que hagamos un viaje misionero grupal este año.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is good that she makes copies before the trip.	Es bueno que haga copias antes del viaje.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope they do their research on the destination.	Espero que hagan su investigación sobre el destino.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is important that he make a detailed itinerary.	Es importante que haga un itinerario detallado.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I need us to make a food list for the week.	Necesito que hagamos una lista de comida para la semana.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is important that you make enough salsa for everyone.	Es importante que hagas suficiente salsa para todos.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope she does the meal planning this month.	Espero que haga la planificación de comidas este mes.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is necessary that they make a healthy meal plan.	Es necesario que hagan un plan de comidas saludable.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I am glad he does the grocery shopping each week.	Me alegra que haga las compras cada semana.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I want you to do the repairs before winter.	Quiero que hagas las reparaciones antes del invierno.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is important that she do the cleaning before the guests arrive.	Es importante que haga la limpieza antes de que lleguen los invitados.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	So that we make the home comfortable, we need to fix the heater.	Para que hagamos el hogar cómodo, necesitamos arreglar el calentador.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope he does the decorating for the family reunion.	Espero que haga la decoración para la reunión familiar.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is good that they make the guest room ready.	Es bueno que hagan que el cuarto de huéspedes esté listo.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope you make room for your grandparents this holiday.	Espero que hagas espacio para tus abuelos en estas fiestas.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is important that he make time for family dinner.	Es importante que haga tiempo para la cena familiar.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I need us to make a family prayer together each morning.	Necesito que hagamos una oración familiar juntos cada mañana.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	May they make a loving home for their children.	Que hagan un hogar amoroso para sus hijos.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I am glad she does so much for her grandparents.	Me alegra que haga tanto por sus abuelos.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I want you to make time to visit the elderly at church.	Quiero que hagas tiempo para visitar a los ancianos en la iglesia.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is good that he makes people feel appreciated.	Es bueno que haga que las personas se sientan apreciadas.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	So that we make lasting friendships, we need to invest in people.	Para que hagamos amistades duraderas, necesitamos invertir en las personas.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope they make a tradition of eating together after church.	Espero que hagan una tradición de comer juntos después de la iglesia.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is important that she does regular vet visits for the dog.	Es importante que haga visitas veterinarias regulares para el perro.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope he makes time to walk the dog every day.	Espero que haga tiempo para pasear al perro cada día.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	So that we make the animals happy, we must give them attention.	Para que hagamos felices a los animales, debemos darles atención.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I need them to do a health check on the animals.	Necesito que hagan un chequeo de salud a los animales.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I am glad she does all her assigned reading.	Me alegra que haga toda su lectura asignada.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I hope he makes a vocabulary list for the language class.	Espero que haga una lista de vocabulario para la clase de idiomas.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	So that we make the most of class time, let us be prepared.	Para que hagamos el mayor provecho del tiempo de clase, estemos preparados.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	I need her to do the assignment before Friday.	Necesito que ella haga la tarea antes del viernes.	Hacer Present Subjunctive
+Basic	Hacer::Present::Subjunctive	It is necessary that they make a music playlist for the service.	Es necesario que hagan una lista de música para el culto.	Hacer Present Subjunctive
+Basic	Hacer::Present::Perfect	I have made a list of Bible verses to memorize.	He hecho una lista de versículos bíblicos para memorizar.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you done the memory verse assignment?	¿Has hecho la tarea del versículo de memoria?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	She has made worship a daily part of her life.	Ha hecho de la adoración una parte diaria de su vida.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have made our church a welcoming place for everyone.	Hemos hecho de nuestra iglesia un lugar acogedor para todos.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have made real progress in their faith walk.	Han hecho un progreso real en su caminar de fe.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	I have made all the flight arrangements for the mission trip.	He hecho todos los arreglos de vuelo para el viaje misionero.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you done the exchange rate research for the trip?	¿Has hecho la investigación sobre el tipo de cambio para el viaje?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	She has made a travel scrapbook from the mission trips.	Ha hecho un álbum de viaje de los viajes misioneros.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have made a map of all the places we have visited.	Hemos hecho un mapa de todos los lugares que hemos visitado.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have made every trip worthwhile for the kingdom.	Han hecho que cada viaje valga la pena para el reino.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	I have made a casserole for the church potluck.	He hecho una cazuela para el almuerzo compartido de la iglesia.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you done the dishes after last night dinner?	¿Has hecho los platos después de la cena de anoche?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	She has made a three-course meal for the family today.	Ha hecho una cena de tres platos para la familia hoy.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have made the most of every meal to give thanks to God.	Hemos hecho el mayor provecho de cada comida para dar gracias a Dios.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have made homemade bread every week for the communion.	Han hecho pan casero cada semana para la comunión.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	I have made cleaning the house a Sunday routine.	He hecho de limpiar la casa una rutina dominical.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you done the repairs we talked about?	¿Has hecho las reparaciones de las que hablamos?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	She has made the house look beautiful with her decorations.	Ha hecho que la casa se vea hermosa con sus decoraciones.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have made a cozy home for our family.	Hemos hecho un hogar acogedor para nuestra familia.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have made the porch a peaceful place to pray.	Han hecho del porche un lugar tranquilo para orar.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	I have made every holiday special for my children.	He hecho que cada festividad sea especial para mis hijos.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you done anything to celebrate your anniversary?	¿Has hecho algo para celebrar tu aniversario?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	She has made a photo album of all the family gatherings.	Ha hecho un álbum de fotos de todas las reuniones familiares.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have made our grandparents feel loved and honored.	Hemos hecho que nuestros abuelos se sientan amados y honrados.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have made family prayer a cornerstone of their home.	Han hecho de la oración familiar una piedra angular de su hogar.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	I have made plans to visit my best friend next month.	He hecho planes para visitar a mi mejor amigo el próximo mes.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you done anything special for your friends lately?	¿Has hecho algo especial para tus amigos últimamente?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	She has made everyone in the group feel valued.	Ha hecho que todos en el grupo se sientan valorados.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have made a tradition of game night with friends.	Hemos hecho una tradición de noche de juegos con amigos.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have made a big difference in our neighborhood.	Han hecho una gran diferencia en nuestro vecindario.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	I have made a homemade collar for my dog.	He hecho un collar casero para mi perro.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you done any training with your new puppy?	¿Has hecho algún entrenamiento con tu nuevo cachorro?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	She has made sure the cats have fresh water each day.	Ha hecho que los gatos tengan agua fresca cada día.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have made a safe outdoor space for our pets.	Hemos hecho un espacio exterior seguro para nuestras mascotas.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have made the rescue animals feel at home.	Han hecho que los animales rescatados se sientan en casa.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	I have made flashcards for every vocabulary word.	He hecho tarjetas de memoria para cada palabra de vocabulario.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	Have you done the reading for tomorrow class?	¿Has hecho la lectura para la clase de mañana?	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	She has made remarkable progress in her language studies.	Ha hecho un progreso notable en sus estudios de idiomas.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	We have done a lot of research for the school project.	Hemos hecho mucha investigación para el proyecto escolar.	Hacer Present Perfect
+Basic	Hacer::Present::Perfect	They have made learning enjoyable for the students.	Han hecho que el aprendizaje sea agradable para los estudiantes.	Hacer Present Perfect
+Basic	Hacer::Past::Perfect	Before the sermon, I had made notes on the scripture passage.	Antes del sermón, había hecho apuntes sobre el pasaje bíblico.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you done the Sunday school craft before the kids arrived?	¿Habías hecho la manualidad de la escuela dominical antes de que llegaran los niños?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made a prayer list before entering the sanctuary.	Había hecho una lista de oración antes de entrar al santuario.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made an agenda before the church board meeting.	Habíamos hecho una agenda antes de la reunión de la junta de la iglesia.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had done significant mission work before arriving in the village.	Habían hecho un trabajo misionero significativo antes de llegar al pueblo.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had made a cultural study before going abroad for ministry.	Había hecho un estudio cultural antes de ir al extranjero para el ministerio.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you done a language course before the mission trip?	¿Habías hecho un curso de idiomas antes del viaje misionero?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made contacts in the country before flying out.	Había hecho contactos en el país antes de volar.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made a list of supplies before packing our bags.	Habíamos hecho una lista de suministros antes de empacar nuestras maletas.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had done a trial run of the itinerary before the actual trip.	Habían hecho un ensayo del itinerario antes del viaje real.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had made a grocery list before the store closed.	Había hecho una lista de compras antes de que cerrara la tienda.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you done the meal prep before the guests showed up?	¿Habías hecho la preparación de la comida antes de que llegaran los invitados?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made a special dessert before anyone requested one.	Había hecho un postre especial antes de que alguien lo pidiera.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made soup from scratch before the cold front arrived.	Habíamos hecho sopa desde cero antes de que llegara el frente frío.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had done most of the cooking before the helpers arrived.	Habían hecho la mayor parte de la comida antes de que llegaran los ayudantes.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had made a cleaning schedule before the inspection.	Había hecho un horario de limpieza antes de la inspección.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you done the painting before the furniture arrived?	¿Habías hecho la pintura antes de que llegaran los muebles?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made a cozy reading corner before school started.	Había hecho un rincón de lectura acogedor antes de que comenzara la escuela.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made arrangements before the family moved in with us.	Habíamos hecho arreglos antes de que la familia se mudara con nosotros.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had done a thorough cleaning before putting the house on the market.	Habían hecho una limpieza a fondo antes de poner la casa en el mercado.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had made a tradition of family dinner before everything changed.	Había hecho una tradición de cena familiar antes de que todo cambiara.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you done the father-daughter dance before the reception ended?	¿Habías hecho el baile de padre e hija antes de que terminara la recepción?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made a memory box for each of her children.	Había hecho una caja de recuerdos para cada uno de sus hijos.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made plans to visit the grandparents before the lockdown.	Habíamos hecho planes para visitar a los abuelos antes del confinamiento.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had made a family video before the patriarch passed away.	Habían hecho un video familiar antes de que falleciera el patriarca.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had made reservations for the friend group trip months before.	Había hecho reservaciones para el viaje del grupo de amigos con meses de anticipación.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you done a road trip before with your college friends?	¿Habías hecho un viaje por carretera antes con tus amigos de la universidad?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made a friendship quilt before the group disbanded.	Había hecho una colcha de amistad antes de que el grupo se disolviera.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made so many memories together before she moved away.	Habíamos hecho tantos recuerdos juntos antes de que ella se mudara.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had done volunteer work at the shelter before it closed.	Habían hecho trabajo voluntario en el refugio antes de que cerrara.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had made a toy box for the new puppy before it arrived.	Había hecho una caja de juguetes para el nuevo cachorro antes de que llegara.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you done the research on the breed before adopting the dog?	¿Habías hecho la investigación sobre la raza antes de adoptar al perro?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made a pet first aid kit before the family got a cat.	Había hecho un botiquín de primeros auxilios para mascotas antes de que la familia tuviera un gato.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made a pet care schedule before we went on vacation.	Habíamos hecho un horario de cuidado de mascotas antes de irnos de vacaciones.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had made a safe outdoor pen for the rabbits before winter.	Habían hecho un corral exterior seguro para los conejos antes del invierno.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had done the homework before the teacher collected it.	Había hecho la tarea antes de que el maestro la recogiera.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you made an outline before writing the essay?	¿Habías hecho un esquema antes de escribir el ensayo?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made a presentation before the class period started.	Había hecho una presentación antes de que comenzara el período de clase.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made a group study schedule before midterms.	Habíamos hecho un horario de estudio grupal antes de los exámenes parciales.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had done all the required reading before the lecture.	Habían hecho toda la lectura requerida antes de la conferencia.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had done physical therapy every week before the final surgery.	Había hecho terapia física cada semana antes de la cirugía final.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you done a health screening before joining the sports team?	¿Habías hecho un examen de salud antes de unirte al equipo deportivo?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made healthy changes in her diet before the diagnosis.	Había hecho cambios saludables en su dieta antes del diagnóstico.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made an emergency plan before the storm season began.	Habíamos hecho un plan de emergencia antes de que comenzara la temporada de tormentas.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had done their annual physicals before taking the mission trip.	Habían hecho sus exámenes físicos anuales antes de emprender el viaje misionero.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had made an action plan before the quarterly review.	Había hecho un plan de acción antes de la revisión trimestral.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you done a cost analysis before the project was approved?	¿Habías hecho un análisis de costos antes de que aprobaran el proyecto?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made all the preparations before taking the new job.	Había hecho todos los preparativos antes de tomar el nuevo trabajo.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made a strategic plan before launching the ministry program.	Habíamos hecho un plan estratégico antes de lanzar el programa ministerial.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had done extensive planning before opening the church cafe.	Habían hecho una planificación extensa antes de abrir el café de la iglesia.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	I had made a worship set list before the sound check.	Había hecho una lista de alabanza antes de la prueba de sonido.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	Had you done a sound check before the congregation arrived?	¿Habías hecho una prueba de sonido antes de que llegara la congregación?	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	She had made arrangements for the special music before the soloist canceled.	Había hecho arreglos para la música especial antes de que el solista cancelara.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	We had made a songbook before the old one fell apart.	Habíamos hecho un libro de canciones antes de que el viejo se deshiciera.	Hacer Past Perfect
+Basic	Hacer::Past::Perfect	They had done several rehearsals before the church concert.	Habían hecho varios ensayos antes del concierto de la iglesia.	Hacer Past Perfect
+Basic	Hacer::Imperfect::Subjunctive	If only I did more to serve the poor in my city.	Ojalá hiciera más para servir a los pobres en mi ciudad.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	The congregation hoped the pastor would make a wise decision.	La congregación esperaba que el pastor hiciera una decisión sabia.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If she made prayer a priority, her life would change.	Si hiciera de la oración una prioridad, su vida cambiaría.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We prayed that we would make an impact at the festival.	Oramos para que hiciéramos un impacto en el festival.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they made the church more inviting, attendance would rise.	Si hicieran la iglesia más acogedora, la asistencia aumentaría.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If I made more effort to memorize Scripture, I would be stronger.	Si hiciera más esfuerzo por memorizar las Escrituras, sería más fuerte.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	God desired that we make a new covenant with him.	Dios deseaba que hiciéramos un nuevo pacto con él.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If he made peace with his brother, the family would heal.	Si hiciera las paces con su hermano, la familia sanaría.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We needed someone to make a plan for the outreach event.	Necesitábamos que alguien hiciera un plan para el evento de alcance.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they made more time for prayer, they would feel less anxious.	Si hicieran más tiempo para orar, se sentirían menos ansiosos.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If I made better travel plans, the trip would go smoothly.	Si hiciera mejores planes de viaje, el viaje saldría sin problemas.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	The guide wished we would make reservations in advance.	El guía deseaba que hiciéramos reservaciones con anticipación.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If she made the translation herself, it would be more accurate.	Si hiciera la traducción ella misma, sería más precisa.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We hoped the team would make the most of the time abroad.	Esperábamos que el equipo hiciera el mayor provecho del tiempo en el extranjero.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they made a stop in the village, they could share the gospel.	Si hicieran una parada en el pueblo, podrían compartir el evangelio.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If I made a bigger pot of rice, there would be enough for all.	Si hiciera una olla más grande de arroz, habría suficiente para todos.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	I wished you would make more use of the fresh vegetables.	Ojalá que hicieras más uso de las verduras frescas.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If she made the salsa milder, the kids would eat it.	Si hiciera la salsa más suave, los niños la comerían.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We hoped everyone would make something for the potluck.	Esperábamos que todos hicieran algo para el almuerzo compartido.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they made the bread in smaller portions, it would last longer.	Si hicieran el pan en porciones más pequeñas, duraría más.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If I made the room smaller, it would feel cozier.	Si hiciera el cuarto más pequeño, se sentiría más acogedor.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	I wished you would do the painting while the weather was dry.	Ojalá que hicieras la pintura mientras el clima estaba seco.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If she did the laundry on Saturdays, it would be ready for Sunday.	Si hiciera la ropa los sábados, estaría lista para el domingo.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We needed someone to make repairs before the rainy season.	Necesitábamos que alguien hiciera reparaciones antes de la temporada de lluvias.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they did the yard work now, the garden would bloom beautifully.	Si hicieran el trabajo del jardín ahora, el jardín florecería con belleza.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If I made more family dinners, we would be closer.	Si hiciera más cenas familiares, estaríamos más unidos.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	Dad always wished I would make more time to visit.	Papá siempre deseaba que hiciera más tiempo para visitar.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If she did family devotions, the children would grow in faith.	Si hiciera devociones familiares, los niños crecerían en la fe.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We hoped our kids would make us proud at the recital.	Esperábamos que nuestros hijos nos hicieran sentir orgullosos en el recital.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they made special memories, the children would never forget.	Si hicieran recuerdos especiales, los niños nunca olvidarían.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If I made more time to call old friends, I would feel happier.	Si hiciera más tiempo para llamar a viejos amigos, me sentiría más feliz.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	She wished her friend would make more effort to stay in touch.	Ella deseaba que su amiga hiciera más esfuerzo por mantenerse en contacto.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If she made more time for her friends, they would all benefit.	Si hiciera más tiempo para sus amigas, todas se beneficiarían.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We hoped everyone would make an effort to come to the reunion.	Esperábamos que todos hicieran un esfuerzo por venir a la reunión.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they made more memories together, the friendship would deepen.	Si hicieran más recuerdos juntos, la amistad se profundizaría.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If I made a routine of walking the dog, it would be healthier.	Si hiciera una rutina de pasear al perro, estaría más saludable.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	The vet wished the owner would make regular appointments.	El veterinario deseaba que el dueño hiciera citas regulares.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If she made a pen for the rabbit, it could roam more freely.	Si hiciera un corral para el conejo, podría moverse más libremente.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	We hoped our children would make the animals feel welcome.	Esperábamos que nuestros hijos hicieran que los animales se sintieran bienvenidos.	Hacer Imperfect Subjunctive
+Basic	Hacer::Imperfect::Subjunctive	If they made a pet schedule, caring for them would be easier.	Si hicieran un horario para las mascotas, cuidarlas sería más fácil.	Hacer Imperfect Subjunctive
