@@ -1,0 +1,107 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Ir::Past::Perfect	I had already gone to church when you called.	Ya había ido a la iglesia cuando llamaste.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to Bible study before?	¿Habías ido al estudio bíblico antes?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to the store before it closed.	Había ido a la tienda antes de que cerrara.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the park before it rained.	Habíamos ido al parque antes de que lloviera.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the restaurant before we arrived.	Habían ido al restaurante antes de que llegáramos.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had already gone to the doctor.	Ya había ido al médico.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the hospital before?	¿Habías ido al hospital antes?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to the school.	Había ido a la escuela.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the airport before the flight.	Habíamos ido al aeropuerto antes del vuelo.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had already gone to the concert.	Ya habían ido al concierto.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to work before sunrise.	Había ido al trabajo antes del amanecer.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the gym before the injury?	¿Habías ido al gimnasio antes de la lesión?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to Bible study for years.	Había ido al estudio bíblico por años.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the beach before the storm.	Habíamos ido a la playa antes de la tormenta.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the museum before it closed.	Habían ido al museo antes de que cerrara.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the pharmacy before it closed.	Había ido a la farmacia antes de que cerrara.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to church before moving here?	¿Habías ido a la iglesia antes de mudarte aquí?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to the dentist last week.	Había ido al dentista la semana pasada.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the meeting before you arrived.	Habíamos ido a la reunión antes de que llegaras.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the park with the dog.	Habían ido al parque con el perro.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the library to study.	Había ido a la biblioteca a estudiar.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the prayer meeting before?	¿Habías ido a la reunión de oración antes?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to the hospital.	Había ido al hospital.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to church together many times.	Habíamos ido a la iglesia juntos muchas veces.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had already gone to school.	Ya habían ido a la escuela.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the store to buy groceries.	Había ido a la tienda a comprar comestibles.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the concert before?	¿Habías ido al concierto antes?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to the doctor.	Había ido al médico.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the restaurant before the party.	Habíamos ido al restaurante antes de la fiesta.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the airport to pick up a friend.	Habían ido al aeropuerto a recoger a un amigo.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the vet with my dog.	Había ido al veterinario con mi perro.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the bank?	¿Habías ido al banco?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to the office early.	Había ido a la oficina temprano.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the supermarket before the party.	Habíamos ido al supermercado antes de la fiesta.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to Bible study before moving.	Habían ido al estudio bíblico antes de mudarse.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had already gone home.	Ya había ido a casa.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the clinic?	¿Habías ido a la clínica?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to the university.	Había ido a la universidad.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the park in the morning.	Habíamos ido al parque por la mañana.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to visit their family.	Habían ido a visitar a su familia.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the market before it opened.	Había ido al mercado antes de que abriera.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the school event before?	¿Habías ido al evento de la escuela antes?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to the concert with his friends.	Había ido al concierto con sus amigos.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the hotel before checking in.	Habíamos ido al hotel antes de registrarnos.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the beach before the rain.	Habían ido a la playa antes de la lluvia.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the prayer meeting.	Había ido a la reunión de oración.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the museum?	¿Habías ido al museo?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to work early.	Había ido al trabajo temprano.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to church every Sunday.	Habíamos ido a la iglesia todos los domingos.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the train station.	Habían ido a la estación de tren.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the pharmacy.	Había ido a la farmacia.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the dentist?	¿Habías ido al dentista?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to visit his grandmother.	Había ido a visitar a su abuela.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the library.	Habíamos ido a la biblioteca.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the restaurant to celebrate.	Habían ido al restaurante a celebrar.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the gym before the injury.	Había ido al gimnasio antes de la lesión.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the park with the dog?	¿Habías ido al parque con el perro?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to the market.	Había ido al mercado.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the concert before it started.	Habíamos ido al concierto antes de que empezara.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to church with their parents.	Habían ido a la iglesia con sus padres.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the office.	Había ido a la oficina.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the airport?	¿Habías ido al aeropuerto?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to the vet with the cat.	Había ido al veterinario con el gato.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the supermarket.	Habíamos ido al supermercado.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to school together.	Habían ido a la escuela juntos.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the doctor for a checkup.	Había ido al médico para una revisión.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to work that day?	¿Habías ido al trabajo ese día?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to the prayer meeting.	Había ido a la reunión de oración.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the museum before it closed.	Habíamos ido al museo antes de que cerrara.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the hospital.	Habían ido al hospital.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to Bible study before moving.	Había ido al estudio bíblico antes de mudarme.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the hotel?	¿Habías ido al hotel?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to the restaurant.	Había ido al restaurante.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the park with the children.	Habíamos ido al parque con los niños.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the clinic.	Habían ido a la clínica.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the store.	Había ido a la tienda.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the library?	¿Habías ido a la biblioteca?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to the gym.	Había ido al gimnasio.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to visit our friends.	Habíamos ido a visitar a nuestros amigos.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the bank.	Habían ido al banco.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the concert with my family.	Había ido al concierto con mi familia.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the university?	¿Habías ido a la universidad?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to work early.	Había ido al trabajo temprano.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the pharmacy.	Habíamos ido a la farmacia.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the church many times.	Habían ido a la iglesia muchas veces.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had already gone home before you arrived.	Ya había ido a casa antes de que llegaras.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the meeting?	¿Habías ido a la reunión?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to the library.	Había ido a la biblioteca.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the beach with our family.	Habíamos ido a la playa con nuestra familia.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the restaurant for the birthday.	Habían ido al restaurante para el cumpleaños.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to church before the service ended.	Había ido a la iglesia antes de que terminara el servicio.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the school play?	¿Habías ido a la obra de la escuela?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to the dentist.	Había ido al dentista.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the hotel.	Habíamos ido al hotel.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the park to play.	Habían ido al parque a jugar.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the music rehearsal.	Había ido al ensayo de música.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the hospital?	¿Habías ido al hospital?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to the store.	Había ido a la tienda.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to Bible study together.	Habíamos ido al estudio bíblico juntos.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the concert to perform.	Habían ido al concierto a actuar.	Ir Past Perfect

@@ -1,0 +1,107 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Ir::Present::Subjunctive	I want you to go to church.	Quiero que vayas a la iglesia.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope he goes to Bible study.	Espero que vaya al estudio bíblico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want us to go to the park.	Quiero que vayamos al parque.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope they go to the doctor.	Espero que vayan al médico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that you go to the hospital.	Es importante que vayas al hospital.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need you to go to the store.	Necesito que vayas a la tienda.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want her to go to school.	Quiero que vaya a la escuela.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that we go to the meeting.	Es necesario que vayamos a la reunión.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope they go to church.	Espero que vayan a la iglesia.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's good that you go to the doctor.	Es bueno que vayas al médico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I don't want you to go to the party alone.	No quiero que vayas a la fiesta solo.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope he goes to the pharmacy.	Espero que vaya a la farmacia.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that we go to Bible study.	Es importante que vayamos al estudio bíblico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need them to go to the airport.	Necesito que vayan al aeropuerto.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's better that you go to the clinic.	Es mejor que vayas a la clínica.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want you to go to the restaurant with me.	Quiero que vayas al restaurante conmigo.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope she goes to work tomorrow.	Espero que vaya al trabajo mañana.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that they go to school.	Es necesario que vayan a la escuela.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need him to go to the meeting.	Necesito que vaya a la reunión.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that you go to church.	Es importante que vayas a la iglesia.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want us to go to the concert.	Quiero que vayamos al concierto.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope they go to the supermarket.	Espero que vayan al supermercado.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's good that she goes to the vet.	Es bueno que vaya al veterinario.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need you to go to the bank.	Necesito que vayas al banco.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's better that we go together.	Es mejor que vayamos juntos.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want you to go to Bible study.	Quiero que vayas al estudio bíblico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope he goes to the dentist.	Espero que vaya al dentista.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that they go to the hospital.	Es importante que vayan al hospital.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need her to go to the office.	Necesito que vaya a la oficina.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that you go to the pharmacy.	Es necesario que vayas a la farmacia.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want them to go to church with us.	Quiero que vayan a la iglesia con nosotros.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope she goes to Bible study.	Espero que vaya al estudio bíblico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's good that we go to the park.	Es bueno que vayamos al parque.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need him to go to the store.	Necesito que vaya a la tienda.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's better that they go to the clinic.	Es mejor que vayan a la clínica.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want you to go to the prayer meeting.	Quiero que vayas a la reunión de oración.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope they go to the school event.	Espero que vayan al evento de la escuela.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that she goes to the doctor.	Es importante que vaya al médico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need us to go to the meeting early.	Necesito que vayamos a la reunión temprano.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that he goes to work.	Es necesario que vaya al trabajo.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I don't want you to go to the store alone.	No quiero que vayas a la tienda solo.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope she goes to the gym.	Espero que vaya al gimnasio.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's good that you go to church regularly.	Es bueno que vayas a la iglesia regularmente.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need them to go to the airport on time.	Necesito que vayan al aeropuerto a tiempo.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's better that we go to the restaurant together.	Es mejor que vayamos al restaurante juntos.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want him to go to the library.	Quiero que vaya a la biblioteca.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope they go to the concert together.	Espero que vayan al concierto juntos.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that you go to work today.	Es importante que vayas al trabajo hoy.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need her to go to the pharmacy.	Necesito que vaya a la farmacia.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that we go to the hospital.	Es necesario que vayamos al hospital.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want you to go to the museum with us.	Quiero que vayas al museo con nosotros.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope he goes to church on Sunday.	Espero que vaya a la iglesia el domingo.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's good that we go to the park with the dog.	Es bueno que vayamos al parque con el perro.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need you to go to the meeting.	Necesito que vayas a la reunión.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's better that they go to the doctor.	Es mejor que vayan al médico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want her to go to school every day.	Quiero que vaya a la escuela todos los días.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope they go to the prayer meeting.	Espero que vayan a la reunión de oración.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that he goes to the dentist.	Es importante que vaya al dentista.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need them to go to church with us.	Necesito que vayan a la iglesia con nosotros.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that you go to Bible study.	Es necesario que vayas al estudio bíblico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want us to go to the beach this summer.	Quiero que vayamos a la playa este verano.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope she goes to the university.	Espero que vaya a la universidad.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's good that they go to the vet.	Es bueno que vayan al veterinario.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need him to go to the bank.	Necesito que vaya al banco.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's better that you go to the clinic today.	Es mejor que vayas a la clínica hoy.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want you to go to the concert with me.	Quiero que vayas al concierto conmigo.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope they go to work together.	Espero que vayan al trabajo juntos.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that we go to Bible study.	Es importante que vayamos al estudio bíblico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need you to go to the supermarket.	Necesito que vayas al supermercado.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that they go to school.	Es necesario que vayan a la escuela.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want her to go to the prayer meeting.	Quiero que vaya a la reunión de oración.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope he goes to the hospital to visit.	Espero que vaya al hospital a visitar.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's good that you go to work on time.	Es bueno que vayas al trabajo a tiempo.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need them to go to the restaurant.	Necesito que vayan al restaurante.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's better that we go to the park now.	Es mejor que vayamos al parque ahora.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want you to go to church every Sunday.	Quiero que vayas a la iglesia todos los domingos.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope she goes to the market.	Espero que vaya al mercado.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that they go to Bible study.	Es importante que vayan al estudio bíblico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need her to go to the school event.	Necesito que vaya al evento de la escuela.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that he goes to the pharmacy.	Es necesario que vaya a la farmacia.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want us to go to the concert on Saturday.	Quiero que vayamos al concierto el sábado.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope you go to the doctor soon.	Espero que vayas al médico pronto.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's good that they go to church together.	Es bueno que vayan a la iglesia juntos.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need you to go to the library.	Necesito que vayas a la biblioteca.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's better that she goes to the clinic.	Es mejor que vaya a la clínica.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want them to go to the park with the children.	Quiero que vayan al parque con los niños.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope he goes to the music rehearsal.	Espero que vaya al ensayo de música.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that you go to the prayer meeting.	Es importante que vayas a la reunión de oración.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need us to go to the airport early.	Necesito que vayamos al aeropuerto temprano.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that they go to the hospital.	Es necesario que vayan al hospital.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want you to go to the vet with the cat.	Quiero que vayas al veterinario con el gato.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope she goes to school tomorrow.	Espero que vaya a la escuela mañana.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's good that we go to church together.	Es bueno que vayamos a la iglesia juntos.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need him to go to work on time.	Necesito que vaya al trabajo a tiempo.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's better that you go to Bible study.	Es mejor que vayas al estudio bíblico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want them to go to the concert.	Quiero que vayan al concierto.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope they go to the beach with us.	Espero que vayan a la playa con nosotros.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that she goes to the gym.	Es importante que vaya al gimnasio.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need them to go to the supermarket.	Necesito que vayan al supermercado.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that you go to the airport.	Es necesario que vayas al aeropuerto.	Ir Present Subjunctive

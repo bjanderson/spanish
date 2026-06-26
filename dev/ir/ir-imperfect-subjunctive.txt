@@ -1,0 +1,107 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Ir::Imperfect::Subjunctive	I wanted you to go to church.	Quería que fueras a la iglesia.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	He hoped I would go to Bible study.	Esperaba que fuera al estudio bíblico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She wanted us to go to the park.	Quería que fuéramos al parque.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed them to go to the doctor.	Necesitaba que fueran al médico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that you go to the hospital.	Era importante que fueras al hospital.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed you to go to the store.	Necesitaba que fueras a la tienda.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She wanted him to go to school.	Quería que fuera a la escuela.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that we go to the meeting.	Era necesario que fuéramos a la reunión.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I hoped they would go to church.	Esperaba que fueran a la iglesia.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was good that you went to the doctor.	Era bueno que fueras al médico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She didn't want you to go to the party alone.	No quería que fueras a la fiesta solo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I hoped he would go to the pharmacy.	Esperaba que fuera a la farmacia.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that we go to Bible study.	Era importante que fuéramos al estudio bíblico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She needed them to go to the airport.	Necesitaba que fueran al aeropuerto.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was better that you go to the clinic.	Era mejor que fueras a la clínica.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted you to go to the restaurant with me.	Quería que fueras al restaurante conmigo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped he would go to work.	Esperaba que fuera al trabajo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that they go to school.	Era necesario que fueran a la escuela.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed him to go to the meeting.	Necesitaba que fuera a la reunión.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that you go to church.	Era importante que fueras a la iglesia.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted us to go to the concert.	Quería que fuéramos al concierto.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped they would go to the supermarket.	Esperaba que fueran al supermercado.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was good that she went to the vet.	Era bueno que fuera al veterinario.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed you to go to the bank.	Necesitaba que fueras al banco.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was better that we go together.	Era mejor que fuéramos juntos.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted you to go to Bible study.	Quería que fueras al estudio bíblico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped he would go to the dentist.	Esperaba que fuera al dentista.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that they go to the hospital.	Era importante que fueran al hospital.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed her to go to the office.	Necesitaba que fuera a la oficina.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that you go to the pharmacy.	Era necesario que fueras a la farmacia.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted them to go to church with us.	Quería que fueran a la iglesia con nosotros.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped I would go to Bible study.	Esperaba que fuera al estudio bíblico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was good that we went to the park.	Era bueno que fuéramos al parque.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed him to go to the store.	Necesitaba que fuera a la tienda.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was better that they go to the clinic.	Era mejor que fueran a la clínica.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted you to go to the prayer meeting.	Quería que fueras a la reunión de oración.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped they would go to the school event.	Esperaba que fueran al evento de la escuela.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that she go to the doctor.	Era importante que fuera al médico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed us to go to the meeting early.	Necesitaba que fuéramos a la reunión temprano.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that he go to work.	Era necesario que fuera al trabajo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She didn't want you to go to the store alone.	No quería que fueras a la tienda solo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I hoped she would go to the gym.	Esperaba que fuera al gimnasio.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was good that you went to church.	Era bueno que fueras a la iglesia.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed them to go to the airport on time.	Necesitaba que fueran al aeropuerto a tiempo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was better that we go to the restaurant together.	Era mejor que fuéramos al restaurante juntos.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted him to go to the library.	Quería que fuera a la biblioteca.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped they would go to the concert together.	Esperaba que fueran al concierto juntos.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that you go to work.	Era importante que fueras al trabajo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed her to go to the pharmacy.	Necesitaba que fuera a la farmacia.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that we go to the hospital.	Era necesario que fuéramos al hospital.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted you to go to the museum with us.	Quería que fueras al museo con nosotros.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped he would go to church on Sunday.	Esperaba que fuera a la iglesia el domingo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was good that we went to the park with the dog.	Era bueno que fuéramos al parque con el perro.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed you to go to the meeting.	Necesitaba que fueras a la reunión.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was better that they go to the doctor.	Era mejor que fueran al médico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted her to go to school every day.	Quería que fuera a la escuela todos los días.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped they would go to the prayer meeting.	Esperaba que fueran a la reunión de oración.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that he go to the dentist.	Era importante que fuera al dentista.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed them to go to church with us.	Necesitaba que fueran a la iglesia con nosotros.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that you go to Bible study.	Era necesario que fueras al estudio bíblico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted us to go to the beach that summer.	Quería que fuéramos a la playa ese verano.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped she would go to the university.	Esperaba que fuera a la universidad.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was good that they went to the vet.	Era bueno que fueran al veterinario.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed him to go to the bank.	Necesitaba que fuera al banco.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was better that you go to the clinic.	Era mejor que fueras a la clínica.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted you to go to the concert with me.	Quería que fueras al concierto conmigo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped they would go to work together.	Esperaba que fueran al trabajo juntos.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that we go to Bible study.	Era importante que fuéramos al estudio bíblico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed you to go to the supermarket.	Necesitaba que fueras al supermercado.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that they go to school.	Era necesario que fueran a la escuela.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted her to go to the prayer meeting.	Quería que fuera a la reunión de oración.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped he would go to the hospital to visit.	Esperaba que fuera al hospital a visitar.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was good that you went to work on time.	Era bueno que fueras al trabajo a tiempo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed them to go to the restaurant.	Necesitaba que fueran al restaurante.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was better that we go to the park.	Era mejor que fuéramos al parque.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted you to go to church every Sunday.	Quería que fueras a la iglesia todos los domingos.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped she would go to the market.	Esperaba que fuera al mercado.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that they go to Bible study.	Era importante que fueran al estudio bíblico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed her to go to the school event.	Necesitaba que fuera al evento de la escuela.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that he go to the pharmacy.	Era necesario que fuera a la farmacia.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted us to go to the concert on Saturday.	Quería que fuéramos al concierto el sábado.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped you would go to the doctor soon.	Esperaba que fueras al médico pronto.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was good that they went to church together.	Era bueno que fueran a la iglesia juntos.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed you to go to the library.	Necesitaba que fueras a la biblioteca.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was better that she go to the clinic.	Era mejor que fuera a la clínica.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted them to go to the park with the children.	Quería que fueran al parque con los niños.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped he would go to the music rehearsal.	Esperaba que fuera al ensayo de música.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that you go to the prayer meeting.	Era importante que fueras a la reunión de oración.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed us to go to the airport early.	Necesitaba que fuéramos al aeropuerto temprano.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that they go to the hospital.	Era necesario que fueran al hospital.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted you to go to the vet with the cat.	Quería que fueras al veterinario con el gato.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped she would go to school.	Esperaba que fuera a la escuela.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was good that we went to church together.	Era bueno que fuéramos a la iglesia juntos.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed him to go to work on time.	Necesitaba que fuera al trabajo a tiempo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was better that you go to Bible study.	Era mejor que fueras al estudio bíblico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted them to go to the concert.	Quería que fueran al concierto.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped they would go to the beach.	Esperaba que fueran a la playa.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that she go to the gym.	Era importante que fuera al gimnasio.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed them to go to the supermarket.	Necesitaba que fueran al supermercado.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that you go to the airport.	Era necesario que fueras al aeropuerto.	Ir Imperfect Subjunctive

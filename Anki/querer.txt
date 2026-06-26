@@ -1,0 +1,895 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Querer::Present::Indicative	I want to read the Bible.	Quiero leer la Biblia.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to pray with me?	¿Quieres orar conmigo?	Querer Present Indicative
+Basic	Querer::Present::Indicative	He wants to come to Bible study.	Quiere venir al estudio bíblico.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to go to church.	Queremos ir a la iglesia.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to help at church.	Quieren ayudar en la iglesia.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to memorize the Bible verse.	Quiero memorizar el versículo bíblico.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to share the Bible story?	¿Quieres compartir la historia bíblica?	Querer Present Indicative
+Basic	Querer::Present::Indicative	She wants to lead the worship.	Quiere dirigir la adoración.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to pray together.	Queremos orar juntos.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to read the Bible story.	Quieren leer la historia bíblica.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to travel to Mexico.	Quiero viajar a México.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to come to the airport?	¿Quieres venir al aeropuerto?	Querer Present Indicative
+Basic	Querer::Present::Indicative	He wants to book the flight.	Quiere reservar el vuelo.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to rent a car.	Queremos alquilar un carro.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to visit the museum.	Quieren visitar el museo.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to order the soup.	Quiero pedir la sopa.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to try the dessert?	¿Quieres probar el postre?	Querer Present Indicative
+Basic	Querer::Present::Indicative	She wants to make a reservation.	Quiere hacer una reservación.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to eat at the restaurant.	Queremos comer en el restaurante.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to try the local food.	Quieren probar la comida local.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to cook rice and beans.	Quiero cocinar arroz y frijoles.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to make the salad?	¿Quieres hacer la ensalada?	Querer Present Indicative
+Basic	Querer::Present::Indicative	He wants to eat breakfast.	Quiere desayunar.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to prepare dinner together.	Queremos preparar la cena juntos.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to bring food to share.	Quieren traer comida para compartir.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to clean the house.	Quiero limpiar la casa.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to set the table?	¿Quieres poner la mesa?	Querer Present Indicative
+Basic	Querer::Present::Indicative	She wants to water the plants.	Quiere regar las plantas.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to cook at home.	Queremos cocinar en casa.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to help around the house.	Quieren ayudar en la casa.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to visit my family.	Quiero visitar a mi familia.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to meet my parents?	¿Quieres conocer a mis padres?	Querer Present Indicative
+Basic	Querer::Present::Indicative	He wants to call his grandmother.	Quiere llamar a su abuela.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to celebrate together.	Queremos celebrar juntos.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to spend time with the family.	Quieren pasar tiempo con la familia.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to introduce you to my friend.	Quiero presentarte a mi amigo.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to come to the party?	¿Quieres venir a la fiesta?	Querer Present Indicative
+Basic	Querer::Present::Indicative	She wants to invite her friends.	Quiere invitar a sus amigos.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to go out together.	Queremos salir juntos.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to visit us on Saturday.	Quieren visitarnos el sábado.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to take the dog to the park.	Quiero llevar al perro al parque.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to feed the cat?	¿Quieres darle de comer al gato?	Querer Present Indicative
+Basic	Querer::Present::Indicative	He wants to give the dog a bath.	Quiere bañar al perro.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to take the dog for a walk.	Queremos sacar al perro a caminar.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to adopt a pet.	Quieren adoptar una mascota.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to study Spanish.	Quiero estudiar español.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to help me with the homework?	¿Quieres ayudarme con la tarea?	Querer Present Indicative
+Basic	Querer::Present::Indicative	She wants to go to the university.	Quiere ir a la universidad.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to study together.	Queremos estudiar juntos.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to learn something new.	Quieren aprender algo nuevo.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to go to the doctor.	Quiero ir al médico.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to make a doctor's appointment?	¿Quieres hacer una cita médica?	Querer Present Indicative
+Basic	Querer::Present::Indicative	He wants to rest at home.	Quiere descansar en casa.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to exercise together.	Queremos hacer ejercicio juntos.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to eat healthy.	Quieren comer saludable.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to finish the report.	Quiero terminar el informe.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to have the meeting tomorrow?	¿Quieres tener la reunión mañana?	Querer Present Indicative
+Basic	Querer::Present::Indicative	She wants to work from home.	Quiere trabajar desde casa.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to work on the project.	Queremos trabajar en el proyecto.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to help with the task.	Quieren ayudar con la tarea.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to play the guitar.	Quiero tocar la guitarra.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to sing at church?	¿Quieres cantar en la iglesia?	Querer Present Indicative
+Basic	Querer::Present::Indicative	He wants to join the worship team.	Quiere unirse al equipo de adoración.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to practice the music together.	Queremos practicar la música juntos.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to perform at the concert.	Quieren actuar en el concierto.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to teach the Bible lesson.	Quiero enseñar la lección bíblica.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to share the gospel?	¿Quieres compartir el evangelio?	Querer Present Indicative
+Basic	Querer::Present::Indicative	She wants to volunteer at church.	Quiere ser voluntaria en la iglesia.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to read the Bible together.	Queremos leer la Biblia juntos.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to pray for the sick.	Quieren orar por los enfermos.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to find a good hotel.	Quiero encontrar un buen hotel.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to carry the suitcase?	¿Quieres cargar la maleta?	Querer Present Indicative
+Basic	Querer::Present::Indicative	He wants to visit the city.	Quiere visitar la ciudad.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to go to the airport together.	Queremos ir al aeropuerto juntos.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to travel by plane.	Quieren viajar en avión.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to try the new dish.	Quiero probar el plato nuevo.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to recommend a restaurant?	¿Quieres recomendar un restaurante?	Querer Present Indicative
+Basic	Querer::Present::Indicative	She wants to order dessert.	Quiere pedir el postre.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to share the meal.	Queremos compartir la comida.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to eat together.	Quieren comer juntos.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to wash the dishes.	Quiero lavar los platos.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to fix the door?	¿Quieres arreglar la puerta?	Querer Present Indicative
+Basic	Querer::Present::Indicative	He wants to decorate the house.	Quiere decorar la casa.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to have breakfast together.	Queremos desayunar juntos.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to spend time at home.	Quieren pasar tiempo en casa.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to bring my brother to church.	Quiero traer a mi hermano a la iglesia.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to call your mother?	¿Quieres llamar a tu mamá?	Querer Present Indicative
+Basic	Querer::Present::Indicative	She wants to meet the whole family.	Quiere conocer a toda la familia.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to have a family dinner.	Queremos tener una cena familiar.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to celebrate the birthday.	Quieren celebrar el cumpleaños.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to take the cat to the vet.	Quiero llevar al gato al veterinario.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to buy food for the dog?	¿Quieres comprar comida para el perro?	Querer Present Indicative
+Basic	Querer::Present::Indicative	He wants to play with the pet.	Quiere jugar con la mascota.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to adopt a dog.	Queremos adoptar un perro.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to take care of the cat.	Quieren cuidar al gato.	Querer Present Indicative
+Basic	Querer::Present::Indicative	I want to read the chapter tonight.	Quiero leer el capítulo esta noche.	Querer Present Indicative
+Basic	Querer::Present::Indicative	Do you want to explain the lesson?	¿Quieres explicar la lección?	Querer Present Indicative
+Basic	Querer::Present::Indicative	She wants to pass the exam.	Quiere pasar el examen.	Querer Present Indicative
+Basic	Querer::Present::Indicative	We want to review the material.	Queremos repasar el material.	Querer Present Indicative
+Basic	Querer::Present::Indicative	They want to learn the lesson.	Quieren aprender la lección.	Querer Present Indicative
+Basic	Querer::Preterit::Indicative	I wanted to read the Bible last night.	Quise leer la Biblia anoche.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to pray yesterday?	¿Quisiste orar ayer?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	He wanted to come to Bible study.	Quiso venir al estudio bíblico.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to go to church last Sunday.	Quisimos ir a la iglesia el domingo pasado.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to help at church.	Quisieron ayudar en la iglesia.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	I wanted to memorize the verse.	Quise memorizar el versículo.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to share the Bible story?	¿Quisiste compartir la historia bíblica?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	She wanted to lead the worship.	Quiso dirigir la adoración.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to pray together.	Quisimos orar juntos.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to join the Bible study.	Quisieron unirse al estudio bíblico.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	I wanted to travel last year.	Quise viajar el año pasado.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to book the flight?	¿Quisiste reservar el vuelo?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	He wanted to find the hotel.	Quiso encontrar el hotel.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to rent a car.	Quisimos alquilar un carro.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to visit the museum.	Quisieron visitar el museo.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	I wanted to order the soup.	Quise pedir la sopa.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to try the dessert?	¿Quisiste probar el postre?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	She wanted to make a reservation.	Quiso hacer una reservación.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to eat at the restaurant.	Quisimos comer en el restaurante.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to try the local food.	Quisieron probar la comida local.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	I wanted to cook rice and beans.	Quise cocinar arroz y frijoles.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to make the salad?	¿Quisiste hacer la ensalada?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	He wanted to eat breakfast early.	Quiso desayunar temprano.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to prepare dinner together.	Quisimos preparar la cena juntos.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to bring food to share.	Quisieron traer comida para compartir.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	I wanted to clean the house.	Quise limpiar la casa.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to set the table?	¿Quisiste poner la mesa?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	She wanted to water the plants.	Quiso regar las plantas.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to cook at home.	Quisimos cocinar en casa.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to help around the house.	Quisieron ayudar en la casa.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	I wanted to visit my family.	Quise visitar a mi familia.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to meet my parents?	¿Quisiste conocer a mis padres?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	He wanted to call his grandmother.	Quiso llamar a su abuela.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to celebrate together.	Quisimos celebrar juntos.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to spend time with the family.	Quisieron pasar tiempo con la familia.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	I wanted to introduce you to my friend.	Quise presentarte a mi amigo.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to come to the party?	¿Quisiste venir a la fiesta?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	She wanted to invite her friends.	Quiso invitar a sus amigos.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to go out together.	Quisimos salir juntos.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to visit us.	Quisieron visitarnos.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	I wanted to take the dog to the park.	Quise llevar al perro al parque.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to feed the cat?	¿Quisiste darle de comer al gato?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	He wanted to give the dog a bath.	Quiso bañar al perro.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to take the dog for a walk.	Quisimos sacar al perro a caminar.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to adopt a pet.	Quisieron adoptar una mascota.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	I wanted to study Spanish.	Quise estudiar español.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to help me with the homework?	¿Quisiste ayudarme con la tarea?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	She wanted to go to the university.	Quiso ir a la universidad.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to study together.	Quisimos estudiar juntos.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to learn the lesson.	Quisieron aprender la lección.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	I wanted to go to the doctor.	Quise ir al médico.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to make a doctor's appointment?	¿Quisiste hacer una cita médica?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	He wanted to rest at home.	Quiso descansar en casa.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to exercise together.	Quisimos hacer ejercicio juntos.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to eat healthy.	Quisieron comer saludable.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	I wanted to finish the report.	Quise terminar el informe.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to have the meeting?	¿Quisiste tener la reunión?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	She wanted to work from home.	Quiso trabajar desde casa.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to work on the project.	Quisimos trabajar en el proyecto.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to help with the task.	Quisieron ayudar con la tarea.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	I wanted to play the guitar at church.	Quise tocar la guitarra en la iglesia.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to sing at church?	¿Quisiste cantar en la iglesia?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	He wanted to join the worship team.	Quiso unirse al equipo de adoración.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to practice the music together.	Quisimos practicar la música juntos.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to perform at the concert.	Quisieron actuar en el concierto.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	I wanted to teach the Bible lesson.	Quise enseñar la lección bíblica.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to share the gospel?	¿Quisiste compartir el evangelio?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	She wanted to volunteer at church.	Quiso ser voluntaria en la iglesia.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to read the Bible together.	Quisimos leer la Biblia juntos.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to pray for the sick.	Quisieron orar por los enfermos.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	I wanted to book the flight online.	Quise reservar el vuelo en línea.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to carry the suitcase?	¿Quisiste cargar la maleta?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	He wanted to visit the city.	Quiso visitar la ciudad.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to go to the airport together.	Quisimos ir al aeropuerto juntos.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to travel by plane.	Quisieron viajar en avión.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	I wanted to try the new dish.	Quise probar el plato nuevo.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to recommend a restaurant?	¿Quisiste recomendar un restaurante?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	She wanted to order dessert.	Quiso pedir el postre.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to share the meal.	Quisimos compartir la comida.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to eat together.	Quisieron comer juntos.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	I wanted to wash the dishes.	Quise lavar los platos.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to fix the door?	¿Quisiste arreglar la puerta?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	He wanted to decorate the house.	Quiso decorar la casa.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to have breakfast together.	Quisimos desayunar juntos.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to spend time at home.	Quisieron pasar tiempo en casa.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	I wanted to bring my brother.	Quise traer a mi hermano.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to call your mother?	¿Quisiste llamar a tu mamá?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	She wanted to meet the family.	Quiso conocer a la familia.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to have a family dinner.	Quisimos tener una cena familiar.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to celebrate the birthday.	Quisieron celebrar el cumpleaños.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	I wanted to take the cat to the vet.	Quise llevar al gato al veterinario.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to buy food for the dog?	¿Quisiste comprar comida para el perro?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	He wanted to play with the pet.	Quiso jugar con la mascota.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to adopt a dog.	Quisimos adoptar un perro.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to take care of the cat.	Quisieron cuidar al gato.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	I wanted to read the chapter.	Quise leer el capítulo.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	Did you want to explain the lesson?	¿Quisiste explicar la lección?	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	She wanted to pass the exam.	Quiso pasar el examen.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	We wanted to review the material.	Quisimos repasar el material.	Querer Preterit Indicative
+Basic	Querer::Preterit::Indicative	They wanted to attend the class.	Quisieron asistir a la clase.	Querer Preterit Indicative
+Basic	Querer::Imperfect::Indicative	I used to want to read the Bible every day.	Quería leer la Biblia todos los días.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you used to want to pray in the mornings?	¿Querías orar por las mañanas?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	He used to want to come to Bible study.	Quería venir al estudio bíblico.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We used to want to go to church together.	Queríamos ir a la iglesia juntos.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They used to want to help at church.	Querían ayudar en la iglesia.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	I wanted to memorize more Bible verses.	Quería memorizar más versículos bíblicos.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you want to share the Bible stories?	¿Querías compartir las historias bíblicas?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	She wanted to lead the worship.	Quería dirigir la adoración.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We wanted to pray together every day.	Queríamos orar juntos todos los días.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They wanted to read the Bible together.	Querían leer la Biblia juntos.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	I used to want to travel every year.	Quería viajar cada año.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you want to visit other countries?	¿Querías visitar otros países?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	He wanted to book a flight to Mexico.	Quería reservar un vuelo a México.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We used to want to travel together.	Queríamos viajar juntos.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They wanted to visit the mission.	Querían visitar la misión.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	I used to want to eat at new restaurants.	Quería comer en restaurantes nuevos.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you want to try the local food?	¿Querías probar la comida local?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	She used to want to make her own bread.	Quería hacer su propio pan.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We used to want to eat together as a family.	Queríamos comer juntos en familia.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They wanted to try new recipes.	Querían probar recetas nuevas.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	I used to want to cook traditional food.	Quería cocinar comida tradicional.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you want to make coffee every morning?	¿Querías hacer café todas las mañanas?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	He used to want to eat with the family.	Quería comer con la familia.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We wanted to prepare big meals together.	Queríamos preparar comidas grandes juntos.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They used to want to cook for church events.	Querían cocinar para los eventos de la iglesia.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	I used to want to have a bigger house.	Quería tener una casa más grande.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you want to decorate the house?	¿Querías decorar la casa?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	She used to want to have a garden.	Quería tener un jardín.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We used to want to cook at home every night.	Queríamos cocinar en casa cada noche.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They wanted to help around the house.	Querían ayudar en la casa.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	I always wanted to visit my grandmother.	Siempre quería visitar a mi abuela.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you want to spend time with your siblings?	¿Querías pasar tiempo con tus hermanos?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	He used to want to be close to his family.	Quería estar cerca de su familia.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We used to want to have family dinners every Sunday.	Queríamos tener cenas familiares todos los domingos.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They always wanted to celebrate birthdays together.	Siempre querían celebrar los cumpleaños juntos.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	I used to want to see my friends more often.	Quería ver a mis amigos más seguido.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you want to invite your friends to church?	¿Querías invitar a tus amigos a la iglesia?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	She used to want to go out with her friends.	Quería salir con sus amigos.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We used to want to visit each other.	Queríamos visitarnos.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They used to want to spend time together.	Querían pasar tiempo juntos.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	I used to want to have a dog.	Quería tener un perro.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you want to take the dog to the park?	¿Querías llevar al perro al parque?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	He used to want to feed the animals.	Quería alimentar a los animales.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We used to want to take long walks with the dog.	Queríamos dar largas caminatas con el perro.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They always wanted to adopt a pet.	Siempre querían adoptar una mascota.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	I always wanted to study medicine.	Siempre quería estudiar medicina.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you want to go to the university?	¿Querías ir a la universidad?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	She used to want to become a teacher.	Quería ser maestra.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We used to want to study together after school.	Queríamos estudiar juntos después de la escuela.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They always wanted to learn new things.	Siempre querían aprender cosas nuevas.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	I used to want to see the doctor regularly.	Quería ver al médico regularmente.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you want to exercise every day?	¿Querías hacer ejercicio todos los días?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	He used to want to take care of his health.	Quería cuidar su salud.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We used to want to walk together in the evenings.	Queríamos caminar juntos por las tardes.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They used to want to eat healthier.	Querían comer más saludable.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	I used to want to start my own business.	Quería comenzar mi propio negocio.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you want to work with your father?	¿Querías trabajar con tu padre?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	She used to want to be a pastor.	Quería ser pastora.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We used to want to work on creative projects.	Queríamos trabajar en proyectos creativos.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They wanted to build something together.	Querían construir algo juntos.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	I always wanted to play the piano.	Siempre quería tocar el piano.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you want to sing professionally?	¿Querías cantar profesionalmente?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	He used to want to compose music.	Quería componer música.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We used to want to form a music group.	Queríamos formar un grupo musical.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They always wanted to perform at church.	Siempre querían actuar en la iglesia.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	I wanted to teach Sunday school.	Quería enseñar la escuela dominical.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you want to lead a Bible study group?	¿Querías dirigir un grupo de estudio bíblico?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	She wanted to share the gospel with everyone.	Quería compartir el evangelio con todos.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We wanted to plant a new church.	Queríamos plantar una nueva iglesia.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They always wanted to serve God.	Siempre querían servir a Dios.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	I used to want to travel to Israel.	Quería viajar a Israel.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you want to visit the mission field?	¿Querías visitar el campo misionero?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	He used to want to learn new languages.	Quería aprender idiomas nuevos.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We used to want to explore different cultures.	Queríamos explorar culturas diferentes.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They wanted to go on a mission trip.	Querían ir en un viaje misionero.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	I used to want to try every dish on the menu.	Quería probar todos los platos del menú.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you want to open a restaurant?	¿Querías abrir un restaurante?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	She wanted to learn to cook new recipes.	Quería aprender a cocinar recetas nuevas.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We used to want to eat together every Sunday.	Queríamos comer juntos todos los domingos.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They wanted to share meals with neighbors.	Querían compartir comidas con los vecinos.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	I used to want to have a bigger garden.	Quería tener un jardín más grande.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you want to fix things around the house?	¿Querías arreglar cosas en la casa?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	He always wanted to build his own house.	Siempre quería construir su propia casa.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We used to want to have family gatherings at home.	Queríamos tener reuniones familiares en casa.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They used to want to redecorate the living room.	Querían remodelar la sala.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	I always wanted to call my family more often.	Siempre quería llamar a mi familia más seguido.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you want to spend every Sunday with family?	¿Querías pasar cada domingo con tu familia?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	She always wanted to take care of her parents.	Siempre quería cuidar a sus padres.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We used to want to have a family reunion.	Queríamos tener una reunión familiar.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They always wanted to be close to family.	Siempre querían estar cerca de la familia.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	I always wanted to have a dog.	Siempre quería tener un perro.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you want to take care of the animals?	¿Querías cuidar a los animales?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	He used to want to train his dog.	Quería entrenar a su perro.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We always wanted to have pets at home.	Siempre queríamos tener mascotas en casa.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They wanted to visit the animal shelter.	Querían visitar el refugio de animales.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	I always wanted to study the Bible more deeply.	Siempre quería estudiar la Biblia más profundamente.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	Did you want to learn Greek or Hebrew?	¿Querías aprender griego o hebreo?	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	She used to want to go back to school.	Quería volver a la escuela.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	We used to want to learn together.	Queríamos aprender juntos.	Querer Imperfect Indicative
+Basic	Querer::Imperfect::Indicative	They always wanted to grow in their faith.	Siempre querían crecer en su fe.	Querer Imperfect Indicative
+Basic	Querer::Future::Indicative	Someday I will want to read the whole Bible.	Algún día querré leer toda la Biblia.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to pray with us?	¿Querrás orar con nosotros?	Querer Future Indicative
+Basic	Querer::Future::Indicative	He will want to come to Bible study.	Querrá venir al estudio bíblico.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to go to church together.	Querremos ir a la iglesia juntos.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to help at church.	Querrán ayudar en la iglesia.	Querer Future Indicative
+Basic	Querer::Future::Indicative	I will want to memorize the Bible verse.	Querré memorizar el versículo bíblico.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to share the Bible story?	¿Querrás compartir la historia bíblica?	Querer Future Indicative
+Basic	Querer::Future::Indicative	She will want to lead the worship someday.	Querrá dirigir la adoración algún día.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to pray together more.	Querremos orar juntos más.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to join the Bible study.	Querrán unirse al estudio bíblico.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Someday I will want to travel to Jerusalem.	Algún día querré viajar a Jerusalén.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to come on the mission trip?	¿Querrás venir en el viaje misionero?	Querer Future Indicative
+Basic	Querer::Future::Indicative	He will want to visit the mission field.	Querrá visitar el campo misionero.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to travel together next year.	Querremos viajar juntos el próximo año.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to explore new places.	Querrán explorar lugares nuevos.	Querer Future Indicative
+Basic	Querer::Future::Indicative	I will want to try the new restaurant.	Querré probar el restaurante nuevo.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to make a reservation?	¿Querrás hacer una reservación?	Querer Future Indicative
+Basic	Querer::Future::Indicative	She will want to order the special dish.	Querrá pedir el plato especial.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to eat together on Friday.	Querremos comer juntos el viernes.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to share the meal.	Querrán compartir la comida.	Querer Future Indicative
+Basic	Querer::Future::Indicative	I will want to cook something special.	Querré cocinar algo especial.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to help in the kitchen?	¿Querrás ayudar en la cocina?	Querer Future Indicative
+Basic	Querer::Future::Indicative	He will want to try the recipe.	Querrá probar la receta.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to prepare a big meal together.	Querremos preparar una gran comida juntos.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to bring food to share.	Querrán traer comida para compartir.	Querer Future Indicative
+Basic	Querer::Future::Indicative	I will want to redecorate the house.	Querré redecorar la casa.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to clean the house together?	¿Querrás limpiar la casa juntos?	Querer Future Indicative
+Basic	Querer::Future::Indicative	She will want to plant a garden.	Querrá plantar un jardín.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to fix the house.	Querremos arreglar la casa.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to spend more time at home.	Querrán pasar más tiempo en casa.	Querer Future Indicative
+Basic	Querer::Future::Indicative	I will want to visit my family more.	Querré visitar a mi familia más.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to meet the grandchildren?	¿Querrás conocer a los nietos?	Querer Future Indicative
+Basic	Querer::Future::Indicative	He will want to call his mother.	Querrá llamar a su mamá.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to celebrate together.	Querremos celebrar juntos.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to spend time with the grandparents.	Querrán pasar tiempo con los abuelos.	Querer Future Indicative
+Basic	Querer::Future::Indicative	I will want to introduce you to my new friend.	Querré presentarte a mi nuevo amigo.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to come to the party?	¿Querrás venir a la fiesta?	Querer Future Indicative
+Basic	Querer::Future::Indicative	She will want to invite everyone.	Querrá invitar a todos.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to go out together this weekend.	Querremos salir juntos este fin de semana.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to visit us soon.	Querrán visitarnos pronto.	Querer Future Indicative
+Basic	Querer::Future::Indicative	I will want to adopt a dog someday.	Querré adoptar un perro algún día.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to take the dog to the park?	¿Querrás llevar al perro al parque?	Querer Future Indicative
+Basic	Querer::Future::Indicative	He will want to play with the pet.	Querrá jugar con la mascota.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to take the dog for walks.	Querremos pasear al perro.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to get a pet.	Querrán tener una mascota.	Querer Future Indicative
+Basic	Querer::Future::Indicative	I will want to study more Spanish.	Querré estudiar más español.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to go back to school?	¿Querrás volver a la escuela?	Querer Future Indicative
+Basic	Querer::Future::Indicative	She will want to study medicine.	Querrá estudiar medicina.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to learn together.	Querremos aprender juntos.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to take the course.	Querrán tomar el curso.	Querer Future Indicative
+Basic	Querer::Future::Indicative	I will want to see the doctor.	Querré ver al médico.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to exercise with me?	¿Querrás hacer ejercicio conmigo?	Querer Future Indicative
+Basic	Querer::Future::Indicative	He will want to rest after the trip.	Querrá descansar después del viaje.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to walk together every morning.	Querremos caminar juntos cada mañana.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to eat healthier.	Querrán comer más saludable.	Querer Future Indicative
+Basic	Querer::Future::Indicative	I will want to change careers someday.	Querré cambiar de carrera algún día.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to work on the project?	¿Querrás trabajar en el proyecto?	Querer Future Indicative
+Basic	Querer::Future::Indicative	She will want to lead the team.	Querrá dirigir el equipo.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to start a new project.	Querremos comenzar un proyecto nuevo.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to build something great.	Querrán construir algo grande.	Querer Future Indicative
+Basic	Querer::Future::Indicative	I will want to play at the concert.	Querré tocar en el concierto.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to sing at church?	¿Querrás cantar en la iglesia?	Querer Future Indicative
+Basic	Querer::Future::Indicative	He will want to perform at the festival.	Querrá actuar en el festival.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to rehearse together.	Querremos ensayar juntos.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to join the choir.	Querrán unirse al coro.	Querer Future Indicative
+Basic	Querer::Future::Indicative	I will want to teach the Bible someday.	Querré enseñar la Biblia algún día.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to lead the prayer time?	¿Querrás dirigir el tiempo de oración?	Querer Future Indicative
+Basic	Querer::Future::Indicative	She will want to share her testimony.	Querrá compartir su testimonio.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to go on a mission trip.	Querremos ir en un viaje misionero.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to serve the community.	Querrán servir a la comunidad.	Querer Future Indicative
+Basic	Querer::Future::Indicative	I will want to visit the mission field.	Querré visitar el campo misionero.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to travel to another country?	¿Querrás viajar a otro país?	Querer Future Indicative
+Basic	Querer::Future::Indicative	He will want to book the flight early.	Querrá reservar el vuelo temprano.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to plan the trip carefully.	Querremos planear el viaje con cuidado.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to travel together as a family.	Querrán viajar juntos como familia.	Querer Future Indicative
+Basic	Querer::Future::Indicative	I will want to try every restaurant in the city.	Querré probar todos los restaurantes de la ciudad.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to order something different?	¿Querrás pedir algo diferente?	Querer Future Indicative
+Basic	Querer::Future::Indicative	She will want to recommend the best dishes.	Querrá recomendar los mejores platos.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to share the meal.	Querremos compartir la comida.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to have dessert.	Querrán tomar postre.	Querer Future Indicative
+Basic	Querer::Future::Indicative	I will want to cook at home more often.	Querré cocinar en casa más seguido.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to try the recipe?	¿Querrás probar la receta?	Querer Future Indicative
+Basic	Querer::Future::Indicative	He will want to learn to cook.	Querrá aprender a cocinar.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to make a big meal together.	Querremos hacer una gran comida juntos.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to share food with neighbors.	Querrán compartir comida con los vecinos.	Querer Future Indicative
+Basic	Querer::Future::Indicative	I will want to upgrade the house.	Querré mejorar la casa.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to paint the walls?	¿Querrás pintar las paredes?	Querer Future Indicative
+Basic	Querer::Future::Indicative	She will want to buy new furniture.	Querrá comprar muebles nuevos.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to have a home of our own.	Querremos tener una casa propia.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to live closer to the church.	Querrán vivir más cerca de la iglesia.	Querer Future Indicative
+Basic	Querer::Future::Indicative	I will want to meet your family.	Querré conocer a tu familia.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to visit your parents?	¿Querrás visitar a tus padres?	Querer Future Indicative
+Basic	Querer::Future::Indicative	He will want to see his children grow up.	Querrá ver a sus hijos crecer.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to make memories together.	Querremos hacer recuerdos juntos.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to have a family reunion.	Querrán tener una reunión familiar.	Querer Future Indicative
+Basic	Querer::Future::Indicative	I will want to read the whole New Testament.	Querré leer todo el Nuevo Testamento.	Querer Future Indicative
+Basic	Querer::Future::Indicative	Will you want to study theology?	¿Querrás estudiar teología?	Querer Future Indicative
+Basic	Querer::Future::Indicative	She will want to write about her faith.	Querrá escribir sobre su fe.	Querer Future Indicative
+Basic	Querer::Future::Indicative	We will want to study the Bible deeply.	Querremos estudiar la Biblia en profundidad.	Querer Future Indicative
+Basic	Querer::Future::Indicative	They will want to share their knowledge with others.	Querrán compartir su conocimiento con otros.	Querer Future Indicative
+Basic	Querer::Conditional	I would want to read the Bible more.	Querría leer más la Biblia.	Querer Conditional
+Basic	Querer::Conditional	Would you want to pray with us?	¿Querrías orar con nosotros?	Querer Conditional
+Basic	Querer::Conditional	He would want to come to Bible study if he could.	Querría venir al estudio bíblico si pudiera.	Querer Conditional
+Basic	Querer::Conditional	We would want to go to church together.	Querríamos ir a la iglesia juntos.	Querer Conditional
+Basic	Querer::Conditional	They would want to help at church.	Querrían ayudar en la iglesia.	Querer Conditional
+Basic	Querer::Conditional	I would want to memorize the whole Bible.	Querría memorizar toda la Biblia.	Querer Conditional
+Basic	Querer::Conditional	Would you want to share the Bible story?	¿Querrías compartir la historia bíblica?	Querer Conditional
+Basic	Querer::Conditional	She would want to lead the worship.	Querría dirigir la adoración.	Querer Conditional
+Basic	Querer::Conditional	We would want to pray together every morning.	Querríamos orar juntos cada mañana.	Querer Conditional
+Basic	Querer::Conditional	They would want to join the Bible study.	Querrían unirse al estudio bíblico.	Querer Conditional
+Basic	Querer::Conditional	I would want to travel to Jerusalem.	Querría viajar a Jerusalén.	Querer Conditional
+Basic	Querer::Conditional	Would you want to go on a mission trip?	¿Querrías ir en un viaje misionero?	Querer Conditional
+Basic	Querer::Conditional	He would want to visit the mission field.	Querría visitar el campo misionero.	Querer Conditional
+Basic	Querer::Conditional	We would want to travel together.	Querríamos viajar juntos.	Querer Conditional
+Basic	Querer::Conditional	They would want to explore new countries.	Querrían explorar países nuevos.	Querer Conditional
+Basic	Querer::Conditional	I would want to try the new restaurant.	Querría probar el restaurante nuevo.	Querer Conditional
+Basic	Querer::Conditional	Would you want to make a reservation?	¿Querrías hacer una reservación?	Querer Conditional
+Basic	Querer::Conditional	She would want to order the special dish.	Querría pedir el plato especial.	Querer Conditional
+Basic	Querer::Conditional	We would want to eat at a nice restaurant.	Querríamos comer en un restaurante bonito.	Querer Conditional
+Basic	Querer::Conditional	They would want to try the local food.	Querrían probar la comida local.	Querer Conditional
+Basic	Querer::Conditional	I would want to cook a big meal.	Querría cocinar una gran comida.	Querer Conditional
+Basic	Querer::Conditional	Would you want to help me in the kitchen?	¿Querrías ayudarme en la cocina?	Querer Conditional
+Basic	Querer::Conditional	He would want to try the recipe.	Querría probar la receta.	Querer Conditional
+Basic	Querer::Conditional	We would want to prepare a meal for the church.	Querríamos preparar una comida para la iglesia.	Querer Conditional
+Basic	Querer::Conditional	They would want to share food with the neighbors.	Querrían compartir comida con los vecinos.	Querer Conditional
+Basic	Querer::Conditional	I would want to have a bigger house.	Querría tener una casa más grande.	Querer Conditional
+Basic	Querer::Conditional	Would you want to redecorate the house?	¿Querrías redecorar la casa?	Querer Conditional
+Basic	Querer::Conditional	She would want to have a garden.	Querría tener un jardín.	Querer Conditional
+Basic	Querer::Conditional	We would want to cook at home every night.	Querríamos cocinar en casa cada noche.	Querer Conditional
+Basic	Querer::Conditional	They would want to spend more time at home.	Querrían pasar más tiempo en casa.	Querer Conditional
+Basic	Querer::Conditional	I would want to visit my grandparents.	Querría visitar a mis abuelos.	Querer Conditional
+Basic	Querer::Conditional	Would you want to spend more time with family?	¿Querrías pasar más tiempo con la familia?	Querer Conditional
+Basic	Querer::Conditional	He would want to be close to his family.	Querría estar cerca de su familia.	Querer Conditional
+Basic	Querer::Conditional	We would want to celebrate every birthday.	Querríamos celebrar cada cumpleaños.	Querer Conditional
+Basic	Querer::Conditional	They would want to have a family reunion.	Querrían tener una reunión familiar.	Querer Conditional
+Basic	Querer::Conditional	I would want to introduce you to my friend.	Querría presentarte a mi amigo.	Querer Conditional
+Basic	Querer::Conditional	Would you want to come to the party?	¿Querrías venir a la fiesta?	Querer Conditional
+Basic	Querer::Conditional	She would want to invite all her friends.	Querría invitar a todos sus amigos.	Querer Conditional
+Basic	Querer::Conditional	We would want to go out together.	Querríamos salir juntos.	Querer Conditional
+Basic	Querer::Conditional	They would want to visit more often.	Querrían visitarnos más seguido.	Querer Conditional
+Basic	Querer::Conditional	I would want to adopt a dog.	Querría adoptar un perro.	Querer Conditional
+Basic	Querer::Conditional	Would you want to take care of the animals?	¿Querrías cuidar a los animales?	Querer Conditional
+Basic	Querer::Conditional	He would want to train the dog.	Querría entrenar al perro.	Querer Conditional
+Basic	Querer::Conditional	We would want to take the pets to the park.	Querríamos llevar las mascotas al parque.	Querer Conditional
+Basic	Querer::Conditional	They would want to adopt more pets.	Querrían adoptar más mascotas.	Querer Conditional
+Basic	Querer::Conditional	I would want to study medicine.	Querría estudiar medicina.	Querer Conditional
+Basic	Querer::Conditional	Would you want to go back to school?	¿Querrías volver a la escuela?	Querer Conditional
+Basic	Querer::Conditional	She would want to teach at the university.	Querría enseñar en la universidad.	Querer Conditional
+Basic	Querer::Conditional	We would want to study the Bible in depth.	Querríamos estudiar la Biblia en profundidad.	Querer Conditional
+Basic	Querer::Conditional	They would want to learn Spanish together.	Querrían aprender español juntos.	Querer Conditional
+Basic	Querer::Conditional	I would want to see the doctor more often.	Querría ver al médico más seguido.	Querer Conditional
+Basic	Querer::Conditional	Would you want to exercise with me?	¿Querrías hacer ejercicio conmigo?	Querer Conditional
+Basic	Querer::Conditional	He would want to rest more.	Querría descansar más.	Querer Conditional
+Basic	Querer::Conditional	We would want to eat healthier.	Querríamos comer más saludable.	Querer Conditional
+Basic	Querer::Conditional	They would want to go to the clinic together.	Querrían ir a la clínica juntos.	Querer Conditional
+Basic	Querer::Conditional	I would want to change my career.	Querría cambiar de carrera.	Querer Conditional
+Basic	Querer::Conditional	Would you want to work on this project?	¿Querrías trabajar en este proyecto?	Querer Conditional
+Basic	Querer::Conditional	She would want to lead the team.	Querría dirigir el equipo.	Querer Conditional
+Basic	Querer::Conditional	We would want to start our own business.	Querríamos comenzar nuestro propio negocio.	Querer Conditional
+Basic	Querer::Conditional	They would want to find a better job.	Querrían encontrar un trabajo mejor.	Querer Conditional
+Basic	Querer::Conditional	I would want to play at every church service.	Querría tocar en cada servicio de la iglesia.	Querer Conditional
+Basic	Querer::Conditional	Would you want to sing in the choir?	¿Querrías cantar en el coro?	Querer Conditional
+Basic	Querer::Conditional	He would want to compose worship songs.	Querría componer canciones de adoración.	Querer Conditional
+Basic	Querer::Conditional	We would want to rehearse every week.	Querríamos ensayar cada semana.	Querer Conditional
+Basic	Querer::Conditional	They would want to perform for the community.	Querrían actuar para la comunidad.	Querer Conditional
+Basic	Querer::Conditional	I would want to plant a church.	Querría plantar una iglesia.	Querer Conditional
+Basic	Querer::Conditional	Would you want to lead a Bible study?	¿Querrías dirigir un estudio bíblico?	Querer Conditional
+Basic	Querer::Conditional	She would want to share her testimony.	Querría compartir su testimonio.	Querer Conditional
+Basic	Querer::Conditional	We would want to go on a mission trip.	Querríamos ir en un viaje misionero.	Querer Conditional
+Basic	Querer::Conditional	They would want to serve God together.	Querrían servir a Dios juntos.	Querer Conditional
+Basic	Querer::Conditional	I would want to visit every country.	Querría visitar todos los países.	Querer Conditional
+Basic	Querer::Conditional	Would you want to travel by ship?	¿Querrías viajar en barco?	Querer Conditional
+Basic	Querer::Conditional	He would want to rent a car for the trip.	Querría alquilar un carro para el viaje.	Querer Conditional
+Basic	Querer::Conditional	We would want to go on a long road trip.	Querríamos hacer un largo viaje por carretera.	Querer Conditional
+Basic	Querer::Conditional	They would want to travel every summer.	Querrían viajar cada verano.	Querer Conditional
+Basic	Querer::Conditional	I would want to try every local dish.	Querría probar cada plato local.	Querer Conditional
+Basic	Querer::Conditional	Would you want to open a restaurant?	¿Querrías abrir un restaurante?	Querer Conditional
+Basic	Querer::Conditional	She would want to learn to bake bread.	Querría aprender a hacer pan.	Querer Conditional
+Basic	Querer::Conditional	We would want to have a special dinner together.	Querríamos tener una cena especial juntos.	Querer Conditional
+Basic	Querer::Conditional	They would want to cook for the whole church.	Querrían cocinar para toda la iglesia.	Querer Conditional
+Basic	Querer::Conditional	I would want to build an addition to the house.	Querría construir una adición a la casa.	Querer Conditional
+Basic	Querer::Conditional	Would you want to paint the house?	¿Querrías pintar la casa?	Querer Conditional
+Basic	Querer::Conditional	He would want to fix everything himself.	Querría arreglar todo él mismo.	Querer Conditional
+Basic	Querer::Conditional	We would want to have a bigger kitchen.	Querríamos tener una cocina más grande.	Querer Conditional
+Basic	Querer::Conditional	They would want to buy a house near the church.	Querrían comprar una casa cerca de la iglesia.	Querer Conditional
+Basic	Querer::Conditional	I would want to call my family every day.	Querría llamar a mi familia todos los días.	Querer Conditional
+Basic	Querer::Conditional	Would you want to spend the holidays with family?	¿Querrías pasar las fiestas con la familia?	Querer Conditional
+Basic	Querer::Conditional	She would want to have more children.	Querría tener más hijos.	Querer Conditional
+Basic	Querer::Conditional	We would want to take care of the grandparents.	Querríamos cuidar a los abuelos.	Querer Conditional
+Basic	Querer::Conditional	They would want to be together always.	Querrían estar juntos siempre.	Querer Conditional
+Basic	Querer::Conditional	I would want to get a dog.	Querría tener un perro.	Querer Conditional
+Basic	Querer::Conditional	Would you want to go to the animal shelter?	¿Querrías ir al refugio de animales?	Querer Conditional
+Basic	Querer::Conditional	He would want to train a service dog.	Querría entrenar un perro de servicio.	Querer Conditional
+Basic	Querer::Conditional	We would want to have a farm with animals.	Querríamos tener una granja con animales.	Querer Conditional
+Basic	Querer::Conditional	They would want to adopt every animal in the shelter.	Querrían adoptar a cada animal del refugio.	Querer Conditional
+Basic	Querer::Conditional	I would want to study the original languages of the Bible.	Querría estudiar los idiomas originales de la Biblia.	Querer Conditional
+Basic	Querer::Conditional	Would you want to take a theology class?	¿Querrías tomar una clase de teología?	Querer Conditional
+Basic	Querer::Conditional	She would want to earn a degree in biblical studies.	Querría obtener un título en estudios bíblicos.	Querer Conditional
+Basic	Querer::Conditional	We would want to learn Spanish to minister to others.	Querríamos aprender español para ministrar a otros.	Querer Conditional
+Basic	Querer::Conditional	They would want to read the Bible in the original language.	Querrían leer la Biblia en el idioma original.	Querer Conditional
+Basic	Querer::Present::Subjunctive	I hope you want to read the Bible.	Espero que quieras leer la Biblia.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's important that he want to pray.	Es importante que quiera orar.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope we want to go to church.	Espero que queramos ir a la iglesia.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's good that they want to help at church.	Es bueno que quieran ayudar en la iglesia.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	He hopes that I want to come to Bible study.	Espera que quiera venir al estudio bíblico.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's necessary that you want to memorize the verse.	Es necesario que quieras memorizar el versículo.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I need her to want to lead the worship.	Necesito que quiera dirigir la adoración.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's better that we want to pray together.	Es mejor que queramos orar juntos.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	God willing, they want to join the Bible study.	Ojalá que quieran unirse al estudio bíblico.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope you want to share the gospel.	Espero que quieras compartir el evangelio.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's good that he wants to travel to the mission.	Es bueno que quiera viajar a la misión.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I need you to want to help me with the luggage.	Necesito que quieras ayudarme con el equipaje.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope we want to go to the airport together.	Espero que queramos ir al aeropuerto juntos.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's important that he want to make the reservation.	Es importante que quiera hacer la reservación.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	God willing, they want to travel next week.	Ojalá que quieran viajar la próxima semana.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope you want to try the new dish.	Espero que quieras probar el plato nuevo.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's good that she wants to make a reservation.	Es bueno que quiera hacer una reservación.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I need them to want to come to the restaurant.	Necesito que quieran venir al restaurante.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope he wants to pay the bill.	Espero que quiera pagar la cuenta.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's necessary that we want to eat together.	Es necesario que queramos comer juntos.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope you want to cook for the family.	Espero que quieras cocinar para la familia.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's important that he want to fix the door.	Es importante que quiera arreglar la puerta.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I need them to want to come to the house.	Necesito que quieran venir a la casa.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's good that we want to cook at home.	Es bueno que queramos cocinar en casa.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope she wants to help in the kitchen.	Espero que quiera ayudar en la cocina.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope you want to visit your family.	Espero que quieras visitar a tu familia.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's good that they want to spend time with family.	Es bueno que quieran pasar tiempo con la familia.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I need him to want to come to the party.	Necesito que quiera venir a la fiesta.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's necessary that we want to celebrate together.	Es necesario que queramos celebrar juntos.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	God willing, she wants to bring her children.	Ojalá que quiera traer a sus hijos.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope you want to take the dog to the park.	Espero que quieras llevar al perro al parque.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I need him to want to feed the cat.	Necesito que quiera darle de comer al gato.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's important that we want to take care of the pet.	Es importante que queramos cuidar a la mascota.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope they want to walk the dog.	Espero que quieran pasear al perro.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's good that she wants to play with the pet.	Es bueno que quiera jugar con la mascota.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope you want to study Spanish.	Espero que quieras estudiar español.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's important that he want to pass the exam.	Es importante que quiera pasar el examen.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I need us to want to study together.	Necesito que queramos estudiar juntos.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope you want to explain the lesson.	Espero que quieras explicar la lección.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's good that they want to learn quickly.	Es bueno que quieran aprender rápidamente.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope you want to go to the doctor.	Espero que quieras ir al médico.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I need them to want to go to the clinic.	Necesito que quieran ir a la clínica.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's important that he want to take the medicine.	Es importante que quiera tomar la medicina.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope we want to walk for exercise.	Espero que queramos caminar para hacer ejercicio.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's good that she wants to rest at home.	Es bueno que quiera descansar en casa.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope you want to finish the report.	Espero que quieras terminar el informe.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I need him to want to attend the meeting.	Necesito que quiera asistir a la reunión.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's important that we want to work together.	Es importante que queramos trabajar juntos.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	God willing, they want to help with the project.	Ojalá que quieran ayudar con el proyecto.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's necessary that she want to work from home.	Es necesario que quiera trabajar desde casa.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope you want to play the guitar at church.	Espero que quieras tocar la guitarra en la iglesia.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's good that he wants to sing at the concert.	Es bueno que quiera cantar en el concierto.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I need them to want to practice the music.	Necesito que quieran practicar la música.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's better that we want to rehearse together.	Es mejor que queramos ensayar juntos.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope she wants to play the piano at church.	Espero que quiera tocar el piano en la iglesia.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope you want to join the worship team.	Espero que quieras unirte al equipo de adoración.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I need him to want to lead the music.	Necesito que quiera dirigir la música.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's important that they want to sing together.	Es importante que quieran cantar juntos.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope we want to rehearse on Friday.	Espero que queramos ensayar el viernes.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's good that she wants to memorize the Bible verse.	Es bueno que quiera memorizar el versículo bíblico.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I need you to want to teach the Bible lesson.	Necesito que quieras enseñar la lección bíblica.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's good that he wants to share the gospel.	Es bueno que quiera compartir el evangelio.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	God willing, they want to join the prayer meeting.	Ojalá que quieran unirse a la reunión de oración.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's necessary that we want to go to Bible study.	Es necesario que queramos ir al estudio bíblico.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope she wants to volunteer at church.	Espero que quiera ser voluntaria en la iglesia.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope you want to show me the city.	Espero que quieras mostrarme la ciudad.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's good that they want to visit the museum.	Es bueno que quieran visitar el museo.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I need him to want to carry the suitcase.	Necesito que quiera cargar la maleta.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope we want to rent a car together.	Espero que queramos alquilar un carro juntos.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's important that she want to find the hotel.	Es importante que quiera encontrar el hotel.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope you want to make the restaurant reservation.	Espero que quieras hacer la reservación en el restaurante.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's good that he wants to recommend a dish.	Es bueno que quiera recomendar un plato.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I need them to want to share the meal.	Necesito que quieran compartir la comida.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's necessary that we want to cook for the church event.	Es necesario que queramos cocinar para el evento de la iglesia.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope she wants to cook for us.	Espero que quiera cocinar para nosotros.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope you want to wash the dishes.	Espero que quieras lavar los platos.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I need him to want to set the table.	Necesito que quiera poner la mesa.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's important that we want to clean the house together.	Es importante que queramos limpiar la casa juntos.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	God willing, they want to help around the house.	Ojalá que quieran ayudar en la casa.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope she wants to water the plants.	Espero que quiera regar las plantas.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope you want to call your grandmother.	Espero que quieras llamar a tu abuela.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's good that they want to visit us this weekend.	Es bueno que quieran visitarnos este fin de semana.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I need him to want to bring his brother.	Necesito que quiera traer a su hermano.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's necessary that we want to celebrate together.	Es necesario que queramos celebrar juntos.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope she wants to come to the party.	Espero que quiera venir a la fiesta.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope you want to take the cat to the vet.	Espero que quieras llevar al gato al veterinario.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I need them to want to take care of the dog.	Necesito que quieran cuidar al perro.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's good that he wants to give the dog a bath.	Es bueno que quiera bañar al perro.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope we want to walk the dog together.	Espero que queramos pasear al perro juntos.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope you want to read the chapter tonight.	Espero que quieras leer el capítulo esta noche.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's important that they want to work on the project.	Es importante que quieran trabajar en el proyecto.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I need her to want to answer the question.	Necesito que quiera responder la pregunta.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	It's good that we want to review the material together.	Es bueno que queramos repasar el material juntos.	Querer Present Subjunctive
+Basic	Querer::Present::Subjunctive	I hope he wants to explain the lesson.	Espero que quiera explicar la lección.	Querer Present Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped you would want to read the Bible.	Esperaba que quisieras leer la Biblia.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was important that he want to pray.	Era importante que quisiera orar.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped we would want to go to church.	Esperaba que quisiéramos ir a la iglesia.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was good that they wanted to help at church.	Era bueno que quisieran ayudar en la iglesia.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	He hoped that I would want to come to Bible study.	Esperaba que quisiera venir al estudio bíblico.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was necessary that you want to memorize the verse.	Era necesario que quisieras memorizar el versículo.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I needed her to want to lead the worship.	Necesitaba que quisiera dirigir la adoración.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was better that we want to pray together.	Era mejor que quisiéramos orar juntos.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped they would want to join the Bible study.	Esperaba que quisieran unirse al estudio bíblico.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped you would want to share the gospel.	Esperaba que quisieras compartir el evangelio.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was good that he wanted to travel to the mission.	Era bueno que quisiera viajar a la misión.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I needed you to want to help me with the luggage.	Necesitaba que quisieras ayudarme con el equipaje.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped we would want to go to the airport together.	Esperaba que quisiéramos ir al aeropuerto juntos.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was important that he want to make the reservation.	Era importante que quisiera hacer la reservación.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped they would want to travel last week.	Esperaba que quisieran viajar la semana pasada.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped you would want to try the new dish.	Esperaba que quisieras probar el plato nuevo.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was good that she wanted to make a reservation.	Era bueno que quisiera hacer una reservación.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I needed them to want to come to the restaurant.	Necesitaba que quisieran venir al restaurante.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped he would want to pay the bill.	Esperaba que quisiera pagar la cuenta.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was necessary that we want to eat together.	Era necesario que quisiéramos comer juntos.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped you would want to cook for the family.	Esperaba que quisieras cocinar para la familia.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was important that he want to fix the door.	Era importante que quisiera arreglar la puerta.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I needed them to want to come to the house.	Necesitaba que quisieran venir a la casa.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was good that we wanted to cook at home.	Era bueno que quisiéramos cocinar en casa.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped she would want to help in the kitchen.	Esperaba que quisiera ayudar en la cocina.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped you would want to visit your family.	Esperaba que quisieras visitar a tu familia.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was good that they wanted to spend time with family.	Era bueno que quisieran pasar tiempo con la familia.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I needed him to want to come to the party.	Necesitaba que quisiera venir a la fiesta.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was necessary that we want to celebrate together.	Era necesario que quisiéramos celebrar juntos.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped she would want to bring her children.	Esperaba que quisiera traer a sus hijos.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped you would want to take the dog to the park.	Esperaba que quisieras llevar al perro al parque.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I needed him to want to feed the cat.	Necesitaba que quisiera darle de comer al gato.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was important that we want to take care of the pet.	Era importante que quisiéramos cuidar a la mascota.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped they would want to walk the dog.	Esperaba que quisieran pasear al perro.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was good that she wanted to play with the pet.	Era bueno que quisiera jugar con la mascota.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped you would want to study Spanish.	Esperaba que quisieras estudiar español.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was important that he want to pass the exam.	Era importante que quisiera pasar el examen.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I needed us to want to study together.	Necesitaba que quisiéramos estudiar juntos.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped you would want to explain the lesson.	Esperaba que quisieras explicar la lección.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was good that they wanted to learn quickly.	Era bueno que quisieran aprender rápidamente.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped you would want to go to the doctor.	Esperaba que quisieras ir al médico.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I needed them to want to go to the clinic.	Necesitaba que quisieran ir a la clínica.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was important that he want to take the medicine.	Era importante que quisiera tomar la medicina.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped we would want to walk for exercise.	Esperaba que quisiéramos caminar para hacer ejercicio.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was good that she wanted to rest at home.	Era bueno que quisiera descansar en casa.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped you would want to finish the report.	Esperaba que quisieras terminar el informe.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I needed him to want to attend the meeting.	Necesitaba que quisiera asistir a la reunión.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was important that we want to work together.	Era importante que quisiéramos trabajar juntos.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped they would want to help with the project.	Esperaba que quisieran ayudar con el proyecto.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was necessary that she want to work from home.	Era necesario que quisiera trabajar desde casa.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped you would want to play the guitar at church.	Esperaba que quisieras tocar la guitarra en la iglesia.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was good that he wanted to sing at the concert.	Era bueno que quisiera cantar en el concierto.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I needed them to want to practice the music.	Necesitaba que quisieran practicar la música.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was better that we want to rehearse together.	Era mejor que quisiéramos ensayar juntos.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped she would want to play the piano at church.	Esperaba que quisiera tocar el piano en la iglesia.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped you would want to join the worship team.	Esperaba que quisieras unirte al equipo de adoración.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I needed him to want to lead the music.	Necesitaba que quisiera dirigir la música.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was important that they want to sing together.	Era importante que quisieran cantar juntos.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped we would want to rehearse on Friday.	Esperaba que quisiéramos ensayar el viernes.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was good that she wanted to memorize the Bible verse.	Era bueno que quisiera memorizar el versículo bíblico.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I needed you to want to teach the Bible lesson.	Necesitaba que quisieras enseñar la lección bíblica.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was good that he wanted to share the gospel.	Era bueno que quisiera compartir el evangelio.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped they would want to join the prayer meeting.	Esperaba que quisieran unirse a la reunión de oración.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was necessary that we want to go to Bible study.	Era necesario que quisiéramos ir al estudio bíblico.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped she would want to volunteer at church.	Esperaba que quisiera ser voluntaria en la iglesia.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped you would want to show me the city.	Esperaba que quisieras mostrarme la ciudad.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was good that they wanted to visit the museum.	Era bueno que quisieran visitar el museo.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I needed him to want to carry the suitcase.	Necesitaba que quisiera cargar la maleta.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped we would want to rent a car together.	Esperaba que quisiéramos alquilar un carro juntos.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was important that she want to find the hotel.	Era importante que quisiera encontrar el hotel.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped you would want to make the restaurant reservation.	Esperaba que quisieras hacer la reservación en el restaurante.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was good that he wanted to recommend a dish.	Era bueno que quisiera recomendar un plato.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I needed them to want to share the meal.	Necesitaba que quisieran compartir la comida.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was necessary that we want to cook for the church event.	Era necesario que quisiéramos cocinar para el evento de la iglesia.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped she would want to cook for us.	Esperaba que quisiera cocinar para nosotros.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped you would want to wash the dishes.	Esperaba que quisieras lavar los platos.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I needed him to want to set the table.	Necesitaba que quisiera poner la mesa.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was important that we want to clean the house together.	Era importante que quisiéramos limpiar la casa juntos.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped they would want to help around the house.	Esperaba que quisieran ayudar en la casa.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was good that she wanted to water the plants.	Era bueno que quisiera regar las plantas.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped you would want to call your grandmother.	Esperaba que quisieras llamar a tu abuela.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was good that they wanted to visit us.	Era bueno que quisieran visitarnos.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I needed him to want to bring his brother.	Necesitaba que quisiera traer a su hermano.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was necessary that we want to celebrate together.	Era necesario que quisiéramos celebrar juntos.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped she would want to come to the party.	Esperaba que quisiera venir a la fiesta.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped you would want to take the cat to the vet.	Esperaba que quisieras llevar al gato al veterinario.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I needed them to want to take care of the dog.	Necesitaba que quisieran cuidar al perro.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was good that he wanted to give the dog a bath.	Era bueno que quisiera bañar al perro.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped we would want to walk the dog together.	Esperaba que quisiéramos pasear al perro juntos.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped you would want to read the chapter.	Esperaba que quisieras leer el capítulo.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was important that they want to work on the project.	Era importante que quisieran trabajar en el proyecto.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I needed her to want to answer the question.	Necesitaba que quisiera responder la pregunta.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	It was good that we wanted to review the material together.	Era bueno que quisiéramos repasar el material juntos.	Querer Imperfect Subjunctive
+Basic	Querer::Imperfect::Subjunctive	I hoped he would want to explain the lesson.	Esperaba que quisiera explicar la lección.	Querer Imperfect Subjunctive
+Basic	Querer::Present::Perfect	I have always wanted to read the whole Bible.	Siempre he querido leer toda la Biblia.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to pray more?	¿Has querido orar más?	Querer Present Perfect
+Basic	Querer::Present::Perfect	He has wanted to come to Bible study.	Ha querido venir al estudio bíblico.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to go to church together.	Hemos querido ir a la iglesia juntos.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have wanted to help at church.	Han querido ayudar en la iglesia.	Querer Present Perfect
+Basic	Querer::Present::Perfect	I have always wanted to memorize the whole Bible.	Siempre he querido memorizar toda la Biblia.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to share the Bible story?	¿Has querido compartir la historia bíblica?	Querer Present Perfect
+Basic	Querer::Present::Perfect	She has wanted to lead the worship.	Ha querido dirigir la adoración.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to pray together.	Hemos querido orar juntos.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have wanted to join the Bible study.	Han querido unirse al estudio bíblico.	Querer Present Perfect
+Basic	Querer::Present::Perfect	I have always wanted to travel to Jerusalem.	Siempre he querido viajar a Jerusalén.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to go on a mission trip?	¿Has querido ir en un viaje misionero?	Querer Present Perfect
+Basic	Querer::Present::Perfect	He has wanted to visit the mission field.	Ha querido visitar el campo misionero.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to travel together.	Hemos querido viajar juntos.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have wanted to explore new places.	Han querido explorar lugares nuevos.	Querer Present Perfect
+Basic	Querer::Present::Perfect	I have always wanted to try that restaurant.	Siempre he querido probar ese restaurante.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to make a reservation?	¿Has querido hacer una reservación?	Querer Present Perfect
+Basic	Querer::Present::Perfect	She has wanted to order the special dish.	Ha querido pedir el plato especial.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to eat at the restaurant.	Hemos querido comer en el restaurante.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have wanted to share the meal.	Han querido compartir la comida.	Querer Present Perfect
+Basic	Querer::Present::Perfect	I have always wanted to cook traditional food.	Siempre he querido cocinar comida tradicional.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to help in the kitchen?	¿Has querido ayudar en la cocina?	Querer Present Perfect
+Basic	Querer::Present::Perfect	He has wanted to try the recipe.	Ha querido probar la receta.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to prepare a big meal together.	Hemos querido preparar una gran comida juntos.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have wanted to bring food to share at church.	Han querido traer comida para compartir en la iglesia.	Querer Present Perfect
+Basic	Querer::Present::Perfect	I have always wanted to have a bigger house.	Siempre he querido tener una casa más grande.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to redecorate the house?	¿Has querido redecorar la casa?	Querer Present Perfect
+Basic	Querer::Present::Perfect	She has wanted to have a garden.	Ha querido tener un jardín.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to cook at home more.	Hemos querido cocinar en casa más.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have wanted to spend more time at home.	Han querido pasar más tiempo en casa.	Querer Present Perfect
+Basic	Querer::Present::Perfect	I have always wanted to visit my grandparents.	Siempre he querido visitar a mis abuelos.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to spend more time with family?	¿Has querido pasar más tiempo con la familia?	Querer Present Perfect
+Basic	Querer::Present::Perfect	He has wanted to be close to his family.	Ha querido estar cerca de su familia.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to celebrate together.	Hemos querido celebrar juntos.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have wanted to have a family reunion.	Han querido tener una reunión familiar.	Querer Present Perfect
+Basic	Querer::Present::Perfect	I have always wanted to introduce you to my friend.	Siempre he querido presentarte a mi amigo.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to come to the party?	¿Has querido venir a la fiesta?	Querer Present Perfect
+Basic	Querer::Present::Perfect	She has wanted to invite all her friends.	Ha querido invitar a todos sus amigos.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to go out together.	Hemos querido salir juntos.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have wanted to visit us.	Han querido visitarnos.	Querer Present Perfect
+Basic	Querer::Present::Perfect	I have always wanted to adopt a dog.	Siempre he querido adoptar un perro.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to take the dog to the park?	¿Has querido llevar al perro al parque?	Querer Present Perfect
+Basic	Querer::Present::Perfect	He has wanted to train the dog.	Ha querido entrenar al perro.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to take the pets to the park.	Hemos querido llevar las mascotas al parque.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have wanted to adopt more pets.	Han querido adoptar más mascotas.	Querer Present Perfect
+Basic	Querer::Present::Perfect	I have always wanted to study medicine.	Siempre he querido estudiar medicina.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to go back to school?	¿Has querido volver a la escuela?	Querer Present Perfect
+Basic	Querer::Present::Perfect	She has wanted to teach at the university.	Ha querido enseñar en la universidad.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to study the Bible in depth.	Hemos querido estudiar la Biblia en profundidad.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have wanted to learn Spanish together.	Han querido aprender español juntos.	Querer Present Perfect
+Basic	Querer::Present::Perfect	I have wanted to see the doctor.	He querido ver al médico.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to exercise with me?	¿Has querido hacer ejercicio conmigo?	Querer Present Perfect
+Basic	Querer::Present::Perfect	He has wanted to rest more.	Ha querido descansar más.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to eat healthier.	Hemos querido comer más saludable.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have wanted to go to the clinic together.	Han querido ir a la clínica juntos.	Querer Present Perfect
+Basic	Querer::Present::Perfect	I have always wanted to change careers.	Siempre he querido cambiar de carrera.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to work on the project?	¿Has querido trabajar en el proyecto?	Querer Present Perfect
+Basic	Querer::Present::Perfect	She has wanted to lead the team.	Ha querido dirigir el equipo.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to start a new project.	Hemos querido comenzar un proyecto nuevo.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have wanted to build something great.	Han querido construir algo grande.	Querer Present Perfect
+Basic	Querer::Present::Perfect	I have always wanted to play the guitar at church.	Siempre he querido tocar la guitarra en la iglesia.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to sing at church?	¿Has querido cantar en la iglesia?	Querer Present Perfect
+Basic	Querer::Present::Perfect	He has wanted to perform at the festival.	Ha querido actuar en el festival.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to rehearse together.	Hemos querido ensayar juntos.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have wanted to join the choir.	Han querido unirse al coro.	Querer Present Perfect
+Basic	Querer::Present::Perfect	I have always wanted to teach the Bible.	Siempre he querido enseñar la Biblia.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to lead the prayer time?	¿Has querido dirigir el tiempo de oración?	Querer Present Perfect
+Basic	Querer::Present::Perfect	She has wanted to share her testimony.	Ha querido compartir su testimonio.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to go on a mission trip.	Hemos querido ir en un viaje misionero.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have wanted to serve the community.	Han querido servir a la comunidad.	Querer Present Perfect
+Basic	Querer::Present::Perfect	I have always wanted to visit the mission field.	Siempre he querido visitar el campo misionero.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to travel to another country?	¿Has querido viajar a otro país?	Querer Present Perfect
+Basic	Querer::Present::Perfect	He has wanted to book the flight early.	Ha querido reservar el vuelo temprano.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to plan a trip together.	Hemos querido planear un viaje juntos.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have wanted to travel together as a family.	Han querido viajar juntos como familia.	Querer Present Perfect
+Basic	Querer::Present::Perfect	I have always wanted to try every restaurant in the city.	Siempre he querido probar todos los restaurantes de la ciudad.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to order something different?	¿Has querido pedir algo diferente?	Querer Present Perfect
+Basic	Querer::Present::Perfect	She has wanted to recommend the best dishes.	Ha querido recomendar los mejores platos.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to share the meal at church.	Hemos querido compartir la comida en la iglesia.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have wanted to have dessert.	Han querido tomar postre.	Querer Present Perfect
+Basic	Querer::Present::Perfect	I have always wanted to cook at home more often.	Siempre he querido cocinar en casa más seguido.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to try the recipe?	¿Has querido probar la receta?	Querer Present Perfect
+Basic	Querer::Present::Perfect	He has wanted to learn to cook.	Ha querido aprender a cocinar.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to make a big meal together.	Hemos querido hacer una gran comida juntos.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have wanted to share food with neighbors.	Han querido compartir comida con los vecinos.	Querer Present Perfect
+Basic	Querer::Present::Perfect	I have always wanted to upgrade the house.	Siempre he querido mejorar la casa.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to paint the walls?	¿Has querido pintar las paredes?	Querer Present Perfect
+Basic	Querer::Present::Perfect	She has wanted to buy new furniture.	Ha querido comprar muebles nuevos.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to have a home of our own.	Hemos querido tener una casa propia.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have wanted to live closer to the church.	Han querido vivir más cerca de la iglesia.	Querer Present Perfect
+Basic	Querer::Present::Perfect	I have always wanted to meet your family.	Siempre he querido conocer a tu familia.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to visit your parents?	¿Has querido visitar a tus padres?	Querer Present Perfect
+Basic	Querer::Present::Perfect	He has wanted to see his children grow up.	Ha querido ver a sus hijos crecer.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to make memories together.	Hemos querido hacer recuerdos juntos.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have wanted to call the grandparents more.	Han querido llamar a los abuelos más.	Querer Present Perfect
+Basic	Querer::Present::Perfect	I have always wanted to read the whole New Testament.	Siempre he querido leer todo el Nuevo Testamento.	Querer Present Perfect
+Basic	Querer::Present::Perfect	Have you wanted to study theology?	¿Has querido estudiar teología?	Querer Present Perfect
+Basic	Querer::Present::Perfect	She has wanted to write about her faith.	Ha querido escribir sobre su fe.	Querer Present Perfect
+Basic	Querer::Present::Perfect	We have wanted to study the Bible deeply.	Hemos querido estudiar la Biblia profundamente.	Querer Present Perfect
+Basic	Querer::Present::Perfect	They have always wanted to share their faith.	Siempre han querido compartir su fe.	Querer Present Perfect
+Basic	Querer::Past::Perfect	I had always wanted to read the whole Bible.	Siempre había querido leer toda la Biblia.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to pray that morning?	¿Habías querido orar esa mañana?	Querer Past Perfect
+Basic	Querer::Past::Perfect	He had wanted to come to Bible study before.	Había querido venir al estudio bíblico antes.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to go to church together.	Habíamos querido ir a la iglesia juntos.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had wanted to help at church.	Habían querido ayudar en la iglesia.	Querer Past Perfect
+Basic	Querer::Past::Perfect	I had always wanted to memorize more Bible verses.	Siempre había querido memorizar más versículos bíblicos.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to share the Bible story?	¿Habías querido compartir la historia bíblica?	Querer Past Perfect
+Basic	Querer::Past::Perfect	She had wanted to lead the worship.	Había querido dirigir la adoración.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to pray together every day.	Habíamos querido orar juntos todos los días.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had wanted to join the Bible study.	Habían querido unirse al estudio bíblico.	Querer Past Perfect
+Basic	Querer::Past::Perfect	I had always wanted to travel to Jerusalem.	Siempre había querido viajar a Jerusalén.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to go on a mission trip?	¿Habías querido ir en un viaje misionero?	Querer Past Perfect
+Basic	Querer::Past::Perfect	He had wanted to visit the mission field.	Había querido visitar el campo misionero.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to travel together before.	Habíamos querido viajar juntos antes.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had wanted to explore new countries.	Habían querido explorar países nuevos.	Querer Past Perfect
+Basic	Querer::Past::Perfect	I had always wanted to try that restaurant.	Siempre había querido probar ese restaurante.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to make a reservation?	¿Habías querido hacer una reservación?	Querer Past Perfect
+Basic	Querer::Past::Perfect	She had wanted to order the special dish.	Había querido pedir el plato especial.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to eat at the restaurant before it closed.	Habíamos querido comer en el restaurante antes de que cerrara.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had wanted to share the meal.	Habían querido compartir la comida.	Querer Past Perfect
+Basic	Querer::Past::Perfect	I had always wanted to cook traditional food.	Siempre había querido cocinar comida tradicional.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to help in the kitchen?	¿Habías querido ayudar en la cocina?	Querer Past Perfect
+Basic	Querer::Past::Perfect	He had wanted to try the recipe.	Había querido probar la receta.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to prepare a big meal together.	Habíamos querido preparar una gran comida juntos.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had wanted to bring food to share at church.	Habían querido traer comida para compartir en la iglesia.	Querer Past Perfect
+Basic	Querer::Past::Perfect	I had always wanted to have a bigger house.	Siempre había querido tener una casa más grande.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to redecorate the house?	¿Habías querido redecorar la casa?	Querer Past Perfect
+Basic	Querer::Past::Perfect	She had wanted to have a garden.	Había querido tener un jardín.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to cook at home more.	Habíamos querido cocinar en casa más.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had wanted to spend more time at home.	Habían querido pasar más tiempo en casa.	Querer Past Perfect
+Basic	Querer::Past::Perfect	I had always wanted to visit my grandparents.	Siempre había querido visitar a mis abuelos.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to spend more time with family?	¿Habías querido pasar más tiempo con la familia?	Querer Past Perfect
+Basic	Querer::Past::Perfect	He had wanted to be close to his family.	Había querido estar cerca de su familia.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to celebrate every birthday together.	Habíamos querido celebrar cada cumpleaños juntos.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had wanted to have a family reunion.	Habían querido tener una reunión familiar.	Querer Past Perfect
+Basic	Querer::Past::Perfect	I had always wanted to introduce you to my friend.	Siempre había querido presentarte a mi amigo.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to come to the party?	¿Habías querido venir a la fiesta?	Querer Past Perfect
+Basic	Querer::Past::Perfect	She had wanted to invite all her friends.	Había querido invitar a todos sus amigos.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to go out together.	Habíamos querido salir juntos.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had wanted to visit us more often.	Habían querido visitarnos más seguido.	Querer Past Perfect
+Basic	Querer::Past::Perfect	I had always wanted to adopt a dog.	Siempre había querido adoptar un perro.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to take the dog to the park?	¿Habías querido llevar al perro al parque?	Querer Past Perfect
+Basic	Querer::Past::Perfect	He had wanted to train the dog.	Había querido entrenar al perro.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to take the pets to the park.	Habíamos querido llevar las mascotas al parque.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had wanted to adopt more pets.	Habían querido adoptar más mascotas.	Querer Past Perfect
+Basic	Querer::Past::Perfect	I had always wanted to study medicine.	Siempre había querido estudiar medicina.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to go back to school?	¿Habías querido volver a la escuela?	Querer Past Perfect
+Basic	Querer::Past::Perfect	She had wanted to teach at the university.	Había querido enseñar en la universidad.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to study the Bible in depth.	Habíamos querido estudiar la Biblia en profundidad.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had wanted to learn Spanish together.	Habían querido aprender español juntos.	Querer Past Perfect
+Basic	Querer::Past::Perfect	I had wanted to see the doctor before getting worse.	Había querido ver al médico antes de empeorar.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to exercise more?	¿Habías querido hacer más ejercicio?	Querer Past Perfect
+Basic	Querer::Past::Perfect	He had wanted to rest before the trip.	Había querido descansar antes del viaje.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to eat healthier.	Habíamos querido comer más saludable.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had wanted to go to the clinic together.	Habían querido ir a la clínica juntos.	Querer Past Perfect
+Basic	Querer::Past::Perfect	I had always wanted to change careers.	Siempre había querido cambiar de carrera.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to work on the project?	¿Habías querido trabajar en el proyecto?	Querer Past Perfect
+Basic	Querer::Past::Perfect	She had wanted to lead the team.	Había querido dirigir el equipo.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to start a new project.	Habíamos querido comenzar un proyecto nuevo.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had wanted to build something together.	Habían querido construir algo juntos.	Querer Past Perfect
+Basic	Querer::Past::Perfect	I had always wanted to play the guitar at church.	Siempre había querido tocar la guitarra en la iglesia.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to sing at church?	¿Habías querido cantar en la iglesia?	Querer Past Perfect
+Basic	Querer::Past::Perfect	He had wanted to perform at the festival.	Había querido actuar en el festival.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to rehearse together.	Habíamos querido ensayar juntos.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had wanted to join the choir.	Habían querido unirse al coro.	Querer Past Perfect
+Basic	Querer::Past::Perfect	I had always wanted to teach the Bible.	Siempre había querido enseñar la Biblia.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to lead the prayer time?	¿Habías querido dirigir el tiempo de oración?	Querer Past Perfect
+Basic	Querer::Past::Perfect	She had wanted to share her testimony.	Había querido compartir su testimonio.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to go on a mission trip.	Habíamos querido ir en un viaje misionero.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had wanted to serve the community.	Habían querido servir a la comunidad.	Querer Past Perfect
+Basic	Querer::Past::Perfect	I had always wanted to visit the mission field.	Siempre había querido visitar el campo misionero.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to travel to another country?	¿Habías querido viajar a otro país?	Querer Past Perfect
+Basic	Querer::Past::Perfect	He had wanted to book the flight early.	Había querido reservar el vuelo temprano.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to plan the trip together.	Habíamos querido planear el viaje juntos.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had wanted to travel together as a family.	Habían querido viajar juntos como familia.	Querer Past Perfect
+Basic	Querer::Past::Perfect	I had always wanted to try every restaurant in the city.	Siempre había querido probar todos los restaurantes de la ciudad.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to order something different?	¿Habías querido pedir algo diferente?	Querer Past Perfect
+Basic	Querer::Past::Perfect	She had wanted to recommend the best dishes.	Había querido recomendar los mejores platos.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to share the meal at church.	Habíamos querido compartir la comida en la iglesia.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had wanted to have dessert.	Habían querido tomar postre.	Querer Past Perfect
+Basic	Querer::Past::Perfect	I had always wanted to cook at home more.	Siempre había querido cocinar en casa más.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to try the recipe?	¿Habías querido probar la receta?	Querer Past Perfect
+Basic	Querer::Past::Perfect	He had wanted to learn to cook.	Había querido aprender a cocinar.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to make a big meal together.	Habíamos querido hacer una gran comida juntos.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had wanted to share food with their neighbors.	Habían querido compartir comida con sus vecinos.	Querer Past Perfect
+Basic	Querer::Past::Perfect	I had always wanted to upgrade the house.	Siempre había querido mejorar la casa.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to paint the walls?	¿Habías querido pintar las paredes?	Querer Past Perfect
+Basic	Querer::Past::Perfect	She had wanted to buy new furniture.	Había querido comprar muebles nuevos.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to have a home of our own.	Habíamos querido tener una casa propia.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had wanted to live closer to the church.	Habían querido vivir más cerca de la iglesia.	Querer Past Perfect
+Basic	Querer::Past::Perfect	I had always wanted to meet your family.	Siempre había querido conocer a tu familia.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to visit your parents?	¿Habías querido visitar a tus padres?	Querer Past Perfect
+Basic	Querer::Past::Perfect	He had wanted to see his children grow up.	Había querido ver a sus hijos crecer.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to make memories together.	Habíamos querido hacer recuerdos juntos.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had wanted to call the grandparents more.	Habían querido llamar a los abuelos más.	Querer Past Perfect
+Basic	Querer::Past::Perfect	I had always wanted to read the whole New Testament.	Siempre había querido leer todo el Nuevo Testamento.	Querer Past Perfect
+Basic	Querer::Past::Perfect	Had you wanted to study theology?	¿Habías querido estudiar teología?	Querer Past Perfect
+Basic	Querer::Past::Perfect	She had wanted to write about her faith.	Había querido escribir sobre su fe.	Querer Past Perfect
+Basic	Querer::Past::Perfect	We had wanted to study the Bible deeply.	Habíamos querido estudiar la Biblia profundamente.	Querer Past Perfect
+Basic	Querer::Past::Perfect	They had always wanted to share their faith with others.	Siempre habían querido compartir su fe con otros.	Querer Past Perfect

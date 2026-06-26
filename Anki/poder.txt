@@ -1,0 +1,911 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Poder::Present::Indicative	I can read the Bible.	Puedo leer la Biblia.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you pray with me?	¿Puedes orar conmigo?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can read the Bible together.	Podemos leer la Biblia juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he come to Bible study?	¿Puede venir al estudio bíblico?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can help at church.	Pueden ayudar en la iglesia.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can go to church on Sunday.	Puedo ir a la iglesia el domingo.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you sing at church?	¿Puedes cantar en la iglesia?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can pray together.	Podemos orar juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can she come to the prayer meeting?	¿Puede venir a la reunión de oración?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can read the Bible story together.	Pueden leer la historia bíblica juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can travel by plane.	Puedo viajar en avión.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you help me with the luggage?	¿Puedes ayudarme con el equipaje?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can go to the airport together.	Podemos ir al aeropuerto juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he make a hotel reservation?	¿Puede hacer una reservación de hotel?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can travel next week.	Pueden viajar la próxima semana.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can order for the table.	Puedo pedir para la mesa.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you bring the menu?	¿Puedes traer el menú?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can eat at the restaurant.	Podemos comer en el restaurante.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can she try the soup?	¿Puede probar la sopa?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can order dessert.	Pueden pedir el postre.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can cook dinner.	Puedo cocinar la cena.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you clean the kitchen?	¿Puedes limpiar la cocina?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can eat together at home.	Podemos comer juntos en casa.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he fix the door?	¿Puede arreglar la puerta?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can come to the house.	Pueden venir a la casa.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can visit my family.	Puedo visitar a mi familia.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you come to the party?	¿Puedes venir a la fiesta?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can meet my parents.	Podemos conocer a mis padres.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can she bring her children?	¿Puede traer a sus hijos?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can spend time with the family.	Pueden pasar tiempo con la familia.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can take the dog to the park.	Puedo llevar al perro al parque.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you feed the cat?	¿Puedes darle de comer al gato?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can take the dog for a walk.	Podemos sacar al perro a caminar.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can she play with the pet?	¿Puede jugar con la mascota?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can take care of the dog this week.	Pueden cuidar al perro esta semana.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can study Spanish.	Puedo estudiar español.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you help me with the homework?	¿Puedes ayudarme con la tarea?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can study together.	Podemos estudiar juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he pass the exam?	¿Puede pasar el examen?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can learn the lesson.	Pueden aprender la lección.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can go to the doctor tomorrow.	Puedo ir al médico mañana.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you make a doctor's appointment?	¿Puedes hacer una cita médica?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can go to the clinic together.	Podemos ir a la clínica juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can she rest at home?	¿Puede descansar en casa?	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can work from home.	Puedo trabajar desde casa.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you finish the report?	¿Puedes terminar el informe?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can have the meeting tomorrow.	Podemos tener la reunión mañana.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he help with the project?	¿Puede ayudar con el proyecto?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can work together on the task.	Pueden trabajar juntos en la tarea.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can play the guitar.	Puedo tocar la guitarra.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you play the piano?	¿Puedes tocar el piano?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can practice the music together.	Podemos practicar la música juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can she sing at the concert?	¿Puede cantar en el concierto?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can play music at church.	Pueden tocar música en la iglesia.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can read the Bible verse out loud.	Puedo leer el versículo bíblico en voz alta.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you share the Bible story with the children?	¿Puedes compartir la historia bíblica con los niños?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can go to church together on Sunday.	Podemos ir a la iglesia juntos el domingo.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can she lead the Bible study?	¿Puede dirigir el estudio bíblico?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can pray for the sick.	Pueden orar por los enfermos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can volunteer at church this weekend.	Puedo ser voluntario en la iglesia este fin de semana.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you teach the Bible lesson?	¿Puedes enseñar la lección bíblica?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can share the gospel with our neighbors.	Podemos compartir el evangelio con nuestros vecinos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he memorize the Bible verse?	¿Puede memorizar el versículo bíblico?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can join the worship team.	Pueden unirse al equipo de adoración.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can book the flight online.	Puedo reservar el vuelo en línea.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you find the hotel?	¿Puedes encontrar el hotel?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can rent a car at the airport.	Podemos alquilar un carro en el aeropuerto.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he carry the suitcase?	¿Puede cargar la maleta?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can visit the museum tomorrow.	Pueden visitar el museo mañana.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can show you the city.	Puedo mostrarte la ciudad.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you make a restaurant reservation?	¿Puedes hacer una reservación en el restaurante?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can share the meal.	Podemos compartir la comida.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he pay the bill?	¿Puede pagar la cuenta?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can try the local food.	Pueden probar la comida local.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can cook rice and beans.	Puedo cocinar arroz y frijoles.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you make the salad?	¿Puedes hacer la ensalada?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can prepare breakfast together.	Podemos preparar el desayuno juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can she recommend a dish?	¿Puede recomendar un plato?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can bring food to share.	Pueden traer comida para compartir.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can wash the dishes.	Puedo lavar los platos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you set the table?	¿Puedes poner la mesa?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can clean the house together.	Podemos limpiar la casa juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he water the plants?	¿Puede regar las plantas?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can help around the house.	Pueden ayudar en la casa.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can call my grandmother.	Puedo llamar a mi abuela.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you introduce me to your friend?	¿Puedes presentarme a tu amigo?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can celebrate together.	Podemos celebrar juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he bring his brother?	¿Puede traer a su hermano?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can visit us on Saturday.	Pueden visitarnos el sábado.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can give the dog a bath.	Puedo bañar al perro.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you take the cat to the vet?	¿Puedes llevar al gato al veterinario?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can buy food for the dog.	Podemos comprar comida para el perro.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can read the chapter tonight.	Puedo leer el capítulo esta noche.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you explain the lesson?	¿Puedes explicar la lección?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can review the material before the exam.	Podemos repasar el material antes del examen.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can she answer the question?	¿Puede responder la pregunta?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can work on the project together.	Pueden trabajar en el proyecto juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can take the medicine with water.	Puedo tomar la medicina con agua.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you call the doctor?	¿Puedes llamar al médico?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can walk together for exercise.	Podemos caminar juntos para hacer ejercicio.	Poder Present Indicative
+Basic	Poder::Preterit::Indicative	I was able to read the Bible.	Pude leer la Biblia.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to pray?	¿Pudiste orar?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	He was able to come to Bible study.	Pudo venir al estudio bíblico.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to go to church.	Pudimos ir a la iglesia.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	They were able to help at church.	Pudieron ayudar en la iglesia.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	I was able to go to church last Sunday.	Pude ir a la iglesia el domingo pasado.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to sing at church?	¿Pudiste cantar en la iglesia?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to pray together.	Pudimos orar juntos.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	She was able to come to the prayer meeting.	Pudo venir a la reunión de oración.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	They were able to read the Bible story.	Pudieron leer la historia bíblica.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	I was able to travel by plane.	Pude viajar en avión.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to help me with the luggage?	¿Pudiste ayudarme con el equipaje?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to go to the airport together.	Pudimos ir al aeropuerto juntos.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	He was able to make a hotel reservation.	Pudo hacer una reservación de hotel.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	They were able to travel last week.	Pudieron viajar la semana pasada.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	I was able to order for the table.	Pude pedir para la mesa.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to find the menu?	¿Pudiste encontrar el menú?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to eat at the restaurant.	Pudimos comer en el restaurante.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	She was able to try the soup.	Pudo probar la sopa.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	They were able to order dessert.	Pudieron pedir el postre.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	I was able to cook dinner.	Pude cocinar la cena.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to clean the kitchen?	¿Pudiste limpiar la cocina?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to eat together at home.	Pudimos comer juntos en casa.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	He was able to fix the door.	Pudo arreglar la puerta.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	They were able to come to the house.	Pudieron venir a la casa.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	I was able to visit my family.	Pude visitar a mi familia.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to come to the party?	¿Pudiste venir a la fiesta?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to meet his parents.	Pudimos conocer a sus padres.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	She was able to bring her children.	Pudo traer a sus hijos.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	They were able to spend time with the family.	Pudieron pasar tiempo con la familia.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	I was able to take the dog to the park.	Pude llevar al perro al parque.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to feed the cat?	¿Pudiste darle de comer al gato?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to take the dog for a walk.	Pudimos sacar al perro a caminar.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	She was able to play with the pet.	Pudo jugar con la mascota.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	They were able to take care of the dog.	Pudieron cuidar al perro.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	I was able to study Spanish last night.	Pude estudiar español anoche.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to finish the homework?	¿Pudiste terminar la tarea?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to study together.	Pudimos estudiar juntos.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	He was able to pass the exam.	Pudo pasar el examen.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	They were able to learn the lesson.	Pudieron aprender la lección.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	I was able to go to the doctor yesterday.	Pude ir al médico ayer.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to make a doctor's appointment?	¿Pudiste hacer una cita médica?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to go to the clinic together.	Pudimos ir a la clínica juntos.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	She was able to rest at home.	Pudo descansar en casa.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	I was able to work from home.	Pude trabajar desde casa.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to finish the report?	¿Pudiste terminar el informe?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to have the meeting.	Pudimos tener la reunión.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	He was able to help with the project.	Pudo ayudar con el proyecto.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	They were able to work together on the task.	Pudieron trabajar juntos en la tarea.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	I was able to play the guitar at church.	Pude tocar la guitarra en la iglesia.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to play the piano?	¿Pudiste tocar el piano?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to practice the music together.	Pudimos practicar la música juntos.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	She was able to sing at the concert.	Pudo cantar en el concierto.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	They were able to play music at church.	Pudieron tocar música en la iglesia.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	I was able to memorize the Bible verse.	Pude memorizar el versículo bíblico.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to share the Bible story?	¿Pudiste compartir la historia bíblica?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to go to church together.	Pudimos ir a la iglesia juntos.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	She was able to lead the Bible study.	Pudo dirigir el estudio bíblico.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	They were able to pray for the sick.	Pudieron orar por los enfermos.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	I was able to volunteer at church.	Pude ser voluntario en la iglesia.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to teach the Bible lesson?	¿Pudiste enseñar la lección bíblica?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to share the gospel.	Pudimos compartir el evangelio.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	He was able to book the flight online.	Pudo reservar el vuelo en línea.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to find the hotel?	¿Pudiste encontrar el hotel?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to rent a car at the airport.	Pudimos alquilar un carro en el aeropuerto.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	He was able to carry the suitcase.	Pudo cargar la maleta.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	They were able to visit the museum.	Pudieron visitar el museo.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	I was able to show you the city.	Pude mostrarte la ciudad.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to make a restaurant reservation?	¿Pudiste hacer una reservación en el restaurante?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to share the meal.	Pudimos compartir la comida.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	He was able to pay the bill.	Pudo pagar la cuenta.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	They were able to try the local food.	Pudieron probar la comida local.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	I was able to cook rice and beans.	Pude cocinar arroz y frijoles.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to make the salad?	¿Pudiste hacer la ensalada?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to prepare breakfast together.	Pudimos preparar el desayuno juntos.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	She was able to recommend a dish.	Pudo recomendar un plato.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	They were able to bring food to share.	Pudieron traer comida para compartir.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	I was able to wash the dishes.	Pude lavar los platos.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to set the table?	¿Pudiste poner la mesa?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to clean the house together.	Pudimos limpiar la casa juntos.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	He was able to water the plants.	Pudo regar las plantas.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	They were able to help around the house.	Pudieron ayudar en la casa.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	I was able to call my grandmother.	Pude llamar a mi abuela.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to come to dinner?	¿Pudiste venir a cenar?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to celebrate together.	Pudimos celebrar juntos.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	He was able to bring his brother.	Pudo traer a su hermano.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	They were able to visit us on Saturday.	Pudieron visitarnos el sábado.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	I was able to give the dog a bath.	Pude bañar al perro.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to take the cat to the vet?	¿Pudiste llevar al gato al veterinario?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to buy food for the dog.	Pudimos comprar comida para el perro.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	I was able to read the chapter last night.	Pude leer el capítulo anoche.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to explain the lesson?	¿Pudiste explicar la lección?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to review the material before the exam.	Pudimos repasar el material antes del examen.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	She was able to answer the question.	Pudo responder la pregunta.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	They were able to work on the project together.	Pudieron trabajar en el proyecto juntos.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	I was able to take the medicine on time.	Pude tomar la medicina a tiempo.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	Were you able to call the doctor?	¿Pudiste llamar al médico?	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	We were able to walk together for exercise.	Pudimos caminar juntos para hacer ejercicio.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	He was able to go to the pharmacy.	Pudo ir a la farmacia.	Poder Preterit Indicative
+Basic	Poder::Preterit::Indicative	They were able to rest this weekend.	Pudieron descansar este fin de semana.	Poder Preterit Indicative
+Basic	Poder::Imperfect::Indicative	I used to be able to read the Bible in Spanish.	Podía leer la Biblia en español.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you pray every morning?	¿Podías orar cada mañana?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	He used to be able to go to Bible study.	Podía ir al estudio bíblico.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to go to church together.	Podíamos ir a la iglesia juntos.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	They used to be able to help at church.	Podían ayudar en la iglesia.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	I could go to church every Sunday.	Podía ir a la iglesia todos los domingos.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you sing at church?	¿Podías cantar en la iglesia?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We could pray together every day.	Podíamos orar juntos todos los días.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	She used to be able to come to the prayer meeting.	Podía venir a la reunión de oración.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	They could read the Bible story together.	Podían leer la historia bíblica juntos.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	I used to be able to travel often.	Podía viajar con frecuencia.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you travel by plane?	¿Podías viajar en avión?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to go to the airport together.	Podíamos ir al aeropuerto juntos.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	He could make hotel reservations easily.	Podía hacer reservaciones de hotel fácilmente.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	They used to be able to travel every year.	Podían viajar cada año.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	I could order for the table in Spanish.	Podía pedir para la mesa en español.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you understand the menu?	¿Podías entender el menú?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to eat at the restaurant every week.	Podíamos comer en el restaurante cada semana.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	She could try new dishes easily.	Podía probar platos nuevos fácilmente.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	They used to be able to order dessert.	Podían pedir el postre.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	I could cook dinner every night.	Podía cocinar la cena todas las noches.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you clean the kitchen alone?	¿Podías limpiar la cocina solo?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to eat together at home every day.	Podíamos comer juntos en casa todos los días.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	He could fix things around the house.	Podía arreglar cosas en la casa.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	They used to be able to come over on weekends.	Podían venir los fines de semana.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	I could visit my family every month.	Podía visitar a mi familia cada mes.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you come to every party?	¿Podías venir a todas las fiestas?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to spend time with the family.	Podíamos pasar tiempo con la familia.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	She could bring her children to church.	Podía traer a sus hijos a la iglesia.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	They used to be able to visit us often.	Podían visitarnos con frecuencia.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	I could take the dog to the park every day.	Podía llevar al perro al parque todos los días.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you take care of the cat?	¿Podías cuidar al gato?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to walk the dog together.	Podíamos pasear al perro juntos.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	She could take care of any animal.	Podía cuidar cualquier animal.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	They used to be able to keep the dog at home.	Podían tener al perro en casa.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	I could study Spanish for hours.	Podía estudiar español por horas.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you help me with my homework?	¿Podías ayudarme con la tarea?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to study together.	Podíamos estudiar juntos.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	He could pass every exam.	Podía pasar todos los exámenes.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	They used to be able to learn new things quickly.	Podían aprender cosas nuevas rápidamente.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	I could go to the doctor whenever I needed.	Podía ir al médico cuando lo necesitaba.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you make doctor appointments easily?	¿Podías hacer citas médicas fácilmente?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to go to the clinic together.	Podíamos ir a la clínica juntos.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	She could rest at home whenever she was sick.	Podía descansar en casa cuando estaba enferma.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	I could work from home when needed.	Podía trabajar desde casa cuando era necesario.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you finish the reports on time?	¿Podías terminar los informes a tiempo?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to have meetings every week.	Podíamos tener reuniones cada semana.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	He could help with any project.	Podía ayudar con cualquier proyecto.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	They used to be able to work together well.	Podían trabajar juntos bien.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	I could play the guitar every day.	Podía tocar la guitarra todos los días.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you play any instrument?	¿Podías tocar algún instrumento?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to practice music together.	Podíamos practicar música juntos.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	She could sing very well.	Podía cantar muy bien.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	They used to be able to perform at church.	Podían actuar en la iglesia.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	I could memorize Bible verses easily.	Podía memorizar versículos bíblicos fácilmente.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you share the Bible stories with the children?	¿Podías compartir las historias bíblicas con los niños?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to volunteer at church regularly.	Podíamos ser voluntarios en la iglesia regularmente.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	She could lead the worship at church.	Podía dirigir la adoración en la iglesia.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	They used to be able to pray for the sick.	Podían orar por los enfermos.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	I could teach the Bible lesson.	Podía enseñar la lección bíblica.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you share the gospel with others?	¿Podías compartir el evangelio con otros?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to go to the market every week.	Podíamos ir al mercado cada semana.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	He could book flights easily.	Podía reservar vuelos fácilmente.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you find hotels in the city?	¿Podías encontrar hoteles en la ciudad?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to travel with the family.	Podíamos viajar con la familia.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	He could carry heavy luggage.	Podía cargar equipaje pesado.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	They used to be able to visit museums on weekends.	Podían visitar museos los fines de semana.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	I could show tourists around the city.	Podía mostrarles la ciudad a los turistas.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you make reservations in Spanish?	¿Podías hacer reservaciones en español?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to try new restaurants every month.	Podíamos probar restaurantes nuevos cada mes.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	He could pay the bill with cash.	Podía pagar la cuenta con efectivo.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	They used to be able to eat local food wherever they traveled.	Podían comer comida local donde viajaban.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	I could cook traditional food.	Podía cocinar comida tradicional.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you make salads for the whole family?	¿Podías hacer ensaladas para toda la familia?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to prepare big meals together.	Podíamos preparar comidas grandes juntos.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	She could recommend any dish at the restaurant.	Podía recomendar cualquier plato del restaurante.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	They used to be able to bring food to share at church.	Podían traer comida para compartir en la iglesia.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	I could wash all the dishes by hand.	Podía lavar todos los platos a mano.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you set the table for everyone?	¿Podías poner la mesa para todos?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to clean the house together on Saturdays.	Podíamos limpiar la casa juntos los sábados.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	He could water the plants every morning.	Podía regar las plantas todas las mañanas.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	They used to be able to help with everything at home.	Podían ayudar con todo en la casa.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	I could call my grandmother every week.	Podía llamar a mi abuela cada semana.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you spend time with your friends every weekend?	¿Podías pasar tiempo con tus amigos cada fin de semana?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to celebrate birthdays together.	Podíamos celebrar los cumpleaños juntos.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	He could bring his whole family to church.	Podía traer a toda su familia a la iglesia.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	They used to be able to visit the grandparents often.	Podían visitar a los abuelos con frecuencia.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	I could give the dog a bath every week.	Podía bañar al perro cada semana.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you take the pets to the vet?	¿Podías llevar las mascotas al veterinario?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to walk the dog every morning.	Podíamos pasear al perro todas las mañanas.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	I could read a chapter of the Bible every night.	Podía leer un capítulo de la Biblia cada noche.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you explain the lessons to the other students?	¿Podías explicar las lecciones a los otros estudiantes?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to study at the library every evening.	Podíamos estudiar en la biblioteca cada tarde.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	She could answer any question in class.	Podía responder cualquier pregunta en clase.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	They used to be able to finish the projects on time.	Podían terminar los proyectos a tiempo.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	I could take my medicine without water.	Podía tomar la medicina sin agua.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	Could you call the doctor when you were sick?	¿Podías llamar al médico cuando estabas enfermo?	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	We used to be able to exercise every morning.	Podíamos hacer ejercicio todas las mañanas.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	He could go to the pharmacy on his own.	Podía ir a la farmacia solo.	Poder Imperfect Indicative
+Basic	Poder::Imperfect::Indicative	They used to be able to rest on Sundays.	Podían descansar los domingos.	Poder Imperfect Indicative
+Basic	Poder::Future::Indicative	I will be able to read the Bible in Spanish someday.	Podré leer la Biblia en español algún día.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to pray with us?	¿Podrás orar con nosotros?	Poder Future Indicative
+Basic	Poder::Future::Indicative	He will be able to come to Bible study next week.	Podrá venir al estudio bíblico la próxima semana.	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to go to church together.	Podremos ir a la iglesia juntos.	Poder Future Indicative
+Basic	Poder::Future::Indicative	They will be able to help at church on Sunday.	Podrán ayudar en la iglesia el domingo.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to go to church next Sunday.	Podré ir a la iglesia el próximo domingo.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to sing at church?	¿Podrás cantar en la iglesia?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to pray together.	Podremos orar juntos.	Poder Future Indicative
+Basic	Poder::Future::Indicative	She will be able to come to the prayer meeting.	Podrá venir a la reunión de oración.	Poder Future Indicative
+Basic	Poder::Future::Indicative	They will be able to read the Bible story together.	Podrán leer la historia bíblica juntos.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to travel next year.	Podré viajar el próximo año.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to help me with the luggage?	¿Podrás ayudarme con el equipaje?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to go to the airport together.	Podremos ir al aeropuerto juntos.	Poder Future Indicative
+Basic	Poder::Future::Indicative	He will be able to make a hotel reservation.	Podrá hacer una reservación de hotel.	Poder Future Indicative
+Basic	Poder::Future::Indicative	They will be able to travel next month.	Podrán viajar el próximo mes.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to order in Spanish at the restaurant.	Podré pedir en español en el restaurante.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to bring the menu?	¿Podrás traer el menú?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to eat at the restaurant on Friday.	Podremos comer en el restaurante el viernes.	Poder Future Indicative
+Basic	Poder::Future::Indicative	She will be able to try the new dish.	Podrá probar el plato nuevo.	Poder Future Indicative
+Basic	Poder::Future::Indicative	They will be able to order dessert tonight.	Podrán pedir el postre esta noche.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to cook dinner tomorrow.	Podré cocinar la cena mañana.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to clean the kitchen?	¿Podrás limpiar la cocina?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to eat together at home this weekend.	Podremos comer juntos en casa este fin de semana.	Poder Future Indicative
+Basic	Poder::Future::Indicative	He will be able to fix the door this afternoon.	Podrá arreglar la puerta esta tarde.	Poder Future Indicative
+Basic	Poder::Future::Indicative	They will be able to come to the house on Saturday.	Podrán venir a la casa el sábado.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to visit my family next month.	Podré visitar a mi familia el próximo mes.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to come to the party?	¿Podrás venir a la fiesta?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to meet your parents.	Podremos conocer a tus padres.	Poder Future Indicative
+Basic	Poder::Future::Indicative	She will be able to bring her children.	Podrá traer a sus hijos.	Poder Future Indicative
+Basic	Poder::Future::Indicative	They will be able to spend time with the family.	Podrán pasar tiempo con la familia.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to take the dog to the park tomorrow.	Podré llevar al perro al parque mañana.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to feed the cat?	¿Podrás darle de comer al gato?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to take the dog for a walk tonight.	Podremos sacar al perro a caminar esta noche.	Poder Future Indicative
+Basic	Poder::Future::Indicative	She will be able to play with the pet.	Podrá jugar con la mascota.	Poder Future Indicative
+Basic	Poder::Future::Indicative	They will be able to take care of the dog this week.	Podrán cuidar al perro esta semana.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to study Spanish more next year.	Podré estudiar más español el próximo año.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to help me with the homework?	¿Podrás ayudarme con la tarea?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to study together this weekend.	Podremos estudiar juntos este fin de semana.	Poder Future Indicative
+Basic	Poder::Future::Indicative	He will be able to pass the exam if he studies.	Podrá pasar el examen si estudia.	Poder Future Indicative
+Basic	Poder::Future::Indicative	They will be able to learn the lesson quickly.	Podrán aprender la lección rápidamente.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to go to the doctor next week.	Podré ir al médico la próxima semana.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to make a doctor's appointment?	¿Podrás hacer una cita médica?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to go to the clinic together.	Podremos ir a la clínica juntos.	Poder Future Indicative
+Basic	Poder::Future::Indicative	She will be able to rest at home tomorrow.	Podrá descansar en casa mañana.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to work from home next week.	Podré trabajar desde casa la próxima semana.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to finish the report?	¿Podrás terminar el informe?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to have the meeting tomorrow.	Podremos tener la reunión mañana.	Poder Future Indicative
+Basic	Poder::Future::Indicative	He will be able to help with the project.	Podrá ayudar con el proyecto.	Poder Future Indicative
+Basic	Poder::Future::Indicative	They will be able to work together on the task.	Podrán trabajar juntos en la tarea.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to play the guitar at the concert.	Podré tocar la guitarra en el concierto.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to play the piano at church?	¿Podrás tocar el piano en la iglesia?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to practice the music together on Friday.	Podremos practicar la música juntos el viernes.	Poder Future Indicative
+Basic	Poder::Future::Indicative	She will be able to sing at the concert.	Podrá cantar en el concierto.	Poder Future Indicative
+Basic	Poder::Future::Indicative	They will be able to play music at church this Sunday.	Podrán tocar música en la iglesia este domingo.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to memorize the Bible verse.	Podré memorizar el versículo bíblico.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to share the Bible story with the children?	¿Podrás compartir la historia bíblica con los niños?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to go to church together next Sunday.	Podremos ir a la iglesia juntos el próximo domingo.	Poder Future Indicative
+Basic	Poder::Future::Indicative	She will be able to lead the Bible study.	Podrá dirigir el estudio bíblico.	Poder Future Indicative
+Basic	Poder::Future::Indicative	They will be able to pray for the sick this Sunday.	Podrán orar por los enfermos este domingo.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to volunteer at church this weekend.	Podré ser voluntario en la iglesia este fin de semana.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to teach the Bible lesson?	¿Podrás enseñar la lección bíblica?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to share the gospel with our neighbors.	Podremos compartir el evangelio con nuestros vecinos.	Poder Future Indicative
+Basic	Poder::Future::Indicative	He will be able to memorize the Bible verse by Sunday.	Podrá memorizar el versículo bíblico para el domingo.	Poder Future Indicative
+Basic	Poder::Future::Indicative	They will be able to join the worship team.	Podrán unirse al equipo de adoración.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to book the flight online.	Podré reservar el vuelo en línea.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to find the hotel?	¿Podrás encontrar el hotel?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to rent a car at the airport.	Podremos alquilar un carro en el aeropuerto.	Poder Future Indicative
+Basic	Poder::Future::Indicative	He will be able to carry the suitcase.	Podrá cargar la maleta.	Poder Future Indicative
+Basic	Poder::Future::Indicative	They will be able to visit the museum tomorrow.	Podrán visitar el museo mañana.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to show you the city.	Podré mostrarte la ciudad.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to make a restaurant reservation?	¿Podrás hacer una reservación en el restaurante?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to share the meal.	Podremos compartir la comida.	Poder Future Indicative
+Basic	Poder::Future::Indicative	He will be able to pay the bill.	Podrá pagar la cuenta.	Poder Future Indicative
+Basic	Poder::Future::Indicative	They will be able to try the local food.	Podrán probar la comida local.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to cook rice and beans.	Podré cocinar arroz y frijoles.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to make the salad?	¿Podrás hacer la ensalada?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to prepare breakfast together.	Podremos preparar el desayuno juntos.	Poder Future Indicative
+Basic	Poder::Future::Indicative	She will be able to recommend a dish.	Podrá recomendar un plato.	Poder Future Indicative
+Basic	Poder::Future::Indicative	They will be able to bring food to share.	Podrán traer comida para compartir.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to wash the dishes after dinner.	Podré lavar los platos después de la cena.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to set the table?	¿Podrás poner la mesa?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to clean the house together.	Podremos limpiar la casa juntos.	Poder Future Indicative
+Basic	Poder::Future::Indicative	He will be able to water the plants.	Podrá regar las plantas.	Poder Future Indicative
+Basic	Poder::Future::Indicative	They will be able to help around the house.	Podrán ayudar en la casa.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to call my grandmother this weekend.	Podré llamar a mi abuela este fin de semana.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to introduce me to your friend?	¿Podrás presentarme a tu amigo?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to celebrate together.	Podremos celebrar juntos.	Poder Future Indicative
+Basic	Poder::Future::Indicative	He will be able to bring his brother.	Podrá traer a su hermano.	Poder Future Indicative
+Basic	Poder::Future::Indicative	They will be able to visit us on Saturday.	Podrán visitarnos el sábado.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to give the dog a bath this weekend.	Podré bañar al perro este fin de semana.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to take the cat to the vet?	¿Podrás llevar al gato al veterinario?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to buy food for the dog.	Podremos comprar comida para el perro.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to read the chapter tonight.	Podré leer el capítulo esta noche.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to explain the lesson?	¿Podrás explicar la lección?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to review the material before the exam.	Podremos repasar el material antes del examen.	Poder Future Indicative
+Basic	Poder::Future::Indicative	She will be able to answer the question.	Podrá responder la pregunta.	Poder Future Indicative
+Basic	Poder::Future::Indicative	They will be able to work on the project together.	Podrán trabajar en el proyecto juntos.	Poder Future Indicative
+Basic	Poder::Future::Indicative	I will be able to take the medicine with water.	Podré tomar la medicina con agua.	Poder Future Indicative
+Basic	Poder::Future::Indicative	Will you be able to call the doctor?	¿Podrás llamar al médico?	Poder Future Indicative
+Basic	Poder::Future::Indicative	We will be able to walk together for exercise.	Podremos caminar juntos para hacer ejercicio.	Poder Future Indicative
+Basic	Poder::Future::Indicative	He will be able to go to the pharmacy.	Podrá ir a la farmacia.	Poder Future Indicative
+Basic	Poder::Future::Indicative	They will be able to rest this weekend.	Podrán descansar este fin de semana.	Poder Future Indicative
+Basic	Poder::Conditional	I could read the Bible more if I had time.	Podría leer más la Biblia si tuviera tiempo.	Poder Conditional
+Basic	Poder::Conditional	Could you pray with me?	¿Podrías orar conmigo?	Poder Conditional
+Basic	Poder::Conditional	He could come to Bible study if he wanted.	Podría venir al estudio bíblico si quisiera.	Poder Conditional
+Basic	Poder::Conditional	We could go to church together.	Podríamos ir a la iglesia juntos.	Poder Conditional
+Basic	Poder::Conditional	They could help at church on Sunday.	Podrían ayudar en la iglesia el domingo.	Poder Conditional
+Basic	Poder::Conditional	I could go to church every Sunday if I lived closer.	Podría ir a la iglesia todos los domingos si viviera más cerca.	Poder Conditional
+Basic	Poder::Conditional	Could you sing at church?	¿Podrías cantar en la iglesia?	Poder Conditional
+Basic	Poder::Conditional	We could pray together every morning.	Podríamos orar juntos cada mañana.	Poder Conditional
+Basic	Poder::Conditional	She could come to the prayer meeting if she weren't working.	Podría venir a la reunión de oración si no estuviera trabajando.	Poder Conditional
+Basic	Poder::Conditional	They could read the Bible story to the children.	Podrían leer la historia bíblica a los niños.	Poder Conditional
+Basic	Poder::Conditional	I could travel more if I had vacation time.	Podría viajar más si tuviera tiempo de vacaciones.	Poder Conditional
+Basic	Poder::Conditional	Could you help me with the luggage?	¿Podrías ayudarme con el equipaje?	Poder Conditional
+Basic	Poder::Conditional	We could go to the airport together.	Podríamos ir al aeropuerto juntos.	Poder Conditional
+Basic	Poder::Conditional	He could make the hotel reservation online.	Podría hacer la reservación de hotel en línea.	Poder Conditional
+Basic	Poder::Conditional	They could travel together next year.	Podrían viajar juntos el próximo año.	Poder Conditional
+Basic	Poder::Conditional	I could order for the table if you want.	Podría pedir para la mesa si quieres.	Poder Conditional
+Basic	Poder::Conditional	Could you bring the menu?	¿Podrías traer el menú?	Poder Conditional
+Basic	Poder::Conditional	We could eat at the restaurant this Friday.	Podríamos comer en el restaurante este viernes.	Poder Conditional
+Basic	Poder::Conditional	She could try the new dish.	Podría probar el plato nuevo.	Poder Conditional
+Basic	Poder::Conditional	They could order dessert if they wanted.	Podrían pedir el postre si quisieran.	Poder Conditional
+Basic	Poder::Conditional	I could cook dinner tonight.	Podría cocinar la cena esta noche.	Poder Conditional
+Basic	Poder::Conditional	Could you clean the kitchen?	¿Podrías limpiar la cocina?	Poder Conditional
+Basic	Poder::Conditional	We could eat together at home this weekend.	Podríamos comer juntos en casa este fin de semana.	Poder Conditional
+Basic	Poder::Conditional	He could fix the door if he had the tools.	Podría arreglar la puerta si tuviera las herramientas.	Poder Conditional
+Basic	Poder::Conditional	They could come to the house on Saturday.	Podrían venir a la casa el sábado.	Poder Conditional
+Basic	Poder::Conditional	I could visit my family if I had a car.	Podría visitar a mi familia si tuviera un carro.	Poder Conditional
+Basic	Poder::Conditional	Could you come to the party?	¿Podrías venir a la fiesta?	Poder Conditional
+Basic	Poder::Conditional	We could meet your parents this weekend.	Podríamos conocer a tus padres este fin de semana.	Poder Conditional
+Basic	Poder::Conditional	She could bring her children if she wanted.	Podría traer a sus hijos si quisiera.	Poder Conditional
+Basic	Poder::Conditional	They could spend more time with the family.	Podrían pasar más tiempo con la familia.	Poder Conditional
+Basic	Poder::Conditional	I could take the dog to the park if you want.	Podría llevar al perro al parque si quieres.	Poder Conditional
+Basic	Poder::Conditional	Could you feed the cat today?	¿Podrías darle de comer al gato hoy?	Poder Conditional
+Basic	Poder::Conditional	We could take the dog for a walk together.	Podríamos sacar al perro a caminar juntos.	Poder Conditional
+Basic	Poder::Conditional	She could play with the pet while we cook.	Podría jugar con la mascota mientras cocinamos.	Poder Conditional
+Basic	Poder::Conditional	They could take care of the dog this week.	Podrían cuidar al perro esta semana.	Poder Conditional
+Basic	Poder::Conditional	I could study Spanish with a tutor.	Podría estudiar español con un tutor.	Poder Conditional
+Basic	Poder::Conditional	Could you help me with the homework?	¿Podrías ayudarme con la tarea?	Poder Conditional
+Basic	Poder::Conditional	We could study together this weekend.	Podríamos estudiar juntos este fin de semana.	Poder Conditional
+Basic	Poder::Conditional	He could pass the exam if he studied more.	Podría pasar el examen si estudiara más.	Poder Conditional
+Basic	Poder::Conditional	They could learn the lesson faster with practice.	Podrían aprender la lección más rápido con práctica.	Poder Conditional
+Basic	Poder::Conditional	I could go to the doctor tomorrow.	Podría ir al médico mañana.	Poder Conditional
+Basic	Poder::Conditional	Could you make a doctor's appointment for me?	¿Podrías hacer una cita médica para mí?	Poder Conditional
+Basic	Poder::Conditional	We could go to the clinic together tomorrow.	Podríamos ir a la clínica juntos mañana.	Poder Conditional
+Basic	Poder::Conditional	She could rest at home if she were sick.	Podría descansar en casa si estuviera enferma.	Poder Conditional
+Basic	Poder::Conditional	I could work from home this week.	Podría trabajar desde casa esta semana.	Poder Conditional
+Basic	Poder::Conditional	Could you finish the report today?	¿Podrías terminar el informe hoy?	Poder Conditional
+Basic	Poder::Conditional	We could have the meeting on Friday.	Podríamos tener la reunión el viernes.	Poder Conditional
+Basic	Poder::Conditional	He could help with the project if he had time.	Podría ayudar con el proyecto si tuviera tiempo.	Poder Conditional
+Basic	Poder::Conditional	They could work together on the task.	Podrían trabajar juntos en la tarea.	Poder Conditional
+Basic	Poder::Conditional	I could play the guitar at the worship service.	Podría tocar la guitarra en el servicio de adoración.	Poder Conditional
+Basic	Poder::Conditional	Could you play the piano at church?	¿Podrías tocar el piano en la iglesia?	Poder Conditional
+Basic	Poder::Conditional	We could practice the music together on Thursday.	Podríamos practicar la música juntos el jueves.	Poder Conditional
+Basic	Poder::Conditional	She could sing at the concert if she practiced.	Podría cantar en el concierto si practicara.	Poder Conditional
+Basic	Poder::Conditional	They could play music at church if they joined the team.	Podrían tocar música en la iglesia si se unieran al equipo.	Poder Conditional
+Basic	Poder::Conditional	I could memorize the Bible verse with practice.	Podría memorizar el versículo bíblico con práctica.	Poder Conditional
+Basic	Poder::Conditional	Could you share the Bible story with the children?	¿Podrías compartir la historia bíblica con los niños?	Poder Conditional
+Basic	Poder::Conditional	We could go to church together on Sunday.	Podríamos ir a la iglesia juntos el domingo.	Poder Conditional
+Basic	Poder::Conditional	She could lead the Bible study if asked.	Podría dirigir el estudio bíblico si se lo pidieran.	Poder Conditional
+Basic	Poder::Conditional	They could pray for the sick at church.	Podrían orar por los enfermos en la iglesia.	Poder Conditional
+Basic	Poder::Conditional	I could volunteer at church this weekend.	Podría ser voluntario en la iglesia este fin de semana.	Poder Conditional
+Basic	Poder::Conditional	Could you teach the Bible lesson?	¿Podrías enseñar la lección bíblica?	Poder Conditional
+Basic	Poder::Conditional	We could share the gospel with our neighbors.	Podríamos compartir el evangelio con nuestros vecinos.	Poder Conditional
+Basic	Poder::Conditional	He could memorize more Bible verses.	Podría memorizar más versículos bíblicos.	Poder Conditional
+Basic	Poder::Conditional	They could join the worship team.	Podrían unirse al equipo de adoración.	Poder Conditional
+Basic	Poder::Conditional	I could book the flight if you give me the dates.	Podría reservar el vuelo si me das las fechas.	Poder Conditional
+Basic	Poder::Conditional	Could you find the hotel for us?	¿Podrías encontrar el hotel para nosotros?	Poder Conditional
+Basic	Poder::Conditional	We could rent a car at the airport.	Podríamos alquilar un carro en el aeropuerto.	Poder Conditional
+Basic	Poder::Conditional	He could carry the suitcase for you.	Podría cargar la maleta para ti.	Poder Conditional
+Basic	Poder::Conditional	They could visit the museum if they had time.	Podrían visitar el museo si tuvieran tiempo.	Poder Conditional
+Basic	Poder::Conditional	I could show you the city tomorrow.	Podría mostrarte la ciudad mañana.	Poder Conditional
+Basic	Poder::Conditional	Could you make a restaurant reservation for us?	¿Podrías hacer una reservación en el restaurante para nosotros?	Poder Conditional
+Basic	Poder::Conditional	We could share the meal at the restaurant.	Podríamos compartir la comida en el restaurante.	Poder Conditional
+Basic	Poder::Conditional	He could pay the bill if we shared.	Podría pagar la cuenta si compartimos.	Poder Conditional
+Basic	Poder::Conditional	They could try the local food on the trip.	Podrían probar la comida local en el viaje.	Poder Conditional
+Basic	Poder::Conditional	I could cook rice and beans for everyone.	Podría cocinar arroz y frijoles para todos.	Poder Conditional
+Basic	Poder::Conditional	Could you make the salad for tonight?	¿Podrías hacer la ensalada para esta noche?	Poder Conditional
+Basic	Poder::Conditional	We could prepare breakfast together on Sunday.	Podríamos preparar el desayuno juntos el domingo.	Poder Conditional
+Basic	Poder::Conditional	She could recommend a good dish at the restaurant.	Podría recomendar un buen plato en el restaurante.	Poder Conditional
+Basic	Poder::Conditional	They could bring food to share at the church gathering.	Podrían traer comida para compartir en la reunión de la iglesia.	Poder Conditional
+Basic	Poder::Conditional	I could wash the dishes after dinner.	Podría lavar los platos después de la cena.	Poder Conditional
+Basic	Poder::Conditional	Could you set the table for dinner?	¿Podrías poner la mesa para la cena?	Poder Conditional
+Basic	Poder::Conditional	We could clean the house together on Saturday.	Podríamos limpiar la casa juntos el sábado.	Poder Conditional
+Basic	Poder::Conditional	He could water the plants this morning.	Podría regar las plantas esta mañana.	Poder Conditional
+Basic	Poder::Conditional	They could help around the house on weekends.	Podrían ayudar en la casa los fines de semana.	Poder Conditional
+Basic	Poder::Conditional	I could call my grandmother this Sunday.	Podría llamar a mi abuela este domingo.	Poder Conditional
+Basic	Poder::Conditional	Could you introduce me to your friend?	¿Podrías presentarme a tu amigo?	Poder Conditional
+Basic	Poder::Conditional	We could celebrate together on Friday.	Podríamos celebrar juntos el viernes.	Poder Conditional
+Basic	Poder::Conditional	He could bring his brother to the event.	Podría traer a su hermano al evento.	Poder Conditional
+Basic	Poder::Conditional	They could visit us this Saturday if they wanted.	Podrían visitarnos este sábado si quisieran.	Poder Conditional
+Basic	Poder::Conditional	I could give the dog a bath this afternoon.	Podría bañar al perro esta tarde.	Poder Conditional
+Basic	Poder::Conditional	Could you take the cat to the vet?	¿Podrías llevar al gato al veterinario?	Poder Conditional
+Basic	Poder::Conditional	We could buy food for the dog on the way home.	Podríamos comprar comida para el perro de camino a casa.	Poder Conditional
+Basic	Poder::Conditional	I could read the chapter tonight.	Podría leer el capítulo esta noche.	Poder Conditional
+Basic	Poder::Conditional	Could you explain the lesson to me?	¿Podrías explicarme la lección?	Poder Conditional
+Basic	Poder::Conditional	We could review the material together.	Podríamos repasar el material juntos.	Poder Conditional
+Basic	Poder::Conditional	She could answer the question if you asked her.	Podría responder la pregunta si se la hicieran.	Poder Conditional
+Basic	Poder::Conditional	They could work on the project together this weekend.	Podrían trabajar en el proyecto juntos este fin de semana.	Poder Conditional
+Basic	Poder::Conditional	I could take the medicine if I needed it.	Podría tomar la medicina si la necesitara.	Poder Conditional
+Basic	Poder::Conditional	Could you call the doctor for me?	¿Podrías llamar al médico por mí?	Poder Conditional
+Basic	Poder::Conditional	We could walk together for exercise in the mornings.	Podríamos caminar juntos para hacer ejercicio por las mañanas.	Poder Conditional
+Basic	Poder::Conditional	He could go to the pharmacy if it were open.	Podría ir a la farmacia si estuviera abierta.	Poder Conditional
+Basic	Poder::Conditional	They could rest this weekend if they finished their work.	Podrían descansar este fin de semana si terminaran su trabajo.	Poder Conditional
+Basic	Poder::Present::Subjunctive	I want you to be able to read the Bible.	Quiero que puedas leer la Biblia.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope he can come to Bible study.	Espero que pueda venir al estudio bíblico.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want us to be able to go to church.	Quiero que podamos ir a la iglesia.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope they can help at church.	Espero que puedan ayudar en la iglesia.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's important that you can go to church on Sunday.	Es importante que puedas ir a la iglesia el domingo.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I need you to be able to pray with me.	Necesito que puedas orar conmigo.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want her to be able to come to the prayer meeting.	Quiero que pueda venir a la reunión de oración.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's necessary that we can go to Bible study.	Es necesario que podamos ir al estudio bíblico.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope they can read the Bible story.	Espero que puedan leer la historia bíblica.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's good that you can go to church.	Es bueno que puedas ir a la iglesia.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope he can travel to the mission.	Espero que pueda viajar a la misión.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want you to be able to help me with the luggage.	Quiero que puedas ayudarme con el equipaje.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I need us to be able to go to the airport together.	Necesito que podamos ir al aeropuerto juntos.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's important that he can make the reservation.	Es importante que pueda hacer la reservación.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope they can travel next week.	Espero que puedan viajar la próxima semana.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want you to be able to order in Spanish.	Quiero que puedas pedir en español.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's good that she can try the new dish.	Es bueno que pueda probar el plato nuevo.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I need them to be able to come to the restaurant.	Necesito que puedan venir al restaurante.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope he can pay the bill.	Espero que pueda pagar la cuenta.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's necessary that we can eat together.	Es necesario que podamos comer juntos.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want you to be able to cook for the family.	Quiero que puedas cocinar para la familia.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope he can fix the door.	Espero que pueda arreglar la puerta.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I need them to be able to come to the house.	Necesito que puedan venir a la casa.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's important that we can eat together at home.	Es importante que podamos comer juntos en casa.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want her to be able to help in the kitchen.	Quiero que pueda ayudar en la cocina.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope you can visit your family.	Espero que puedas visitar a tu familia.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's good that they can spend time with the family.	Es bueno que puedan pasar tiempo con la familia.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I need him to be able to come to the party.	Necesito que pueda venir a la fiesta.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want us to be able to celebrate together.	Quiero que podamos celebrar juntos.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's necessary that she can bring her children.	Es necesario que pueda traer a sus hijos.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope you can take the dog to the park.	Espero que puedas llevar al perro al parque.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want him to be able to feed the cat.	Quiero que pueda darle de comer al gato.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's important that we can take care of the pet.	Es importante que podamos cuidar a la mascota.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope they can walk the dog.	Espero que puedan pasear al perro.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want her to be able to play with the pet.	Quiero que pueda jugar con la mascota.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want you to be able to study Spanish.	Quiero que puedas estudiar español.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope he can pass the exam.	Espero que pueda pasar el examen.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's necessary that we can study together.	Es necesario que podamos estudiar juntos.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I need you to be able to explain the lesson.	Necesito que puedas explicar la lección.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's good that they can learn quickly.	Es bueno que puedan aprender rápidamente.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want her to be able to finish the homework.	Quiero que pueda terminar la tarea.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope you can go to the doctor.	Espero que puedas ir al médico.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I need them to be able to go to the clinic.	Necesito que puedan ir a la clínica.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's important that he can take the medicine.	Es importante que pueda tomar la medicina.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want us to be able to walk for exercise.	Quiero que podamos caminar para hacer ejercicio.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope she can rest at home.	Espero que pueda descansar en casa.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I need you to be able to call the doctor.	Necesito que puedas llamar al médico.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's necessary that they can go to the pharmacy.	Es necesario que puedan ir a la farmacia.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's good that he can go to the dentist.	Es bueno que pueda ir al dentista.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want us to be able to exercise together.	Quiero que podamos hacer ejercicio juntos.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope you can finish the report.	Espero que puedas terminar el informe.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I need him to be able to attend the meeting.	Necesito que pueda asistir a la reunión.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's important that we can work together.	Es importante que podamos trabajar juntos.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want them to be able to help with the project.	Quiero que puedan ayudar con el proyecto.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope she can work from home.	Espero que pueda trabajar desde casa.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's necessary that you can finish the task on time.	Es necesario que puedas terminar la tarea a tiempo.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want you to be able to play the guitar at church.	Quiero que puedas tocar la guitarra en la iglesia.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope he can sing at the concert.	Espero que pueda cantar en el concierto.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I need them to be able to practice the music.	Necesito que puedan practicar la música.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's good that we can perform together.	Es bueno que podamos actuar juntos.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want her to be able to play the piano at church.	Quiero que pueda tocar el piano en la iglesia.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope you can join the worship team.	Espero que puedas unirte al equipo de adoración.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I need him to be able to lead the music.	Necesito que pueda dirigir la música.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's important that they can sing together.	Es importante que puedan cantar juntos.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want us to be able to rehearse on Friday.	Quiero que podamos ensayar el viernes.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope she can memorize the Bible verse.	Espero que pueda memorizar el versículo bíblico.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I need you to be able to teach the Bible lesson.	Necesito que puedas enseñar la lección bíblica.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's good that he can share the gospel.	Es bueno que pueda compartir el evangelio.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want them to be able to join the Bible study.	Quiero que puedan unirse al estudio bíblico.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's necessary that we can go to the prayer meeting.	Es necesario que podamos ir a la reunión de oración.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope she can volunteer at church.	Espero que pueda ser voluntaria en la iglesia.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want you to be able to show me the city.	Quiero que puedas mostrarme la ciudad.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope they can visit the museum.	Espero que puedan visitar el museo.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I need him to be able to carry the suitcase.	Necesito que pueda cargar la maleta.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's important that we can rent a car.	Es importante que podamos alquilar un carro.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want her to be able to find the hotel.	Quiero que pueda encontrar el hotel.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope you can make the restaurant reservation.	Espero que puedas hacer la reservación en el restaurante.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's good that he can recommend a dish.	Es bueno que pueda recomendar un plato.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I need them to be able to try the local food.	Necesito que puedan probar la comida local.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's necessary that we can share the meal.	Es necesario que podamos compartir la comida.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want her to be able to cook for us.	Quiero que pueda cocinar para nosotros.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope you can wash the dishes.	Espero que puedas lavar los platos.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I need him to be able to set the table.	Necesito que pueda poner la mesa.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's important that we can clean the house together.	Es importante que podamos limpiar la casa juntos.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want them to be able to help around the house.	Quiero que puedan ayudar en la casa.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope she can water the plants.	Espero que pueda regar las plantas.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want you to be able to call your grandmother.	Quiero que puedas llamar a tu abuela.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope they can visit us this weekend.	Espero que puedan visitarnos este fin de semana.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I need him to be able to bring his brother.	Necesito que pueda traer a su hermano.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's good that we can celebrate together.	Es bueno que podamos celebrar juntos.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want her to be able to come to the party.	Quiero que pueda venir a la fiesta.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope you can take the cat to the vet.	Espero que puedas llevar al gato al veterinario.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I need them to be able to take care of the dog.	Necesito que puedan cuidar al perro.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's important that he can give the dog a bath.	Es importante que pueda bañar al perro.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want us to be able to walk the dog together.	Quiero que podamos pasear al perro juntos.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want you to be able to read the chapter tonight.	Quiero que puedas leer el capítulo esta noche.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I hope they can work on the project together.	Espero que puedan trabajar en el proyecto juntos.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I need her to be able to answer the question.	Necesito que pueda responder la pregunta.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	It's good that we can review the material together.	Es bueno que podamos repasar el material juntos.	Poder Present Subjunctive
+Basic	Poder::Present::Subjunctive	I want him to be able to explain the lesson.	Quiero que pueda explicar la lección.	Poder Present Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted you to be able to read the Bible.	Quería que pudieras leer la Biblia.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped he could come to Bible study.	Esperaba que pudiera venir al estudio bíblico.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted us to be able to go to church.	Quería que pudiéramos ir a la iglesia.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped they could help at church.	Esperaba que pudieran ayudar en la iglesia.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was important that you could go to church.	Era importante que pudieras ir a la iglesia.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I needed you to be able to pray with me.	Necesitaba que pudieras orar conmigo.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted her to be able to come to the prayer meeting.	Quería que pudiera venir a la reunión de oración.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was necessary that we could go to Bible study.	Era necesario que pudiéramos ir al estudio bíblico.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped they could read the Bible story.	Esperaba que pudieran leer la historia bíblica.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was good that you could go to church.	Era bueno que pudieras ir a la iglesia.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped he could travel to the mission.	Esperaba que pudiera viajar a la misión.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted you to be able to help me with the luggage.	Quería que pudieras ayudarme con el equipaje.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I needed us to be able to go to the airport together.	Necesitaba que pudiéramos ir al aeropuerto juntos.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was important that he could make the reservation.	Era importante que pudiera hacer la reservación.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped they could travel last week.	Esperaba que pudieran viajar la semana pasada.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted you to be able to order in Spanish.	Quería que pudieras pedir en español.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was good that she could try the new dish.	Era bueno que pudiera probar el plato nuevo.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I needed them to be able to come to the restaurant.	Necesitaba que pudieran venir al restaurante.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped he could pay the bill.	Esperaba que pudiera pagar la cuenta.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was necessary that we could eat together.	Era necesario que pudiéramos comer juntos.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted you to be able to cook for the family.	Quería que pudieras cocinar para la familia.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped he could fix the door.	Esperaba que pudiera arreglar la puerta.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I needed them to be able to come to the house.	Necesitaba que pudieran venir a la casa.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was important that we could eat together at home.	Era importante que pudiéramos comer juntos en casa.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted her to be able to help in the kitchen.	Quería que pudiera ayudar en la cocina.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped you could visit your family.	Esperaba que pudieras visitar a tu familia.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was good that they could spend time with the family.	Era bueno que pudieran pasar tiempo con la familia.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I needed him to be able to come to the party.	Necesitaba que pudiera venir a la fiesta.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted us to be able to celebrate together.	Quería que pudiéramos celebrar juntos.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was necessary that she could bring her children.	Era necesario que pudiera traer a sus hijos.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped you could take the dog to the park.	Esperaba que pudieras llevar al perro al parque.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted him to be able to feed the cat.	Quería que pudiera darle de comer al gato.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was important that we could take care of the pet.	Era importante que pudiéramos cuidar a la mascota.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped they could walk the dog.	Esperaba que pudieran pasear al perro.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted her to be able to play with the pet.	Quería que pudiera jugar con la mascota.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted you to be able to study Spanish.	Quería que pudieras estudiar español.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped he could pass the exam.	Esperaba que pudiera pasar el examen.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was necessary that we could study together.	Era necesario que pudiéramos estudiar juntos.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I needed you to be able to explain the lesson.	Necesitaba que pudieras explicar la lección.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was good that they could learn quickly.	Era bueno que pudieran aprender rápidamente.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted her to be able to finish the homework.	Quería que pudiera terminar la tarea.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped you could go to the doctor.	Esperaba que pudieras ir al médico.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I needed them to be able to go to the clinic.	Necesitaba que pudieran ir a la clínica.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was important that he could take the medicine.	Era importante que pudiera tomar la medicina.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted us to be able to walk for exercise.	Quería que pudiéramos caminar para hacer ejercicio.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped she could rest at home.	Esperaba que pudiera descansar en casa.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I needed you to be able to call the doctor.	Necesitaba que pudieras llamar al médico.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was necessary that they could go to the pharmacy.	Era necesario que pudieran ir a la farmacia.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was good that he could go to the dentist.	Era bueno que pudiera ir al dentista.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted us to be able to exercise together.	Quería que pudiéramos hacer ejercicio juntos.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped you could finish the report.	Esperaba que pudieras terminar el informe.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I needed him to be able to attend the meeting.	Necesitaba que pudiera asistir a la reunión.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was important that we could work together.	Era importante que pudiéramos trabajar juntos.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted them to be able to help with the project.	Quería que pudieran ayudar con el proyecto.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped she could work from home.	Esperaba que pudiera trabajar desde casa.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was necessary that you could finish the task on time.	Era necesario que pudieras terminar la tarea a tiempo.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted you to be able to play the guitar at church.	Quería que pudieras tocar la guitarra en la iglesia.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped he could sing at the concert.	Esperaba que pudiera cantar en el concierto.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I needed them to be able to practice the music.	Necesitaba que pudieran practicar la música.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was good that we could perform together.	Era bueno que pudiéramos actuar juntos.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted her to be able to play the piano at church.	Quería que pudiera tocar el piano en la iglesia.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped you could join the worship team.	Esperaba que pudieras unirte al equipo de adoración.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I needed him to be able to lead the music.	Necesitaba que pudiera dirigir la música.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was important that they could sing together.	Era importante que pudieran cantar juntos.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted us to be able to rehearse on Friday.	Quería que pudiéramos ensayar el viernes.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped she could memorize the Bible verse.	Esperaba que pudiera memorizar el versículo bíblico.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I needed you to be able to teach the Bible lesson.	Necesitaba que pudieras enseñar la lección bíblica.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was good that he could share the gospel.	Era bueno que pudiera compartir el evangelio.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted them to be able to join the Bible study.	Quería que pudieran unirse al estudio bíblico.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was necessary that we could go to the prayer meeting.	Era necesario que pudiéramos ir a la reunión de oración.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped she could volunteer at church.	Esperaba que pudiera ser voluntaria en la iglesia.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted you to be able to show me the city.	Quería que pudieras mostrarme la ciudad.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped they could visit the museum.	Esperaba que pudieran visitar el museo.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I needed him to be able to carry the suitcase.	Necesitaba que pudiera cargar la maleta.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was important that we could rent a car.	Era importante que pudiéramos alquilar un carro.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted her to be able to find the hotel.	Quería que pudiera encontrar el hotel.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped you could make the restaurant reservation.	Esperaba que pudieras hacer la reservación en el restaurante.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was good that he could recommend a dish.	Era bueno que pudiera recomendar un plato.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I needed them to be able to try the local food.	Necesitaba que pudieran probar la comida local.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was necessary that we could share the meal.	Era necesario que pudiéramos compartir la comida.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted her to be able to cook for us.	Quería que pudiera cocinar para nosotros.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped you could wash the dishes.	Esperaba que pudieras lavar los platos.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I needed him to be able to set the table.	Necesitaba que pudiera poner la mesa.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was important that we could clean the house together.	Era importante que pudiéramos limpiar la casa juntos.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted them to be able to help around the house.	Quería que pudieran ayudar en la casa.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped she could water the plants.	Esperaba que pudiera regar las plantas.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted you to be able to call your grandmother.	Quería que pudieras llamar a tu abuela.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped they could visit us this weekend.	Esperaba que pudieran visitarnos este fin de semana.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I needed him to be able to bring his brother.	Necesitaba que pudiera traer a su hermano.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was good that we could celebrate together.	Era bueno que pudiéramos celebrar juntos.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted her to be able to come to the party.	Quería que pudiera venir a la fiesta.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped you could take the cat to the vet.	Esperaba que pudieras llevar al gato al veterinario.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I needed them to be able to take care of the dog.	Necesitaba que pudieran cuidar al perro.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was important that he could give the dog a bath.	Era importante que pudiera bañar al perro.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted us to be able to walk the dog together.	Quería que pudiéramos pasear al perro juntos.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted you to be able to read the chapter tonight.	Quería que pudieras leer el capítulo esta noche.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I hoped they could work on the project together.	Esperaba que pudieran trabajar en el proyecto juntos.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I needed her to be able to answer the question.	Necesitaba que pudiera responder la pregunta.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	It was good that we could review the material together.	Era bueno que pudiéramos repasar el material juntos.	Poder Imperfect Subjunctive
+Basic	Poder::Imperfect::Subjunctive	I wanted him to be able to explain the lesson.	Quería que pudiera explicar la lección.	Poder Imperfect Subjunctive
+Basic	Poder::Present::Perfect	I have been able to read the Bible every day.	He podido leer la Biblia todos los días.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to pray this week?	¿Has podido orar esta semana?	Poder Present Perfect
+Basic	Poder::Present::Perfect	He has been able to come to Bible study.	Ha podido venir al estudio bíblico.	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to go to church together.	Hemos podido ir a la iglesia juntos.	Poder Present Perfect
+Basic	Poder::Present::Perfect	They have been able to help at church.	Han podido ayudar en la iglesia.	Poder Present Perfect
+Basic	Poder::Present::Perfect	I have been able to go to church every Sunday.	He podido ir a la iglesia todos los domingos.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to sing at church?	¿Has podido cantar en la iglesia?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to pray together.	Hemos podido orar juntos.	Poder Present Perfect
+Basic	Poder::Present::Perfect	She has been able to come to the prayer meeting.	Ha podido venir a la reunión de oración.	Poder Present Perfect
+Basic	Poder::Present::Perfect	They have been able to read the Bible story.	Han podido leer la historia bíblica.	Poder Present Perfect
+Basic	Poder::Present::Perfect	I have been able to travel this year.	He podido viajar este año.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to help me with the luggage?	¿Has podido ayudarme con el equipaje?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to go to the airport together.	Hemos podido ir al aeropuerto juntos.	Poder Present Perfect
+Basic	Poder::Present::Perfect	He has been able to make a hotel reservation.	Ha podido hacer una reservación de hotel.	Poder Present Perfect
+Basic	Poder::Present::Perfect	They have been able to travel this month.	Han podido viajar este mes.	Poder Present Perfect
+Basic	Poder::Present::Perfect	I have been able to order in Spanish at the restaurant.	He podido pedir en español en el restaurante.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to find the menu?	¿Has podido encontrar el menú?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to eat at the restaurant.	Hemos podido comer en el restaurante.	Poder Present Perfect
+Basic	Poder::Present::Perfect	She has been able to try the new dish.	Ha podido probar el plato nuevo.	Poder Present Perfect
+Basic	Poder::Present::Perfect	They have been able to order dessert.	Han podido pedir el postre.	Poder Present Perfect
+Basic	Poder::Present::Perfect	I have been able to cook dinner this week.	He podido cocinar la cena esta semana.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to clean the kitchen?	¿Has podido limpiar la cocina?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to eat together at home.	Hemos podido comer juntos en casa.	Poder Present Perfect
+Basic	Poder::Present::Perfect	He has been able to fix the door.	Ha podido arreglar la puerta.	Poder Present Perfect
+Basic	Poder::Present::Perfect	They have been able to come to the house.	Han podido venir a la casa.	Poder Present Perfect
+Basic	Poder::Present::Perfect	I have been able to visit my family.	He podido visitar a mi familia.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to come to the party?	¿Has podido venir a la fiesta?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to meet his parents.	Hemos podido conocer a sus padres.	Poder Present Perfect
+Basic	Poder::Present::Perfect	She has been able to bring her children.	Ha podido traer a sus hijos.	Poder Present Perfect
+Basic	Poder::Present::Perfect	They have been able to spend time with the family.	Han podido pasar tiempo con la familia.	Poder Present Perfect
+Basic	Poder::Present::Perfect	I have been able to take the dog to the park.	He podido llevar al perro al parque.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to feed the cat?	¿Has podido darle de comer al gato?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to take the dog for a walk.	Hemos podido sacar al perro a caminar.	Poder Present Perfect
+Basic	Poder::Present::Perfect	She has been able to play with the pet.	Ha podido jugar con la mascota.	Poder Present Perfect
+Basic	Poder::Present::Perfect	They have been able to take care of the dog this week.	Han podido cuidar al perro esta semana.	Poder Present Perfect
+Basic	Poder::Present::Perfect	I have been able to study Spanish this month.	He podido estudiar español este mes.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to finish the homework?	¿Has podido terminar la tarea?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to study together.	Hemos podido estudiar juntos.	Poder Present Perfect
+Basic	Poder::Present::Perfect	He has been able to pass the exam.	Ha podido pasar el examen.	Poder Present Perfect
+Basic	Poder::Present::Perfect	They have been able to learn the lesson.	Han podido aprender la lección.	Poder Present Perfect
+Basic	Poder::Present::Perfect	I have been able to go to the doctor.	He podido ir al médico.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to make a doctor's appointment?	¿Has podido hacer una cita médica?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to go to the clinic together.	Hemos podido ir a la clínica juntos.	Poder Present Perfect
+Basic	Poder::Present::Perfect	She has been able to rest at home.	Ha podido descansar en casa.	Poder Present Perfect
+Basic	Poder::Present::Perfect	I have been able to work from home this week.	He podido trabajar desde casa esta semana.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to finish the report?	¿Has podido terminar el informe?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to have the meeting.	Hemos podido tener la reunión.	Poder Present Perfect
+Basic	Poder::Present::Perfect	He has been able to help with the project.	Ha podido ayudar con el proyecto.	Poder Present Perfect
+Basic	Poder::Present::Perfect	They have been able to work together on the task.	Han podido trabajar juntos en la tarea.	Poder Present Perfect
+Basic	Poder::Present::Perfect	I have been able to play the guitar at church.	He podido tocar la guitarra en la iglesia.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to play the piano?	¿Has podido tocar el piano?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to practice the music together.	Hemos podido practicar la música juntos.	Poder Present Perfect
+Basic	Poder::Present::Perfect	She has been able to sing at the concert.	Ha podido cantar en el concierto.	Poder Present Perfect
+Basic	Poder::Present::Perfect	They have been able to play music at church.	Han podido tocar música en la iglesia.	Poder Present Perfect
+Basic	Poder::Present::Perfect	I have been able to memorize the Bible verse.	He podido memorizar el versículo bíblico.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to share the Bible story?	¿Has podido compartir la historia bíblica?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to go to church together this month.	Hemos podido ir a la iglesia juntos este mes.	Poder Present Perfect
+Basic	Poder::Present::Perfect	She has been able to lead the Bible study.	Ha podido dirigir el estudio bíblico.	Poder Present Perfect
+Basic	Poder::Present::Perfect	They have been able to pray for the sick.	Han podido orar por los enfermos.	Poder Present Perfect
+Basic	Poder::Present::Perfect	I have been able to volunteer at church.	He podido ser voluntario en la iglesia.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to teach the Bible lesson?	¿Has podido enseñar la lección bíblica?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to share the gospel.	Hemos podido compartir el evangelio.	Poder Present Perfect
+Basic	Poder::Present::Perfect	He has been able to book the flight online.	Ha podido reservar el vuelo en línea.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to find the hotel?	¿Has podido encontrar el hotel?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to rent a car at the airport.	Hemos podido alquilar un carro en el aeropuerto.	Poder Present Perfect
+Basic	Poder::Present::Perfect	He has been able to carry the suitcase.	Ha podido cargar la maleta.	Poder Present Perfect
+Basic	Poder::Present::Perfect	They have been able to visit the museum.	Han podido visitar el museo.	Poder Present Perfect
+Basic	Poder::Present::Perfect	I have been able to show you the city.	He podido mostrarte la ciudad.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to make a restaurant reservation?	¿Has podido hacer una reservación en el restaurante?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to share the meal.	Hemos podido compartir la comida.	Poder Present Perfect
+Basic	Poder::Present::Perfect	He has been able to pay the bill.	Ha podido pagar la cuenta.	Poder Present Perfect
+Basic	Poder::Present::Perfect	They have been able to try the local food.	Han podido probar la comida local.	Poder Present Perfect
+Basic	Poder::Present::Perfect	I have been able to cook rice and beans.	He podido cocinar arroz y frijoles.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to make the salad?	¿Has podido hacer la ensalada?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to prepare breakfast together.	Hemos podido preparar el desayuno juntos.	Poder Present Perfect
+Basic	Poder::Present::Perfect	She has been able to recommend a dish.	Ha podido recomendar un plato.	Poder Present Perfect
+Basic	Poder::Present::Perfect	They have been able to bring food to share.	Han podido traer comida para compartir.	Poder Present Perfect
+Basic	Poder::Present::Perfect	I have been able to wash the dishes.	He podido lavar los platos.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to set the table?	¿Has podido poner la mesa?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to clean the house together.	Hemos podido limpiar la casa juntos.	Poder Present Perfect
+Basic	Poder::Present::Perfect	He has been able to water the plants.	Ha podido regar las plantas.	Poder Present Perfect
+Basic	Poder::Present::Perfect	They have been able to help around the house.	Han podido ayudar en la casa.	Poder Present Perfect
+Basic	Poder::Present::Perfect	I have been able to call my grandmother.	He podido llamar a mi abuela.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to introduce me to your friend?	¿Has podido presentarme a tu amigo?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to celebrate together.	Hemos podido celebrar juntos.	Poder Present Perfect
+Basic	Poder::Present::Perfect	He has been able to bring his brother.	Ha podido traer a su hermano.	Poder Present Perfect
+Basic	Poder::Present::Perfect	They have been able to visit us this month.	Han podido visitarnos este mes.	Poder Present Perfect
+Basic	Poder::Present::Perfect	I have been able to give the dog a bath.	He podido bañar al perro.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to take the cat to the vet?	¿Has podido llevar al gato al veterinario?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to buy food for the dog.	Hemos podido comprar comida para el perro.	Poder Present Perfect
+Basic	Poder::Present::Perfect	I have been able to read the chapter.	He podido leer el capítulo.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to explain the lesson?	¿Has podido explicar la lección?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to review the material before the exam.	Hemos podido repasar el material antes del examen.	Poder Present Perfect
+Basic	Poder::Present::Perfect	She has been able to answer the question.	Ha podido responder la pregunta.	Poder Present Perfect
+Basic	Poder::Present::Perfect	They have been able to work on the project together.	Han podido trabajar en el proyecto juntos.	Poder Present Perfect
+Basic	Poder::Present::Perfect	I have been able to take the medicine.	He podido tomar la medicina.	Poder Present Perfect
+Basic	Poder::Present::Perfect	Have you been able to call the doctor?	¿Has podido llamar al médico?	Poder Present Perfect
+Basic	Poder::Present::Perfect	We have been able to walk together for exercise.	Hemos podido caminar juntos para hacer ejercicio.	Poder Present Perfect
+Basic	Poder::Present::Perfect	He has been able to go to the pharmacy.	Ha podido ir a la farmacia.	Poder Present Perfect
+Basic	Poder::Present::Perfect	They have been able to rest this weekend.	Han podido descansar este fin de semana.	Poder Present Perfect
+Basic	Poder::Past::Perfect	I had been able to read the Bible before the service.	Había podido leer la Biblia antes del servicio.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to pray that morning?	¿Habías podido orar esa mañana?	Poder Past Perfect
+Basic	Poder::Past::Perfect	He had been able to come to Bible study before.	Había podido venir al estudio bíblico antes.	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to go to church together.	Habíamos podido ir a la iglesia juntos.	Poder Past Perfect
+Basic	Poder::Past::Perfect	They had been able to help at church.	Habían podido ayudar en la iglesia.	Poder Past Perfect
+Basic	Poder::Past::Perfect	I had been able to go to church every Sunday.	Había podido ir a la iglesia todos los domingos.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to sing at church?	¿Habías podido cantar en la iglesia?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to pray together before.	Habíamos podido orar juntos antes.	Poder Past Perfect
+Basic	Poder::Past::Perfect	She had been able to come to the prayer meeting.	Había podido venir a la reunión de oración.	Poder Past Perfect
+Basic	Poder::Past::Perfect	They had been able to read the Bible story before the children arrived.	Habían podido leer la historia bíblica antes de que llegaran los niños.	Poder Past Perfect
+Basic	Poder::Past::Perfect	I had been able to travel before I got sick.	Había podido viajar antes de enfermarme.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to help me with the luggage?	¿Habías podido ayudarme con el equipaje?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to go to the airport together.	Habíamos podido ir al aeropuerto juntos.	Poder Past Perfect
+Basic	Poder::Past::Perfect	He had been able to make a hotel reservation.	Había podido hacer una reservación de hotel.	Poder Past Perfect
+Basic	Poder::Past::Perfect	They had been able to travel before the pandemic.	Habían podido viajar antes de la pandemia.	Poder Past Perfect
+Basic	Poder::Past::Perfect	I had been able to order in Spanish before moving here.	Había podido pedir en español antes de mudarme aquí.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to find the menu?	¿Habías podido encontrar el menú?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to eat at the restaurant before it closed.	Habíamos podido comer en el restaurante antes de que cerrara.	Poder Past Perfect
+Basic	Poder::Past::Perfect	She had been able to try the dish before it sold out.	Había podido probar el plato antes de que se agotara.	Poder Past Perfect
+Basic	Poder::Past::Perfect	They had been able to order before the kitchen closed.	Habían podido pedir antes de que cerrara la cocina.	Poder Past Perfect
+Basic	Poder::Past::Perfect	I had been able to cook dinner before you arrived.	Había podido cocinar la cena antes de que llegaras.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to clean the kitchen?	¿Habías podido limpiar la cocina?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to eat together at home.	Habíamos podido comer juntos en casa.	Poder Past Perfect
+Basic	Poder::Past::Perfect	He had been able to fix the door.	Había podido arreglar la puerta.	Poder Past Perfect
+Basic	Poder::Past::Perfect	They had been able to come to the house.	Habían podido venir a la casa.	Poder Past Perfect
+Basic	Poder::Past::Perfect	I had been able to visit my family before the trip.	Había podido visitar a mi familia antes del viaje.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to come to the party?	¿Habías podido venir a la fiesta?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to meet his parents before.	Habíamos podido conocer a sus padres antes.	Poder Past Perfect
+Basic	Poder::Past::Perfect	She had been able to bring her children.	Había podido traer a sus hijos.	Poder Past Perfect
+Basic	Poder::Past::Perfect	They had been able to spend time with the family.	Habían podido pasar tiempo con la familia.	Poder Past Perfect
+Basic	Poder::Past::Perfect	I had been able to take the dog to the park before it rained.	Había podido llevar al perro al parque antes de que lloviera.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to feed the cat?	¿Habías podido darle de comer al gato?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to take the dog for a walk.	Habíamos podido sacar al perro a caminar.	Poder Past Perfect
+Basic	Poder::Past::Perfect	She had been able to play with the pet.	Había podido jugar con la mascota.	Poder Past Perfect
+Basic	Poder::Past::Perfect	They had been able to take care of the dog.	Habían podido cuidar al perro.	Poder Past Perfect
+Basic	Poder::Past::Perfect	I had been able to study Spanish before the exam.	Había podido estudiar español antes del examen.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to finish the homework?	¿Habías podido terminar la tarea?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to study together.	Habíamos podido estudiar juntos.	Poder Past Perfect
+Basic	Poder::Past::Perfect	He had been able to pass the exam.	Había podido pasar el examen.	Poder Past Perfect
+Basic	Poder::Past::Perfect	They had been able to learn the lesson before the test.	Habían podido aprender la lección antes del examen.	Poder Past Perfect
+Basic	Poder::Past::Perfect	I had been able to go to the doctor.	Había podido ir al médico.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to make a doctor's appointment?	¿Habías podido hacer una cita médica?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to go to the clinic together.	Habíamos podido ir a la clínica juntos.	Poder Past Perfect
+Basic	Poder::Past::Perfect	She had been able to rest at home before going back to work.	Había podido descansar en casa antes de volver al trabajo.	Poder Past Perfect
+Basic	Poder::Past::Perfect	I had been able to work from home.	Había podido trabajar desde casa.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to finish the report?	¿Habías podido terminar el informe?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to have the meeting before the deadline.	Habíamos podido tener la reunión antes del plazo.	Poder Past Perfect
+Basic	Poder::Past::Perfect	He had been able to help with the project.	Había podido ayudar con el proyecto.	Poder Past Perfect
+Basic	Poder::Past::Perfect	They had been able to work together on the task.	Habían podido trabajar juntos en la tarea.	Poder Past Perfect
+Basic	Poder::Past::Perfect	I had been able to play the guitar at church before.	Había podido tocar la guitarra en la iglesia antes.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to play the piano?	¿Habías podido tocar el piano?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to practice the music together.	Habíamos podido practicar la música juntos.	Poder Past Perfect
+Basic	Poder::Past::Perfect	She had been able to sing at the concert.	Había podido cantar en el concierto.	Poder Past Perfect
+Basic	Poder::Past::Perfect	They had been able to play music at church.	Habían podido tocar música en la iglesia.	Poder Past Perfect
+Basic	Poder::Past::Perfect	I had been able to memorize the Bible verse.	Había podido memorizar el versículo bíblico.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to share the Bible story?	¿Habías podido compartir la historia bíblica?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to go to church together.	Habíamos podido ir a la iglesia juntos.	Poder Past Perfect
+Basic	Poder::Past::Perfect	She had been able to lead the Bible study before the pastor arrived.	Había podido dirigir el estudio bíblico antes de que llegara el pastor.	Poder Past Perfect
+Basic	Poder::Past::Perfect	They had been able to pray for the sick.	Habían podido orar por los enfermos.	Poder Past Perfect
+Basic	Poder::Past::Perfect	I had been able to volunteer at church.	Había podido ser voluntario en la iglesia.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to teach the Bible lesson?	¿Habías podido enseñar la lección bíblica?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to share the gospel.	Habíamos podido compartir el evangelio.	Poder Past Perfect
+Basic	Poder::Past::Perfect	He had been able to book the flight online.	Había podido reservar el vuelo en línea.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to find the hotel?	¿Habías podido encontrar el hotel?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to rent a car at the airport.	Habíamos podido alquilar un carro en el aeropuerto.	Poder Past Perfect
+Basic	Poder::Past::Perfect	He had been able to carry the suitcase.	Había podido cargar la maleta.	Poder Past Perfect
+Basic	Poder::Past::Perfect	They had been able to visit the museum before it closed.	Habían podido visitar el museo antes de que cerrara.	Poder Past Perfect
+Basic	Poder::Past::Perfect	I had been able to show you the city.	Había podido mostrarte la ciudad.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to make a restaurant reservation?	¿Habías podido hacer una reservación en el restaurante?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to share the meal.	Habíamos podido compartir la comida.	Poder Past Perfect
+Basic	Poder::Past::Perfect	He had been able to pay the bill.	Había podido pagar la cuenta.	Poder Past Perfect
+Basic	Poder::Past::Perfect	They had been able to try the local food.	Habían podido probar la comida local.	Poder Past Perfect
+Basic	Poder::Past::Perfect	I had been able to cook rice and beans.	Había podido cocinar arroz y frijoles.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to make the salad?	¿Habías podido hacer la ensalada?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to prepare breakfast together.	Habíamos podido preparar el desayuno juntos.	Poder Past Perfect
+Basic	Poder::Past::Perfect	She had been able to recommend a dish.	Había podido recomendar un plato.	Poder Past Perfect
+Basic	Poder::Past::Perfect	They had been able to bring food to share.	Habían podido traer comida para compartir.	Poder Past Perfect
+Basic	Poder::Past::Perfect	I had been able to wash the dishes.	Había podido lavar los platos.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to set the table?	¿Habías podido poner la mesa?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to clean the house together.	Habíamos podido limpiar la casa juntos.	Poder Past Perfect
+Basic	Poder::Past::Perfect	He had been able to water the plants.	Había podido regar las plantas.	Poder Past Perfect
+Basic	Poder::Past::Perfect	They had been able to help around the house.	Habían podido ayudar en la casa.	Poder Past Perfect
+Basic	Poder::Past::Perfect	I had been able to call my grandmother.	Había podido llamar a mi abuela.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to introduce me to your friend?	¿Habías podido presentarme a tu amigo?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to celebrate together.	Habíamos podido celebrar juntos.	Poder Past Perfect
+Basic	Poder::Past::Perfect	He had been able to bring his brother.	Había podido traer a su hermano.	Poder Past Perfect
+Basic	Poder::Past::Perfect	They had been able to visit us.	Habían podido visitarnos.	Poder Past Perfect
+Basic	Poder::Past::Perfect	I had been able to give the dog a bath.	Había podido bañar al perro.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to take the cat to the vet?	¿Habías podido llevar al gato al veterinario?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to buy food for the dog.	Habíamos podido comprar comida para el perro.	Poder Past Perfect
+Basic	Poder::Past::Perfect	I had been able to read the chapter before the meeting.	Había podido leer el capítulo antes de la reunión.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to explain the lesson?	¿Habías podido explicar la lección?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to review the material before the exam.	Habíamos podido repasar el material antes del examen.	Poder Past Perfect
+Basic	Poder::Past::Perfect	She had been able to answer the question.	Había podido responder la pregunta.	Poder Past Perfect
+Basic	Poder::Past::Perfect	They had been able to work on the project together.	Habían podido trabajar en el proyecto juntos.	Poder Past Perfect
+Basic	Poder::Past::Perfect	I had been able to take the medicine.	Había podido tomar la medicina.	Poder Past Perfect
+Basic	Poder::Past::Perfect	Had you been able to call the doctor?	¿Habías podido llamar al médico?	Poder Past Perfect
+Basic	Poder::Past::Perfect	We had been able to walk together for exercise.	Habíamos podido caminar juntos para hacer ejercicio.	Poder Past Perfect
+Basic	Poder::Past::Perfect	He had been able to go to the pharmacy.	Había podido ir a la farmacia.	Poder Past Perfect
+Basic	Poder::Past::Perfect	They had been able to rest on the weekend.	Habían podido descansar el fin de semana.	Poder Past Perfect

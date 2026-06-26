@@ -1,0 +1,887 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Tener Que::Present::Indicative	I have to read the Bible.	Tengo que leer la Biblia.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	I have to pray every morning.	Tengo que orar cada mañana.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	I have to go to church on Sunday.	Tengo que ir a la iglesia el domingo.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	I have to memorize the Bible verse.	Tengo que memorizar el versículo bíblico.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	I have to book the flight today.	Tengo que reservar el vuelo hoy.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	I have to carry my suitcase.	Tengo que cargar mi maleta.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	I have to order for the table.	Tengo que pedir para la mesa.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	I have to cook dinner tonight.	Tengo que cocinar la cena esta noche.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	I have to wash the dishes.	Tengo que lavar los platos.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	I have to call my family.	Tengo que llamar a mi familia.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	I have to take the dog to the park.	Tengo que llevar al perro al parque.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	I have to study for the exam.	Tengo que estudiar para el examen.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	I have to go to the doctor.	Tengo que ir al médico.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	I have to take the medicine.	Tengo que tomar la medicina.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	I have to finish the report.	Tengo que terminar el informe.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	I have to attend the meeting.	Tengo que asistir a la reunión.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	I have to play the guitar at church.	Tengo que tocar la guitarra en la iglesia.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	I have to rehearse the song.	Tengo que ensayar la canción.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	I have to feed the cat.	Tengo que darle de comer al gato.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	I have to visit my grandmother.	Tengo que visitar a mi abuela.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to pray before eating.	Tienes que orar antes de comer.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to come to Bible study.	Tienes que venir al estudio bíblico.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to share the Bible story.	Tienes que compartir la historia bíblica.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to pack your suitcase.	Tienes que empacar tu maleta.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to find the hotel.	Tienes que encontrar el hotel.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to try the local food.	Tienes que probar la comida local.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to pay the bill.	Tienes que pagar la cuenta.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to set the table.	Tienes que poner la mesa.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to clean the kitchen.	Tienes que limpiar la cocina.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to introduce me to your friend.	Tienes que presentarme a tu amigo.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to come to the party.	Tienes que venir a la fiesta.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to walk the dog.	Tienes que sacar al perro a caminar.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to take the cat to the vet.	Tienes que llevar al gato al veterinario.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to finish the homework tonight.	Tienes que terminar la tarea esta noche.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to study Spanish every day.	Tienes que estudiar español todos los días.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to make a doctor's appointment.	Tienes que hacer una cita médica.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to rest more.	Tienes que descansar más.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to finish the project on time.	Tienes que terminar el proyecto a tiempo.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to sing at church on Sunday.	Tienes que cantar en la iglesia el domingo.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	You have to practice the music.	Tienes que practicar la música.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	He has to read the Bible every day.	Tiene que leer la Biblia todos los días.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	She has to come to church.	Tiene que venir a la iglesia.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	He has to lead the Bible study.	Tiene que dirigir el estudio bíblico.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	She has to travel to the mission.	Tiene que viajar a la misión.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	He has to make the hotel reservation.	Tiene que hacer la reservación de hotel.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	She has to order for everyone.	Tiene que pedir para todos.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	He has to pay the restaurant bill.	Tiene que pagar la cuenta del restaurante.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	She has to cook for the family.	Tiene que cocinar para la familia.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	He has to fix the door.	Tiene que arreglar la puerta.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	She has to call her mother.	Tiene que llamar a su mamá.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	He has to come to the birthday party.	Tiene que venir a la fiesta de cumpleaños.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	She has to feed the dog.	Tiene que darle de comer al perro.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	He has to take the dog for a walk.	Tiene que sacar al perro a caminar.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	She has to pass the exam.	Tiene que pasar el examen.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	He has to explain the lesson.	Tiene que explicar la lección.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	She has to see the doctor today.	Tiene que ver al médico hoy.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	He has to take his medicine.	Tiene que tomar su medicina.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	She has to finish the report.	Tiene que terminar el informe.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	He has to join the worship team.	Tiene que unirse al equipo de adoración.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	She has to learn the song before Sunday.	Tiene que aprender la canción antes del domingo.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to read the Bible together.	Tenemos que leer la Biblia juntos.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to pray before the meeting.	Tenemos que orar antes de la reunión.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to go to church on Sunday.	Tenemos que ir a la iglesia el domingo.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to study the Bible verse together.	Tenemos que estudiar el versículo bíblico juntos.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to go to the airport early.	Tenemos que ir al aeropuerto temprano.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to rent a car for the trip.	Tenemos que alquilar un carro para el viaje.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to make a restaurant reservation.	Tenemos que hacer una reservación en el restaurante.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to prepare dinner together.	Tenemos que preparar la cena juntos.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to clean the house before the guests arrive.	Tenemos que limpiar la casa antes de que lleguen los invitados.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to visit our grandparents.	Tenemos que visitar a nuestros abuelos.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to celebrate together.	Tenemos que celebrar juntos.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to take care of the dog.	Tenemos que cuidar al perro.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to buy food for the cat.	Tenemos que comprar comida para el gato.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to study for the exam together.	Tenemos que estudiar para el examen juntos.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to exercise every day.	Tenemos que hacer ejercicio todos los días.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to finish the project on time.	Tenemos que terminar el proyecto a tiempo.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to have the meeting before Friday.	Tenemos que tener la reunión antes del viernes.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to rehearse before Sunday.	Tenemos que ensayar antes del domingo.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to practice the music together.	Tenemos que practicar la música juntos.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	We have to share the gospel with our neighbors.	Tenemos que compartir el evangelio con nuestros vecinos.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to read the Bible story to the children.	Tienen que leer la historia bíblica a los niños.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to come to church on time.	Tienen que llegar a la iglesia a tiempo.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to help at church.	Tienen que ayudar en la iglesia.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to travel next week.	Tienen que viajar la próxima semana.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to find the hotel.	Tienen que encontrar el hotel.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to try the local food.	Tienen que probar la comida local.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to bring food to share.	Tienen que traer comida para compartir.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to help around the house.	Tienen que ayudar en la casa.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to visit the family on Saturday.	Tienen que visitar a la familia el sábado.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to spend time with the children.	Tienen que pasar tiempo con los niños.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to take the dog to the vet.	Tienen que llevar al perro al veterinario.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to finish the school project.	Tienen que terminar el proyecto escolar.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to take the exam tomorrow.	Tienen que tomar el examen mañana.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to call the doctor.	Tienen que llamar al médico.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to rest this weekend.	Tienen que descansar este fin de semana.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to help with the task.	Tienen que ayudar con la tarea.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to attend the meeting.	Tienen que asistir a la reunión.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to perform at the concert.	Tienen que actuar en el concierto.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to sing at the church service.	Tienen que cantar en el servicio de la iglesia.	Tener Que Present Indicative
+Basic	Tener Que::Present::Indicative	They have to play music at church.	Tienen que tocar música en la iglesia.	Tener Que Present Indicative
+Basic	Tener Que::Preterit::Indicative	I had to read the Bible last night.	Tuve que leer la Biblia anoche.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	I had to pray alone this morning.	Tuve que orar solo esta mañana.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	I had to go to church early.	Tuve que ir a la iglesia temprano.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	I had to memorize the Bible verse quickly.	Tuve que memorizar el versículo bíblico rápidamente.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	I had to book the flight at the last minute.	Tuve que reservar el vuelo a último momento.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	I had to carry the suitcase by myself.	Tuve que cargar la maleta yo solo.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	I had to order in Spanish.	Tuve que pedir en español.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	I had to cook dinner by myself.	Tuve que cocinar la cena yo solo.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	I had to wash all the dishes.	Tuve que lavar todos los platos.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	I had to call my family.	Tuve que llamar a mi familia.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	I had to take the dog to the vet.	Tuve que llevar al perro al veterinario.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	I had to study all night for the exam.	Tuve que estudiar toda la noche para el examen.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	I had to go to the doctor.	Tuve que ir al médico.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	I had to take the medicine twice a day.	Tuve que tomar la medicina dos veces al día.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	I had to finish the report before Friday.	Tuve que terminar el informe antes del viernes.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	I had to attend two meetings today.	Tuve que asistir a dos reuniones hoy.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	I had to play the guitar at the last minute.	Tuve que tocar la guitarra a último momento.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	I had to rehearse the song three times.	Tuve que ensayar la canción tres veces.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	I had to feed the cat before leaving.	Tuve que darle de comer al gato antes de salir.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	I had to visit my grandmother in the hospital.	Tuve que visitar a mi abuela en el hospital.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	Did you have to pray alone?	¿Tuviste que orar solo?	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	Did you have to go to church by yourself?	¿Tuviste que ir a la iglesia solo?	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	Did you have to share the Bible story?	¿Tuviste que compartir la historia bíblica?	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	Did you have to travel alone?	¿Tuviste que viajar solo?	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	You had to find the hotel in the dark.	Tuviste que encontrar el hotel en la oscuridad.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	You had to pay the bill by yourself.	Tuviste que pagar la cuenta tú solo.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	Did you have to try the food?	¿Tuviste que probar la comida?	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	You had to set the table alone.	Tuviste que poner la mesa solo.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	You had to clean the whole house.	Tuviste que limpiar toda la casa.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	Did you have to call your family?	¿Tuviste que llamar a tu familia?	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	You had to go to the party alone.	Tuviste que ir a la fiesta solo.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	You had to walk the dog in the rain.	Tuviste que sacar al perro a caminar bajo la lluvia.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	Did you have to take the cat to the vet?	¿Tuviste que llevar al gato al veterinario?	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	You had to finish the homework early.	Tuviste que terminar la tarea temprano.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	Did you have to take the exam alone?	¿Tuviste que tomar el examen solo?	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	You had to go to the doctor yesterday.	Tuviste que ir al médico ayer.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	You had to rest all week.	Tuviste que descansar toda la semana.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	Did you have to finish the project alone?	¿Tuviste que terminar el proyecto solo?	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	You had to sing at the service alone.	Tuviste que cantar en el servicio solo.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	Did you have to rehearse on your own?	¿Tuviste que ensayar por tu cuenta?	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	He had to read the Bible for the sermon.	Tuvo que leer la Biblia para el sermón.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	She had to lead the Bible study.	Tuvo que dirigir el estudio bíblico.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	He had to go to church alone.	Tuvo que ir a la iglesia solo.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	She had to travel to the mission.	Tuvo que viajar a la misión.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	He had to make the reservation quickly.	Tuvo que hacer la reservación rápidamente.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	She had to order for everyone.	Tuvo que pedir para todos.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	He had to pay the restaurant bill.	Tuvo que pagar la cuenta del restaurante.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	She had to cook for the whole family.	Tuvo que cocinar para toda la familia.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	He had to fix the door himself.	Tuvo que arreglar la puerta él mismo.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	She had to call her mother urgently.	Tuvo que llamar a su mamá urgentemente.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	He had to come to the party early.	Tuvo que llegar a la fiesta temprano.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	She had to give the dog a bath.	Tuvo que bañar al perro.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	He had to take the dog for a walk in the rain.	Tuvo que sacar al perro a caminar bajo la lluvia.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	She had to take the exam twice.	Tuvo que tomar el examen dos veces.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	He had to explain the lesson again.	Tuvo que explicar la lección otra vez.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	She had to see the doctor right away.	Tuvo que ver al médico de inmediato.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	He had to take medicine every day.	Tuvo que tomar medicina todos los días.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	She had to finish the report overnight.	Tuvo que terminar el informe durante la noche.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	He had to learn the song in one day.	Tuvo que aprender la canción en un día.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	She had to play at the concert alone.	Tuvo que tocar en el concierto sola.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to read the Bible before the service.	Tuvimos que leer la Biblia antes del servicio.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to pray together before the trip.	Tuvimos que orar juntos antes del viaje.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to go to church early.	Tuvimos que ir a la iglesia temprano.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to go to the airport at midnight.	Tuvimos que ir al aeropuerto a medianoche.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to find a different hotel.	Tuvimos que encontrar un hotel diferente.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to change our reservation.	Tuvimos que cambiar nuestra reservación.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to share the meal.	Tuvimos que compartir la comida.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to cook for the whole church.	Tuvimos que cocinar para toda la iglesia.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to clean the house before the guests arrived.	Tuvimos que limpiar la casa antes de que llegaran los invitados.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to visit the grandmother in the hospital.	Tuvimos que visitar a la abuela en el hospital.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to celebrate without the whole family.	Tuvimos que celebrar sin toda la familia.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to take the dog to the vet urgently.	Tuvimos que llevar al perro al veterinario urgentemente.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to buy pet food at midnight.	Tuvimos que comprar comida para mascotas a medianoche.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to study all weekend for the exam.	Tuvimos que estudiar todo el fin de semana para el examen.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to exercise before work.	Tuvimos que hacer ejercicio antes del trabajo.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to finish the project early.	Tuvimos que terminar el proyecto temprano.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to have the meeting on Saturday.	Tuvimos que tener la reunión el sábado.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to rehearse three times.	Tuvimos que ensayar tres veces.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to practice all morning.	Tuvimos que practicar toda la mañana.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	We had to cancel the Bible study last week.	Tuvimos que cancelar el estudio bíblico la semana pasada.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to read the Bible story aloud.	Tuvieron que leer la historia bíblica en voz alta.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to go to church early.	Tuvieron que ir a la iglesia temprano.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to help set up the church.	Tuvieron que ayudar a preparar la iglesia.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to travel without luggage.	Tuvieron que viajar sin equipaje.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to find a new hotel.	Tuvieron que encontrar un nuevo hotel.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to eat at a different restaurant.	Tuvieron que comer en un restaurante diferente.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to bring food for everyone.	Tuvieron que traer comida para todos.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to clean the house in one day.	Tuvieron que limpiar la casa en un día.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to visit the grandparents over the weekend.	Tuvieron que visitar a los abuelos el fin de semana.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to take care of the children alone.	Tuvieron que cuidar a los niños solos.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to take the dog to the vet.	Tuvieron que llevar al perro al veterinario.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to take the exam the next day.	Tuvieron que tomar el examen al día siguiente.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to stay up to study.	Tuvieron que quedarse despiertos estudiando.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to call the doctor urgently.	Tuvieron que llamar al médico urgentemente.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to rest all week.	Tuvieron que descansar toda la semana.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to work overtime.	Tuvieron que trabajar horas extras.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to attend the meeting early.	Tuvieron que asistir a la reunión temprano.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to learn the song in one week.	Tuvieron que aprender la canción en una semana.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to perform without rehearsal.	Tuvieron que actuar sin ensayo.	Tener Que Preterit Indicative
+Basic	Tener Que::Preterit::Indicative	They had to play music at two services.	Tuvieron que tocar música en dos servicios.	Tener Que Preterit Indicative
+Basic	Tener Que::Imperfect::Indicative	I used to have to read the Bible before bed.	Tenía que leer la Biblia antes de dormir.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	I had to pray every morning.	Tenía que orar cada mañana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	I used to have to go to church every Sunday.	Tenía que ir a la iglesia todos los domingos.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	I had to memorize a Bible verse every week.	Tenía que memorizar un versículo bíblico cada semana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	I used to have to travel for work.	Tenía que viajar por trabajo.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	I had to carry the luggage myself.	Tenía que cargar el equipaje yo solo.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	I used to have to order in Spanish.	Tenía que pedir en español.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	I had to cook dinner every night.	Tenía que cocinar la cena cada noche.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	I used to have to wash the dishes every day.	Tenía que lavar los platos todos los días.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	I had to call my family every week.	Tenía que llamar a mi familia cada semana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	I used to have to walk the dog every morning.	Tenía que sacar al perro a caminar cada mañana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	I had to study for two hours every day.	Tenía que estudiar dos horas todos los días.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	I used to have to go to the doctor every month.	Tenía que ir al médico cada mes.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	I had to take the medicine every morning.	Tenía que tomar la medicina cada mañana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	I used to have to finish the reports on Friday.	Tenía que terminar los informes el viernes.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	I had to attend many meetings every week.	Tenía que asistir a muchas reuniones cada semana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	I used to have to play the guitar every Sunday.	Tenía que tocar la guitarra todos los domingos.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	I had to rehearse every Saturday.	Tenía que ensayar todos los sábados.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	I used to have to feed the cat twice a day.	Tenía que darle de comer al gato dos veces al día.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	I had to visit my grandmother every week.	Tenía que visitar a mi abuela cada semana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You had to pray every night.	Tenías que orar cada noche.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You used to have to go to Bible study every week.	Tenías que ir al estudio bíblico cada semana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You had to share the gospel at church.	Tenías que compartir el evangelio en la iglesia.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You used to have to travel every month.	Tenías que viajar cada mes.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You had to find the hotels yourself.	Tenías que encontrar los hoteles tú mismo.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You used to have to pay the bill every time.	Tenías que pagar la cuenta siempre.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You had to cook for everyone on weekends.	Tenías que cocinar para todos los fines de semana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You used to have to set the table every day.	Tenías que poner la mesa todos los días.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You had to clean the house on Saturdays.	Tenías que limpiar la casa los sábados.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You used to have to call your family every Sunday.	Tenías que llamar a tu familia todos los domingos.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You had to attend every church event.	Tenías que asistir a todos los eventos de la iglesia.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You used to have to take the dog to the park every day.	Tenías que llevar al perro al parque todos los días.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You had to take the cat to the vet regularly.	Tenías que llevar al gato al veterinario regularmente.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You used to have to study for hours every night.	Tenías que estudiar durante horas cada noche.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You had to take many exams.	Tenías que tomar muchos exámenes.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You used to have to go to the doctor often.	Tenías que ir al médico con frecuencia.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You had to rest every afternoon.	Tenías que descansar cada tarde.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You used to have to finish the projects on time.	Tenías que terminar los proyectos a tiempo.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You had to sing every Sunday at church.	Tenías que cantar todos los domingos en la iglesia.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	You used to have to practice the music every day.	Tenías que practicar la música todos los días.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	He used to have to read the Bible every morning.	Tenía que leer la Biblia cada mañana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	She had to lead the Bible study every week.	Tenía que dirigir el estudio bíblico cada semana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	He used to have to go to church early.	Tenía que ir a la iglesia temprano.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	She had to travel every month for the ministry.	Tenía que viajar cada mes para el ministerio.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	He used to have to make all the reservations.	Tenía que hacer todas las reservaciones.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	She had to order food for everyone.	Tenía que pedir la comida para todos.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	He used to have to pay the restaurant bill.	Tenía que pagar la cuenta del restaurante.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	She had to cook for the whole family.	Tenía que cocinar para toda la familia.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	He used to have to fix things around the house.	Tenía que arreglar cosas en la casa.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	She had to call her mother every day.	Tenía que llamar a su mamá todos los días.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	He used to have to come to every family event.	Tenía que venir a todos los eventos familiares.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	She had to feed the dog every morning.	Tenía que darle de comer al perro cada mañana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	He used to have to walk the dog before school.	Tenía que sacar al perro antes de ir a la escuela.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	She had to study every night for her classes.	Tenía que estudiar cada noche para sus clases.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	He used to have to explain the lessons.	Tenía que explicar las lecciones.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	She had to see the doctor every week.	Tenía que ver al médico cada semana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	He used to have to take medicine twice a day.	Tenía que tomar medicina dos veces al día.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	She had to submit reports every Friday.	Tenía que entregar informes todos los viernes.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	He used to have to sing at church every Sunday.	Tenía que cantar en la iglesia todos los domingos.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	She had to play the piano at every service.	Tenía que tocar el piano en cada servicio.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We used to have to read the Bible together every morning.	Teníamos que leer la Biblia juntos cada mañana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We had to pray together before every service.	Teníamos que orar juntos antes de cada servicio.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We used to have to go to church early on Sundays.	Teníamos que ir a la iglesia temprano los domingos.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We had to travel together for the ministry.	Teníamos que viajar juntos para el ministerio.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We used to have to book hotels in advance.	Teníamos que reservar hoteles con anticipación.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We had to make restaurant reservations every week.	Teníamos que hacer reservaciones en el restaurante cada semana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We used to have to share meals after church.	Teníamos que compartir comidas después de la iglesia.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We had to cook together for church events.	Teníamos que cocinar juntos para los eventos de la iglesia.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We used to have to clean the church every Saturday.	Teníamos que limpiar la iglesia todos los sábados.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We had to visit our grandparents every month.	Teníamos que visitar a nuestros abuelos cada mes.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We used to have to celebrate every anniversary.	Teníamos que celebrar cada aniversario.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We had to take the dog for walks twice a day.	Teníamos que sacar al perro a caminar dos veces al día.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We used to have to study together every evening.	Teníamos que estudiar juntos cada tarde.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We had to review the material before every class.	Teníamos que repasar el material antes de cada clase.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We used to have to exercise every morning.	Teníamos que hacer ejercicio cada mañana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We had to finish the work before Friday.	Teníamos que terminar el trabajo antes del viernes.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We used to have to meet every Monday.	Teníamos que reunirnos todos los lunes.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We had to practice music every Saturday.	Teníamos que practicar música todos los sábados.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We used to have to rehearse before every Sunday.	Teníamos que ensayar antes de cada domingo.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	We had to pray for the congregation every week.	Teníamos que orar por la congregación cada semana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They used to have to read the Bible together.	Tenían que leer la Biblia juntos.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They had to help at church every Sunday.	Tenían que ayudar en la iglesia todos los domingos.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They used to have to volunteer at church.	Tenían que ser voluntarios en la iglesia.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They had to travel to the mission every year.	Tenían que viajar a la misión cada año.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They used to have to find their own transportation.	Tenían que conseguir su propio transporte.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They had to try new food on every trip.	Tenían que probar comida nueva en cada viaje.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They used to have to bring food to church every week.	Tenían que traer comida a la iglesia cada semana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They had to help clean the house.	Tenían que ayudar a limpiar la casa.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They used to have to visit the grandparents.	Tenían que visitar a los abuelos.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They had to spend time with the family every weekend.	Tenían que pasar tiempo con la familia cada fin de semana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They used to have to take care of the pets.	Tenían que cuidar a las mascotas.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They had to study every night for the class.	Tenían que estudiar cada noche para la clase.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They used to have to take exams every semester.	Tenían que tomar exámenes cada semestre.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They had to call the doctor often.	Tenían que llamar al médico con frecuencia.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They used to have to rest on weekends.	Tenían que descansar los fines de semana.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They had to work long hours.	Tenían que trabajar muchas horas.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They used to have to attend weekly meetings.	Tenían que asistir a reuniones semanales.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They had to play music at every church service.	Tenían que tocar música en cada servicio de la iglesia.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They used to have to practice together on Saturdays.	Tenían que practicar juntos los sábados.	Tener Que Imperfect Indicative
+Basic	Tener Que::Imperfect::Indicative	They had to sing for every special event.	Tenían que cantar en cada evento especial.	Tener Que Imperfect Indicative
+Basic	Tener Que::Future::Indicative	I will have to read the Bible before the sermon.	Tendré que leer la Biblia antes del sermón.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	I will have to pray for this situation.	Tendré que orar por esta situación.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	I will have to go to church early on Sunday.	Tendré que ir a la iglesia temprano el domingo.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	I will have to memorize the Bible verse this week.	Tendré que memorizar el versículo bíblico esta semana.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	I will have to book the flight soon.	Tendré que reservar el vuelo pronto.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	I will have to carry my own suitcase.	Tendré que cargar mi propia maleta.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	I will have to order in Spanish.	Tendré que pedir en español.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	I will have to cook dinner tomorrow.	Tendré que cocinar la cena mañana.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	I will have to wash the dishes tonight.	Tendré que lavar los platos esta noche.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	I will have to call my family this weekend.	Tendré que llamar a mi familia este fin de semana.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	I will have to take the dog to the park tomorrow.	Tendré que llevar al perro al parque mañana.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	I will have to study all night for the exam.	Tendré que estudiar toda la noche para el examen.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	I will have to go to the doctor next week.	Tendré que ir al médico la próxima semana.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	I will have to take the medicine every day.	Tendré que tomar la medicina todos los días.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	I will have to finish the report before Monday.	Tendré que terminar el informe antes del lunes.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	I will have to attend the meeting on Thursday.	Tendré que asistir a la reunión el jueves.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	I will have to play the guitar this Sunday.	Tendré que tocar la guitarra este domingo.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	I will have to rehearse more before the concert.	Tendré que ensayar más antes del concierto.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	I will have to feed the cat before leaving.	Tendré que darle de comer al gato antes de salir.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	I will have to visit my grandmother soon.	Tendré que visitar a mi abuela pronto.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to pray more if you want to grow.	Tendrás que orar más si quieres crecer.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to come to Bible study next week.	Tendrás que venir al estudio bíblico la próxima semana.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to share the Bible story on Sunday.	Tendrás que compartir la historia bíblica el domingo.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to travel for the mission.	Tendrás que viajar para la misión.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to find the hotel yourself.	Tendrás que encontrar el hotel tú mismo.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to pay the bill this time.	Tendrás que pagar la cuenta esta vez.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to try the local food.	Tendrás que probar la comida local.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to set the table for dinner.	Tendrás que poner la mesa para la cena.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to clean the kitchen after cooking.	Tendrás que limpiar la cocina después de cocinar.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to call your family this week.	Tendrás que llamar a tu familia esta semana.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to come to the party.	Tendrás que venir a la fiesta.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to walk the dog every morning.	Tendrás que sacar al perro a caminar cada mañana.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to take the cat to the vet soon.	Tendrás que llevar al gato al veterinario pronto.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to finish the homework tonight.	Tendrás que terminar la tarea esta noche.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to study more for the exam.	Tendrás que estudiar más para el examen.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to go to the doctor soon.	Tendrás que ir al médico pronto.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to rest this weekend.	Tendrás que descansar este fin de semana.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to finish the project on time.	Tendrás que terminar el proyecto a tiempo.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to sing at church next Sunday.	Tendrás que cantar en la iglesia el próximo domingo.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	You will have to practice more before the performance.	Tendrás que practicar más antes de la presentación.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	He will have to read the Bible for the class.	Tendrá que leer la Biblia para la clase.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	She will have to lead the Bible study next week.	Tendrá que dirigir el estudio bíblico la próxima semana.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	He will have to go to church early this Sunday.	Tendrá que ir a la iglesia temprano este domingo.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	She will have to travel to the mission next month.	Tendrá que viajar a la misión el próximo mes.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	He will have to make the reservation this week.	Tendrá que hacer la reservación esta semana.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	She will have to order for everyone.	Tendrá que pedir para todos.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	He will have to pay the bill tonight.	Tendrá que pagar la cuenta esta noche.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	She will have to cook for the whole family.	Tendrá que cocinar para toda la familia.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	He will have to fix the door before winter.	Tendrá que arreglar la puerta antes del invierno.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	She will have to call her mother today.	Tendrá que llamar a su mamá hoy.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	He will have to come to the birthday party.	Tendrá que venir a la fiesta de cumpleaños.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	She will have to take the dog for a walk.	Tendrá que sacar al perro a caminar.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	He will have to take the dog to the vet.	Tendrá que llevar al perro al veterinario.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	She will have to take the exam again.	Tendrá que tomar el examen otra vez.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	He will have to explain the lesson differently.	Tendrá que explicar la lección de otra manera.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	She will have to see the doctor this week.	Tendrá que ver al médico esta semana.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	He will have to take medicine for a month.	Tendrá que tomar medicina por un mes.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	She will have to finish the report today.	Tendrá que terminar el informe hoy.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	He will have to join the worship team soon.	Tendrá que unirse al equipo de adoración pronto.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	She will have to learn the song before Sunday.	Tendrá que aprender la canción antes del domingo.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to read the Bible before the service.	Tendremos que leer la Biblia antes del servicio.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to pray together before the trip.	Tendremos que orar juntos antes del viaje.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to go to church early next Sunday.	Tendremos que ir a la iglesia temprano el próximo domingo.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to go to the airport at six in the morning.	Tendremos que ir al aeropuerto a las seis de la mañana.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to find a hotel.	Tendremos que encontrar un hotel.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to make a restaurant reservation.	Tendremos que hacer una reservación en el restaurante.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to share the meal.	Tendremos que compartir la comida.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to prepare dinner together.	Tendremos que preparar la cena juntos.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to clean the house before the party.	Tendremos que limpiar la casa antes de la fiesta.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to visit our grandparents this month.	Tendremos que visitar a nuestros abuelos este mes.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to celebrate together.	Tendremos que celebrar juntos.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to take the dog to the vet.	Tendremos que llevar al perro al veterinario.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to buy food for the cat.	Tendremos que comprar comida para el gato.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to study together for the exam.	Tendremos que estudiar juntos para el examen.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to exercise more this year.	Tendremos que hacer más ejercicio este año.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to finish the project by next week.	Tendremos que terminar el proyecto para la próxima semana.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to have the meeting before Friday.	Tendremos que tener la reunión antes del viernes.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to rehearse before Sunday.	Tendremos que ensayar antes del domingo.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to practice the music more.	Tendremos que practicar más la música.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	We will have to share the gospel with our neighbors.	Tendremos que compartir el evangelio con nuestros vecinos.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to read the Bible story to the children.	Tendrán que leer la historia bíblica a los niños.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to come to church early.	Tendrán que llegar a la iglesia temprano.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to help set up the church.	Tendrán que ayudar a preparar la iglesia.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to travel next month.	Tendrán que viajar el próximo mes.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to find a new hotel.	Tendrán que encontrar un nuevo hotel.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to try the local food.	Tendrán que probar la comida local.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to bring food to share.	Tendrán que traer comida para compartir.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to help clean the house.	Tendrán que ayudar a limpiar la casa.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to visit the family this weekend.	Tendrán que visitar a la familia este fin de semana.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to spend more time with the children.	Tendrán que pasar más tiempo con los niños.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to take the dog to the vet.	Tendrán que llevar al perro al veterinario.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to finish the school project by Friday.	Tendrán que terminar el proyecto escolar para el viernes.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to take the exam tomorrow.	Tendrán que tomar el examen mañana.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to call the doctor.	Tendrán que llamar al médico.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to rest this weekend.	Tendrán que descansar este fin de semana.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to help with the task.	Tendrán que ayudar con la tarea.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to attend the meeting.	Tendrán que asistir a la reunión.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to perform at the concert.	Tendrán que actuar en el concierto.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to sing at the church service.	Tendrán que cantar en el servicio de la iglesia.	Tener Que Future Indicative
+Basic	Tener Que::Future::Indicative	They will have to play music at the event.	Tendrán que tocar música en el evento.	Tener Que Future Indicative
+Basic	Tener Que::Conditional	I would have to read the Bible more carefully.	Tendría que leer la Biblia con más cuidado.	Tener Que Conditional
+Basic	Tener Que::Conditional	I would have to pray more if I want to see results.	Tendría que orar más si quiero ver resultados.	Tener Que Conditional
+Basic	Tener Que::Conditional	I would have to go to church every Sunday.	Tendría que ir a la iglesia todos los domingos.	Tener Que Conditional
+Basic	Tener Que::Conditional	I would have to memorize more Bible verses.	Tendría que memorizar más versículos bíblicos.	Tener Que Conditional
+Basic	Tener Que::Conditional	I would have to book the flight earlier.	Tendría que reservar el vuelo más temprano.	Tener Que Conditional
+Basic	Tener Que::Conditional	I would have to carry lighter luggage.	Tendría que cargar equipaje más ligero.	Tener Que Conditional
+Basic	Tener Que::Conditional	I would have to order in Spanish to practice.	Tendría que pedir en español para practicar.	Tener Que Conditional
+Basic	Tener Que::Conditional	I would have to cook at home more often.	Tendría que cocinar en casa más seguido.	Tener Que Conditional
+Basic	Tener Que::Conditional	I would have to wash the dishes every day.	Tendría que lavar los platos todos los días.	Tener Que Conditional
+Basic	Tener Que::Conditional	I would have to call my family more often.	Tendría que llamar a mi familia más seguido.	Tener Que Conditional
+Basic	Tener Que::Conditional	I would have to walk the dog every day.	Tendría que sacar al perro a caminar todos los días.	Tener Que Conditional
+Basic	Tener Que::Conditional	I would have to study harder to pass the exam.	Tendría que estudiar más para pasar el examen.	Tener Que Conditional
+Basic	Tener Que::Conditional	I would have to go to the doctor more often.	Tendría que ir al médico más seguido.	Tener Que Conditional
+Basic	Tener Que::Conditional	I would have to take the medicine as prescribed.	Tendría que tomar la medicina según lo indicado.	Tener Que Conditional
+Basic	Tener Que::Conditional	I would have to finish the reports on time.	Tendría que terminar los informes a tiempo.	Tener Que Conditional
+Basic	Tener Que::Conditional	I would have to attend every meeting.	Tendría que asistir a todas las reuniones.	Tener Que Conditional
+Basic	Tener Que::Conditional	I would have to practice the guitar more.	Tendría que practicar más la guitarra.	Tener Que Conditional
+Basic	Tener Que::Conditional	I would have to rehearse before every service.	Tendría que ensayar antes de cada servicio.	Tener Que Conditional
+Basic	Tener Que::Conditional	I would have to feed the cat twice a day.	Tendría que darle de comer al gato dos veces al día.	Tener Que Conditional
+Basic	Tener Que::Conditional	I would have to visit my grandmother every week.	Tendría que visitar a mi abuela cada semana.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to pray every day.	Tendrías que orar todos los días.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to come to Bible study.	Tendrías que venir al estudio bíblico.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to share the gospel more.	Tendrías que compartir el evangelio más.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to travel light.	Tendrías que viajar ligero.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to book the hotel in advance.	Tendrías que reservar el hotel con anticipación.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to pay for dinner.	Tendrías que pagar la cena.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to try the local dishes.	Tendrías que probar los platos locales.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to set the table before guests arrive.	Tendrías que poner la mesa antes de que lleguen los invitados.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to clean the house more often.	Tendrías que limpiar la casa más seguido.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to call your grandmother.	Tendrías que llamar a tu abuela.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to invite more friends to church.	Tendrías que invitar a más amigos a la iglesia.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to walk the dog more often.	Tendrías que sacar al perro a caminar más seguido.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to take the cat to the vet.	Tendrías que llevar al gato al veterinario.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to study more to pass.	Tendrías que estudiar más para pasar.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to ask the teacher.	Tendrías que preguntarle al maestro.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to see the doctor.	Tendrías que ver al médico.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to rest if you're tired.	Tendrías que descansar si estás cansado.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to work harder.	Tendrías que trabajar más duro.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to sing more to improve.	Tendrías que cantar más para mejorar.	Tener Que Conditional
+Basic	Tener Que::Conditional	You would have to practice every day to learn the song.	Tendrías que practicar todos los días para aprender la canción.	Tener Que Conditional
+Basic	Tener Que::Conditional	He would have to read the whole Bible.	Tendría que leer toda la Biblia.	Tener Que Conditional
+Basic	Tener Que::Conditional	She would have to lead the Bible study.	Tendría que dirigir el estudio bíblico.	Tener Que Conditional
+Basic	Tener Que::Conditional	He would have to go to church every Sunday.	Tendría que ir a la iglesia todos los domingos.	Tener Que Conditional
+Basic	Tener Que::Conditional	She would have to travel to the mission.	Tendría que viajar a la misión.	Tener Que Conditional
+Basic	Tener Que::Conditional	He would have to make the reservation in advance.	Tendría que hacer la reservación con anticipación.	Tener Que Conditional
+Basic	Tener Que::Conditional	She would have to order for everyone at the table.	Tendría que pedir para todos en la mesa.	Tener Que Conditional
+Basic	Tener Que::Conditional	He would have to pay for the meal.	Tendría que pagar la comida.	Tener Que Conditional
+Basic	Tener Que::Conditional	She would have to cook for the whole family.	Tendría que cocinar para toda la familia.	Tener Que Conditional
+Basic	Tener Que::Conditional	He would have to fix the whole house.	Tendría que arreglar toda la casa.	Tener Que Conditional
+Basic	Tener Que::Conditional	She would have to call her mother every day.	Tendría que llamar a su mamá todos los días.	Tener Que Conditional
+Basic	Tener Que::Conditional	He would have to come to every family event.	Tendría que venir a todos los eventos familiares.	Tener Que Conditional
+Basic	Tener Que::Conditional	She would have to feed the dog every morning.	Tendría que darle de comer al perro cada mañana.	Tener Que Conditional
+Basic	Tener Que::Conditional	He would have to walk the dog twice a day.	Tendría que sacar al perro a caminar dos veces al día.	Tener Que Conditional
+Basic	Tener Que::Conditional	She would have to study harder to pass.	Tendría que estudiar más para pasar.	Tener Que Conditional
+Basic	Tener Que::Conditional	He would have to explain the lesson clearly.	Tendría que explicar la lección claramente.	Tener Que Conditional
+Basic	Tener Que::Conditional	She would have to see the doctor regularly.	Tendría que ver al médico regularmente.	Tener Que Conditional
+Basic	Tener Que::Conditional	He would have to take medicine for his health.	Tendría que tomar medicina para su salud.	Tener Que Conditional
+Basic	Tener Que::Conditional	She would have to submit the report on time.	Tendría que entregar el informe a tiempo.	Tener Que Conditional
+Basic	Tener Que::Conditional	He would have to join the choir.	Tendría que unirse al coro.	Tener Que Conditional
+Basic	Tener Que::Conditional	She would have to practice the piano more.	Tendría que practicar más el piano.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to read the Bible together.	Tendríamos que leer la Biblia juntos.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to pray before every meal.	Tendríamos que orar antes de cada comida.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to go to church together.	Tendríamos que ir a la iglesia juntos.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to go to the airport very early.	Tendríamos que ir al aeropuerto muy temprano.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to find a different hotel.	Tendríamos que encontrar un hotel diferente.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to make a restaurant reservation in advance.	Tendríamos que hacer una reservación en el restaurante con anticipación.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to share the meal.	Tendríamos que compartir la comida.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to cook at home more.	Tendríamos que cocinar en casa más.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to clean the house before moving.	Tendríamos que limpiar la casa antes de mudarnos.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to visit our grandparents more often.	Tendríamos que visitar a nuestros abuelos más seguido.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to celebrate more together.	Tendríamos que celebrar más juntos.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to take better care of the dog.	Tendríamos que cuidar mejor al perro.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to study more to improve.	Tendríamos que estudiar más para mejorar.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to review the material before the exam.	Tendríamos que repasar el material antes del examen.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to exercise together more often.	Tendríamos que hacer ejercicio juntos más seguido.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to finish the project before the deadline.	Tendríamos que terminar el proyecto antes del plazo.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to have more meetings.	Tendríamos que tener más reuniones.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to rehearse more before Sunday.	Tendríamos que ensayar más antes del domingo.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to practice the music together.	Tendríamos que practicar la música juntos.	Tener Que Conditional
+Basic	Tener Que::Conditional	We would have to share the gospel with more people.	Tendríamos que compartir el evangelio con más personas.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to read the Bible more often.	Tendrían que leer la Biblia más seguido.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to help at church more.	Tendrían que ayudar más en la iglesia.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to volunteer more often.	Tendrían que ser voluntarios más seguido.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to travel by bus.	Tendrían que viajar en autobús.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to find cheaper hotels.	Tendrían que encontrar hoteles más baratos.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to try the food before ordering more.	Tendrían que probar la comida antes de pedir más.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to bring more food to share.	Tendrían que traer más comida para compartir.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to help more around the house.	Tendrían que ayudar más en la casa.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to visit the family more often.	Tendrían que visitar a la familia más seguido.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to spend more time with the children.	Tendrían que pasar más tiempo con los niños.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to take better care of the pets.	Tendrían que cuidar mejor a las mascotas.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to study harder to improve.	Tendrían que estudiar más para mejorar.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to take more exams to graduate.	Tendrían que tomar más exámenes para graduarse.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to see the doctor regularly.	Tendrían que ver al médico regularmente.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to rest more to feel better.	Tendrían que descansar más para sentirse mejor.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to work harder.	Tendrían que trabajar más duro.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to attend more training sessions.	Tendrían que asistir a más capacitaciones.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to perform better at the concert.	Tendrían que actuar mejor en el concierto.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to sing more to improve.	Tendrían que cantar más para mejorar.	Tener Que Conditional
+Basic	Tener Que::Conditional	They would have to practice music every day.	Tendrían que practicar música todos los días.	Tener Que Conditional
+Basic	Tener Que::Present::Subjunctive	It's good that I have to read the Bible.	Es bueno que tenga que leer la Biblia.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that you have to pray.	Es bueno que tengas que orar.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's a shame that he has to miss church.	Es una pena que tenga que perderse la iglesia.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I hope she doesn't have to miss Bible study.	Espero que no tenga que perderse el estudio bíblico.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's normal that we have to memorize Bible verses.	Es normal que tengamos que memorizar versículos bíblicos.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I don't want them to have to travel alone.	No quiero que tengan que viajar solos.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that she has to carry light luggage.	Es bueno que tenga que cargar equipaje ligero.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's a shame that he has to pay everything.	Es una pena que tenga que pagar todo.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's strange that we have to order in advance.	Es raro que tengamos que pedir con anticipación.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I hope you don't have to cook alone tonight.	Espero que no tengas que cocinar solo esta noche.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's unfair that he has to wash all the dishes.	Es injusto que tenga que lavar todos los platos.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that she has to call her family.	Es bueno que tenga que llamar a su familia.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I'm glad that we have to care for the dog together.	Me alegra que tengamos que cuidar al perro juntos.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's a shame that they have to take the cat to the vet.	Es una pena que tengan que llevar al gato al veterinario.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I don't like that you have to study so much.	No me gusta que tengas que estudiar tanto.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that he has to review the material.	Es bueno que tenga que repasar el material.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's a shame that she has to go to the doctor.	Es una pena que tenga que ir al médico.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I'm glad that we have to exercise together.	Me alegra que tengamos que hacer ejercicio juntos.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's unfair that they have to work overtime.	Es injusto que tengan que trabajar horas extras.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that he has to attend the meetings.	Es bueno que tenga que asistir a las reuniones.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I hope I don't have to sing alone.	Ojalá que no tenga que cantar solo.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's normal that she has to rehearse before the service.	Es normal que tenga que ensayar antes del servicio.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I'm glad that we have to practice together.	Me alegra que tengamos que practicar juntos.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's a shame that they have to leave the church early.	Es una pena que tengan que salir de la iglesia temprano.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that you have to share the Bible story.	Es bueno que tengas que compartir la historia bíblica.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I don't want you to have to pray alone.	No quiero que tengas que orar solo.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I'm glad that he has to read the Bible for the sermon.	Me alegra que tenga que leer la Biblia para el sermón.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's strange that she has to lead the study alone.	Es raro que tenga que dirigir el estudio sola.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's a shame that we have to cancel the Bible study.	Es una pena que tengamos que cancelar el estudio bíblico.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I hope they don't have to travel during the holidays.	Espero que no tengan que viajar durante las fiestas.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that he has to book the hotel in advance.	Es bueno que tenga que reservar el hotel con anticipación.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I don't like that she has to order alone.	No me gusta que tenga que pedir sola.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's unfair that we have to pay the whole bill.	Es injusto que tengamos que pagar toda la cuenta.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I'm glad that they have to share the food.	Me alegra que tengan que compartir la comida.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that you have to cook at home more.	Es bueno que tengas que cocinar en casa más.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's normal that he has to fix things at home.	Es normal que tenga que arreglar cosas en casa.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's a shame that she has to visit the hospital.	Es una pena que tenga que visitar el hospital.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I hope we don't have to celebrate without them.	Espero que no tengamos que celebrar sin ellos.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I don't like that they have to miss the party.	No me gusta que tengan que perderse la fiesta.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that you have to walk the dog every day.	Es bueno que tengas que sacar al perro a caminar todos los días.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's strange that he has to take the cat to the vet every month.	Es raro que tenga que llevar al gato al veterinario cada mes.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's a shame that she has to study alone.	Es una pena que tenga que estudiar sola.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I'm glad that we have to review together.	Me alegra que tengamos que repasar juntos.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's unfair that they have to take the exam twice.	Es injusto que tengan que tomar el examen dos veces.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that he has to see the doctor regularly.	Es bueno que tenga que ver al médico regularmente.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I don't want her to have to take so much medicine.	No quiero que tenga que tomar tanta medicina.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's normal that we have to rest after work.	Es normal que tengamos que descansar después del trabajo.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I'm glad that they have to work together.	Me alegra que tengan que trabajar juntos.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's a shame that he has to attend so many meetings.	Es una pena que tenga que asistir a tantas reuniones.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that she has to join the worship team.	Es bueno que tenga que unirse al equipo de adoración.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I hope we don't have to rehearse without the full team.	Espero que no tengamos que ensayar sin el equipo completo.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that they have to practice every week.	Es bueno que tengan que practicar cada semana.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I don't like that he has to play alone.	No me gusta que tenga que tocar solo.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's normal that she has to learn the music before Sunday.	Es normal que tenga que aprender la música antes del domingo.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I'm glad that we have to serve at church together.	Me alegra que tengamos que servir en la iglesia juntos.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's a shame that they have to take the dog to the vet again.	Es una pena que tengan que llevar al perro al veterinario otra vez.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that you have to visit your grandmother.	Es bueno que tengas que visitar a tu abuela.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I don't want him to have to finish the project alone.	No quiero que tenga que terminar el proyecto solo.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's unfair that she has to do everything herself.	Es injusto que tenga que hacer todo ella sola.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I hope they don't have to miss the concert.	Espero que no tengan que perderse el concierto.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's strange that he has to sing alone at the service.	Es raro que tenga que cantar solo en el servicio.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I'm glad that we have to play music together at church.	Me alegra que tengamos que tocar música juntos en la iglesia.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that you have to share the gospel with your neighbors.	Es bueno que tengas que compartir el evangelio con tus vecinos.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I don't like that they have to leave so early.	No me gusta que tengan que irse tan temprano.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that we have to help the congregation.	Es bueno que tengamos que ayudar a la congregación.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I hope she doesn't have to miss the family gathering.	Espero que no tenga que perderse la reunión familiar.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's normal that he has to work on weekends sometimes.	Es normal que tenga que trabajar los fines de semana a veces.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's a shame that she has to go to the hospital again.	Es una pena que tenga que ir al hospital otra vez.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I'm glad that you have to cook for the church event.	Me alegra que tengas que cocinar para el evento de la iglesia.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that we have to memorize Scripture together.	Es bueno que tengamos que memorizar las Escrituras juntos.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I don't want them to have to clean the church alone.	No quiero que tengan que limpiar la iglesia solos.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that he has to take the dog for a walk.	Es bueno que tenga que sacar al perro a caminar.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's a shame that she has to take the exam again.	Es una pena que tenga que tomar el examen otra vez.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I don't like that we have to cancel the trip.	No me gusta que tengamos que cancelar el viaje.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's unfair that they have to do all the work.	Es injusto que tengan que hacer todo el trabajo.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I'm glad that he has to join the choir.	Me alegra que tenga que unirse al coro.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's normal that she has to practice before the concert.	Es normal que tenga que practicar antes del concierto.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I hope we don't have to miss the Sunday service.	Espero que no tengamos que perdernos el servicio del domingo.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that they have to serve in the community.	Es bueno que tengan que servir en la comunidad.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's a shame that he has to leave the Bible study early.	Es una pena que tenga que salir del estudio bíblico temprano.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I don't want her to have to go to the doctor alone.	No quiero que tenga que ir al médico sola.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's strange that they have to meet on Sundays.	Es raro que tengan que reunirse los domingos.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I'm glad that you have to learn the song.	Me alegra que tengas que aprender la canción.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that we have to spend time in prayer.	Es bueno que tengamos que pasar tiempo en oración.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I don't like that he has to be the only one working.	No me gusta que tenga que ser el único que trabaja.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's unfair that she has to miss the music rehearsal.	Es injusto que tenga que perderse el ensayo musical.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I hope they don't have to work during the holidays.	Espero que no tengan que trabajar durante las fiestas.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that he has to visit the elderly at church.	Es bueno que tenga que visitar a los ancianos de la iglesia.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I'm glad that we have to prepare the worship together.	Me alegra que tengamos que preparar la adoración juntos.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's a shame that she has to handle everything alone.	Es una pena que tenga que manejar todo sola.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I don't want you to have to skip the family dinner.	No quiero que tengas que perderte la cena familiar.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's normal that they have to help with the kids.	Es normal que tengan que ayudar con los niños.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I hope he doesn't have to miss the church concert.	Espero que no tenga que perderse el concierto de la iglesia.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's good that we have to fast together this season.	Es bueno que tengamos que ayunar juntos esta temporada.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's strange that she has to change her diet for health.	Es raro que tenga que cambiar su dieta por salud.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I'm glad that they have to learn a new song for church.	Me alegra que tengan que aprender una nueva canción para la iglesia.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	It's unfair that he has to miss school for the appointment.	Es injusto que tenga que faltar a la escuela por la cita.	Tener Que Present Subjunctive
+Basic	Tener Que::Present::Subjunctive	I don't like that she has to travel so far.	No me gusta que tenga que viajar tan lejos.	Tener Que Present Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was good that I had to read the Bible.	Era bueno que tuviera que leer la Biblia.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was a shame that you had to miss the service.	Era una pena que tuvieras que perderte el servicio.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I hoped he didn't have to miss church.	Esperaba que no tuviera que perderse la iglesia.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was good that she had to lead the Bible study.	Era bueno que tuviera que dirigir el estudio bíblico.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I didn't want us to have to cancel the meeting.	No quería que tuviéramos que cancelar la reunión.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was a shame that they had to travel during the holidays.	Era una pena que tuvieran que viajar durante las fiestas.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was strange that he had to book the hotel so late.	Era raro que tuviera que reservar el hotel tan tarde.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I was glad that she had to order for everyone.	Me alegraba que tuviera que pedir para todos.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was unfair that we had to pay the whole bill.	Era injusto que tuviéramos que pagar toda la cuenta.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I hoped they wouldn't have to cook alone.	Esperaba que no tuvieran que cocinar solos.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was good that he had to wash the dishes.	Era bueno que tuviera que lavar los platos.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I didn't like that she had to call her family alone.	No me gustaba que tuviera que llamar a su familia sola.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was a shame that we had to leave the party early.	Era una pena que tuviéramos que irnos de la fiesta temprano.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I was glad that they had to care for the dog together.	Me alegraba que tuvieran que cuidar al perro juntos.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was strange that she had to take the cat to the vet so often.	Era raro que tuviera que llevar al gato al veterinario tan seguido.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was good that he had to study every day.	Era bueno que tuviera que estudiar todos los días.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I hoped they wouldn't have to take the exam twice.	Esperaba que no tuvieran que tomar el examen dos veces.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was a shame that she had to see the doctor so often.	Era una pena que tuviera que ver al médico tan seguido.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I didn't want him to have to take medicine every day.	No quería que tuviera que tomar medicina todos los días.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was good that we had to rest after the trip.	Era bueno que tuviéramos que descansar después del viaje.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was unfair that they had to work overtime.	Era injusto que tuvieran que trabajar horas extras.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I was glad that he had to attend the meetings.	Me alegraba que tuviera que asistir a las reuniones.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was good that she had to rehearse before the service.	Era bueno que tuviera que ensayar antes del servicio.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I hoped we wouldn't have to rehearse without the full team.	Esperaba que no tuviéramos que ensayar sin el equipo completo.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was strange that they had to play music at two services.	Era raro que tuvieran que tocar música en dos servicios.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I didn't like that he had to sing alone.	No me gustaba que tuviera que cantar solo.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was a shame that she had to miss the concert.	Era una pena que tuviera que perderse el concierto.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I was glad that we had to practice together.	Me alegraba que tuviéramos que practicar juntos.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was good that you had to share the Bible story.	Era bueno que tuvieras que compartir la historia bíblica.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I didn't want them to have to travel alone.	No quería que tuvieran que viajar solos.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was normal that she had to lead worship every Sunday.	Era normal que tuviera que dirigir la adoración todos los domingos.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was a shame that he had to miss the Bible study.	Era una pena que tuviera que perderse el estudio bíblico.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I hoped we wouldn't have to cancel the church trip.	Esperaba que no tuviéramos que cancelar el viaje de la iglesia.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was unfair that they had to do everything themselves.	Era injusto que tuvieran que hacer todo ellos mismos.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I was glad that he had to memorize the verse.	Me alegraba que tuviera que memorizar el versículo.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was good that she had to visit the elderly.	Era bueno que tuviera que visitar a los ancianos.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I didn't like that we had to say goodbye so soon.	No me gustaba que tuviéramos que despedirnos tan pronto.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was strange that they had to clean the whole church.	Era raro que tuvieran que limpiar toda la iglesia.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was a shame that he had to cook for so many people.	Era una pena que tuviera que cocinar para tanta gente.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I hoped she wouldn't have to go to the hospital.	Esperaba que no tuviera que ir al hospital.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was good that we had to pray before every meal.	Era bueno que tuviéramos que orar antes de cada comida.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I didn't want him to have to skip the family dinner.	No quería que tuviera que perderse la cena familiar.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was unfair that she had to carry all the luggage.	Era injusto que tuviera que cargar todo el equipaje.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I was glad that they had to serve in the community.	Me alegraba que tuvieran que servir en la comunidad.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was normal that he had to work long hours.	Era normal que tuviera que trabajar muchas horas.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was a shame that she had to study on weekends.	Era una pena que tuviera que estudiar los fines de semana.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I hoped we wouldn't have to miss the music practice.	Esperaba que no tuviéramos que perdernos el ensayo de música.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was good that they had to help with the wedding music.	Era bueno que tuvieran que ayudar con la música de la boda.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I didn't like that he had to leave the concert early.	No me gustaba que tuviera que salir del concierto temprano.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was strange that she had to take the dog to the vet twice.	Era raro que tuviera que llevar al perro al veterinario dos veces.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was good that we had to fast and pray together.	Era bueno que tuviéramos que ayunar y orar juntos.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I didn't want them to have to skip the health check.	No quería que tuvieran que saltarse el chequeo de salud.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was a shame that he had to miss school for the trip.	Era una pena que tuviera que faltar a la escuela por el viaje.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I was glad that she had to join the choir.	Me alegraba que tuviera que unirse al coro.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was unfair that we had to manage everything alone.	Era injusto que tuviéramos que manejar todo solos.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was normal that they had to prepare the food for the feast.	Era normal que tuvieran que preparar la comida para el banquete.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I hoped he wouldn't have to travel for so long.	Esperaba que no tuviera que viajar por tanto tiempo.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was good that she had to read the Bible passage aloud.	Era bueno que tuviera que leer el pasaje bíblico en voz alta.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I didn't like that they had to leave without eating.	No me gustaba que tuvieran que irse sin comer.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was strange that he had to take the exam on Sunday.	Era raro que tuviera que tomar el examen el domingo.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I was glad that we had to help the new family at church.	Me alegraba que tuviéramos que ayudar a la familia nueva en la iglesia.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was unfair that she had to miss the worship night.	Era injusto que tuviera que perderse la noche de adoración.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was a shame that they had to cancel the trip.	Era una pena que tuvieran que cancelar el viaje.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I hoped we wouldn't have to move to a new city.	Esperaba que no tuviéramos que mudarnos a una nueva ciudad.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was good that he had to help the pastor.	Era bueno que tuviera que ayudar al pastor.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I didn't want her to have to work on her birthday.	No quería que tuviera que trabajar en su cumpleaños.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was normal that they had to practice before every service.	Era normal que tuvieran que practicar antes de cada servicio.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was a shame that he had to skip the Bible conference.	Era una pena que tuviera que perderse la conferencia bíblica.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I was glad that she had to learn the new worship song.	Me alegraba que tuviera que aprender la nueva canción de adoración.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was strange that we had to stay late after church.	Era raro que tuviéramos que quedarnos tarde después de la iglesia.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was unfair that they had to clean up alone after the event.	Era injusto que tuvieran que limpiar solos después del evento.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I didn't like that he had to go back to the hospital.	No me gustaba que tuviera que volver al hospital.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I hoped she wouldn't have to miss the family reunion.	Esperaba que no tuviera que perderse la reunión familiar.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was good that we had to read Scripture before the meal.	Era bueno que tuviéramos que leer las Escrituras antes de la comida.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was a shame that they had to spend the holiday apart.	Era una pena que tuvieran que pasar las fiestas separados.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I was glad that he had to participate in the church play.	Me alegraba que tuviera que participar en la obra de la iglesia.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was normal that she had to take care of the pets.	Era normal que tuviera que cuidar a las mascotas.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I didn't want us to have to say goodbye so soon.	No quería que tuviéramos que despedirnos tan pronto.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was good that they had to collaborate on the project.	Era bueno que tuvieran que colaborar en el proyecto.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was unfair that she had to finish the project alone.	Era injusto que tuviera que terminar el proyecto sola.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I hoped he wouldn't have to miss the graduation.	Esperaba que no tuviera que perderse la graduación.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	It was strange that we had to skip the music rehearsal.	Era raro que tuviéramos que saltarnos el ensayo musical.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Imperfect::Subjunctive	I was glad that they had to bring food to the Bible study.	Me alegraba que tuvieran que traer comida al estudio bíblico.	Tener Que Imperfect Subjunctive
+Basic	Tener Que::Present::Perfect	I have had to read the Bible every day this week.	He tenido que leer la Biblia todos los días esta semana.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	I have had to pray for this situation.	He tenido que orar por esta situación.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	I have had to go to church alone recently.	He tenido que ir a la iglesia solo últimamente.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	I have had to memorize many Bible verses.	He tenido que memorizar muchos versículos bíblicos.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	I have had to travel a lot this year.	He tenido que viajar mucho este año.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	I have had to carry my luggage alone.	He tenido que cargar mi equipaje solo.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	I have had to order in Spanish many times.	He tenido que pedir en español muchas veces.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	I have had to cook every night this week.	He tenido que cocinar todas las noches esta semana.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	I have had to wash the dishes by myself.	He tenido que lavar los platos yo solo.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	I have had to call my family more lately.	He tenido que llamar a mi familia más últimamente.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	I have had to walk the dog every morning.	He tenido que sacar al perro a caminar cada mañana.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	I have had to study harder than ever.	He tenido que estudiar más que nunca.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	I have had to go to the doctor three times this month.	He tenido que ir al médico tres veces este mes.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	I have had to take medicine for a week.	He tenido que tomar medicina por una semana.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	I have had to finish many reports this month.	He tenido que terminar muchos informes este mes.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	I have had to attend extra meetings.	He tenido que asistir a reuniones adicionales.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	I have had to play the guitar at every service this month.	He tenido que tocar la guitarra en cada servicio este mes.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	I have had to rehearse more than usual.	He tenido que ensayar más de lo usual.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	I have had to feed the cat alone.	He tenido que darle de comer al gato solo.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	I have had to visit my grandmother in the hospital.	He tenido que visitar a mi abuela en el hospital.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	Have you had to pray a lot lately?	¿Has tenido que orar mucho últimamente?	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	You have had to come to Bible study every week.	Has tenido que venir al estudio bíblico cada semana.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	Have you had to share the gospel with strangers?	¿Has tenido que compartir el evangelio con extraños?	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	You have had to travel often for work.	Has tenido que viajar seguido por trabajo.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	Have you had to find the hotel by yourself?	¿Has tenido que encontrar el hotel tú solo?	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	You have had to pay for everything this trip.	Has tenido que pagar todo en este viaje.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	Have you had to cook for the whole family?	¿Has tenido que cocinar para toda la familia?	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	You have had to set the table every day.	Has tenido que poner la mesa todos los días.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	Have you had to clean the house alone?	¿Has tenido que limpiar la casa solo?	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	You have had to call your family every week.	Has tenido que llamar a tu familia cada semana.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	Have you had to come to all the church events?	¿Has tenido que venir a todos los eventos de la iglesia?	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	You have had to walk the dog in the rain.	Has tenido que sacar al perro a caminar bajo la lluvia.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	Have you had to take the cat to the vet recently?	¿Has tenido que llevar al gato al veterinario recientemente?	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	You have had to study more than usual this semester.	Has tenido que estudiar más de lo usual este semestre.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	Have you had to take many exams this month?	¿Has tenido que tomar muchos exámenes este mes?	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	You have had to go to the doctor recently.	Has tenido que ir al médico recientemente.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	Have you had to rest a lot?	¿Has tenido que descansar mucho?	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	You have had to work very hard lately.	Has tenido que trabajar muy duro últimamente.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	Have you had to sing at the service alone?	¿Has tenido que cantar en el servicio solo?	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	You have had to practice the music every day.	Has tenido que practicar la música todos los días.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	He has had to read the Bible to prepare for the sermon.	Ha tenido que leer la Biblia para preparar el sermón.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	She has had to lead the Bible study this month.	Ha tenido que dirigir el estudio bíblico este mes.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	He has had to go to church early every week.	Ha tenido que ir a la iglesia temprano cada semana.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	She has had to travel for the ministry.	Ha tenido que viajar para el ministerio.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	He has had to make all the reservations.	Ha tenido que hacer todas las reservaciones.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	She has had to order for everyone.	Ha tenido que pedir para todos.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	He has had to pay the bill many times.	Ha tenido que pagar la cuenta muchas veces.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	She has had to cook for the whole family.	Ha tenido que cocinar para toda la familia.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	He has had to fix many things around the house.	Ha tenido que arreglar muchas cosas en la casa.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	She has had to call her mother every day.	Ha tenido que llamar a su mamá todos los días.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	He has had to come to every family event.	Ha tenido que venir a todos los eventos familiares.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	She has had to feed the dog every morning.	Ha tenido que darle de comer al perro cada mañana.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	He has had to walk the dog twice a day.	Ha tenido que sacar al perro a caminar dos veces al día.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	She has had to study harder this semester.	Ha tenido que estudiar más este semestre.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	He has had to explain the lesson twice.	Ha tenido que explicar la lección dos veces.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	She has had to see the doctor more often.	Ha tenido que ver al médico más seguido.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	He has had to take medicine this week.	Ha tenido que tomar medicina esta semana.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	She has had to finish the report before the deadline.	Ha tenido que terminar el informe antes del plazo.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	He has had to play music at two services.	Ha tenido que tocar música en dos servicios.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	She has had to learn three new songs this month.	Ha tenido que aprender tres canciones nuevas este mes.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to read the Bible together every morning.	Hemos tenido que leer la Biblia juntos cada mañana.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to pray for many situations.	Hemos tenido que orar por muchas situaciones.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to go to church more often.	Hemos tenido que ir a la iglesia más seguido.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to travel for the mission.	Hemos tenido que viajar para la misión.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to change hotels twice.	Hemos tenido que cambiar de hotel dos veces.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to make many restaurant reservations.	Hemos tenido que hacer muchas reservaciones en restaurantes.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to share the meal every Sunday.	Hemos tenido que compartir la comida cada domingo.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to cook together often.	Hemos tenido que cocinar juntos seguido.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to clean the house twice this month.	Hemos tenido que limpiar la casa dos veces este mes.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to visit our grandparents at the hospital.	Hemos tenido que visitar a nuestros abuelos en el hospital.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to celebrate without family.	Hemos tenido que celebrar sin la familia.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to take the dog to the vet twice.	Hemos tenido que llevar al perro al veterinario dos veces.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to buy pet food every week.	Hemos tenido que comprar comida para mascotas cada semana.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to study every evening.	Hemos tenido que estudiar todas las tardes.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to exercise more this month.	Hemos tenido que hacer más ejercicio este mes.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to finish two projects this week.	Hemos tenido que terminar dos proyectos esta semana.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to have extra meetings.	Hemos tenido que tener reuniones adicionales.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to rehearse more than planned.	Hemos tenido que ensayar más de lo planeado.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to practice music outside of church.	Hemos tenido que practicar música fuera de la iglesia.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	We have had to share the gospel with our coworkers.	Hemos tenido que compartir el evangelio con nuestros compañeros de trabajo.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to read the Bible story to the children.	Han tenido que leer la historia bíblica a los niños.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to come to church early every Sunday.	Han tenido que llegar a la iglesia temprano cada domingo.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to help set up the church every week.	Han tenido que ayudar a preparar la iglesia cada semana.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to travel abroad for the mission.	Han tenido que viajar al extranjero para la misión.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to change hotels.	Han tenido que cambiar de hotel.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to try many new foods.	Han tenido que probar muchas comidas nuevas.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to bring food for everyone.	Han tenido que traer comida para todos.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to help clean the house.	Han tenido que ayudar a limpiar la casa.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to visit the grandparents every weekend.	Han tenido que visitar a los abuelos cada fin de semana.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to take care of the children alone.	Han tenido que cuidar a los niños solos.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to take the dog to the vet twice.	Han tenido que llevar al perro al veterinario dos veces.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to take many exams this semester.	Han tenido que tomar muchos exámenes este semestre.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to stay up to finish the homework.	Han tenido que quedarse despiertos para terminar la tarea.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to call the doctor urgently.	Han tenido que llamar al médico urgentemente.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to rest more than usual.	Han tenido que descansar más de lo usual.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to work extra hours.	Han tenido que trabajar horas adicionales.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to attend many meetings.	Han tenido que asistir a muchas reuniones.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to learn new songs for the concert.	Han tenido que aprender canciones nuevas para el concierto.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to sing at every service.	Han tenido que cantar en cada servicio.	Tener Que Present Perfect
+Basic	Tener Que::Present::Perfect	They have had to play music at many events.	Han tenido que tocar música en muchos eventos.	Tener Que Present Perfect
+Basic	Tener Que::Past::Perfect	I had had to read the Bible before the trip.	Había tenido que leer la Biblia antes del viaje.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	I had had to pray before making that decision.	Había tenido que orar antes de tomar esa decisión.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	I had had to go to church alone for months.	Había tenido que ir a la iglesia solo por meses.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	I had had to memorize many Bible verses as a child.	Había tenido que memorizar muchos versículos bíblicos de niño.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	I had had to travel before they arrived.	Había tenido que viajar antes de que llegaran.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	I had had to carry all the luggage by myself.	Había tenido que cargar todo el equipaje yo solo.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	I had had to order before the kitchen closed.	Había tenido que pedir antes de que cerrara la cocina.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	I had had to cook the whole meal by myself.	Había tenido que cocinar toda la comida yo solo.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	I had had to wash the dishes before the guests arrived.	Había tenido que lavar los platos antes de que llegaran los invitados.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	I had had to call my family before the service.	Había tenido que llamar a mi familia antes del servicio.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	I had had to walk the dog before the rain started.	Había tenido que sacar al perro antes de que empezara la lluvia.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	I had had to study all night before the exam.	Había tenido que estudiar toda la noche antes del examen.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	I had had to go to the doctor before the trip.	Había tenido que ir al médico antes del viaje.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	I had had to take medicine before the flight.	Había tenido que tomar medicina antes del vuelo.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	I had had to finish the report before the meeting.	Había tenido que terminar el informe antes de la reunión.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	I had had to attend the training before starting the job.	Había tenido que asistir a la capacitación antes de empezar el trabajo.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	I had had to rehearse the song many times before Sunday.	Había tenido que ensayar la canción muchas veces antes del domingo.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	I had had to practice the music before the concert.	Había tenido que practicar la música antes del concierto.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	I had had to feed the cat before leaving.	Había tenido que darle de comer al gato antes de salir.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	I had had to visit my grandmother before she passed away.	Había tenido que visitar a mi abuela antes de que falleciera.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	You had had to pray before you made the decision.	Habías tenido que orar antes de tomar la decisión.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	You had had to come to Bible study before the test.	Habías tenido que venir al estudio bíblico antes del examen.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	You had had to share the story before they left.	Habías tenido que compartir la historia antes de que se fueran.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	You had had to travel before the storm arrived.	Habías tenido que viajar antes de que llegara la tormenta.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	You had had to book the hotel before the prices went up.	Habías tenido que reservar el hotel antes de que subieran los precios.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	You had had to pay the bill before anyone noticed.	Habías tenido que pagar la cuenta antes de que alguien se diera cuenta.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	You had had to cook before the guests arrived.	Habías tenido que cocinar antes de que llegaran los invitados.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	You had had to clean the house before the party.	Habías tenido que limpiar la casa antes de la fiesta.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	You had had to call your mother before the trip.	Habías tenido que llamar a tu mamá antes del viaje.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	You had had to invite your friends before the event sold out.	Habías tenido que invitar a tus amigos antes de que se agotaran los boletos.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	You had had to walk the dog before school.	Habías tenido que sacar al perro antes de ir a la escuela.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	You had had to take the cat to the vet before the trip.	Habías tenido que llevar al gato al veterinario antes del viaje.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	You had had to study before the exam.	Habías tenido que estudiar antes del examen.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	You had had to finish the homework before playing.	Habías tenido que terminar la tarea antes de jugar.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	You had had to go to the doctor before traveling.	Habías tenido que ir al médico antes de viajar.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	You had had to rest before the long trip.	Habías tenido que descansar antes del largo viaje.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	You had had to finish the project before the deadline.	Habías tenido que terminar el proyecto antes del plazo.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	You had had to sing before the choir was formed.	Habías tenido que cantar antes de que se formara el coro.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	You had had to practice alone before joining the team.	Habías tenido que practicar solo antes de unirte al equipo.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	He had had to read the Bible before the sermon.	Había tenido que leer la Biblia antes del sermón.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	She had had to lead the Bible study before the pastor arrived.	Había tenido que dirigir el estudio bíblico antes de que llegara el pastor.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	He had had to go to church before work.	Había tenido que ir a la iglesia antes del trabajo.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	She had had to travel before the mission closed.	Había tenido que viajar antes de que cerrara la misión.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	He had had to make the reservation before the hotel filled up.	Había tenido que hacer la reservación antes de que se llenara el hotel.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	She had had to order before the kitchen closed.	Había tenido que pedir antes de que cerrara la cocina.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	He had had to pay for the meal before leaving.	Había tenido que pagar la comida antes de salir.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	She had had to cook for everyone before the event.	Había tenido que cocinar para todos antes del evento.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	He had had to fix the car before the road trip.	Había tenido que arreglar el carro antes del viaje por carretera.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	She had had to call her mother before the flight.	Había tenido que llamar a su mamá antes del vuelo.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	He had had to pick up the family before the party started.	Había tenido que recoger a la familia antes de que empezara la fiesta.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	She had had to feed the dog before leaving for church.	Había tenido que darle de comer al perro antes de salir para la iglesia.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	He had had to walk the dog before the storm.	Había tenido que sacar al perro antes de la tormenta.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	She had had to take the exam before graduation.	Había tenido que tomar el examen antes de la graduación.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	He had had to explain the lesson before the students left.	Había tenido que explicar la lección antes de que se fueran los estudiantes.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	She had had to see the doctor before traveling.	Había tenido que ver al médico antes de viajar.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	He had had to take medicine before the service.	Había tenido que tomar medicina antes del servicio.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	She had had to finish the report before the presentation.	Había tenido que terminar el informe antes de la presentación.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	He had had to learn the song before the concert.	Había tenido que aprender la canción antes del concierto.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	She had had to practice the piano before the performance.	Había tenido que practicar el piano antes de la presentación.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to read the Bible before the service.	Habíamos tenido que leer la Biblia antes del servicio.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to pray before making the decision.	Habíamos tenido que orar antes de tomar la decisión.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to go to church early before the event.	Habíamos tenido que ir a la iglesia temprano antes del evento.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to go to the airport before the sun came up.	Habíamos tenido que ir al aeropuerto antes de que saliera el sol.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to find a hotel before arriving.	Habíamos tenido que encontrar un hotel antes de llegar.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to make the reservation before the holidays.	Habíamos tenido que hacer la reservación antes de las fiestas.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to prepare the food before the guests arrived.	Habíamos tenido que preparar la comida antes de que llegaran los invitados.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to cook together before the celebration.	Habíamos tenido que cocinar juntos antes de la celebración.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to clean the church before the service.	Habíamos tenido que limpiar la iglesia antes del servicio.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to visit the grandparents before the trip.	Habíamos tenido que visitar a los abuelos antes del viaje.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to take the dog to the vet before the trip.	Habíamos tenido que llevar al perro al veterinario antes del viaje.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to buy food before the store closed.	Habíamos tenido que comprar comida antes de que cerrara la tienda.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to study together before the final exam.	Habíamos tenido que estudiar juntos antes del examen final.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to exercise before work every day.	Habíamos tenido que hacer ejercicio antes del trabajo todos los días.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to finish the project before the meeting.	Habíamos tenido que terminar el proyecto antes de la reunión.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to rehearse before the worship night.	Habíamos tenido que ensayar antes de la noche de adoración.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to practice before the concert.	Habíamos tenido que practicar antes del concierto.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to learn the new song before Sunday.	Habíamos tenido que aprender la canción nueva antes del domingo.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to help the family before the holiday.	Habíamos tenido que ayudar a la familia antes de las fiestas.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	We had had to share the gospel before the door closed.	Habíamos tenido que compartir el evangelio antes de que se cerrara la puerta.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to read the Bible story before the children slept.	Habían tenido que leer la historia bíblica antes de que durmieran los niños.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to go to church before the service started.	Habían tenido que ir a la iglesia antes de que comenzara el servicio.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to set up the church before everyone arrived.	Habían tenido que preparar la iglesia antes de que llegaran todos.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to travel before the roads closed.	Habían tenido que viajar antes de que se cerraran las carreteras.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to find a hotel before night fell.	Habían tenido que encontrar un hotel antes de que cayera la noche.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to eat before the restaurant closed.	Habían tenido que comer antes de que cerrara el restaurante.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to bring food before the event started.	Habían tenido que traer comida antes de que empezara el evento.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to clean the house before the inspection.	Habían tenido que limpiar la casa antes de la inspección.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to visit the family before the holidays.	Habían tenido que visitar a la familia antes de las fiestas.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to take care of the children before the parents returned.	Habían tenido que cuidar a los niños antes de que regresaran los padres.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to take the dog to the vet before the move.	Habían tenido que llevar al perro al veterinario antes de la mudanza.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to take the exam before the semester ended.	Habían tenido que tomar el examen antes de que terminara el semestre.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to finish the homework before the teacher arrived.	Habían tenido que terminar la tarea antes de que llegara el maestro.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to call the doctor before the clinic closed.	Habían tenido que llamar al médico antes de que cerrara la clínica.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to rest before the long journey.	Habían tenido que descansar antes del largo viaje.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to work overtime before the deadline.	Habían tenido que trabajar horas extras antes del plazo.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to attend the training before starting.	Habían tenido que asistir a la capacitación antes de comenzar.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to learn the songs before the concert.	Habían tenido que aprender las canciones antes del concierto.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to rehearse before the big service.	Habían tenido que ensayar antes del gran servicio.	Tener Que Past Perfect
+Basic	Tener Que::Past::Perfect	They had had to play music at the event before going home.	Habían tenido que tocar música en el evento antes de irse a casa.	Tener Que Past Perfect

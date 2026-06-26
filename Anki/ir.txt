@@ -1,0 +1,871 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Ir::Present::Indicative	I am going to the store.	Voy a la tienda.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you have to go to the pharmacy?	¿Tienes que ir a la farmacia?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to the park.	Tengo que ir al parque.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to the school.	Voy a la escuela.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go to the hospital?	¿Quieres ir al hospital?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to the library.	Quiero ir a la biblioteca.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I can go to the restaurant.	Puedo ir al restaurante.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Can you go to the supermarket?	¿Puedes ir al supermercado?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I can go to the bank.	Puedo ir al banco.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to the cinema.	Voy al cine.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you have to go to the gym?	¿Tienes que ir al gimnasio?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to the beach.	Tengo que ir a la playa.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to the airport.	Quiero ir al aeropuerto.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go to the office?	¿Quieres ir a la oficina?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to the store.	Quiero ir a la tienda.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to the pharmacy.	Voy a la farmacia.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Can you go to the park?	¿Puedes ir al parque?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I can go to the school.	Puedo ir a la escuela.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to the hospital.	Tengo que ir al hospital.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you have to go to the library?	¿Tienes que ir a la biblioteca?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to the restaurant.	Tengo que ir al restaurante.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to the supermarket.	Voy al supermercado.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go to the bank?	¿Quieres ir al banco?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to the cinema.	Quiero ir al cine.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I can go to the gym.	Puedo ir al gimnasio.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to the store to buy bread.	Tengo que ir a la tienda a comprar pan.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you have to go to the store to buy milk?	¿Tienes que ir a la tienda a comprar leche?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to the store to buy eggs.	Tengo que ir a la tienda a comprar huevos.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to the store to buy cheese.	Voy a la tienda a comprar queso.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go to the store to buy apples?	¿Quieres ir a la tienda a comprar manzanas?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to the store to buy oranges.	Quiero ir a la tienda a comprar naranjas.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to the store to buy lettuce.	Voy a la tienda a comprar lechuga.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Can you go to the store to buy grapes?	¿Puedes ir a la tienda a comprar uvas?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I can go to the store to buy tomatoes.	Puedo ir a la tienda a comprar tomates.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to the store to buy onions.	Tengo que ir a la tienda a comprar cebollas.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you have to go to the store to buy potatoes?	¿Tienes que ir a la tienda a comprar papas?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to the store to buy carrots.	Tengo que ir a la tienda a comprar zanahorias.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to the store to buy lettuce.	Voy a la tienda a comprar lechuga.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go to the store to buy cucumbers?	¿Quieres ir a la tienda a comprar pepinos?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to the store to buy peppers.	Quiero ir a la tienda a comprar pimientos.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I can go to the store to buy garlic.	Puedo ir a la tienda a comprar ajo.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Can you go to the store to buy bread?	¿Puedes ir a la tienda a comprar pan?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I can go to the store to buy milk.	Puedo ir a la tienda a comprar leche.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to the store to buy eggs.	Voy a la tienda a comprar huevos.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you have to go to the store to buy cheese?	¿Tienes que ir a la tienda a comprar queso?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to the store to buy apples.	Tengo que ir a la tienda a comprar manzanas.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to the store to buy oranges.	Quiero ir a la tienda a comprar naranjas.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go to the store to buy plantains?	¿Quieres ir a la tienda a comprar plátanos?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to the store to buy grapes.	Quiero ir a la tienda a comprar uvas.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I can go to the store to buy tomatoes.	Puedo ir a la tienda a comprar tomates.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to church.	Voy a la iglesia.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go to church?	¿Quieres ir a la iglesia?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to Bible study.	Tengo que ir al estudio bíblico.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Can you go to Bible study?	¿Puedes ir al estudio bíblico?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to the prayer meeting.	Quiero ir a la reunión de oración.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you have to go to the prayer meeting?	¿Tienes que ir a la reunión de oración?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to the doctor.	Voy al médico.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you have to go to the dentist?	¿Tienes que ir al dentista?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to the dentist.	Tengo que ir al dentista.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I can go to the clinic.	Puedo ir a la clínica.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Can you go to the doctor?	¿Puedes ir al médico?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to work.	Voy al trabajo.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you have to go to work today?	¿Tienes que ir al trabajo hoy?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to the meeting.	Tengo que ir a la reunión.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go to the meeting?	¿Quieres ir a la reunión?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to the concert.	Quiero ir al concierto.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Can you go to the concert?	¿Puedes ir al concierto?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going home.	Voy a casa.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go home?	¿Quieres ir a casa?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to my grandmother's house.	Tengo que ir a la casa de mi abuela.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go to my parents' house?	¿Quieres ir a la casa de mis padres?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to my friend's house.	Quiero ir a la casa de mi amigo.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Can you go to my friend's house?	¿Puedes ir a la casa de mi amigo?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to the vet.	Tengo que ir al veterinario.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go to the vet?	¿Quieres ir al veterinario?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to class.	Voy a la clase.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you have to go to class?	¿Tienes que ir a la clase?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to the university.	Quiero ir a la universidad.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to the hotel.	Voy al hotel.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go to the museum?	¿Quieres ir al museo?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I can go to the museum.	Puedo ir al museo.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to the train station.	Tengo que ir a la estación de tren.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Can you go to the train station?	¿Puedes ir a la estación de tren?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to the store to buy rice.	Voy a la tienda a comprar arroz.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you have to go to the store to buy beans?	¿Tienes que ir a la tienda a comprar frijoles?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to the store to buy chicken.	Quiero ir a la tienda a comprar pollo.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Can you go to the store to buy fish?	¿Puedes ir a la tienda a comprar pescado?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I have to go to the store to buy butter.	Tengo que ir a la tienda a comprar mantequilla.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you want to go to the store to buy sugar?	¿Quieres ir a la tienda a comprar azúcar?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I can go to the store to buy water.	Puedo ir a la tienda a comprar agua.	Ir Present Indicative
+Basic	Ir::Present::Indicative	I am going to the store to buy juice.	Voy a la tienda a comprar jugo.	Ir Present Indicative
+Basic	Ir::Present::Indicative	Do you have to go to the store to buy meat?	¿Tienes que ir a la tienda a comprar carne?	Ir Present Indicative
+Basic	Ir::Present::Indicative	I want to go to the store to buy salt.	Quiero ir a la tienda a comprar sal.	Ir Present Indicative
+Basic	Ir::Present::Subjunctive	I want you to go to church.	Quiero que vayas a la iglesia.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope he goes to Bible study.	Espero que vaya al estudio bíblico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want us to go to the park.	Quiero que vayamos al parque.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope they go to the doctor.	Espero que vayan al médico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that you go to the hospital.	Es importante que vayas al hospital.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need you to go to the store.	Necesito que vayas a la tienda.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want her to go to school.	Quiero que vaya a la escuela.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that we go to the meeting.	Es necesario que vayamos a la reunión.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope they go to church.	Espero que vayan a la iglesia.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's good that you go to the doctor.	Es bueno que vayas al médico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I don't want you to go to the party alone.	No quiero que vayas a la fiesta solo.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope he goes to the pharmacy.	Espero que vaya a la farmacia.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that we go to Bible study.	Es importante que vayamos al estudio bíblico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need them to go to the airport.	Necesito que vayan al aeropuerto.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's better that you go to the clinic.	Es mejor que vayas a la clínica.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want you to go to the restaurant with me.	Quiero que vayas al restaurante conmigo.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope she goes to work tomorrow.	Espero que vaya al trabajo mañana.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that they go to school.	Es necesario que vayan a la escuela.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need him to go to the meeting.	Necesito que vaya a la reunión.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that you go to church.	Es importante que vayas a la iglesia.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want us to go to the concert.	Quiero que vayamos al concierto.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope they go to the supermarket.	Espero que vayan al supermercado.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's good that she goes to the vet.	Es bueno que vaya al veterinario.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need you to go to the bank.	Necesito que vayas al banco.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's better that we go together.	Es mejor que vayamos juntos.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want you to go to Bible study.	Quiero que vayas al estudio bíblico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope he goes to the dentist.	Espero que vaya al dentista.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that they go to the hospital.	Es importante que vayan al hospital.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need her to go to the office.	Necesito que vaya a la oficina.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that you go to the pharmacy.	Es necesario que vayas a la farmacia.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want them to go to church with us.	Quiero que vayan a la iglesia con nosotros.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope she goes to Bible study.	Espero que vaya al estudio bíblico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's good that we go to the park.	Es bueno que vayamos al parque.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need him to go to the store.	Necesito que vaya a la tienda.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's better that they go to the clinic.	Es mejor que vayan a la clínica.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want you to go to the prayer meeting.	Quiero que vayas a la reunión de oración.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope they go to the school event.	Espero que vayan al evento de la escuela.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that she goes to the doctor.	Es importante que vaya al médico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need us to go to the meeting early.	Necesito que vayamos a la reunión temprano.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that he goes to work.	Es necesario que vaya al trabajo.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I don't want you to go to the store alone.	No quiero que vayas a la tienda solo.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope she goes to the gym.	Espero que vaya al gimnasio.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's good that you go to church regularly.	Es bueno que vayas a la iglesia regularmente.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need them to go to the airport on time.	Necesito que vayan al aeropuerto a tiempo.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's better that we go to the restaurant together.	Es mejor que vayamos al restaurante juntos.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want him to go to the library.	Quiero que vaya a la biblioteca.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope they go to the concert together.	Espero que vayan al concierto juntos.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that you go to work today.	Es importante que vayas al trabajo hoy.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need her to go to the pharmacy.	Necesito que vaya a la farmacia.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that we go to the hospital.	Es necesario que vayamos al hospital.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want you to go to the museum with us.	Quiero que vayas al museo con nosotros.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope he goes to church on Sunday.	Espero que vaya a la iglesia el domingo.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's good that we go to the park with the dog.	Es bueno que vayamos al parque con el perro.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need you to go to the meeting.	Necesito que vayas a la reunión.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's better that they go to the doctor.	Es mejor que vayan al médico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want her to go to school every day.	Quiero que vaya a la escuela todos los días.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope they go to the prayer meeting.	Espero que vayan a la reunión de oración.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that he goes to the dentist.	Es importante que vaya al dentista.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need them to go to church with us.	Necesito que vayan a la iglesia con nosotros.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that you go to Bible study.	Es necesario que vayas al estudio bíblico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want us to go to the beach this summer.	Quiero que vayamos a la playa este verano.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope she goes to the university.	Espero que vaya a la universidad.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's good that they go to the vet.	Es bueno que vayan al veterinario.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need him to go to the bank.	Necesito que vaya al banco.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's better that you go to the clinic today.	Es mejor que vayas a la clínica hoy.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want you to go to the concert with me.	Quiero que vayas al concierto conmigo.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope they go to work together.	Espero que vayan al trabajo juntos.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that we go to Bible study.	Es importante que vayamos al estudio bíblico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need you to go to the supermarket.	Necesito que vayas al supermercado.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that they go to school.	Es necesario que vayan a la escuela.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want her to go to the prayer meeting.	Quiero que vaya a la reunión de oración.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope he goes to the hospital to visit.	Espero que vaya al hospital a visitar.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's good that you go to work on time.	Es bueno que vayas al trabajo a tiempo.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need them to go to the restaurant.	Necesito que vayan al restaurante.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's better that we go to the park now.	Es mejor que vayamos al parque ahora.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want you to go to church every Sunday.	Quiero que vayas a la iglesia todos los domingos.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope she goes to the market.	Espero que vaya al mercado.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that they go to Bible study.	Es importante que vayan al estudio bíblico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need her to go to the school event.	Necesito que vaya al evento de la escuela.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that he goes to the pharmacy.	Es necesario que vaya a la farmacia.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want us to go to the concert on Saturday.	Quiero que vayamos al concierto el sábado.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope you go to the doctor soon.	Espero que vayas al médico pronto.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's good that they go to church together.	Es bueno que vayan a la iglesia juntos.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need you to go to the library.	Necesito que vayas a la biblioteca.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's better that she goes to the clinic.	Es mejor que vaya a la clínica.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want them to go to the park with the children.	Quiero que vayan al parque con los niños.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope he goes to the music rehearsal.	Espero que vaya al ensayo de música.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that you go to the prayer meeting.	Es importante que vayas a la reunión de oración.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need us to go to the airport early.	Necesito que vayamos al aeropuerto temprano.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that they go to the hospital.	Es necesario que vayan al hospital.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want you to go to the vet with the cat.	Quiero que vayas al veterinario con el gato.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope she goes to school tomorrow.	Espero que vaya a la escuela mañana.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's good that we go to church together.	Es bueno que vayamos a la iglesia juntos.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need him to go to work on time.	Necesito que vaya al trabajo a tiempo.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's better that you go to Bible study.	Es mejor que vayas al estudio bíblico.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I want them to go to the concert.	Quiero que vayan al concierto.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I hope they go to the beach with us.	Espero que vayan a la playa con nosotros.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's important that she goes to the gym.	Es importante que vaya al gimnasio.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	I need them to go to the supermarket.	Necesito que vayan al supermercado.	Ir Present Subjunctive
+Basic	Ir::Present::Subjunctive	It's necessary that you go to the airport.	Es necesario que vayas al aeropuerto.	Ir Present Subjunctive
+Basic	Ir::Present::Perfect	I have gone to church every Sunday this month.	He ido a la iglesia todos los domingos este mes.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to Bible study?	¿Has ido al estudio bíblico?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to the store.	Ha ido a la tienda.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the park many times.	Hemos ido al parque muchas veces.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the restaurant.	Han ido al restaurante.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have already gone to the doctor.	Ya he ido al médico.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the hospital?	¿Has ido al hospital?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to the school.	Ha ido a la escuela.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the airport.	Hemos ido al aeropuerto.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the concert.	Han ido al concierto.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to work every day this week.	He ido al trabajo todos los días esta semana.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the gym?	¿Has ido al gimnasio?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to Bible study three times.	Ha ido al estudio bíblico tres veces.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the beach this summer.	Hemos ido a la playa este verano.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the museum.	Han ido al museo.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the pharmacy.	He ido a la farmacia.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to church?	¿Has ido a la iglesia?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to the dentist.	Ha ido al dentista.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the meeting.	Hemos ido a la reunión.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the park with the dog.	Han ido al parque con el perro.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the library twice this week.	He ido a la biblioteca dos veces esta semana.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the prayer meeting?	¿Has ido a la reunión de oración?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to the hospital.	Ha ido al hospital.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to church together this month.	Hemos ido a la iglesia juntos este mes.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to school by bus.	Han ido a la escuela en autobús.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the store to buy groceries.	He ido a la tienda a comprar comestibles.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the concert?	¿Has ido al concierto?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to the doctor.	Ha ido al médico.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the restaurant this week.	Hemos ido al restaurante esta semana.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the airport.	Han ido al aeropuerto.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the vet with my dog.	He ido al veterinario con mi perro.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the bank?	¿Has ido al banco?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to the office early.	Ha ido a la oficina temprano.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the supermarket.	Hemos ido al supermercado.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to Bible study this week.	Han ido al estudio bíblico esta semana.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have already gone home.	Ya he ido a casa.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the clinic?	¿Has ido a la clínica?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to the university.	Ha ido a la universidad.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the park this morning.	Hemos ido al parque esta mañana.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to visit their family.	Han ido a visitar a su familia.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the market this morning.	He ido al mercado esta mañana.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the school event?	¿Has ido al evento de la escuela?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to the concert with his friends.	Ha ido al concierto con sus amigos.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the hotel.	Hemos ido al hotel.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the beach this summer.	Han ido a la playa este verano.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the prayer meeting.	He ido a la reunión de oración.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the museum?	¿Has ido al museo?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to work this morning.	Ha ido al trabajo esta mañana.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to church every Sunday this month.	Hemos ido a la iglesia todos los domingos este mes.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the train station.	Han ido a la estación de tren.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the pharmacy to buy medicine.	He ido a la farmacia a comprar medicina.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the dentist recently?	¿Has ido al dentista recientemente?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to visit his grandmother.	Ha ido a visitar a su abuela.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the library to study.	Hemos ido a la biblioteca a estudiar.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the restaurant to celebrate.	Han ido al restaurante a celebrar.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the gym this week.	He ido al gimnasio esta semana.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the park with the dog?	¿Has ido al parque con el perro?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to the market.	Ha ido al mercado.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the concert.	Hemos ido al concierto.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to church with their parents.	Han ido a la iglesia con sus padres.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the office for the meeting.	He ido a la oficina para la reunión.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the airport?	¿Has ido al aeropuerto?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to the vet with the cat.	Ha ido al veterinario con el gato.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the supermarket to buy groceries.	Hemos ido al supermercado a comprar comestibles.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to school together.	Han ido a la escuela juntos.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the doctor for a checkup.	He ido al médico para una revisión.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to work this week?	¿Has ido al trabajo esta semana?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to the prayer meeting.	Ha ido a la reunión de oración.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the museum.	Hemos ido al museo.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the hospital to visit.	Han ido al hospital a visitar.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to Bible study three times this month.	He ido al estudio bíblico tres veces este mes.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the hotel?	¿Has ido al hotel?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to the restaurant to eat.	Ha ido al restaurante a comer.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the park with the children.	Hemos ido al parque con los niños.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the clinic for their appointment.	Han ido a la clínica para su cita.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the store after school.	He ido a la tienda después de la escuela.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the library?	¿Has ido a la biblioteca?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to the gym.	Ha ido al gimnasio.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to visit our friends.	Hemos ido a visitar a nuestros amigos.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the bank.	Han ido al banco.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the concert with my family.	He ido al concierto con mi familia.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the university?	¿Has ido a la universidad?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to work early.	Ha ido al trabajo temprano.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the pharmacy after the appointment.	Hemos ido a la farmacia después de la cita.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to church.	Han ido a la iglesia.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the meeting?	¿Has ido a la reunión?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to the library to read.	Ha ido a la biblioteca a leer.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the beach with our family.	Hemos ido a la playa con nuestra familia.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the restaurant for the birthday.	Han ido al restaurante para el cumpleaños.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to church to worship.	He ido a la iglesia a adorar.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the school play?	¿Has ido a la obra de la escuela?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to the dentist.	Ha ido al dentista.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the hotel for vacation.	Hemos ido al hotel para las vacaciones.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the park to play.	Han ido al parque a jugar.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the music rehearsal.	He ido al ensayo de música.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the hospital?	¿Has ido al hospital?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to the store to buy fruit.	Ha ido a la tienda a comprar fruta.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to Bible study together.	Hemos ido al estudio bíblico juntos.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the concert to perform.	Han ido al concierto a actuar.	Ir Present Perfect
+Basic	Ir::Preterit::Indicative	Did you go to the store?	¿Fuiste a la tienda?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the pharmacy.	Fui a la farmacia.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the park?	¿Fuiste al parque?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the hospital.	Fui al hospital.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to school?	¿Fuiste a la escuela?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the cinema.	Fui al cine.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the restaurant?	¿Fuiste al restaurante?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the supermarket.	Fui al supermercado.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the gym?	¿Fuiste al gimnasio?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the beach.	Fui a la playa.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to the store?	¿Cuándo fuiste a la tienda?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the park two hours ago.	Fui al parque hace dos horas.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you already go to the hospital?	¿Ya fuiste al hospital?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I already went to the store.	Ya fui a la tienda.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you already go to the beach?	¿Ya fuiste a la playa?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the restaurant two days ago.	Fui al restaurante hace dos días.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to the pharmacy?	¿Cuándo fuiste a la farmacia?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the library yesterday.	Fui a la biblioteca ayer.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you already go to the office?	¿Ya fuiste a la oficina?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the gym three days ago.	Fui al gimnasio hace tres días.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to the school?	¿Cuándo fuiste a la escuela?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I already went to the supermarket.	Ya fui al supermercado.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the airport?	¿Fuiste al aeropuerto?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the bank an hour ago.	Fui al banco hace una hora.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to the cinema?	¿Cuándo fuiste al cine?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I already went to the park.	Ya fui al parque.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you already go to the store?	¿Ya fuiste a la tienda?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the office last week.	Fui a la oficina la semana pasada.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to the library?	¿Cuándo fuiste a la biblioteca?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the hospital five days ago.	Fui al hospital hace cinco días.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to church?	¿Fuiste a la iglesia?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to church last Sunday.	Fui a la iglesia el domingo pasado.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you already go to church?	¿Ya fuiste a la iglesia?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to church?	¿Cuándo fuiste a la iglesia?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to Bible study yesterday.	Fui al estudio bíblico ayer.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to Bible study?	¿Fuiste al estudio bíblico?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I already went to Bible study.	Ya fui al estudio bíblico.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to Bible study?	¿Cuándo fuiste al estudio bíblico?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the doctor?	¿Fuiste al médico?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the doctor last week.	Fui al médico la semana pasada.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to the doctor?	¿Cuándo fuiste al médico?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the dentist?	¿Fuiste al dentista?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the dentist two weeks ago.	Fui al dentista hace dos semanas.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you already go to the dentist?	¿Ya fuiste al dentista?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to work today?	¿Fuiste al trabajo hoy?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to work this morning.	Fui al trabajo esta mañana.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to work?	¿Cuándo fuiste al trabajo?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the concert?	¿Fuiste al concierto?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the concert last night.	Fui al concierto anoche.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to the concert?	¿Cuándo fuiste al concierto?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go home?	¿Fuiste a casa?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I already went home.	Ya fui a casa.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go home?	¿Cuándo fuiste a casa?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the vet?	¿Fuiste al veterinario?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the vet yesterday.	Fui al veterinario ayer.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to class?	¿Fuiste a la clase?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to class this morning.	Fui a la clase esta mañana.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you already go to class?	¿Ya fuiste a la clase?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the museum?	¿Fuiste al museo?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the museum last month.	Fui al museo el mes pasado.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to the museum?	¿Cuándo fuiste al museo?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the hotel?	¿Fuiste al hotel?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the hotel an hour ago.	Fui al hotel hace una hora.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the train station?	¿Fuiste a la estación de tren?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the train station four hours ago.	Fui a la estación de tren hace cuatro horas.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to my friend's house?	¿Fuiste a la casa de mi amigo?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to my grandmother's house last week.	Fui a la casa de mi abuela la semana pasada.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to your grandmother's house?	¿Cuándo fuiste a la casa de tu abuela?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I already went to the bank.	Ya fui al banco.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	Did you go to the pharmacy yesterday?	¿Fuiste a la farmacia ayer?	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	I went to the airport last night.	Fui al aeropuerto anoche.	Ir Preterit Indicative
+Basic	Ir::Preterit::Indicative	When did you go to the airport?	¿Cuándo fuiste al aeropuerto?	Ir Preterit Indicative
+Basic	Ir::Imperfect::Indicative	I used to go to church every Sunday.	Iba a la iglesia todos los domingos.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Did you use to go to Bible study?	¿Ibas al estudio bíblico?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	He used to go to church as a child.	Iba a la iglesia de niño.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We used to go to the park on weekends.	Íbamos al parque los fines de semana.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They used to go to the restaurant every Friday.	Iban al restaurante todos los viernes.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	I was going to the store when I saw you.	Iba a la tienda cuando te vi.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Were you going to the hospital?	¿Ibas al hospital?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	She was going to the school.	Iba a la escuela.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We were going to the airport.	Íbamos al aeropuerto.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They were going to the concert.	Iban al concierto.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	I used to go to the market every Saturday.	Iba al mercado todos los sábados.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Did you use to go to the gym?	¿Ibas al gimnasio?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	He used to go to the park every morning.	Iba al parque todas las mañanas.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We used to go to the beach in the summer.	Íbamos a la playa en el verano.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They used to go to school together.	Iban a la escuela juntos.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	I used to go to the library on Tuesdays.	Iba a la biblioteca los martes.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Did you use to go to the pharmacy?	¿Ibas a la farmacia?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	She used to go to the doctor every year.	Iba al médico cada año.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We used to go to work together.	Íbamos al trabajo juntos.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They used to go to church with their family.	Iban a la iglesia con su familia.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	I used to go to the cinema every weekend.	Iba al cine todos los fines de semana.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Did you use to go to the supermarket?	¿Ibas al supermercado?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	He used to go to the dentist twice a year.	Iba al dentista dos veces al año.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We used to go to the park with the dog.	Íbamos al parque con el perro.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They used to go to Bible study on Wednesdays.	Iban al estudio bíblico los miércoles.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	I was going to the restaurant when it started raining.	Iba al restaurante cuando empezó a llover.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Were you going to the park?	¿Ibas al parque?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	She was going to the bank.	Iba al banco.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We were going to the supermarket.	Íbamos al supermercado.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They were going to the clinic.	Iban a la clínica.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	I used to go to class in the morning.	Iba a la clase por la mañana.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Did you use to go to school by bus?	¿Ibas a la escuela en autobús?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	She used to go to the library after school.	Iba a la biblioteca después de la escuela.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We used to go to Bible study every week.	Íbamos al estudio bíblico cada semana.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They used to go to the concert every month.	Iban al concierto cada mes.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	I was going to the doctor's office.	Iba al consultorio del médico.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Were you going to the office?	¿Ibas a la oficina?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	He was going to the meeting.	Iba a la reunión.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We were going to the hotel.	Íbamos al hotel.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They were going to the museum.	Iban al museo.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	I used to go to the beach every summer.	Iba a la playa cada verano.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Did you use to go to the vet with your dog?	¿Ibas al veterinario con tu perro?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	She used to go to church with her parents.	Iba a la iglesia con sus padres.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We used to go to the store every week.	Íbamos a la tienda cada semana.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They used to go to the park after school.	Iban al parque después de la escuela.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	I was going to visit my grandmother.	Iba a visitar a mi abuela.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Were you going to visit your family?	¿Ibas a visitar a tu familia?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	He was going to the prayer meeting.	Iba a la reunión de oración.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We were going to the university.	Íbamos a la universidad.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They were going to the dentist.	Iban al dentista.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	I used to go to work every day.	Iba al trabajo todos los días.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Did you use to go to the concert?	¿Ibas al concierto?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	She used to go to Bible study with her friends.	Iba al estudio bíblico con sus amigos.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We used to go to the restaurant on Fridays.	Íbamos al restaurante los viernes.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They used to go to school on foot.	Iban a la escuela a pie.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	I was going to the train station.	Iba a la estación de tren.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Were you going to the airport?	¿Ibas al aeropuerto?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	She was going to the supermarket.	Iba al supermercado.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We were going to the park.	Íbamos al parque.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They were going to church.	Iban a la iglesia.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	I used to go to the gym three times a week.	Iba al gimnasio tres veces a la semana.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Did you use to go to church every Sunday?	¿Ibas a la iglesia todos los domingos?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	He used to go to the park with his children.	Iba al parque con sus hijos.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We used to go to the beach with our friends.	Íbamos a la playa con nuestros amigos.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They used to go to the market on Saturdays.	Iban al mercado los sábados.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	I was going to the pharmacy.	Iba a la farmacia.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Were you going to the clinic?	¿Ibas a la clínica?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	She was going to the museum.	Iba al museo.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We were going to the concert.	Íbamos al concierto.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They were going to the train station.	Iban a la estación de tren.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	I used to go to the store to buy bread.	Iba a la tienda a comprar pan.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Did you use to go to the market to buy vegetables?	¿Ibas al mercado a comprar verduras?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	She used to go to church to pray.	Iba a la iglesia a orar.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We used to go to the park to walk the dog.	Íbamos al parque a pasear al perro.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They used to go to the restaurant to celebrate.	Iban al restaurante a celebrar.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	I used to go to the library to study.	Iba a la biblioteca a estudiar.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Did you use to go to the hospital to visit?	¿Ibas al hospital a visitar?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	He used to go to the office early.	Iba a la oficina temprano.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We used to go to the supermarket together.	Íbamos al supermercado juntos.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They used to go to the park every afternoon.	Iban al parque todas las tardes.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	I was going home when I saw her.	Iba a casa cuando la vi.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Were you going to your friend's house?	¿Ibas a la casa de tu amigo?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	She was going to the school to pick up the children.	Iba a la escuela a recoger a los niños.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We were going to the prayer meeting.	Íbamos a la reunión de oración.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They were going to Bible study.	Iban al estudio bíblico.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	I used to go to Bible study to learn.	Iba al estudio bíblico a aprender.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Did you use to go to the concert with your friends?	¿Ibas al concierto con tus amigos?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	He used to go to the vet with his cat.	Iba al veterinario con su gato.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We used to go to the market every morning.	Íbamos al mercado todas las mañanas.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They used to go to the doctor together.	Iban al médico juntos.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	I was going to the work meeting.	Iba a la reunión de trabajo.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Were you going to the university?	¿Ibas a la universidad?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	She was going to her grandmother's house.	Iba a la casa de su abuela.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We were going to the music rehearsal.	Íbamos al ensayo de música.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They were going to the school event.	Iban al evento de la escuela.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	I used to go to the clinic for checkups.	Iba a la clínica para revisiones.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	Did you use to go to the park in the mornings?	¿Ibas al parque por las mañanas?	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	He used to go to the restaurant with his family.	Iba al restaurante con su familia.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	We used to go to church to worship.	Íbamos a la iglesia a adorar.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Indicative	They used to go to the store after work.	Iban a la tienda después del trabajo.	Ir Imperfect Indicative
+Basic	Ir::Imperfect::Subjunctive	I wanted you to go to church.	Quería que fueras a la iglesia.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	He hoped I would go to Bible study.	Esperaba que fuera al estudio bíblico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She wanted us to go to the park.	Quería que fuéramos al parque.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed them to go to the doctor.	Necesitaba que fueran al médico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that you go to the hospital.	Era importante que fueras al hospital.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed you to go to the store.	Necesitaba que fueras a la tienda.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She wanted him to go to school.	Quería que fuera a la escuela.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that we go to the meeting.	Era necesario que fuéramos a la reunión.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I hoped they would go to church.	Esperaba que fueran a la iglesia.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was good that you went to the doctor.	Era bueno que fueras al médico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She didn't want you to go to the party alone.	No quería que fueras a la fiesta solo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I hoped he would go to the pharmacy.	Esperaba que fuera a la farmacia.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that we go to Bible study.	Era importante que fuéramos al estudio bíblico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She needed them to go to the airport.	Necesitaba que fueran al aeropuerto.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was better that you go to the clinic.	Era mejor que fueras a la clínica.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted you to go to the restaurant with me.	Quería que fueras al restaurante conmigo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped he would go to work.	Esperaba que fuera al trabajo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that they go to school.	Era necesario que fueran a la escuela.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed him to go to the meeting.	Necesitaba que fuera a la reunión.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that you go to church.	Era importante que fueras a la iglesia.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted us to go to the concert.	Quería que fuéramos al concierto.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped they would go to the supermarket.	Esperaba que fueran al supermercado.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was good that she went to the vet.	Era bueno que fuera al veterinario.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed you to go to the bank.	Necesitaba que fueras al banco.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was better that we go together.	Era mejor que fuéramos juntos.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted you to go to Bible study.	Quería que fueras al estudio bíblico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped he would go to the dentist.	Esperaba que fuera al dentista.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that they go to the hospital.	Era importante que fueran al hospital.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed her to go to the office.	Necesitaba que fuera a la oficina.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that you go to the pharmacy.	Era necesario que fueras a la farmacia.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted them to go to church with us.	Quería que fueran a la iglesia con nosotros.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped I would go to Bible study.	Esperaba que fuera al estudio bíblico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was good that we went to the park.	Era bueno que fuéramos al parque.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed him to go to the store.	Necesitaba que fuera a la tienda.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was better that they go to the clinic.	Era mejor que fueran a la clínica.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted you to go to the prayer meeting.	Quería que fueras a la reunión de oración.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped they would go to the school event.	Esperaba que fueran al evento de la escuela.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that she go to the doctor.	Era importante que fuera al médico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed us to go to the meeting early.	Necesitaba que fuéramos a la reunión temprano.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that he go to work.	Era necesario que fuera al trabajo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She didn't want you to go to the store alone.	No quería que fueras a la tienda solo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I hoped she would go to the gym.	Esperaba que fuera al gimnasio.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was good that you went to church.	Era bueno que fueras a la iglesia.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed them to go to the airport on time.	Necesitaba que fueran al aeropuerto a tiempo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was better that we go to the restaurant together.	Era mejor que fuéramos al restaurante juntos.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted him to go to the library.	Quería que fuera a la biblioteca.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped they would go to the concert together.	Esperaba que fueran al concierto juntos.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that you go to work.	Era importante que fueras al trabajo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed her to go to the pharmacy.	Necesitaba que fuera a la farmacia.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that we go to the hospital.	Era necesario que fuéramos al hospital.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted you to go to the museum with us.	Quería que fueras al museo con nosotros.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped he would go to church on Sunday.	Esperaba que fuera a la iglesia el domingo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was good that we went to the park with the dog.	Era bueno que fuéramos al parque con el perro.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed you to go to the meeting.	Necesitaba que fueras a la reunión.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was better that they go to the doctor.	Era mejor que fueran al médico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted her to go to school every day.	Quería que fuera a la escuela todos los días.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped they would go to the prayer meeting.	Esperaba que fueran a la reunión de oración.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that he go to the dentist.	Era importante que fuera al dentista.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed them to go to church with us.	Necesitaba que fueran a la iglesia con nosotros.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that you go to Bible study.	Era necesario que fueras al estudio bíblico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted us to go to the beach that summer.	Quería que fuéramos a la playa ese verano.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped she would go to the university.	Esperaba que fuera a la universidad.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was good that they went to the vet.	Era bueno que fueran al veterinario.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed him to go to the bank.	Necesitaba que fuera al banco.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was better that you go to the clinic.	Era mejor que fueras a la clínica.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted you to go to the concert with me.	Quería que fueras al concierto conmigo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped they would go to work together.	Esperaba que fueran al trabajo juntos.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that we go to Bible study.	Era importante que fuéramos al estudio bíblico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed you to go to the supermarket.	Necesitaba que fueras al supermercado.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that they go to school.	Era necesario que fueran a la escuela.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted her to go to the prayer meeting.	Quería que fuera a la reunión de oración.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped he would go to the hospital to visit.	Esperaba que fuera al hospital a visitar.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was good that you went to work on time.	Era bueno que fueras al trabajo a tiempo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed them to go to the restaurant.	Necesitaba que fueran al restaurante.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was better that we go to the park.	Era mejor que fuéramos al parque.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted you to go to church every Sunday.	Quería que fueras a la iglesia todos los domingos.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped she would go to the market.	Esperaba que fuera al mercado.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that they go to Bible study.	Era importante que fueran al estudio bíblico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed her to go to the school event.	Necesitaba que fuera al evento de la escuela.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that he go to the pharmacy.	Era necesario que fuera a la farmacia.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted us to go to the concert on Saturday.	Quería que fuéramos al concierto el sábado.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped you would go to the doctor soon.	Esperaba que fueras al médico pronto.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was good that they went to church together.	Era bueno que fueran a la iglesia juntos.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed you to go to the library.	Necesitaba que fueras a la biblioteca.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was better that she go to the clinic.	Era mejor que fuera a la clínica.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted them to go to the park with the children.	Quería que fueran al parque con los niños.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped he would go to the music rehearsal.	Esperaba que fuera al ensayo de música.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that you go to the prayer meeting.	Era importante que fueras a la reunión de oración.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed us to go to the airport early.	Necesitaba que fuéramos al aeropuerto temprano.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that they go to the hospital.	Era necesario que fueran al hospital.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted you to go to the vet with the cat.	Quería que fueras al veterinario con el gato.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped she would go to school.	Esperaba que fuera a la escuela.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was good that we went to church together.	Era bueno que fuéramos a la iglesia juntos.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed him to go to work on time.	Necesitaba que fuera al trabajo a tiempo.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was better that you go to Bible study.	Era mejor que fueras al estudio bíblico.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I wanted them to go to the concert.	Quería que fueran al concierto.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	She hoped they would go to the beach.	Esperaba que fueran a la playa.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was important that she go to the gym.	Era importante que fuera al gimnasio.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	I needed them to go to the supermarket.	Necesitaba que fueran al supermercado.	Ir Imperfect Subjunctive
+Basic	Ir::Imperfect::Subjunctive	It was necessary that you go to the airport.	Era necesario que fueras al aeropuerto.	Ir Imperfect Subjunctive
+Basic	Ir::Future::Indicative	I will go to church on Sunday.	Iré a la iglesia el domingo.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to Bible study?	¿Irás al estudio bíblico?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to the store tomorrow.	Irá a la tienda mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the park this weekend.	Iremos al parque este fin de semana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the restaurant tonight.	Irán al restaurante esta noche.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the doctor next week.	Iré al médico la próxima semana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the supermarket?	¿Irás al supermercado?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to the school tomorrow.	Irá a la escuela mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the airport early.	Iremos al aeropuerto temprano.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the concert on Friday.	Irán al concierto el viernes.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to work tomorrow.	Iré al trabajo mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the gym tonight?	¿Irás al gimnasio esta noche?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to Bible study on Wednesday.	Irá al estudio bíblico el miércoles.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the beach next summer.	Iremos a la playa el próximo verano.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the museum on Saturday.	Irán al museo el sábado.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the pharmacy after work.	Iré a la farmacia después del trabajo.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to church with me?	¿Irás a la iglesia conmigo?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to the dentist next week.	Irá al dentista la próxima semana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the meeting tomorrow.	Iremos a la reunión mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the park with the dog.	Irán al parque con el perro.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the library this afternoon.	Iré a la biblioteca esta tarde.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the prayer meeting?	¿Irás a la reunión de oración?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to the hospital tomorrow.	Irá al hospital mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to church together.	Iremos a la iglesia juntos.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to school by bus.	Irán a la escuela en autobús.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the store to buy food.	Iré a la tienda a comprar comida.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the concert?	¿Irás al concierto?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to the doctor on Monday.	Irá al médico el lunes.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the restaurant this Friday.	Iremos al restaurante este viernes.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the airport tomorrow morning.	Irán al aeropuerto mañana por la mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the vet with my dog.	Iré al veterinario con mi perro.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the bank today?	¿Irás al banco hoy?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to the office early tomorrow.	Irá a la oficina temprano mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the supermarket this afternoon.	Iremos al supermercado esta tarde.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to Bible study next week.	Irán al estudio bíblico la próxima semana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go home after work.	Iré a casa después del trabajo.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the clinic?	¿Irás a la clínica?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to the university next year.	Irá a la universidad el próximo año.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the park tomorrow.	Iremos al parque mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to visit their family.	Irán a visitar a su familia.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the market on Saturday.	Iré al mercado el sábado.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the school event?	¿Irás al evento de la escuela?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to the concert with his friends.	Irá al concierto con sus amigos.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the hotel tomorrow.	Iremos al hotel mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the beach this summer.	Irán a la playa este verano.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the prayer meeting tonight.	Iré a la reunión de oración esta noche.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the museum with us?	¿Irás al museo con nosotros?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to work tomorrow.	Irá al trabajo mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to church on Sunday morning.	Iremos a la iglesia el domingo por la mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the train station tonight.	Irán a la estación de tren esta noche.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the pharmacy to buy medicine.	Iré a la farmacia a comprar medicina.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the dentist this week?	¿Irás al dentista esta semana?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to visit his grandmother.	Irá a visitar a su abuela.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the library to study.	Iremos a la biblioteca a estudiar.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the restaurant to celebrate.	Irán al restaurante a celebrar.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the gym three times a week.	Iré al gimnasio tres veces a la semana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the park with the dog?	¿Irás al parque con el perro?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to the market tomorrow morning.	Irá al mercado mañana por la mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the concert on Saturday.	Iremos al concierto el sábado.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to church with their parents.	Irán a la iglesia con sus padres.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the office for the meeting.	Iré a la oficina para la reunión.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the airport with me?	¿Irás al aeropuerto conmigo?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to the vet with the cat.	Irá al veterinario con el gato.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the supermarket to buy groceries.	Iremos al supermercado a comprar comestibles.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to school together tomorrow.	Irán a la escuela juntos mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the doctor for a checkup.	Iré al médico para una revisión.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to work on Monday?	¿Irás al trabajo el lunes?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to the prayer meeting with her sister.	Irá a la reunión de oración con su hermana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the museum on Sunday.	Iremos al museo el domingo.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the hospital to visit.	Irán al hospital a visitar.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to Bible study on Wednesday night.	Iré al estudio bíblico el miércoles por la noche.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the hotel tonight?	¿Irás al hotel esta noche?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to the restaurant to eat.	Irá al restaurante a comer.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the park with the children.	Iremos al parque con los niños.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the clinic for their appointment.	Irán a la clínica para su cita.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the store after school.	Iré a la tienda después de la escuela.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the library today?	¿Irás a la biblioteca hoy?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to the gym in the morning.	Irá al gimnasio por la mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to visit our friends.	Iremos a visitar a nuestros amigos.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the bank tomorrow.	Irán al banco mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the concert with my family.	Iré al concierto con mi familia.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the university this year?	¿Irás a la universidad este año?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to work early on Monday.	Irá al trabajo temprano el lunes.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the pharmacy after the appointment.	Iremos a la farmacia después de la cita.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to visit the church next Sunday.	Irán a visitar la iglesia el próximo domingo.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go home for lunch.	Iré a casa a almorzar.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the meeting on Friday?	¿Irás a la reunión el viernes?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to the library to read.	Irá a la biblioteca a leer.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the beach with our family.	Iremos a la playa con nuestra familia.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the restaurant for the birthday.	Irán al restaurante para el cumpleaños.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to church to worship on Sunday.	Iré a la iglesia a adorar el domingo.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the school play?	¿Irás a la obra de la escuela?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to the dentist on Thursday.	Irá al dentista el jueves.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the hotel for the vacation.	Iremos al hotel para las vacaciones.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the park to play soccer.	Irán al parque a jugar fútbol.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the music rehearsal tonight.	Iré al ensayo de música esta noche.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the hospital with me?	¿Irás al hospital conmigo?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to the store to buy fruit.	Irá a la tienda a comprar fruta.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to Bible study together.	Iremos al estudio bíblico juntos.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the concert to perform.	Irán al concierto a actuar.	Ir Future Indicative
+Basic	Ir::Conditional	I would go to church if I could.	Iría a la iglesia si pudiera.	Ir Conditional
+Basic	Ir::Conditional	Would you go to Bible study with me?	¿Irías al estudio bíblico conmigo?	Ir Conditional
+Basic	Ir::Conditional	He would go to the store tomorrow.	Iría a la tienda mañana.	Ir Conditional
+Basic	Ir::Conditional	We would go to the park if it doesn't rain.	Iríamos al parque si no llueve.	Ir Conditional
+Basic	Ir::Conditional	They would go to the restaurant on Friday.	Irían al restaurante el viernes.	Ir Conditional
+Basic	Ir::Conditional	I would go to the doctor if I felt sick.	Iría al médico si me sintiera mal.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the supermarket?	¿Irías al supermercado?	Ir Conditional
+Basic	Ir::Conditional	She would go to the school tomorrow.	Iría a la escuela mañana.	Ir Conditional
+Basic	Ir::Conditional	We would go to the airport early.	Iríamos al aeropuerto temprano.	Ir Conditional
+Basic	Ir::Conditional	They would go to the concert if they had tickets.	Irían al concierto si tuvieran entradas.	Ir Conditional
+Basic	Ir::Conditional	I would go to the park every day if I had time.	Iría al parque todos los días si tuviera tiempo.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the gym with me?	¿Irías al gimnasio conmigo?	Ir Conditional
+Basic	Ir::Conditional	He would go to Bible study if he could.	Iría al estudio bíblico si pudiera.	Ir Conditional
+Basic	Ir::Conditional	We would go to the beach if the weather is good.	Iríamos a la playa si hace buen tiempo.	Ir Conditional
+Basic	Ir::Conditional	They would go to the museum on Saturday.	Irían al museo el sábado.	Ir Conditional
+Basic	Ir::Conditional	I would go to the pharmacy if I needed medicine.	Iría a la farmacia si necesitara medicina.	Ir Conditional
+Basic	Ir::Conditional	Would you go to church with your family?	¿Irías a la iglesia con tu familia?	Ir Conditional
+Basic	Ir::Conditional	She would go to the dentist if it didn't hurt so much.	Iría al dentista si no doliera tanto.	Ir Conditional
+Basic	Ir::Conditional	We would go to the meeting if it were important.	Iríamos a la reunión si fuera importante.	Ir Conditional
+Basic	Ir::Conditional	They would go to the park with the dog.	Irían al parque con el perro.	Ir Conditional
+Basic	Ir::Conditional	I would go to the library to study.	Iría a la biblioteca a estudiar.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the prayer meeting tonight?	¿Irías a la reunión de oración esta noche?	Ir Conditional
+Basic	Ir::Conditional	He would go to the hospital if necessary.	Iría al hospital si fuera necesario.	Ir Conditional
+Basic	Ir::Conditional	We would go to church together every Sunday.	Iríamos a la iglesia juntos todos los domingos.	Ir Conditional
+Basic	Ir::Conditional	They would go to school if they could.	Irían a la escuela si pudieran.	Ir Conditional
+Basic	Ir::Conditional	I would go to the store if I had money.	Iría a la tienda si tuviera dinero.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the concert with us?	¿Irías al concierto con nosotros?	Ir Conditional
+Basic	Ir::Conditional	She would go to the doctor if she were sick.	Iría al médico si estuviera enferma.	Ir Conditional
+Basic	Ir::Conditional	We would go to the restaurant if you want.	Iríamos al restaurante si quieres.	Ir Conditional
+Basic	Ir::Conditional	They would go to the airport to pick them up.	Irían al aeropuerto a recogerlos.	Ir Conditional
+Basic	Ir::Conditional	I would go to the vet if my dog were sick.	Iría al veterinario si mi perro estuviera enfermo.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the bank today?	¿Irías al banco hoy?	Ir Conditional
+Basic	Ir::Conditional	He would go to the office if they called him.	Iría a la oficina si lo llamaran.	Ir Conditional
+Basic	Ir::Conditional	We would go to the supermarket together.	Iríamos al supermercado juntos.	Ir Conditional
+Basic	Ir::Conditional	They would go to Bible study if they had time.	Irían al estudio bíblico si tuvieran tiempo.	Ir Conditional
+Basic	Ir::Conditional	I would go home early if I could.	Iría a casa temprano si pudiera.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the clinic if you were sick?	¿Irías a la clínica si estuvieras enfermo?	Ir Conditional
+Basic	Ir::Conditional	She would go to the university if she had the opportunity.	Iría a la universidad si tuviera la oportunidad.	Ir Conditional
+Basic	Ir::Conditional	We would go to the park tomorrow.	Iríamos al parque mañana.	Ir Conditional
+Basic	Ir::Conditional	They would go to visit their family if they had time.	Irían a visitar a su familia si tuvieran tiempo.	Ir Conditional
+Basic	Ir::Conditional	I would go to the market on Saturday.	Iría al mercado el sábado.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the school event with me?	¿Irías al evento de la escuela conmigo?	Ir Conditional
+Basic	Ir::Conditional	He would go to the concert if he liked music.	Iría al concierto si le gustara la música.	Ir Conditional
+Basic	Ir::Conditional	We would go to the hotel if we had the money.	Iríamos al hotel si tuviéramos el dinero.	Ir Conditional
+Basic	Ir::Conditional	They would go to the beach if it were summer.	Irían a la playa si fuera verano.	Ir Conditional
+Basic	Ir::Conditional	I would go to the prayer meeting if I weren't sick.	Iría a la reunión de oración si no estuviera enfermo.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the museum with us?	¿Irías al museo con nosotros?	Ir Conditional
+Basic	Ir::Conditional	She would go to work if she felt better.	Iría al trabajo si se sintiera mejor.	Ir Conditional
+Basic	Ir::Conditional	We would go to church every Sunday if we could.	Iríamos a la iglesia todos los domingos si pudiéramos.	Ir Conditional
+Basic	Ir::Conditional	They would go to the train station tonight.	Irían a la estación de tren esta noche.	Ir Conditional
+Basic	Ir::Conditional	I would go to the pharmacy if it were open.	Iría a la farmacia si estuviera abierta.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the dentist this week?	¿Irías al dentista esta semana?	Ir Conditional
+Basic	Ir::Conditional	He would go to visit his grandmother if he had time.	Iría a visitar a su abuela si tuviera tiempo.	Ir Conditional
+Basic	Ir::Conditional	We would go to the library if it were closer.	Iríamos a la biblioteca si estuviera más cerca.	Ir Conditional
+Basic	Ir::Conditional	They would go to the restaurant to celebrate.	Irían al restaurante a celebrar.	Ir Conditional
+Basic	Ir::Conditional	I would go to the gym if I weren't so tired.	Iría al gimnasio si no estuviera tan cansado.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the park with the dog?	¿Irías al parque con el perro?	Ir Conditional
+Basic	Ir::Conditional	She would go to the market in the morning.	Iría al mercado por la mañana.	Ir Conditional
+Basic	Ir::Conditional	We would go to the concert with our friends.	Iríamos al concierto con nuestros amigos.	Ir Conditional
+Basic	Ir::Conditional	They would go to church with their parents if asked.	Irían a la iglesia con sus padres si se les pidiera.	Ir Conditional
+Basic	Ir::Conditional	I would go to the office for the meeting.	Iría a la oficina para la reunión.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the airport with me?	¿Irías al aeropuerto conmigo?	Ir Conditional
+Basic	Ir::Conditional	He would go to the vet if the cat were sick.	Iría al veterinario si el gato estuviera enfermo.	Ir Conditional
+Basic	Ir::Conditional	We would go to the supermarket if we needed groceries.	Iríamos al supermercado si necesitáramos comestibles.	Ir Conditional
+Basic	Ir::Conditional	They would go to school if classes were in person.	Irían a la escuela si las clases fueran presenciales.	Ir Conditional
+Basic	Ir::Conditional	I would go to the doctor for a checkup.	Iría al médico para una revisión.	Ir Conditional
+Basic	Ir::Conditional	Would you go to work on Monday if you felt better?	¿Irías al trabajo el lunes si te sintieras mejor?	Ir Conditional
+Basic	Ir::Conditional	She would go to the prayer meeting if she weren't busy.	Iría a la reunión de oración si no estuviera ocupada.	Ir Conditional
+Basic	Ir::Conditional	We would go to the museum on Sunday.	Iríamos al museo el domingo.	Ir Conditional
+Basic	Ir::Conditional	They would go to the hospital to visit.	Irían al hospital a visitar.	Ir Conditional
+Basic	Ir::Conditional	I would go to Bible study if I had the time.	Iría al estudio bíblico si tuviera el tiempo.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the hotel with your family?	¿Irías al hotel con tu familia?	Ir Conditional
+Basic	Ir::Conditional	He would go to the restaurant to eat.	Iría al restaurante a comer.	Ir Conditional
+Basic	Ir::Conditional	We would go to the park with the children.	Iríamos al parque con los niños.	Ir Conditional
+Basic	Ir::Conditional	They would go to the clinic for the appointment.	Irían a la clínica para la cita.	Ir Conditional
+Basic	Ir::Conditional	I would go to the store after work.	Iría a la tienda después del trabajo.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the library today?	¿Irías a la biblioteca hoy?	Ir Conditional
+Basic	Ir::Conditional	She would go to the gym in the morning.	Iría al gimnasio por la mañana.	Ir Conditional
+Basic	Ir::Conditional	We would go to visit our friends on the weekend.	Iríamos a visitar a nuestros amigos el fin de semana.	Ir Conditional
+Basic	Ir::Conditional	They would go to the bank if it were open.	Irían al banco si estuviera abierto.	Ir Conditional
+Basic	Ir::Conditional	I would go to the concert with my family.	Iría al concierto con mi familia.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the university if you had the chance?	¿Irías a la universidad si tuvieras la oportunidad?	Ir Conditional
+Basic	Ir::Conditional	He would go to work early if he could.	Iría al trabajo temprano si pudiera.	Ir Conditional
+Basic	Ir::Conditional	We would go to the pharmacy after the appointment.	Iríamos a la farmacia después de la cita.	Ir Conditional
+Basic	Ir::Conditional	They would go to church if someone invited them.	Irían a la iglesia si alguien los invitara.	Ir Conditional
+Basic	Ir::Conditional	I would go home if I were tired.	Iría a casa si estuviera cansado.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the meeting on Friday?	¿Irías a la reunión el viernes?	Ir Conditional
+Basic	Ir::Conditional	She would go to the library to read.	Iría a la biblioteca a leer.	Ir Conditional
+Basic	Ir::Conditional	We would go to the beach with our family if we could.	Iríamos a la playa con nuestra familia si pudiéramos.	Ir Conditional
+Basic	Ir::Conditional	They would go to the restaurant for the birthday.	Irían al restaurante para el cumpleaños.	Ir Conditional
+Basic	Ir::Conditional	I would go to church more if it were closer.	Iría a la iglesia más si estuviera más cerca.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the school play?	¿Irías a la obra de la escuela?	Ir Conditional
+Basic	Ir::Conditional	He would go to the dentist if he had an appointment.	Iría al dentista si tuviera una cita.	Ir Conditional
+Basic	Ir::Conditional	We would go to the hotel for vacation.	Iríamos al hotel para las vacaciones.	Ir Conditional
+Basic	Ir::Conditional	They would go to the park to play soccer.	Irían al parque a jugar fútbol.	Ir Conditional
+Basic	Ir::Conditional	I would go to the music rehearsal if I weren't busy.	Iría al ensayo de música si no estuviera ocupado.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the hospital with me?	¿Irías al hospital conmigo?	Ir Conditional
+Basic	Ir::Conditional	She would go to the store to buy fruit.	Iría a la tienda a comprar fruta.	Ir Conditional
+Basic	Ir::Conditional	We would go to Bible study together if we could.	Iríamos al estudio bíblico juntos si pudiéramos.	Ir Conditional
+Basic	Ir::Conditional	They would go to the concert to perform.	Irían al concierto a actuar.	Ir Conditional
+Basic	Ir::Past::Perfect	I had already gone to church when you called.	Ya había ido a la iglesia cuando llamaste.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to Bible study before?	¿Habías ido al estudio bíblico antes?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to the store before it closed.	Había ido a la tienda antes de que cerrara.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the park before it rained.	Habíamos ido al parque antes de que lloviera.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the restaurant before we arrived.	Habían ido al restaurante antes de que llegáramos.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had already gone to the doctor.	Ya había ido al médico.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the hospital before?	¿Habías ido al hospital antes?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to the school.	Había ido a la escuela.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the airport before the flight.	Habíamos ido al aeropuerto antes del vuelo.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had already gone to the concert.	Ya habían ido al concierto.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to work before sunrise.	Había ido al trabajo antes del amanecer.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the gym before the injury?	¿Habías ido al gimnasio antes de la lesión?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to Bible study for years.	Había ido al estudio bíblico por años.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the beach before the storm.	Habíamos ido a la playa antes de la tormenta.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the museum before it closed.	Habían ido al museo antes de que cerrara.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the pharmacy before it closed.	Había ido a la farmacia antes de que cerrara.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to church before moving here?	¿Habías ido a la iglesia antes de mudarte aquí?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to the dentist last week.	Había ido al dentista la semana pasada.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the meeting before you arrived.	Habíamos ido a la reunión antes de que llegaras.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the park with the dog.	Habían ido al parque con el perro.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the library to study.	Había ido a la biblioteca a estudiar.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the prayer meeting before?	¿Habías ido a la reunión de oración antes?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to the hospital.	Había ido al hospital.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to church together many times.	Habíamos ido a la iglesia juntos muchas veces.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had already gone to school.	Ya habían ido a la escuela.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the store to buy groceries.	Había ido a la tienda a comprar comestibles.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the concert before?	¿Habías ido al concierto antes?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to the doctor.	Había ido al médico.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the restaurant before the party.	Habíamos ido al restaurante antes de la fiesta.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the airport to pick up a friend.	Habían ido al aeropuerto a recoger a un amigo.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the vet with my dog.	Había ido al veterinario con mi perro.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the bank?	¿Habías ido al banco?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to the office early.	Había ido a la oficina temprano.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the supermarket before the party.	Habíamos ido al supermercado antes de la fiesta.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to Bible study before moving.	Habían ido al estudio bíblico antes de mudarse.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had already gone home.	Ya había ido a casa.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the clinic?	¿Habías ido a la clínica?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to the university.	Había ido a la universidad.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the park in the morning.	Habíamos ido al parque por la mañana.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to visit their family.	Habían ido a visitar a su familia.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the market before it opened.	Había ido al mercado antes de que abriera.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the school event before?	¿Habías ido al evento de la escuela antes?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to the concert with his friends.	Había ido al concierto con sus amigos.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the hotel before checking in.	Habíamos ido al hotel antes de registrarnos.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the beach before the rain.	Habían ido a la playa antes de la lluvia.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the prayer meeting.	Había ido a la reunión de oración.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the museum?	¿Habías ido al museo?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to work early.	Había ido al trabajo temprano.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to church every Sunday.	Habíamos ido a la iglesia todos los domingos.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the train station.	Habían ido a la estación de tren.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the pharmacy.	Había ido a la farmacia.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the dentist?	¿Habías ido al dentista?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to visit his grandmother.	Había ido a visitar a su abuela.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the library.	Habíamos ido a la biblioteca.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the restaurant to celebrate.	Habían ido al restaurante a celebrar.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the gym before the injury.	Había ido al gimnasio antes de la lesión.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the park with the dog?	¿Habías ido al parque con el perro?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to the market.	Había ido al mercado.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the concert before it started.	Habíamos ido al concierto antes de que empezara.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to church with their parents.	Habían ido a la iglesia con sus padres.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the office.	Había ido a la oficina.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the airport?	¿Habías ido al aeropuerto?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to the vet with the cat.	Había ido al veterinario con el gato.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the supermarket.	Habíamos ido al supermercado.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to school together.	Habían ido a la escuela juntos.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the doctor for a checkup.	Había ido al médico para una revisión.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to work that day?	¿Habías ido al trabajo ese día?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to the prayer meeting.	Había ido a la reunión de oración.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the museum before it closed.	Habíamos ido al museo antes de que cerrara.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the hospital.	Habían ido al hospital.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to Bible study before moving.	Había ido al estudio bíblico antes de mudarme.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the hotel?	¿Habías ido al hotel?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to the restaurant.	Había ido al restaurante.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the park with the children.	Habíamos ido al parque con los niños.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the clinic.	Habían ido a la clínica.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the store.	Había ido a la tienda.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the library?	¿Habías ido a la biblioteca?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to the gym.	Había ido al gimnasio.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to visit our friends.	Habíamos ido a visitar a nuestros amigos.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the bank.	Habían ido al banco.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the concert with my family.	Había ido al concierto con mi familia.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the university?	¿Habías ido a la universidad?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to work early.	Había ido al trabajo temprano.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the pharmacy.	Habíamos ido a la farmacia.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the church many times.	Habían ido a la iglesia muchas veces.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had already gone home before you arrived.	Ya había ido a casa antes de que llegaras.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the meeting?	¿Habías ido a la reunión?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to the library.	Había ido a la biblioteca.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the beach with our family.	Habíamos ido a la playa con nuestra familia.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the restaurant for the birthday.	Habían ido al restaurante para el cumpleaños.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to church before the service ended.	Había ido a la iglesia antes de que terminara el servicio.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the school play?	¿Habías ido a la obra de la escuela?	Ir Past Perfect
+Basic	Ir::Past::Perfect	He had gone to the dentist.	Había ido al dentista.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to the hotel.	Habíamos ido al hotel.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the park to play.	Habían ido al parque a jugar.	Ir Past Perfect
+Basic	Ir::Past::Perfect	I had gone to the music rehearsal.	Había ido al ensayo de música.	Ir Past Perfect
+Basic	Ir::Past::Perfect	Had you gone to the hospital?	¿Habías ido al hospital?	Ir Past Perfect
+Basic	Ir::Past::Perfect	She had gone to the store.	Había ido a la tienda.	Ir Past Perfect
+Basic	Ir::Past::Perfect	We had gone to Bible study together.	Habíamos ido al estudio bíblico juntos.	Ir Past Perfect
+Basic	Ir::Past::Perfect	They had gone to the concert to perform.	Habían ido al concierto a actuar.	Ir Past Perfect

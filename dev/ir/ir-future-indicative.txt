@@ -1,0 +1,107 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Ir::Future::Indicative	I will go to church on Sunday.	Iré a la iglesia el domingo.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to Bible study?	¿Irás al estudio bíblico?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to the store tomorrow.	Irá a la tienda mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the park this weekend.	Iremos al parque este fin de semana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the restaurant tonight.	Irán al restaurante esta noche.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the doctor next week.	Iré al médico la próxima semana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the supermarket?	¿Irás al supermercado?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to the school tomorrow.	Irá a la escuela mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the airport early.	Iremos al aeropuerto temprano.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the concert on Friday.	Irán al concierto el viernes.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to work tomorrow.	Iré al trabajo mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the gym tonight?	¿Irás al gimnasio esta noche?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to Bible study on Wednesday.	Irá al estudio bíblico el miércoles.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the beach next summer.	Iremos a la playa el próximo verano.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the museum on Saturday.	Irán al museo el sábado.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the pharmacy after work.	Iré a la farmacia después del trabajo.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to church with me?	¿Irás a la iglesia conmigo?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to the dentist next week.	Irá al dentista la próxima semana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the meeting tomorrow.	Iremos a la reunión mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the park with the dog.	Irán al parque con el perro.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the library this afternoon.	Iré a la biblioteca esta tarde.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the prayer meeting?	¿Irás a la reunión de oración?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to the hospital tomorrow.	Irá al hospital mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to church together.	Iremos a la iglesia juntos.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to school by bus.	Irán a la escuela en autobús.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the store to buy food.	Iré a la tienda a comprar comida.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the concert?	¿Irás al concierto?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to the doctor on Monday.	Irá al médico el lunes.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the restaurant this Friday.	Iremos al restaurante este viernes.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the airport tomorrow morning.	Irán al aeropuerto mañana por la mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the vet with my dog.	Iré al veterinario con mi perro.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the bank today?	¿Irás al banco hoy?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to the office early tomorrow.	Irá a la oficina temprano mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the supermarket this afternoon.	Iremos al supermercado esta tarde.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to Bible study next week.	Irán al estudio bíblico la próxima semana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go home after work.	Iré a casa después del trabajo.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the clinic?	¿Irás a la clínica?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to the university next year.	Irá a la universidad el próximo año.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the park tomorrow.	Iremos al parque mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to visit their family.	Irán a visitar a su familia.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the market on Saturday.	Iré al mercado el sábado.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the school event?	¿Irás al evento de la escuela?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to the concert with his friends.	Irá al concierto con sus amigos.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the hotel tomorrow.	Iremos al hotel mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the beach this summer.	Irán a la playa este verano.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the prayer meeting tonight.	Iré a la reunión de oración esta noche.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the museum with us?	¿Irás al museo con nosotros?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to work tomorrow.	Irá al trabajo mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to church on Sunday morning.	Iremos a la iglesia el domingo por la mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the train station tonight.	Irán a la estación de tren esta noche.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the pharmacy to buy medicine.	Iré a la farmacia a comprar medicina.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the dentist this week?	¿Irás al dentista esta semana?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to visit his grandmother.	Irá a visitar a su abuela.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the library to study.	Iremos a la biblioteca a estudiar.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the restaurant to celebrate.	Irán al restaurante a celebrar.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the gym three times a week.	Iré al gimnasio tres veces a la semana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the park with the dog?	¿Irás al parque con el perro?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to the market tomorrow morning.	Irá al mercado mañana por la mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the concert on Saturday.	Iremos al concierto el sábado.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to church with their parents.	Irán a la iglesia con sus padres.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the office for the meeting.	Iré a la oficina para la reunión.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the airport with me?	¿Irás al aeropuerto conmigo?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to the vet with the cat.	Irá al veterinario con el gato.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the supermarket to buy groceries.	Iremos al supermercado a comprar comestibles.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to school together tomorrow.	Irán a la escuela juntos mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the doctor for a checkup.	Iré al médico para una revisión.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to work on Monday?	¿Irás al trabajo el lunes?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to the prayer meeting with her sister.	Irá a la reunión de oración con su hermana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the museum on Sunday.	Iremos al museo el domingo.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the hospital to visit.	Irán al hospital a visitar.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to Bible study on Wednesday night.	Iré al estudio bíblico el miércoles por la noche.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the hotel tonight?	¿Irás al hotel esta noche?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to the restaurant to eat.	Irá al restaurante a comer.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the park with the children.	Iremos al parque con los niños.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the clinic for their appointment.	Irán a la clínica para su cita.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the store after school.	Iré a la tienda después de la escuela.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the library today?	¿Irás a la biblioteca hoy?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to the gym in the morning.	Irá al gimnasio por la mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to visit our friends.	Iremos a visitar a nuestros amigos.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the bank tomorrow.	Irán al banco mañana.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the concert with my family.	Iré al concierto con mi familia.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the university this year?	¿Irás a la universidad este año?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to work early on Monday.	Irá al trabajo temprano el lunes.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the pharmacy after the appointment.	Iremos a la farmacia después de la cita.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to visit the church next Sunday.	Irán a visitar la iglesia el próximo domingo.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go home for lunch.	Iré a casa a almorzar.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the meeting on Friday?	¿Irás a la reunión el viernes?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to the library to read.	Irá a la biblioteca a leer.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the beach with our family.	Iremos a la playa con nuestra familia.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the restaurant for the birthday.	Irán al restaurante para el cumpleaños.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to church to worship on Sunday.	Iré a la iglesia a adorar el domingo.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the school play?	¿Irás a la obra de la escuela?	Ir Future Indicative
+Basic	Ir::Future::Indicative	He will go to the dentist on Thursday.	Irá al dentista el jueves.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to the hotel for the vacation.	Iremos al hotel para las vacaciones.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the park to play soccer.	Irán al parque a jugar fútbol.	Ir Future Indicative
+Basic	Ir::Future::Indicative	I will go to the music rehearsal tonight.	Iré al ensayo de música esta noche.	Ir Future Indicative
+Basic	Ir::Future::Indicative	Will you go to the hospital with me?	¿Irás al hospital conmigo?	Ir Future Indicative
+Basic	Ir::Future::Indicative	She will go to the store to buy fruit.	Irá a la tienda a comprar fruta.	Ir Future Indicative
+Basic	Ir::Future::Indicative	We will go to Bible study together.	Iremos al estudio bíblico juntos.	Ir Future Indicative
+Basic	Ir::Future::Indicative	They will go to the concert to perform.	Irán al concierto a actuar.	Ir Future Indicative

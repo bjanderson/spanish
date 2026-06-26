@@ -1,0 +1,106 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Ir::Present::Perfect	I have gone to church every Sunday this month.	He ido a la iglesia todos los domingos este mes.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to Bible study?	¿Has ido al estudio bíblico?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to the store.	Ha ido a la tienda.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the park many times.	Hemos ido al parque muchas veces.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the restaurant.	Han ido al restaurante.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have already gone to the doctor.	Ya he ido al médico.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the hospital?	¿Has ido al hospital?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to the school.	Ha ido a la escuela.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the airport.	Hemos ido al aeropuerto.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the concert.	Han ido al concierto.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to work every day this week.	He ido al trabajo todos los días esta semana.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the gym?	¿Has ido al gimnasio?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to Bible study three times.	Ha ido al estudio bíblico tres veces.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the beach this summer.	Hemos ido a la playa este verano.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the museum.	Han ido al museo.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the pharmacy.	He ido a la farmacia.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to church?	¿Has ido a la iglesia?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to the dentist.	Ha ido al dentista.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the meeting.	Hemos ido a la reunión.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the park with the dog.	Han ido al parque con el perro.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the library twice this week.	He ido a la biblioteca dos veces esta semana.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the prayer meeting?	¿Has ido a la reunión de oración?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to the hospital.	Ha ido al hospital.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to church together this month.	Hemos ido a la iglesia juntos este mes.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to school by bus.	Han ido a la escuela en autobús.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the store to buy groceries.	He ido a la tienda a comprar comestibles.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the concert?	¿Has ido al concierto?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to the doctor.	Ha ido al médico.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the restaurant this week.	Hemos ido al restaurante esta semana.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the airport.	Han ido al aeropuerto.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the vet with my dog.	He ido al veterinario con mi perro.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the bank?	¿Has ido al banco?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to the office early.	Ha ido a la oficina temprano.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the supermarket.	Hemos ido al supermercado.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to Bible study this week.	Han ido al estudio bíblico esta semana.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have already gone home.	Ya he ido a casa.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the clinic?	¿Has ido a la clínica?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to the university.	Ha ido a la universidad.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the park this morning.	Hemos ido al parque esta mañana.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to visit their family.	Han ido a visitar a su familia.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the market this morning.	He ido al mercado esta mañana.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the school event?	¿Has ido al evento de la escuela?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to the concert with his friends.	Ha ido al concierto con sus amigos.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the hotel.	Hemos ido al hotel.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the beach this summer.	Han ido a la playa este verano.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the prayer meeting.	He ido a la reunión de oración.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the museum?	¿Has ido al museo?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to work this morning.	Ha ido al trabajo esta mañana.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to church every Sunday this month.	Hemos ido a la iglesia todos los domingos este mes.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the train station.	Han ido a la estación de tren.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the pharmacy to buy medicine.	He ido a la farmacia a comprar medicina.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the dentist recently?	¿Has ido al dentista recientemente?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to visit his grandmother.	Ha ido a visitar a su abuela.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the library to study.	Hemos ido a la biblioteca a estudiar.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the restaurant to celebrate.	Han ido al restaurante a celebrar.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the gym this week.	He ido al gimnasio esta semana.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the park with the dog?	¿Has ido al parque con el perro?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to the market.	Ha ido al mercado.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the concert.	Hemos ido al concierto.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to church with their parents.	Han ido a la iglesia con sus padres.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the office for the meeting.	He ido a la oficina para la reunión.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the airport?	¿Has ido al aeropuerto?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to the vet with the cat.	Ha ido al veterinario con el gato.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the supermarket to buy groceries.	Hemos ido al supermercado a comprar comestibles.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to school together.	Han ido a la escuela juntos.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the doctor for a checkup.	He ido al médico para una revisión.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to work this week?	¿Has ido al trabajo esta semana?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to the prayer meeting.	Ha ido a la reunión de oración.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the museum.	Hemos ido al museo.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the hospital to visit.	Han ido al hospital a visitar.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to Bible study three times this month.	He ido al estudio bíblico tres veces este mes.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the hotel?	¿Has ido al hotel?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to the restaurant to eat.	Ha ido al restaurante a comer.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the park with the children.	Hemos ido al parque con los niños.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the clinic for their appointment.	Han ido a la clínica para su cita.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the store after school.	He ido a la tienda después de la escuela.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the library?	¿Has ido a la biblioteca?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to the gym.	Ha ido al gimnasio.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to visit our friends.	Hemos ido a visitar a nuestros amigos.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the bank.	Han ido al banco.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the concert with my family.	He ido al concierto con mi familia.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the university?	¿Has ido a la universidad?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to work early.	Ha ido al trabajo temprano.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the pharmacy after the appointment.	Hemos ido a la farmacia después de la cita.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to church.	Han ido a la iglesia.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the meeting?	¿Has ido a la reunión?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to the library to read.	Ha ido a la biblioteca a leer.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the beach with our family.	Hemos ido a la playa con nuestra familia.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the restaurant for the birthday.	Han ido al restaurante para el cumpleaños.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to church to worship.	He ido a la iglesia a adorar.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the school play?	¿Has ido a la obra de la escuela?	Ir Present Perfect
+Basic	Ir::Present::Perfect	He has gone to the dentist.	Ha ido al dentista.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to the hotel for vacation.	Hemos ido al hotel para las vacaciones.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the park to play.	Han ido al parque a jugar.	Ir Present Perfect
+Basic	Ir::Present::Perfect	I have gone to the music rehearsal.	He ido al ensayo de música.	Ir Present Perfect
+Basic	Ir::Present::Perfect	Have you gone to the hospital?	¿Has ido al hospital?	Ir Present Perfect
+Basic	Ir::Present::Perfect	She has gone to the store to buy fruit.	Ha ido a la tienda a comprar fruta.	Ir Present Perfect
+Basic	Ir::Present::Perfect	We have gone to Bible study together.	Hemos ido al estudio bíblico juntos.	Ir Present Perfect
+Basic	Ir::Present::Perfect	They have gone to the concert to perform.	Han ido al concierto a actuar.	Ir Present Perfect

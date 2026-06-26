@@ -1,0 +1,119 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Poder::Present::Indicative	I can read the Bible.	Puedo leer la Biblia.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you pray with me?	¿Puedes orar conmigo?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can read the Bible together.	Podemos leer la Biblia juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he come to Bible study?	¿Puede venir al estudio bíblico?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can help at church.	Pueden ayudar en la iglesia.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can go to church on Sunday.	Puedo ir a la iglesia el domingo.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you sing at church?	¿Puedes cantar en la iglesia?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can pray together.	Podemos orar juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can she come to the prayer meeting?	¿Puede venir a la reunión de oración?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can read the Bible story together.	Pueden leer la historia bíblica juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can travel by plane.	Puedo viajar en avión.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you help me with the luggage?	¿Puedes ayudarme con el equipaje?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can go to the airport together.	Podemos ir al aeropuerto juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he make a hotel reservation?	¿Puede hacer una reservación de hotel?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can travel next week.	Pueden viajar la próxima semana.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can order for the table.	Puedo pedir para la mesa.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you bring the menu?	¿Puedes traer el menú?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can eat at the restaurant.	Podemos comer en el restaurante.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can she try the soup?	¿Puede probar la sopa?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can order dessert.	Pueden pedir el postre.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can cook dinner.	Puedo cocinar la cena.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you clean the kitchen?	¿Puedes limpiar la cocina?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can eat together at home.	Podemos comer juntos en casa.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he fix the door?	¿Puede arreglar la puerta?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can come to the house.	Pueden venir a la casa.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can visit my family.	Puedo visitar a mi familia.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you come to the party?	¿Puedes venir a la fiesta?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can meet my parents.	Podemos conocer a mis padres.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can she bring her children?	¿Puede traer a sus hijos?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can spend time with the family.	Pueden pasar tiempo con la familia.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can take the dog to the park.	Puedo llevar al perro al parque.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you feed the cat?	¿Puedes darle de comer al gato?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can take the dog for a walk.	Podemos sacar al perro a caminar.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can study Spanish.	Puedo estudiar español.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you help me with the homework?	¿Puedes ayudarme con la tarea?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can study together.	Podemos estudiar juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he pass the exam?	¿Puede pasar el examen?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can learn the lesson.	Pueden aprender la lección.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can go to the doctor tomorrow.	Puedo ir al médico mañana.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you make a doctor's appointment?	¿Puedes hacer una cita médica?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can go to the clinic together.	Podemos ir a la clínica juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can she rest at home?	¿Puede descansar en casa?	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can work from home.	Puedo trabajar desde casa.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you finish the report?	¿Puedes terminar el informe?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can have the meeting tomorrow.	Podemos tener la reunión mañana.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he help with the project?	¿Puede ayudar con el proyecto?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can work together on the task.	Pueden trabajar juntos en la tarea.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can play the guitar.	Puedo tocar la guitarra.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you play the piano?	¿Puedes tocar el piano?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can practice the music together.	Podemos practicar la música juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can she sing at the concert?	¿Puede cantar en el concierto?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can play music at church.	Pueden tocar música en la iglesia.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can read the Bible verse out loud.	Puedo leer el versículo bíblico en voz alta.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you share the Bible story with the children?	¿Puedes compartir la historia bíblica con los niños?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can go to church together on Sunday.	Podemos ir a la iglesia juntos el domingo.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can she lead the Bible study?	¿Puede dirigir el estudio bíblico?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can pray for the sick.	Pueden orar por los enfermos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can volunteer at church this weekend.	Puedo ser voluntario en la iglesia este fin de semana.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you teach the Bible lesson?	¿Puedes enseñar la lección bíblica?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can share the gospel with our neighbors.	Podemos compartir el evangelio con nuestros vecinos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he memorize the Bible verse?	¿Puede memorizar el versículo bíblico?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can join the worship team.	Pueden unirse al equipo de adoración.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can book the flight online.	Puedo reservar el vuelo en línea.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you find the hotel?	¿Puedes encontrar el hotel?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can rent a car at the airport.	Podemos alquilar un carro en el aeropuerto.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he carry the suitcase?	¿Puede cargar la maleta?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can visit the museum tomorrow.	Pueden visitar el museo mañana.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can show you the city.	Puedo mostrarte la ciudad.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you make a restaurant reservation?	¿Puedes hacer una reservación en el restaurante?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can share the meal.	Podemos compartir la comida.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he pay the bill?	¿Puede pagar la cuenta?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can try the local food.	Pueden probar la comida local.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can cook rice and beans.	Puedo cocinar arroz y frijoles.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you make the salad?	¿Puedes hacer la ensalada?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can prepare breakfast together.	Podemos preparar el desayuno juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can she recommend a dish?	¿Puede recomendar un plato?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can bring food to share.	Pueden traer comida para compartir.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can wash the dishes.	Puedo lavar los platos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you set the table?	¿Puedes poner la mesa?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can clean the house together.	Podemos limpiar la casa juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he water the plants?	¿Puede regar las plantas?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can help around the house.	Pueden ayudar en la casa.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can call my grandmother.	Puedo llamar a mi abuela.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you introduce me to your friend?	¿Puedes presentarme a tu amigo?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can celebrate together.	Podemos celebrar juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he bring his brother?	¿Puede traer a su hermano?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can visit us on Saturday.	Pueden visitarnos el sábado.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can give the dog a bath.	Puedo bañar al perro.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you take the cat to the vet?	¿Puedes llevar al gato al veterinario?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can buy food for the dog.	Podemos comprar comida para el perro.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can she play with the pet?	¿Puede jugar con la mascota?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can take care of the dog this week.	Pueden cuidar al perro esta semana.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can read the chapter tonight.	Puedo leer el capítulo esta noche.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you explain the lesson?	¿Puedes explicar la lección?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can review the material before the exam.	Podemos repasar el material antes del examen.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can she answer the question?	¿Puede responder la pregunta?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can work on the project together.	Pueden trabajar en el proyecto juntos.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can take the medicine with water.	Puedo tomar la medicina con agua.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you call the doctor?	¿Puedes llamar al médico?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can walk together for exercise.	Podemos caminar juntos para hacer ejercicio.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he go to the pharmacy?	¿Puede ir a la farmacia?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can rest this weekend.	Pueden descansar este fin de semana.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can send the email now.	Puedo enviar el correo electrónico ahora.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you call the client?	¿Puedes llamar al cliente?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can finish the project on time.	Podemos terminar el proyecto a tiempo.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he attend the meeting?	¿Puede asistir a la reunión?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can start the new project next week.	Pueden comenzar el nuevo proyecto la próxima semana.	Poder Present Indicative
+Basic	Poder::Present::Indicative	I can learn the song by Sunday.	Puedo aprender la canción para el domingo.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can you play the drums?	¿Puedes tocar la batería?	Poder Present Indicative
+Basic	Poder::Present::Indicative	We can rehearse on Friday.	Podemos ensayar el viernes.	Poder Present Indicative
+Basic	Poder::Present::Indicative	Can he join the choir?	¿Puede unirse al coro?	Poder Present Indicative
+Basic	Poder::Present::Indicative	They can perform at the concert.	Pueden actuar en el concierto.	Poder Present Indicative

@@ -40,7 +40,7 @@ This project is an interactive website for learning and practicing Spanish. All 
 #front column:3
 #back column:4
 #tags column:5
-Basic	Spanish Practice	all, every	todo	100_Most_Common_Words_-_Adjectives
+Basic	Deck Name	all, every	todo	tags
 ```
 
 - English text goes in front (column:3)

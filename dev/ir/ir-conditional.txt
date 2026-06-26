@@ -1,0 +1,107 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Ir::Conditional	I would go to church if I could.	Iría a la iglesia si pudiera.	Ir Conditional
+Basic	Ir::Conditional	Would you go to Bible study with me?	¿Irías al estudio bíblico conmigo?	Ir Conditional
+Basic	Ir::Conditional	He would go to the store tomorrow.	Iría a la tienda mañana.	Ir Conditional
+Basic	Ir::Conditional	We would go to the park if it doesn't rain.	Iríamos al parque si no llueve.	Ir Conditional
+Basic	Ir::Conditional	They would go to the restaurant on Friday.	Irían al restaurante el viernes.	Ir Conditional
+Basic	Ir::Conditional	I would go to the doctor if I felt sick.	Iría al médico si me sintiera mal.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the supermarket?	¿Irías al supermercado?	Ir Conditional
+Basic	Ir::Conditional	She would go to the school tomorrow.	Iría a la escuela mañana.	Ir Conditional
+Basic	Ir::Conditional	We would go to the airport early.	Iríamos al aeropuerto temprano.	Ir Conditional
+Basic	Ir::Conditional	They would go to the concert if they had tickets.	Irían al concierto si tuvieran entradas.	Ir Conditional
+Basic	Ir::Conditional	I would go to the park every day if I had time.	Iría al parque todos los días si tuviera tiempo.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the gym with me?	¿Irías al gimnasio conmigo?	Ir Conditional
+Basic	Ir::Conditional	He would go to Bible study if he could.	Iría al estudio bíblico si pudiera.	Ir Conditional
+Basic	Ir::Conditional	We would go to the beach if the weather is good.	Iríamos a la playa si hace buen tiempo.	Ir Conditional
+Basic	Ir::Conditional	They would go to the museum on Saturday.	Irían al museo el sábado.	Ir Conditional
+Basic	Ir::Conditional	I would go to the pharmacy if I needed medicine.	Iría a la farmacia si necesitara medicina.	Ir Conditional
+Basic	Ir::Conditional	Would you go to church with your family?	¿Irías a la iglesia con tu familia?	Ir Conditional
+Basic	Ir::Conditional	She would go to the dentist if it didn't hurt so much.	Iría al dentista si no doliera tanto.	Ir Conditional
+Basic	Ir::Conditional	We would go to the meeting if it were important.	Iríamos a la reunión si fuera importante.	Ir Conditional
+Basic	Ir::Conditional	They would go to the park with the dog.	Irían al parque con el perro.	Ir Conditional
+Basic	Ir::Conditional	I would go to the library to study.	Iría a la biblioteca a estudiar.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the prayer meeting tonight?	¿Irías a la reunión de oración esta noche?	Ir Conditional
+Basic	Ir::Conditional	He would go to the hospital if necessary.	Iría al hospital si fuera necesario.	Ir Conditional
+Basic	Ir::Conditional	We would go to church together every Sunday.	Iríamos a la iglesia juntos todos los domingos.	Ir Conditional
+Basic	Ir::Conditional	They would go to school if they could.	Irían a la escuela si pudieran.	Ir Conditional
+Basic	Ir::Conditional	I would go to the store if I had money.	Iría a la tienda si tuviera dinero.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the concert with us?	¿Irías al concierto con nosotros?	Ir Conditional
+Basic	Ir::Conditional	She would go to the doctor if she were sick.	Iría al médico si estuviera enferma.	Ir Conditional
+Basic	Ir::Conditional	We would go to the restaurant if you want.	Iríamos al restaurante si quieres.	Ir Conditional
+Basic	Ir::Conditional	They would go to the airport to pick them up.	Irían al aeropuerto a recogerlos.	Ir Conditional
+Basic	Ir::Conditional	I would go to the vet if my dog were sick.	Iría al veterinario si mi perro estuviera enfermo.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the bank today?	¿Irías al banco hoy?	Ir Conditional
+Basic	Ir::Conditional	He would go to the office if they called him.	Iría a la oficina si lo llamaran.	Ir Conditional
+Basic	Ir::Conditional	We would go to the supermarket together.	Iríamos al supermercado juntos.	Ir Conditional
+Basic	Ir::Conditional	They would go to Bible study if they had time.	Irían al estudio bíblico si tuvieran tiempo.	Ir Conditional
+Basic	Ir::Conditional	I would go home early if I could.	Iría a casa temprano si pudiera.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the clinic if you were sick?	¿Irías a la clínica si estuvieras enfermo?	Ir Conditional
+Basic	Ir::Conditional	She would go to the university if she had the opportunity.	Iría a la universidad si tuviera la oportunidad.	Ir Conditional
+Basic	Ir::Conditional	We would go to the park tomorrow.	Iríamos al parque mañana.	Ir Conditional
+Basic	Ir::Conditional	They would go to visit their family if they had time.	Irían a visitar a su familia si tuvieran tiempo.	Ir Conditional
+Basic	Ir::Conditional	I would go to the market on Saturday.	Iría al mercado el sábado.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the school event with me?	¿Irías al evento de la escuela conmigo?	Ir Conditional
+Basic	Ir::Conditional	He would go to the concert if he liked music.	Iría al concierto si le gustara la música.	Ir Conditional
+Basic	Ir::Conditional	We would go to the hotel if we had the money.	Iríamos al hotel si tuviéramos el dinero.	Ir Conditional
+Basic	Ir::Conditional	They would go to the beach if it were summer.	Irían a la playa si fuera verano.	Ir Conditional
+Basic	Ir::Conditional	I would go to the prayer meeting if I weren't sick.	Iría a la reunión de oración si no estuviera enfermo.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the museum with us?	¿Irías al museo con nosotros?	Ir Conditional
+Basic	Ir::Conditional	She would go to work if she felt better.	Iría al trabajo si se sintiera mejor.	Ir Conditional
+Basic	Ir::Conditional	We would go to church every Sunday if we could.	Iríamos a la iglesia todos los domingos si pudiéramos.	Ir Conditional
+Basic	Ir::Conditional	They would go to the train station tonight.	Irían a la estación de tren esta noche.	Ir Conditional
+Basic	Ir::Conditional	I would go to the pharmacy if it were open.	Iría a la farmacia si estuviera abierta.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the dentist this week?	¿Irías al dentista esta semana?	Ir Conditional
+Basic	Ir::Conditional	He would go to visit his grandmother if he had time.	Iría a visitar a su abuela si tuviera tiempo.	Ir Conditional
+Basic	Ir::Conditional	We would go to the library if it were closer.	Iríamos a la biblioteca si estuviera más cerca.	Ir Conditional
+Basic	Ir::Conditional	They would go to the restaurant to celebrate.	Irían al restaurante a celebrar.	Ir Conditional
+Basic	Ir::Conditional	I would go to the gym if I weren't so tired.	Iría al gimnasio si no estuviera tan cansado.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the park with the dog?	¿Irías al parque con el perro?	Ir Conditional
+Basic	Ir::Conditional	She would go to the market in the morning.	Iría al mercado por la mañana.	Ir Conditional
+Basic	Ir::Conditional	We would go to the concert with our friends.	Iríamos al concierto con nuestros amigos.	Ir Conditional
+Basic	Ir::Conditional	They would go to church with their parents if asked.	Irían a la iglesia con sus padres si se les pidiera.	Ir Conditional
+Basic	Ir::Conditional	I would go to the office for the meeting.	Iría a la oficina para la reunión.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the airport with me?	¿Irías al aeropuerto conmigo?	Ir Conditional
+Basic	Ir::Conditional	He would go to the vet if the cat were sick.	Iría al veterinario si el gato estuviera enfermo.	Ir Conditional
+Basic	Ir::Conditional	We would go to the supermarket if we needed groceries.	Iríamos al supermercado si necesitáramos comestibles.	Ir Conditional
+Basic	Ir::Conditional	They would go to school if classes were in person.	Irían a la escuela si las clases fueran presenciales.	Ir Conditional
+Basic	Ir::Conditional	I would go to the doctor for a checkup.	Iría al médico para una revisión.	Ir Conditional
+Basic	Ir::Conditional	Would you go to work on Monday if you felt better?	¿Irías al trabajo el lunes si te sintieras mejor?	Ir Conditional
+Basic	Ir::Conditional	She would go to the prayer meeting if she weren't busy.	Iría a la reunión de oración si no estuviera ocupada.	Ir Conditional
+Basic	Ir::Conditional	We would go to the museum on Sunday.	Iríamos al museo el domingo.	Ir Conditional
+Basic	Ir::Conditional	They would go to the hospital to visit.	Irían al hospital a visitar.	Ir Conditional
+Basic	Ir::Conditional	I would go to Bible study if I had the time.	Iría al estudio bíblico si tuviera el tiempo.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the hotel with your family?	¿Irías al hotel con tu familia?	Ir Conditional
+Basic	Ir::Conditional	He would go to the restaurant to eat.	Iría al restaurante a comer.	Ir Conditional
+Basic	Ir::Conditional	We would go to the park with the children.	Iríamos al parque con los niños.	Ir Conditional
+Basic	Ir::Conditional	They would go to the clinic for the appointment.	Irían a la clínica para la cita.	Ir Conditional
+Basic	Ir::Conditional	I would go to the store after work.	Iría a la tienda después del trabajo.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the library today?	¿Irías a la biblioteca hoy?	Ir Conditional
+Basic	Ir::Conditional	She would go to the gym in the morning.	Iría al gimnasio por la mañana.	Ir Conditional
+Basic	Ir::Conditional	We would go to visit our friends on the weekend.	Iríamos a visitar a nuestros amigos el fin de semana.	Ir Conditional
+Basic	Ir::Conditional	They would go to the bank if it were open.	Irían al banco si estuviera abierto.	Ir Conditional
+Basic	Ir::Conditional	I would go to the concert with my family.	Iría al concierto con mi familia.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the university if you had the chance?	¿Irías a la universidad si tuvieras la oportunidad?	Ir Conditional
+Basic	Ir::Conditional	He would go to work early if he could.	Iría al trabajo temprano si pudiera.	Ir Conditional
+Basic	Ir::Conditional	We would go to the pharmacy after the appointment.	Iríamos a la farmacia después de la cita.	Ir Conditional
+Basic	Ir::Conditional	They would go to church if someone invited them.	Irían a la iglesia si alguien los invitara.	Ir Conditional
+Basic	Ir::Conditional	I would go home if I were tired.	Iría a casa si estuviera cansado.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the meeting on Friday?	¿Irías a la reunión el viernes?	Ir Conditional
+Basic	Ir::Conditional	She would go to the library to read.	Iría a la biblioteca a leer.	Ir Conditional
+Basic	Ir::Conditional	We would go to the beach with our family if we could.	Iríamos a la playa con nuestra familia si pudiéramos.	Ir Conditional
+Basic	Ir::Conditional	They would go to the restaurant for the birthday.	Irían al restaurante para el cumpleaños.	Ir Conditional
+Basic	Ir::Conditional	I would go to church more if it were closer.	Iría a la iglesia más si estuviera más cerca.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the school play?	¿Irías a la obra de la escuela?	Ir Conditional
+Basic	Ir::Conditional	He would go to the dentist if he had an appointment.	Iría al dentista si tuviera una cita.	Ir Conditional
+Basic	Ir::Conditional	We would go to the hotel for vacation.	Iríamos al hotel para las vacaciones.	Ir Conditional
+Basic	Ir::Conditional	They would go to the park to play soccer.	Irían al parque a jugar fútbol.	Ir Conditional
+Basic	Ir::Conditional	I would go to the music rehearsal if I weren't busy.	Iría al ensayo de música si no estuviera ocupado.	Ir Conditional
+Basic	Ir::Conditional	Would you go to the hospital with me?	¿Irías al hospital conmigo?	Ir Conditional
+Basic	Ir::Conditional	She would go to the store to buy fruit.	Iría a la tienda a comprar fruta.	Ir Conditional
+Basic	Ir::Conditional	We would go to Bible study together if we could.	Iríamos al estudio bíblico juntos si pudiéramos.	Ir Conditional
+Basic	Ir::Conditional	They would go to the concert to perform.	Irían al concierto a actuar.	Ir Conditional
