@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Verb Tenses::Tener	I have	yo tengo	Tener Present Indicative
+Basic	Verb Tenses::Tener	you have	tú tienes	Tener Present Indicative
+Basic	Verb Tenses::Tener	he has	él tiene	Tener Present Indicative
+Basic	Verb Tenses::Tener	she has	ella tiene	Tener Present Indicative
+Basic	Verb Tenses::Tener	you (formal) have	usted tiene	Tener Present Indicative
+Basic	Verb Tenses::Tener	we have	nosotros tenemos	Tener Present Indicative
+Basic	Verb Tenses::Tener	you all have	ustedes tienen	Tener Present Indicative
+Basic	Verb Tenses::Tener	they have	ellos tienen	Tener Present Indicative
+Basic	Verb Tenses::Tener	I had	yo tuve	Tener Preterite
+Basic	Verb Tenses::Tener	you had	tú tuviste	Tener Preterite
+Basic	Verb Tenses::Tener	he had	él tuvo	Tener Preterite
+Basic	Verb Tenses::Tener	she had	ella tuvo	Tener Preterite
+Basic	Verb Tenses::Tener	you (formal) had	usted tuvo	Tener Preterite
+Basic	Verb Tenses::Tener	we had	nosotros tuvimos	Tener Preterite
+Basic	Verb Tenses::Tener	you all had	ustedes tuvieron	Tener Preterite
+Basic	Verb Tenses::Tener	they had	ellos tuvieron	Tener Preterite
+Basic	Verb Tenses::Tener	I used to have	yo tenía	Tener Imperfect Indicative
+Basic	Verb Tenses::Tener	you used to have	tú tenías	Tener Imperfect Indicative
+Basic	Verb Tenses::Tener	he used to have	él tenía	Tener Imperfect Indicative
+Basic	Verb Tenses::Tener	she used to have	ella tenía	Tener Imperfect Indicative
+Basic	Verb Tenses::Tener	you (formal) used to have	usted tenía	Tener Imperfect Indicative
+Basic	Verb Tenses::Tener	we used to have	nosotros teníamos	Tener Imperfect Indicative
+Basic	Verb Tenses::Tener	you all used to have	ustedes tenían	Tener Imperfect Indicative
+Basic	Verb Tenses::Tener	they used to have	ellos tenían	Tener Imperfect Indicative
+Basic	Verb Tenses::Tener	I will have	yo tendré	Tener Future Indicative
+Basic	Verb Tenses::Tener	you will have	tú tendrás	Tener Future Indicative
+Basic	Verb Tenses::Tener	he will have	él tendrá	Tener Future Indicative
+Basic	Verb Tenses::Tener	she will have	ella tendrá	Tener Future Indicative
+Basic	Verb Tenses::Tener	you (formal) will have	usted tendrá	Tener Future Indicative
+Basic	Verb Tenses::Tener	we will have	nosotros tendremos	Tener Future Indicative
+Basic	Verb Tenses::Tener	you all will have	ustedes tendrán	Tener Future Indicative
+Basic	Verb Tenses::Tener	they will have	ellos tendrán	Tener Future Indicative
+Basic	Verb Tenses::Tener	I would have	yo tendría	Tener Conditional
+Basic	Verb Tenses::Tener	you would have	tú tendrías	Tener Conditional
+Basic	Verb Tenses::Tener	he would have	él tendría	Tener Conditional
+Basic	Verb Tenses::Tener	she would have	ella tendría	Tener Conditional
+Basic	Verb Tenses::Tener	you (formal) would have	usted tendría	Tener Conditional
+Basic	Verb Tenses::Tener	we would have	nosotros tendríamos	Tener Conditional
+Basic	Verb Tenses::Tener	you all would have	ustedes tendrían	Tener Conditional
+Basic	Verb Tenses::Tener	they would have	ellos tendrían	Tener Conditional
+Basic	Verb Tenses::Tener	I have (subjunctive)	yo tenga	Tener Present Subjunctive
+Basic	Verb Tenses::Tener	you have (subjunctive)	tú tengas	Tener Present Subjunctive
+Basic	Verb Tenses::Tener	he has (subjunctive)	él tenga	Tener Present Subjunctive
+Basic	Verb Tenses::Tener	she has (subjunctive)	ella tenga	Tener Present Subjunctive
+Basic	Verb Tenses::Tener	you (formal) have (subjunctive)	usted tenga	Tener Present Subjunctive
+Basic	Verb Tenses::Tener	we have (subjunctive)	nosotros tengamos	Tener Present Subjunctive
+Basic	Verb Tenses::Tener	you all have (subjunctive)	ustedes tengan	Tener Present Subjunctive
+Basic	Verb Tenses::Tener	they have (subjunctive)	ellos tengan	Tener Present Subjunctive
+Basic	Verb Tenses::Tener	I had (subjunctive)	yo tuviera	Tener Imperfect Subjunctive
+Basic	Verb Tenses::Tener	you had (subjunctive)	tú tuvieras	Tener Imperfect Subjunctive
+Basic	Verb Tenses::Tener	he had (subjunctive)	él tuviera	Tener Imperfect Subjunctive
+Basic	Verb Tenses::Tener	she had (subjunctive)	ella tuviera	Tener Imperfect Subjunctive
+Basic	Verb Tenses::Tener	you (formal) had (subjunctive)	usted tuviera	Tener Imperfect Subjunctive
+Basic	Verb Tenses::Tener	we had (subjunctive)	nosotros tuviéramos	Tener Imperfect Subjunctive
+Basic	Verb Tenses::Tener	you all had (subjunctive)	ustedes tuvieran	Tener Imperfect Subjunctive
+Basic	Verb Tenses::Tener	they had (subjunctive)	ellos tuvieran	Tener Imperfect Subjunctive

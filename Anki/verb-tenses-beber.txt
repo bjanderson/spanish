@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Verb Tenses::Beber	I drink	yo bebo	Beber Present Indicative
+Basic	Verb Tenses::Beber	you drink	tú bebes	Beber Present Indicative
+Basic	Verb Tenses::Beber	he drinks	él bebe	Beber Present Indicative
+Basic	Verb Tenses::Beber	she drinks	ella bebe	Beber Present Indicative
+Basic	Verb Tenses::Beber	you (formal) drink	usted bebe	Beber Present Indicative
+Basic	Verb Tenses::Beber	we drink	nosotros bebemos	Beber Present Indicative
+Basic	Verb Tenses::Beber	you all drink	ustedes beben	Beber Present Indicative
+Basic	Verb Tenses::Beber	they drink	ellos beben	Beber Present Indicative
+Basic	Verb Tenses::Beber	I drank	yo bebí	Beber Preterite
+Basic	Verb Tenses::Beber	you drank	tú bebiste	Beber Preterite
+Basic	Verb Tenses::Beber	he drank	él bebió	Beber Preterite
+Basic	Verb Tenses::Beber	she drank	ella bebió	Beber Preterite
+Basic	Verb Tenses::Beber	you (formal) drank	usted bebió	Beber Preterite
+Basic	Verb Tenses::Beber	we drank	nosotros bebimos	Beber Preterite
+Basic	Verb Tenses::Beber	you all drank	ustedes bebieron	Beber Preterite
+Basic	Verb Tenses::Beber	they drank	ellos bebieron	Beber Preterite
+Basic	Verb Tenses::Beber	I used to drink	yo bebía	Beber Imperfect Indicative
+Basic	Verb Tenses::Beber	you used to drink	tú bebías	Beber Imperfect Indicative
+Basic	Verb Tenses::Beber	he used to drink	él bebía	Beber Imperfect Indicative
+Basic	Verb Tenses::Beber	she used to drink	ella bebía	Beber Imperfect Indicative
+Basic	Verb Tenses::Beber	you (formal) used to drink	usted bebía	Beber Imperfect Indicative
+Basic	Verb Tenses::Beber	we used to drink	nosotros bebíamos	Beber Imperfect Indicative
+Basic	Verb Tenses::Beber	you all used to drink	ustedes bebían	Beber Imperfect Indicative
+Basic	Verb Tenses::Beber	they used to drink	ellos bebían	Beber Imperfect Indicative
+Basic	Verb Tenses::Beber	I will drink	yo beberé	Beber Future Indicative
+Basic	Verb Tenses::Beber	you will drink	tú beberás	Beber Future Indicative
+Basic	Verb Tenses::Beber	he will drink	él beberá	Beber Future Indicative
+Basic	Verb Tenses::Beber	she will drink	ella beberá	Beber Future Indicative
+Basic	Verb Tenses::Beber	you (formal) will drink	usted beberá	Beber Future Indicative
+Basic	Verb Tenses::Beber	we will drink	nosotros beberemos	Beber Future Indicative
+Basic	Verb Tenses::Beber	you all will drink	ustedes beberán	Beber Future Indicative
+Basic	Verb Tenses::Beber	they will drink	ellos beberán	Beber Future Indicative
+Basic	Verb Tenses::Beber	I would drink	yo bebería	Beber Conditional
+Basic	Verb Tenses::Beber	you would drink	tú beberías	Beber Conditional
+Basic	Verb Tenses::Beber	he would drink	él bebería	Beber Conditional
+Basic	Verb Tenses::Beber	she would drink	ella bebería	Beber Conditional
+Basic	Verb Tenses::Beber	you (formal) would drink	usted bebería	Beber Conditional
+Basic	Verb Tenses::Beber	we would drink	nosotros beberíamos	Beber Conditional
+Basic	Verb Tenses::Beber	you all would drink	ustedes beberían	Beber Conditional
+Basic	Verb Tenses::Beber	they would drink	ellos beberían	Beber Conditional
+Basic	Verb Tenses::Beber	I drink (subjunctive)	yo beba	Beber Present Subjunctive
+Basic	Verb Tenses::Beber	you drink (subjunctive)	tú bebas	Beber Present Subjunctive
+Basic	Verb Tenses::Beber	he drinks (subjunctive)	él beba	Beber Present Subjunctive
+Basic	Verb Tenses::Beber	she drinks (subjunctive)	ella beba	Beber Present Subjunctive
+Basic	Verb Tenses::Beber	you (formal) drink (subjunctive)	usted beba	Beber Present Subjunctive
+Basic	Verb Tenses::Beber	we drink (subjunctive)	nosotros bebamos	Beber Present Subjunctive
+Basic	Verb Tenses::Beber	you all drink (subjunctive)	ustedes beban	Beber Present Subjunctive
+Basic	Verb Tenses::Beber	they drink (subjunctive)	ellos beban	Beber Present Subjunctive
+Basic	Verb Tenses::Beber	I drank (subjunctive)	yo bebiera	Beber Imperfect Subjunctive
+Basic	Verb Tenses::Beber	you drank (subjunctive)	tú bebieras	Beber Imperfect Subjunctive
+Basic	Verb Tenses::Beber	he drank (subjunctive)	él bebiera	Beber Imperfect Subjunctive
+Basic	Verb Tenses::Beber	she drank (subjunctive)	ella bebiera	Beber Imperfect Subjunctive
+Basic	Verb Tenses::Beber	you (formal) drank (subjunctive)	usted bebiera	Beber Imperfect Subjunctive
+Basic	Verb Tenses::Beber	we drank (subjunctive)	nosotros bebiéramos	Beber Imperfect Subjunctive
+Basic	Verb Tenses::Beber	you all drank (subjunctive)	ustedes bebieran	Beber Imperfect Subjunctive
+Basic	Verb Tenses::Beber	they drank (subjunctive)	ellos bebieran	Beber Imperfect Subjunctive

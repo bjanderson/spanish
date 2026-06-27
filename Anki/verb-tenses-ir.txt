@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Verb Tenses::Ir	I go	yo voy	Ir Present Indicative
+Basic	Verb Tenses::Ir	you go	tú vas	Ir Present Indicative
+Basic	Verb Tenses::Ir	he goes	él va	Ir Present Indicative
+Basic	Verb Tenses::Ir	she goes	ella va	Ir Present Indicative
+Basic	Verb Tenses::Ir	you (formal) go	usted va	Ir Present Indicative
+Basic	Verb Tenses::Ir	we go	nosotros vamos	Ir Present Indicative
+Basic	Verb Tenses::Ir	you all go	ustedes van	Ir Present Indicative
+Basic	Verb Tenses::Ir	they go	ellos van	Ir Present Indicative
+Basic	Verb Tenses::Ir	I went	yo fui	Ir Preterite
+Basic	Verb Tenses::Ir	you went	tú fuiste	Ir Preterite
+Basic	Verb Tenses::Ir	he went	él fue	Ir Preterite
+Basic	Verb Tenses::Ir	she went	ella fue	Ir Preterite
+Basic	Verb Tenses::Ir	you (formal) went	usted fue	Ir Preterite
+Basic	Verb Tenses::Ir	we went	nosotros fuimos	Ir Preterite
+Basic	Verb Tenses::Ir	you all went	ustedes fueron	Ir Preterite
+Basic	Verb Tenses::Ir	they went	ellos fueron	Ir Preterite
+Basic	Verb Tenses::Ir	I used to go	yo iba	Ir Imperfect Indicative
+Basic	Verb Tenses::Ir	you used to go	tú ibas	Ir Imperfect Indicative
+Basic	Verb Tenses::Ir	he used to go	él iba	Ir Imperfect Indicative
+Basic	Verb Tenses::Ir	she used to go	ella iba	Ir Imperfect Indicative
+Basic	Verb Tenses::Ir	you (formal) used to go	usted iba	Ir Imperfect Indicative
+Basic	Verb Tenses::Ir	we used to go	nosotros íbamos	Ir Imperfect Indicative
+Basic	Verb Tenses::Ir	you all used to go	ustedes iban	Ir Imperfect Indicative
+Basic	Verb Tenses::Ir	they used to go	ellos iban	Ir Imperfect Indicative
+Basic	Verb Tenses::Ir	I will go	yo iré	Ir Future Indicative
+Basic	Verb Tenses::Ir	you will go	tú irás	Ir Future Indicative
+Basic	Verb Tenses::Ir	he will go	él irá	Ir Future Indicative
+Basic	Verb Tenses::Ir	she will go	ella irá	Ir Future Indicative
+Basic	Verb Tenses::Ir	you (formal) will go	usted irá	Ir Future Indicative
+Basic	Verb Tenses::Ir	we will go	nosotros iremos	Ir Future Indicative
+Basic	Verb Tenses::Ir	you all will go	ustedes irán	Ir Future Indicative
+Basic	Verb Tenses::Ir	they will go	ellos irán	Ir Future Indicative
+Basic	Verb Tenses::Ir	I would go	yo iría	Ir Conditional
+Basic	Verb Tenses::Ir	you would go	tú irías	Ir Conditional
+Basic	Verb Tenses::Ir	he would go	él iría	Ir Conditional
+Basic	Verb Tenses::Ir	she would go	ella iría	Ir Conditional
+Basic	Verb Tenses::Ir	you (formal) would go	usted iría	Ir Conditional
+Basic	Verb Tenses::Ir	we would go	nosotros iríamos	Ir Conditional
+Basic	Verb Tenses::Ir	you all would go	ustedes irían	Ir Conditional
+Basic	Verb Tenses::Ir	they would go	ellos irían	Ir Conditional
+Basic	Verb Tenses::Ir	I go (subjunctive)	yo vaya	Ir Present Subjunctive
+Basic	Verb Tenses::Ir	you go (subjunctive)	tú vayas	Ir Present Subjunctive
+Basic	Verb Tenses::Ir	he goes (subjunctive)	él vaya	Ir Present Subjunctive
+Basic	Verb Tenses::Ir	she goes (subjunctive)	ella vaya	Ir Present Subjunctive
+Basic	Verb Tenses::Ir	you (formal) go (subjunctive)	usted vaya	Ir Present Subjunctive
+Basic	Verb Tenses::Ir	we go (subjunctive)	nosotros vayamos	Ir Present Subjunctive
+Basic	Verb Tenses::Ir	you all go (subjunctive)	ustedes vayan	Ir Present Subjunctive
+Basic	Verb Tenses::Ir	they go (subjunctive)	ellos vayan	Ir Present Subjunctive
+Basic	Verb Tenses::Ir	I went (subjunctive)	yo fuera	Ir Imperfect Subjunctive
+Basic	Verb Tenses::Ir	you went (subjunctive)	tú fueras	Ir Imperfect Subjunctive
+Basic	Verb Tenses::Ir	he went (subjunctive)	él fuera	Ir Imperfect Subjunctive
+Basic	Verb Tenses::Ir	she went (subjunctive)	ella fuera	Ir Imperfect Subjunctive
+Basic	Verb Tenses::Ir	you (formal) went (subjunctive)	usted fuera	Ir Imperfect Subjunctive
+Basic	Verb Tenses::Ir	we went (subjunctive)	nosotros fuéramos	Ir Imperfect Subjunctive
+Basic	Verb Tenses::Ir	you all went (subjunctive)	ustedes fueran	Ir Imperfect Subjunctive
+Basic	Verb Tenses::Ir	they went (subjunctive)	ellos fueran	Ir Imperfect Subjunctive

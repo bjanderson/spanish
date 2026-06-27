@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Verb Tenses::Comer	I eat	yo como	Comer Present Indicative
+Basic	Verb Tenses::Comer	you eat	tú comes	Comer Present Indicative
+Basic	Verb Tenses::Comer	he eats	él come	Comer Present Indicative
+Basic	Verb Tenses::Comer	she eats	ella come	Comer Present Indicative
+Basic	Verb Tenses::Comer	you (formal) eat	usted come	Comer Present Indicative
+Basic	Verb Tenses::Comer	we eat	nosotros comemos	Comer Present Indicative
+Basic	Verb Tenses::Comer	you all eat	ustedes comen	Comer Present Indicative
+Basic	Verb Tenses::Comer	they eat	ellos comen	Comer Present Indicative
+Basic	Verb Tenses::Comer	I ate	yo comí	Comer Preterite
+Basic	Verb Tenses::Comer	you ate	tú comiste	Comer Preterite
+Basic	Verb Tenses::Comer	he ate	él comió	Comer Preterite
+Basic	Verb Tenses::Comer	she ate	ella comió	Comer Preterite
+Basic	Verb Tenses::Comer	you (formal) ate	usted comió	Comer Preterite
+Basic	Verb Tenses::Comer	we ate	nosotros comimos	Comer Preterite
+Basic	Verb Tenses::Comer	you all ate	ustedes comieron	Comer Preterite
+Basic	Verb Tenses::Comer	they ate	ellos comieron	Comer Preterite
+Basic	Verb Tenses::Comer	I used to eat	yo comía	Comer Imperfect Indicative
+Basic	Verb Tenses::Comer	you used to eat	tú comías	Comer Imperfect Indicative
+Basic	Verb Tenses::Comer	he used to eat	él comía	Comer Imperfect Indicative
+Basic	Verb Tenses::Comer	she used to eat	ella comía	Comer Imperfect Indicative
+Basic	Verb Tenses::Comer	you (formal) used to eat	usted comía	Comer Imperfect Indicative
+Basic	Verb Tenses::Comer	we used to eat	nosotros comíamos	Comer Imperfect Indicative
+Basic	Verb Tenses::Comer	you all used to eat	ustedes comían	Comer Imperfect Indicative
+Basic	Verb Tenses::Comer	they used to eat	ellos comían	Comer Imperfect Indicative
+Basic	Verb Tenses::Comer	I will eat	yo comeré	Comer Future Indicative
+Basic	Verb Tenses::Comer	you will eat	tú comerás	Comer Future Indicative
+Basic	Verb Tenses::Comer	he will eat	él comerá	Comer Future Indicative
+Basic	Verb Tenses::Comer	she will eat	ella comerá	Comer Future Indicative
+Basic	Verb Tenses::Comer	you (formal) will eat	usted comerá	Comer Future Indicative
+Basic	Verb Tenses::Comer	we will eat	nosotros comeremos	Comer Future Indicative
+Basic	Verb Tenses::Comer	you all will eat	ustedes comerán	Comer Future Indicative
+Basic	Verb Tenses::Comer	they will eat	ellos comerán	Comer Future Indicative
+Basic	Verb Tenses::Comer	I would eat	yo comería	Comer Conditional
+Basic	Verb Tenses::Comer	you would eat	tú comerías	Comer Conditional
+Basic	Verb Tenses::Comer	he would eat	él comería	Comer Conditional
+Basic	Verb Tenses::Comer	she would eat	ella comería	Comer Conditional
+Basic	Verb Tenses::Comer	you (formal) would eat	usted comería	Comer Conditional
+Basic	Verb Tenses::Comer	we would eat	nosotros comeríamos	Comer Conditional
+Basic	Verb Tenses::Comer	you all would eat	ustedes comerían	Comer Conditional
+Basic	Verb Tenses::Comer	they would eat	ellos comerían	Comer Conditional
+Basic	Verb Tenses::Comer	I eat (subjunctive)	yo coma	Comer Present Subjunctive
+Basic	Verb Tenses::Comer	you eat (subjunctive)	tú comas	Comer Present Subjunctive
+Basic	Verb Tenses::Comer	he eats (subjunctive)	él coma	Comer Present Subjunctive
+Basic	Verb Tenses::Comer	she eats (subjunctive)	ella coma	Comer Present Subjunctive
+Basic	Verb Tenses::Comer	you (formal) eat (subjunctive)	usted coma	Comer Present Subjunctive
+Basic	Verb Tenses::Comer	we eat (subjunctive)	nosotros comamos	Comer Present Subjunctive
+Basic	Verb Tenses::Comer	you all eat (subjunctive)	ustedes coman	Comer Present Subjunctive
+Basic	Verb Tenses::Comer	they eat (subjunctive)	ellos coman	Comer Present Subjunctive
+Basic	Verb Tenses::Comer	I ate (subjunctive)	yo comiera	Comer Imperfect Subjunctive
+Basic	Verb Tenses::Comer	you ate (subjunctive)	tú comieras	Comer Imperfect Subjunctive
+Basic	Verb Tenses::Comer	he ate (subjunctive)	él comiera	Comer Imperfect Subjunctive
+Basic	Verb Tenses::Comer	she ate (subjunctive)	ella comiera	Comer Imperfect Subjunctive
+Basic	Verb Tenses::Comer	you (formal) ate (subjunctive)	usted comiera	Comer Imperfect Subjunctive
+Basic	Verb Tenses::Comer	we ate (subjunctive)	nosotros comiéramos	Comer Imperfect Subjunctive
+Basic	Verb Tenses::Comer	you all ate (subjunctive)	ustedes comieran	Comer Imperfect Subjunctive
+Basic	Verb Tenses::Comer	they ate (subjunctive)	ellos comieran	Comer Imperfect Subjunctive

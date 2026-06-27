@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Verb Tenses::Enseñar	I teach	yo enseño	Enseñar Present Indicative
+Basic	Verb Tenses::Enseñar	you teach	tú enseñas	Enseñar Present Indicative
+Basic	Verb Tenses::Enseñar	he teaches	él enseña	Enseñar Present Indicative
+Basic	Verb Tenses::Enseñar	she teaches	ella enseña	Enseñar Present Indicative
+Basic	Verb Tenses::Enseñar	you (formal) teach	usted enseña	Enseñar Present Indicative
+Basic	Verb Tenses::Enseñar	we teach	nosotros enseñamos	Enseñar Present Indicative
+Basic	Verb Tenses::Enseñar	you all teach	ustedes enseñan	Enseñar Present Indicative
+Basic	Verb Tenses::Enseñar	they teach	ellos enseñan	Enseñar Present Indicative
+Basic	Verb Tenses::Enseñar	I taught	yo enseñé	Enseñar Preterite
+Basic	Verb Tenses::Enseñar	you taught	tú enseñaste	Enseñar Preterite
+Basic	Verb Tenses::Enseñar	he taught	él enseñó	Enseñar Preterite
+Basic	Verb Tenses::Enseñar	she taught	ella enseñó	Enseñar Preterite
+Basic	Verb Tenses::Enseñar	you (formal) taught	usted enseñó	Enseñar Preterite
+Basic	Verb Tenses::Enseñar	we taught	nosotros enseñamos	Enseñar Preterite
+Basic	Verb Tenses::Enseñar	you all taught	ustedes enseñaron	Enseñar Preterite
+Basic	Verb Tenses::Enseñar	they taught	ellos enseñaron	Enseñar Preterite
+Basic	Verb Tenses::Enseñar	I used to teach	yo enseñaba	Enseñar Imperfect Indicative
+Basic	Verb Tenses::Enseñar	you used to teach	tú enseñabas	Enseñar Imperfect Indicative
+Basic	Verb Tenses::Enseñar	he used to teach	él enseñaba	Enseñar Imperfect Indicative
+Basic	Verb Tenses::Enseñar	she used to teach	ella enseñaba	Enseñar Imperfect Indicative
+Basic	Verb Tenses::Enseñar	you (formal) used to teach	usted enseñaba	Enseñar Imperfect Indicative
+Basic	Verb Tenses::Enseñar	we used to teach	nosotros enseñábamos	Enseñar Imperfect Indicative
+Basic	Verb Tenses::Enseñar	you all used to teach	ustedes enseñaban	Enseñar Imperfect Indicative
+Basic	Verb Tenses::Enseñar	they used to teach	ellos enseñaban	Enseñar Imperfect Indicative
+Basic	Verb Tenses::Enseñar	I will teach	yo enseñaré	Enseñar Future Indicative
+Basic	Verb Tenses::Enseñar	you will teach	tú enseñarás	Enseñar Future Indicative
+Basic	Verb Tenses::Enseñar	he will teach	él enseñará	Enseñar Future Indicative
+Basic	Verb Tenses::Enseñar	she will teach	ella enseñará	Enseñar Future Indicative
+Basic	Verb Tenses::Enseñar	you (formal) will teach	usted enseñará	Enseñar Future Indicative
+Basic	Verb Tenses::Enseñar	we will teach	nosotros enseñaremos	Enseñar Future Indicative
+Basic	Verb Tenses::Enseñar	you all will teach	ustedes enseñarán	Enseñar Future Indicative
+Basic	Verb Tenses::Enseñar	they will teach	ellos enseñarán	Enseñar Future Indicative
+Basic	Verb Tenses::Enseñar	I would teach	yo enseñaría	Enseñar Conditional
+Basic	Verb Tenses::Enseñar	you would teach	tú enseñarías	Enseñar Conditional
+Basic	Verb Tenses::Enseñar	he would teach	él enseñaría	Enseñar Conditional
+Basic	Verb Tenses::Enseñar	she would teach	ella enseñaría	Enseñar Conditional
+Basic	Verb Tenses::Enseñar	you (formal) would teach	usted enseñaría	Enseñar Conditional
+Basic	Verb Tenses::Enseñar	we would teach	nosotros enseñaríamos	Enseñar Conditional
+Basic	Verb Tenses::Enseñar	you all would teach	ustedes enseñarían	Enseñar Conditional
+Basic	Verb Tenses::Enseñar	they would teach	ellos enseñarían	Enseñar Conditional
+Basic	Verb Tenses::Enseñar	I teach (subjunctive)	yo enseñe	Enseñar Present Subjunctive
+Basic	Verb Tenses::Enseñar	you teach (subjunctive)	tú enseñes	Enseñar Present Subjunctive
+Basic	Verb Tenses::Enseñar	he teaches (subjunctive)	él enseñe	Enseñar Present Subjunctive
+Basic	Verb Tenses::Enseñar	she teaches (subjunctive)	ella enseñe	Enseñar Present Subjunctive
+Basic	Verb Tenses::Enseñar	you (formal) teach (subjunctive)	usted enseñe	Enseñar Present Subjunctive
+Basic	Verb Tenses::Enseñar	we teach (subjunctive)	nosotros enseñemos	Enseñar Present Subjunctive
+Basic	Verb Tenses::Enseñar	you all teach (subjunctive)	ustedes enseñen	Enseñar Present Subjunctive
+Basic	Verb Tenses::Enseñar	they teach (subjunctive)	ellos enseñen	Enseñar Present Subjunctive
+Basic	Verb Tenses::Enseñar	I taught (subjunctive)	yo enseñara	Enseñar Imperfect Subjunctive
+Basic	Verb Tenses::Enseñar	you taught (subjunctive)	tú enseñaras	Enseñar Imperfect Subjunctive
+Basic	Verb Tenses::Enseñar	he taught (subjunctive)	él enseñara	Enseñar Imperfect Subjunctive
+Basic	Verb Tenses::Enseñar	she taught (subjunctive)	ella enseñara	Enseñar Imperfect Subjunctive
+Basic	Verb Tenses::Enseñar	you (formal) taught (subjunctive)	usted enseñara	Enseñar Imperfect Subjunctive
+Basic	Verb Tenses::Enseñar	we taught (subjunctive)	nosotros enseñáramos	Enseñar Imperfect Subjunctive
+Basic	Verb Tenses::Enseñar	you all taught (subjunctive)	ustedes enseñaran	Enseñar Imperfect Subjunctive
+Basic	Verb Tenses::Enseñar	they taught (subjunctive)	ellos enseñaran	Enseñar Imperfect Subjunctive

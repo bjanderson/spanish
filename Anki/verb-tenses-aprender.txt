@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Verb Tenses::Aprender	I learn	yo aprendo	Aprender Present Indicative
+Basic	Verb Tenses::Aprender	you learn	tú aprendes	Aprender Present Indicative
+Basic	Verb Tenses::Aprender	he learns	él aprende	Aprender Present Indicative
+Basic	Verb Tenses::Aprender	she learns	ella aprende	Aprender Present Indicative
+Basic	Verb Tenses::Aprender	you (formal) learn	usted aprende	Aprender Present Indicative
+Basic	Verb Tenses::Aprender	we learn	nosotros aprendemos	Aprender Present Indicative
+Basic	Verb Tenses::Aprender	you all learn	ustedes aprenden	Aprender Present Indicative
+Basic	Verb Tenses::Aprender	they learn	ellos aprenden	Aprender Present Indicative
+Basic	Verb Tenses::Aprender	I learned	yo aprendí	Aprender Preterite
+Basic	Verb Tenses::Aprender	you learned	tú aprendiste	Aprender Preterite
+Basic	Verb Tenses::Aprender	he learned	él aprendió	Aprender Preterite
+Basic	Verb Tenses::Aprender	she learned	ella aprendió	Aprender Preterite
+Basic	Verb Tenses::Aprender	you (formal) learned	usted aprendió	Aprender Preterite
+Basic	Verb Tenses::Aprender	we learned	nosotros aprendimos	Aprender Preterite
+Basic	Verb Tenses::Aprender	you all learned	ustedes aprendieron	Aprender Preterite
+Basic	Verb Tenses::Aprender	they learned	ellos aprendieron	Aprender Preterite
+Basic	Verb Tenses::Aprender	I used to learn	yo aprendía	Aprender Imperfect Indicative
+Basic	Verb Tenses::Aprender	you used to learn	tú aprendías	Aprender Imperfect Indicative
+Basic	Verb Tenses::Aprender	he used to learn	él aprendía	Aprender Imperfect Indicative
+Basic	Verb Tenses::Aprender	she used to learn	ella aprendía	Aprender Imperfect Indicative
+Basic	Verb Tenses::Aprender	you (formal) used to learn	usted aprendía	Aprender Imperfect Indicative
+Basic	Verb Tenses::Aprender	we used to learn	nosotros aprendíamos	Aprender Imperfect Indicative
+Basic	Verb Tenses::Aprender	you all used to learn	ustedes aprendían	Aprender Imperfect Indicative
+Basic	Verb Tenses::Aprender	they used to learn	ellos aprendían	Aprender Imperfect Indicative
+Basic	Verb Tenses::Aprender	I will learn	yo aprenderé	Aprender Future Indicative
+Basic	Verb Tenses::Aprender	you will learn	tú aprenderás	Aprender Future Indicative
+Basic	Verb Tenses::Aprender	he will learn	él aprenderá	Aprender Future Indicative
+Basic	Verb Tenses::Aprender	she will learn	ella aprenderá	Aprender Future Indicative
+Basic	Verb Tenses::Aprender	you (formal) will learn	usted aprenderá	Aprender Future Indicative
+Basic	Verb Tenses::Aprender	we will learn	nosotros aprenderemos	Aprender Future Indicative
+Basic	Verb Tenses::Aprender	you all will learn	ustedes aprenderán	Aprender Future Indicative
+Basic	Verb Tenses::Aprender	they will learn	ellos aprenderán	Aprender Future Indicative
+Basic	Verb Tenses::Aprender	I would learn	yo aprendería	Aprender Conditional
+Basic	Verb Tenses::Aprender	you would learn	tú aprenderías	Aprender Conditional
+Basic	Verb Tenses::Aprender	he would learn	él aprendería	Aprender Conditional
+Basic	Verb Tenses::Aprender	she would learn	ella aprendería	Aprender Conditional
+Basic	Verb Tenses::Aprender	you (formal) would learn	usted aprendería	Aprender Conditional
+Basic	Verb Tenses::Aprender	we would learn	nosotros aprenderíamos	Aprender Conditional
+Basic	Verb Tenses::Aprender	you all would learn	ustedes aprenderían	Aprender Conditional
+Basic	Verb Tenses::Aprender	they would learn	ellos aprenderían	Aprender Conditional
+Basic	Verb Tenses::Aprender	I learn (subjunctive)	yo aprenda	Aprender Present Subjunctive
+Basic	Verb Tenses::Aprender	you learn (subjunctive)	tú aprendas	Aprender Present Subjunctive
+Basic	Verb Tenses::Aprender	he learns (subjunctive)	él aprenda	Aprender Present Subjunctive
+Basic	Verb Tenses::Aprender	she learns (subjunctive)	ella aprenda	Aprender Present Subjunctive
+Basic	Verb Tenses::Aprender	you (formal) learn (subjunctive)	usted aprenda	Aprender Present Subjunctive
+Basic	Verb Tenses::Aprender	we learn (subjunctive)	nosotros aprendamos	Aprender Present Subjunctive
+Basic	Verb Tenses::Aprender	you all learn (subjunctive)	ustedes aprendan	Aprender Present Subjunctive
+Basic	Verb Tenses::Aprender	they learn (subjunctive)	ellos aprendan	Aprender Present Subjunctive
+Basic	Verb Tenses::Aprender	I learned (subjunctive)	yo aprendiera	Aprender Imperfect Subjunctive
+Basic	Verb Tenses::Aprender	you learned (subjunctive)	tú aprendieras	Aprender Imperfect Subjunctive
+Basic	Verb Tenses::Aprender	he learned (subjunctive)	él aprendiera	Aprender Imperfect Subjunctive
+Basic	Verb Tenses::Aprender	she learned (subjunctive)	ella aprendiera	Aprender Imperfect Subjunctive
+Basic	Verb Tenses::Aprender	you (formal) learned (subjunctive)	usted aprendiera	Aprender Imperfect Subjunctive
+Basic	Verb Tenses::Aprender	we learned (subjunctive)	nosotros aprendiéramos	Aprender Imperfect Subjunctive
+Basic	Verb Tenses::Aprender	you all learned (subjunctive)	ustedes aprendieran	Aprender Imperfect Subjunctive
+Basic	Verb Tenses::Aprender	they learned (subjunctive)	ellos aprendieran	Aprender Imperfect Subjunctive

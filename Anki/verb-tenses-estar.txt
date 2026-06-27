@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Verb Tenses::Estar	I am	yo estoy	Estar Present Indicative
+Basic	Verb Tenses::Estar	you are	tú estás	Estar Present Indicative
+Basic	Verb Tenses::Estar	he is	él está	Estar Present Indicative
+Basic	Verb Tenses::Estar	she is	ella está	Estar Present Indicative
+Basic	Verb Tenses::Estar	you (formal) are	usted está	Estar Present Indicative
+Basic	Verb Tenses::Estar	we are	nosotros estamos	Estar Present Indicative
+Basic	Verb Tenses::Estar	you all are	ustedes están	Estar Present Indicative
+Basic	Verb Tenses::Estar	they are	ellos están	Estar Present Indicative
+Basic	Verb Tenses::Estar	I was	yo estuve	Estar Preterite
+Basic	Verb Tenses::Estar	you were	tú estuviste	Estar Preterite
+Basic	Verb Tenses::Estar	he was	él estuvo	Estar Preterite
+Basic	Verb Tenses::Estar	she was	ella estuvo	Estar Preterite
+Basic	Verb Tenses::Estar	you (formal) were	usted estuvo	Estar Preterite
+Basic	Verb Tenses::Estar	we were	nosotros estuvimos	Estar Preterite
+Basic	Verb Tenses::Estar	you all were	ustedes estuvieron	Estar Preterite
+Basic	Verb Tenses::Estar	they were	ellos estuvieron	Estar Preterite
+Basic	Verb Tenses::Estar	I used to be	yo estaba	Estar Imperfect Indicative
+Basic	Verb Tenses::Estar	you used to be	tú estabas	Estar Imperfect Indicative
+Basic	Verb Tenses::Estar	he used to be	él estaba	Estar Imperfect Indicative
+Basic	Verb Tenses::Estar	she used to be	ella estaba	Estar Imperfect Indicative
+Basic	Verb Tenses::Estar	you (formal) used to be	usted estaba	Estar Imperfect Indicative
+Basic	Verb Tenses::Estar	we used to be	nosotros estábamos	Estar Imperfect Indicative
+Basic	Verb Tenses::Estar	you all used to be	ustedes estaban	Estar Imperfect Indicative
+Basic	Verb Tenses::Estar	they used to be	ellos estaban	Estar Imperfect Indicative
+Basic	Verb Tenses::Estar	I will be	yo estaré	Estar Future Indicative
+Basic	Verb Tenses::Estar	you will be	tú estarás	Estar Future Indicative
+Basic	Verb Tenses::Estar	he will be	él estará	Estar Future Indicative
+Basic	Verb Tenses::Estar	she will be	ella estará	Estar Future Indicative
+Basic	Verb Tenses::Estar	you (formal) will be	usted estará	Estar Future Indicative
+Basic	Verb Tenses::Estar	we will be	nosotros estaremos	Estar Future Indicative
+Basic	Verb Tenses::Estar	you all will be	ustedes estarán	Estar Future Indicative
+Basic	Verb Tenses::Estar	they will be	ellos estarán	Estar Future Indicative
+Basic	Verb Tenses::Estar	I would be	yo estaría	Estar Conditional
+Basic	Verb Tenses::Estar	you would be	tú estarías	Estar Conditional
+Basic	Verb Tenses::Estar	he would be	él estaría	Estar Conditional
+Basic	Verb Tenses::Estar	she would be	ella estaría	Estar Conditional
+Basic	Verb Tenses::Estar	you (formal) would be	usted estaría	Estar Conditional
+Basic	Verb Tenses::Estar	we would be	nosotros estaríamos	Estar Conditional
+Basic	Verb Tenses::Estar	you all would be	ustedes estarían	Estar Conditional
+Basic	Verb Tenses::Estar	they would be	ellos estarían	Estar Conditional
+Basic	Verb Tenses::Estar	I am (subjunctive)	yo esté	Estar Present Subjunctive
+Basic	Verb Tenses::Estar	you are (subjunctive)	tú estés	Estar Present Subjunctive
+Basic	Verb Tenses::Estar	he is (subjunctive)	él esté	Estar Present Subjunctive
+Basic	Verb Tenses::Estar	she is (subjunctive)	ella esté	Estar Present Subjunctive
+Basic	Verb Tenses::Estar	you (formal) are (subjunctive)	usted esté	Estar Present Subjunctive
+Basic	Verb Tenses::Estar	we are (subjunctive)	nosotros estemos	Estar Present Subjunctive
+Basic	Verb Tenses::Estar	you all are (subjunctive)	ustedes estén	Estar Present Subjunctive
+Basic	Verb Tenses::Estar	they are (subjunctive)	ellos estén	Estar Present Subjunctive
+Basic	Verb Tenses::Estar	I were (subjunctive)	yo estuviera	Estar Imperfect Subjunctive
+Basic	Verb Tenses::Estar	you were (subjunctive)	tú estuvieras	Estar Imperfect Subjunctive
+Basic	Verb Tenses::Estar	he were (subjunctive)	él estuviera	Estar Imperfect Subjunctive
+Basic	Verb Tenses::Estar	she were (subjunctive)	ella estuviera	Estar Imperfect Subjunctive
+Basic	Verb Tenses::Estar	you (formal) were (subjunctive)	usted estuviera	Estar Imperfect Subjunctive
+Basic	Verb Tenses::Estar	we were (subjunctive)	nosotros estuviéramos	Estar Imperfect Subjunctive
+Basic	Verb Tenses::Estar	you all were (subjunctive)	ustedes estuvieran	Estar Imperfect Subjunctive
+Basic	Verb Tenses::Estar	they were (subjunctive)	ellos estuvieran	Estar Imperfect Subjunctive

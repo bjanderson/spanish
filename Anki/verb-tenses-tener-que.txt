@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Verb Tenses::Tener Que	I have to	yo tengo que	Tener Que Present Indicative
+Basic	Verb Tenses::Tener Que	you have to	tú tienes que	Tener Que Present Indicative
+Basic	Verb Tenses::Tener Que	he has to	él tiene que	Tener Que Present Indicative
+Basic	Verb Tenses::Tener Que	she has to	ella tiene que	Tener Que Present Indicative
+Basic	Verb Tenses::Tener Que	you (formal) have to	usted tiene que	Tener Que Present Indicative
+Basic	Verb Tenses::Tener Que	we have to	nosotros tenemos que	Tener Que Present Indicative
+Basic	Verb Tenses::Tener Que	you all have to	ustedes tienen que	Tener Que Present Indicative
+Basic	Verb Tenses::Tener Que	they have to	ellos tienen que	Tener Que Present Indicative
+Basic	Verb Tenses::Tener Que	I had to	yo tuve que	Tener Que Preterite
+Basic	Verb Tenses::Tener Que	you had to	tú tuviste que	Tener Que Preterite
+Basic	Verb Tenses::Tener Que	he had to	él tuvo que	Tener Que Preterite
+Basic	Verb Tenses::Tener Que	she had to	ella tuvo que	Tener Que Preterite
+Basic	Verb Tenses::Tener Que	you (formal) had to	usted tuvo que	Tener Que Preterite
+Basic	Verb Tenses::Tener Que	we had to	nosotros tuvimos que	Tener Que Preterite
+Basic	Verb Tenses::Tener Que	you all had to	ustedes tuvieron que	Tener Que Preterite
+Basic	Verb Tenses::Tener Que	they had to	ellos tuvieron que	Tener Que Preterite
+Basic	Verb Tenses::Tener Que	I used to have to	yo tenía que	Tener Que Imperfect Indicative
+Basic	Verb Tenses::Tener Que	you used to have to	tú tenías que	Tener Que Imperfect Indicative
+Basic	Verb Tenses::Tener Que	he used to have to	él tenía que	Tener Que Imperfect Indicative
+Basic	Verb Tenses::Tener Que	she used to have to	ella tenía que	Tener Que Imperfect Indicative
+Basic	Verb Tenses::Tener Que	you (formal) used to have to	usted tenía que	Tener Que Imperfect Indicative
+Basic	Verb Tenses::Tener Que	we used to have to	nosotros teníamos que	Tener Que Imperfect Indicative
+Basic	Verb Tenses::Tener Que	you all used to have to	ustedes tenían que	Tener Que Imperfect Indicative
+Basic	Verb Tenses::Tener Que	they used to have to	ellos tenían que	Tener Que Imperfect Indicative
+Basic	Verb Tenses::Tener Que	I will have to	yo tendré que	Tener Que Future Indicative
+Basic	Verb Tenses::Tener Que	you will have to	tú tendrás que	Tener Que Future Indicative
+Basic	Verb Tenses::Tener Que	he will have to	él tendrá que	Tener Que Future Indicative
+Basic	Verb Tenses::Tener Que	she will have to	ella tendrá que	Tener Que Future Indicative
+Basic	Verb Tenses::Tener Que	you (formal) will have to	usted tendrá que	Tener Que Future Indicative
+Basic	Verb Tenses::Tener Que	we will have to	nosotros tendremos que	Tener Que Future Indicative
+Basic	Verb Tenses::Tener Que	you all will have to	ustedes tendrán que	Tener Que Future Indicative
+Basic	Verb Tenses::Tener Que	they will have to	ellos tendrán que	Tener Que Future Indicative
+Basic	Verb Tenses::Tener Que	I would have to	yo tendría que	Tener Que Conditional
+Basic	Verb Tenses::Tener Que	you would have to	tú tendrías que	Tener Que Conditional
+Basic	Verb Tenses::Tener Que	he would have to	él tendría que	Tener Que Conditional
+Basic	Verb Tenses::Tener Que	she would have to	ella tendría que	Tener Que Conditional
+Basic	Verb Tenses::Tener Que	you (formal) would have to	usted tendría que	Tener Que Conditional
+Basic	Verb Tenses::Tener Que	we would have to	nosotros tendríamos que	Tener Que Conditional
+Basic	Verb Tenses::Tener Que	you all would have to	ustedes tendrían que	Tener Que Conditional
+Basic	Verb Tenses::Tener Que	they would have to	ellos tendrían que	Tener Que Conditional
+Basic	Verb Tenses::Tener Que	I have to (subjunctive)	yo tenga que	Tener Que Present Subjunctive
+Basic	Verb Tenses::Tener Que	you have to (subjunctive)	tú tengas que	Tener Que Present Subjunctive
+Basic	Verb Tenses::Tener Que	he has to (subjunctive)	él tenga que	Tener Que Present Subjunctive
+Basic	Verb Tenses::Tener Que	she has to (subjunctive)	ella tenga que	Tener Que Present Subjunctive
+Basic	Verb Tenses::Tener Que	you (formal) have to (subjunctive)	usted tenga que	Tener Que Present Subjunctive
+Basic	Verb Tenses::Tener Que	we have to (subjunctive)	nosotros tengamos que	Tener Que Present Subjunctive
+Basic	Verb Tenses::Tener Que	you all have to (subjunctive)	ustedes tengan que	Tener Que Present Subjunctive
+Basic	Verb Tenses::Tener Que	they have to (subjunctive)	ellos tengan que	Tener Que Present Subjunctive
+Basic	Verb Tenses::Tener Que	I had to (subjunctive)	yo tuviera que	Tener Que Imperfect Subjunctive
+Basic	Verb Tenses::Tener Que	you had to (subjunctive)	tú tuvieras que	Tener Que Imperfect Subjunctive
+Basic	Verb Tenses::Tener Que	he had to (subjunctive)	él tuviera que	Tener Que Imperfect Subjunctive
+Basic	Verb Tenses::Tener Que	she had to (subjunctive)	ella tuviera que	Tener Que Imperfect Subjunctive
+Basic	Verb Tenses::Tener Que	you (formal) had to (subjunctive)	usted tuviera que	Tener Que Imperfect Subjunctive
+Basic	Verb Tenses::Tener Que	we had to (subjunctive)	nosotros tuviéramos que	Tener Que Imperfect Subjunctive
+Basic	Verb Tenses::Tener Que	you all had to (subjunctive)	ustedes tuvieran que	Tener Que Imperfect Subjunctive
+Basic	Verb Tenses::Tener Que	they had to (subjunctive)	ellos tuvieran que	Tener Que Imperfect Subjunctive

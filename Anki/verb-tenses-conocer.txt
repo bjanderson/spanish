@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Verb Tenses::Conocer	I know / am acquainted with	yo conozco	Conocer Present Indicative
+Basic	Verb Tenses::Conocer	you know / are acquainted with	tú conoces	Conocer Present Indicative
+Basic	Verb Tenses::Conocer	he knows / is acquainted with	él conoce	Conocer Present Indicative
+Basic	Verb Tenses::Conocer	she knows / is acquainted with	ella conoce	Conocer Present Indicative
+Basic	Verb Tenses::Conocer	you (formal) know / are acquainted with	usted conoce	Conocer Present Indicative
+Basic	Verb Tenses::Conocer	we know / are acquainted with	nosotros conocemos	Conocer Present Indicative
+Basic	Verb Tenses::Conocer	you all know / are acquainted with	ustedes conocen	Conocer Present Indicative
+Basic	Verb Tenses::Conocer	they know / are acquainted with	ellos conocen	Conocer Present Indicative
+Basic	Verb Tenses::Conocer	I met / knew	yo conocí	Conocer Preterite
+Basic	Verb Tenses::Conocer	you met / knew	tú conociste	Conocer Preterite
+Basic	Verb Tenses::Conocer	he met / knew	él conoció	Conocer Preterite
+Basic	Verb Tenses::Conocer	she met / knew	ella conoció	Conocer Preterite
+Basic	Verb Tenses::Conocer	you (formal) met / knew	usted conoció	Conocer Preterite
+Basic	Verb Tenses::Conocer	we met / knew	nosotros conocimos	Conocer Preterite
+Basic	Verb Tenses::Conocer	you all met / knew	ustedes conocieron	Conocer Preterite
+Basic	Verb Tenses::Conocer	they met / knew	ellos conocieron	Conocer Preterite
+Basic	Verb Tenses::Conocer	I used to know	yo conocía	Conocer Imperfect Indicative
+Basic	Verb Tenses::Conocer	you used to know	tú conocías	Conocer Imperfect Indicative
+Basic	Verb Tenses::Conocer	he used to know	él conocía	Conocer Imperfect Indicative
+Basic	Verb Tenses::Conocer	she used to know	ella conocía	Conocer Imperfect Indicative
+Basic	Verb Tenses::Conocer	you (formal) used to know	usted conocía	Conocer Imperfect Indicative
+Basic	Verb Tenses::Conocer	we used to know	nosotros conocíamos	Conocer Imperfect Indicative
+Basic	Verb Tenses::Conocer	you all used to know	ustedes conocían	Conocer Imperfect Indicative
+Basic	Verb Tenses::Conocer	they used to know	ellos conocían	Conocer Imperfect Indicative
+Basic	Verb Tenses::Conocer	I will know	yo conoceré	Conocer Future Indicative
+Basic	Verb Tenses::Conocer	you will know	tú conocerás	Conocer Future Indicative
+Basic	Verb Tenses::Conocer	he will know	él conocerá	Conocer Future Indicative
+Basic	Verb Tenses::Conocer	she will know	ella conocerá	Conocer Future Indicative
+Basic	Verb Tenses::Conocer	you (formal) will know	usted conocerá	Conocer Future Indicative
+Basic	Verb Tenses::Conocer	we will know	nosotros conoceremos	Conocer Future Indicative
+Basic	Verb Tenses::Conocer	you all will know	ustedes conocerán	Conocer Future Indicative
+Basic	Verb Tenses::Conocer	they will know	ellos conocerán	Conocer Future Indicative
+Basic	Verb Tenses::Conocer	I would know	yo conocería	Conocer Conditional
+Basic	Verb Tenses::Conocer	you would know	tú conocerías	Conocer Conditional
+Basic	Verb Tenses::Conocer	he would know	él conocería	Conocer Conditional
+Basic	Verb Tenses::Conocer	she would know	ella conocería	Conocer Conditional
+Basic	Verb Tenses::Conocer	you (formal) would know	usted conocería	Conocer Conditional
+Basic	Verb Tenses::Conocer	we would know	nosotros conoceríamos	Conocer Conditional
+Basic	Verb Tenses::Conocer	you all would know	ustedes conocerían	Conocer Conditional
+Basic	Verb Tenses::Conocer	they would know	ellos conocerían	Conocer Conditional
+Basic	Verb Tenses::Conocer	I know (subjunctive)	yo conozca	Conocer Present Subjunctive
+Basic	Verb Tenses::Conocer	you know (subjunctive)	tú conozcas	Conocer Present Subjunctive
+Basic	Verb Tenses::Conocer	he knows (subjunctive)	él conozca	Conocer Present Subjunctive
+Basic	Verb Tenses::Conocer	she knows (subjunctive)	ella conozca	Conocer Present Subjunctive
+Basic	Verb Tenses::Conocer	you (formal) know (subjunctive)	usted conozca	Conocer Present Subjunctive
+Basic	Verb Tenses::Conocer	we know (subjunctive)	nosotros conozcamos	Conocer Present Subjunctive
+Basic	Verb Tenses::Conocer	you all know (subjunctive)	ustedes conozcan	Conocer Present Subjunctive
+Basic	Verb Tenses::Conocer	they know (subjunctive)	ellos conozcan	Conocer Present Subjunctive
+Basic	Verb Tenses::Conocer	I knew (subjunctive)	yo conociera	Conocer Imperfect Subjunctive
+Basic	Verb Tenses::Conocer	you knew (subjunctive)	tú conocieras	Conocer Imperfect Subjunctive
+Basic	Verb Tenses::Conocer	he knew (subjunctive)	él conociera	Conocer Imperfect Subjunctive
+Basic	Verb Tenses::Conocer	she knew (subjunctive)	ella conociera	Conocer Imperfect Subjunctive
+Basic	Verb Tenses::Conocer	you (formal) knew (subjunctive)	usted conociera	Conocer Imperfect Subjunctive
+Basic	Verb Tenses::Conocer	we knew (subjunctive)	nosotros conociéramos	Conocer Imperfect Subjunctive
+Basic	Verb Tenses::Conocer	you all knew (subjunctive)	ustedes conocieran	Conocer Imperfect Subjunctive
+Basic	Verb Tenses::Conocer	they knew (subjunctive)	ellos conocieran	Conocer Imperfect Subjunctive

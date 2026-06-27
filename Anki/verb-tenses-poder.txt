@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype column:1
+#deck column:2
+#front column:3
+#back column:4
+#tags column:5
+Basic	Verb Tenses::Poder	I can	yo puedo	Poder Present Indicative
+Basic	Verb Tenses::Poder	you can	tú puedes	Poder Present Indicative
+Basic	Verb Tenses::Poder	he can	él puede	Poder Present Indicative
+Basic	Verb Tenses::Poder	she can	ella puede	Poder Present Indicative
+Basic	Verb Tenses::Poder	you (formal) can	usted puede	Poder Present Indicative
+Basic	Verb Tenses::Poder	we can	nosotros podemos	Poder Present Indicative
+Basic	Verb Tenses::Poder	you all can	ustedes pueden	Poder Present Indicative
+Basic	Verb Tenses::Poder	they can	ellos pueden	Poder Present Indicative
+Basic	Verb Tenses::Poder	I was able to	yo pude	Poder Preterite
+Basic	Verb Tenses::Poder	you were able to	tú pudiste	Poder Preterite
+Basic	Verb Tenses::Poder	he was able to	él pudo	Poder Preterite
+Basic	Verb Tenses::Poder	she was able to	ella pudo	Poder Preterite
+Basic	Verb Tenses::Poder	you (formal) were able to	usted pudo	Poder Preterite
+Basic	Verb Tenses::Poder	we were able to	nosotros pudimos	Poder Preterite
+Basic	Verb Tenses::Poder	you all were able to	ustedes pudieron	Poder Preterite
+Basic	Verb Tenses::Poder	they were able to	ellos pudieron	Poder Preterite
+Basic	Verb Tenses::Poder	I used to be able to	yo podía	Poder Imperfect Indicative
+Basic	Verb Tenses::Poder	you used to be able to	tú podías	Poder Imperfect Indicative
+Basic	Verb Tenses::Poder	he used to be able to	él podía	Poder Imperfect Indicative
+Basic	Verb Tenses::Poder	she used to be able to	ella podía	Poder Imperfect Indicative
+Basic	Verb Tenses::Poder	you (formal) used to be able to	usted podía	Poder Imperfect Indicative
+Basic	Verb Tenses::Poder	we used to be able to	nosotros podíamos	Poder Imperfect Indicative
+Basic	Verb Tenses::Poder	you all used to be able to	ustedes podían	Poder Imperfect Indicative
+Basic	Verb Tenses::Poder	they used to be able to	ellos podían	Poder Imperfect Indicative
+Basic	Verb Tenses::Poder	I will be able to	yo podré	Poder Future Indicative
+Basic	Verb Tenses::Poder	you will be able to	tú podrás	Poder Future Indicative
+Basic	Verb Tenses::Poder	he will be able to	él podrá	Poder Future Indicative
+Basic	Verb Tenses::Poder	she will be able to	ella podrá	Poder Future Indicative
+Basic	Verb Tenses::Poder	you (formal) will be able to	usted podrá	Poder Future Indicative
+Basic	Verb Tenses::Poder	we will be able to	nosotros podremos	Poder Future Indicative
+Basic	Verb Tenses::Poder	you all will be able to	ustedes podrán	Poder Future Indicative
+Basic	Verb Tenses::Poder	they will be able to	ellos podrán	Poder Future Indicative
+Basic	Verb Tenses::Poder	I would be able to	yo podría	Poder Conditional
+Basic	Verb Tenses::Poder	you would be able to	tú podrías	Poder Conditional
+Basic	Verb Tenses::Poder	he would be able to	él podría	Poder Conditional
+Basic	Verb Tenses::Poder	she would be able to	ella podría	Poder Conditional
+Basic	Verb Tenses::Poder	you (formal) would be able to	usted podría	Poder Conditional
+Basic	Verb Tenses::Poder	we would be able to	nosotros podríamos	Poder Conditional
+Basic	Verb Tenses::Poder	you all would be able to	ustedes podrían	Poder Conditional
+Basic	Verb Tenses::Poder	they would be able to	ellos podrían	Poder Conditional
+Basic	Verb Tenses::Poder	I can (subjunctive)	yo pueda	Poder Present Subjunctive
+Basic	Verb Tenses::Poder	you can (subjunctive)	tú puedas	Poder Present Subjunctive
+Basic	Verb Tenses::Poder	he can (subjunctive)	él pueda	Poder Present Subjunctive
+Basic	Verb Tenses::Poder	she can (subjunctive)	ella pueda	Poder Present Subjunctive
+Basic	Verb Tenses::Poder	you (formal) can (subjunctive)	usted pueda	Poder Present Subjunctive
+Basic	Verb Tenses::Poder	we can (subjunctive)	nosotros podamos	Poder Present Subjunctive
+Basic	Verb Tenses::Poder	you all can (subjunctive)	ustedes puedan	Poder Present Subjunctive
+Basic	Verb Tenses::Poder	they can (subjunctive)	ellos puedan	Poder Present Subjunctive
+Basic	Verb Tenses::Poder	I were able to (subjunctive)	yo pudiera	Poder Imperfect Subjunctive
+Basic	Verb Tenses::Poder	you were able to (subjunctive)	tú pudieras	Poder Imperfect Subjunctive
+Basic	Verb Tenses::Poder	he were able to (subjunctive)	él pudiera	Poder Imperfect Subjunctive
+Basic	Verb Tenses::Poder	she were able to (subjunctive)	ella pudiera	Poder Imperfect Subjunctive
+Basic	Verb Tenses::Poder	you (formal) were able to (subjunctive)	usted pudiera	Poder Imperfect Subjunctive
+Basic	Verb Tenses::Poder	we were able to (subjunctive)	nosotros pudiéramos	Poder Imperfect Subjunctive
+Basic	Verb Tenses::Poder	you all were able to (subjunctive)	ustedes pudieran	Poder Imperfect Subjunctive
+Basic	Verb Tenses::Poder	they were able to (subjunctive)	ellos pudieran	Poder Imperfect Subjunctive
