@@ -223,122 +223,82 @@ Basic	Ser::Imperfect::Indicative	They used to be missionaries in rural Mexico.	E
 Basic	Ser::Imperfect::Indicative	I used to be very involved in the youth ministry.	Era muy involucrado en el ministerio juvenil.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Were you the Sunday school teacher before?	¿Eras el maestro de escuela dominical antes?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	She used to be the church secretary for years.	Era la secretaria de la iglesia durante años.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be prayer partners in the early days.
-Éramos compañeros de oración en los primeros tiempos.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be leaders in the children ministry.	Eran líderes en el ministerio de niños.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	I used to be a regular at that Bible study group.	Era un asistente regular de ese grupo de estudio bíblico.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Were you a deacon in your old church?	¿Eras diácono en tu antigua iglesia?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	He used to be the interpreter at the mission conferences.	Era el intérprete en las conferencias misioneras.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be part of an evangelism team.
-Éramos parte de un equipo de evangelismo.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be the most faithful givers in the church.	Eran los donadores más fieles de la iglesia.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	I used to be a frequent traveler for mission work.	Era un viajero frecuente para el trabajo misionero.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Were you nervous on your first international flight?	¿Eras nervioso en tu primer vuelo internacional?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	She used to be a tour guide in Costa Rica.	Era guía de turismo en Costa Rica.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be hosts for international students.
-Éramos anfitriones de estudiantes internacionales.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be translators at the international church.	Eran traductores en la iglesia internacional.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	The food at the market used to be so fresh.	La comida en el mercado era tan fresca.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Was the restaurant near the church very good?	¿Era muy bueno el restaurante cerca de la iglesia?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	The Sunday lunch used to be a family tradition.	El almuerzo del domingo era una tradición familiar.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be known for our tamales at Christmas.
-Éramos conocidos por nuestros tamales en Navidad.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be vegetarians before they moved.	Eran vegetarianos antes de mudarse.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	I used to be the cook for all family gatherings.	Era el cocinero de todas las reuniones familiares.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Were you picky about food as a child?	¿Eras exigente con la comida de niño?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	She used to be the baker for the church potluck.	Era la pastelera para el almuerzo compartido de la iglesia.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be the family that always brought desserts.
-Éramos la familia que siempre traía los postres.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be regulars at that little taco place.	Eran clientes habituales de ese pequeño lugar de tacos.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Our house used to be the gathering place for family.	Nuestra casa era el lugar de reunión para la familia.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Was the old house near the church?	¿Era la casa vieja cerca de la iglesia?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	The home used to be cozy and full of music.	El hogar era acogedor y lleno de música.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be homeowners in that neighborhood.
-Éramos dueños de casa en ese vecindario.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be renters before they bought their house.	Eran inquilinos antes de comprar su casa.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	I used to be the one who cleaned the house on Saturdays.	Era quien limpiaba la casa los sábados.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Were you the youngest child in a big family?	¿Eras el hijo menor en una familia grande?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	She used to be very close to her grandmother.	Era muy cercana a su abuela.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be a family of five living in one house.
-Éramos una familia de cinco viviendo en una casa.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be our closest relatives.	Eran nuestros parientes más cercanos.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	I used to be best friends with the pastor son.	Era el mejor amigo del hijo del pastor.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Were you friends with him before you became neighbors?	¿Eras amigo de él antes de que fueran vecinos?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	She used to be part of my small group at church.	Era parte de mi grupo pequeño en la iglesia.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be neighbors who prayed for each other.
-Éramos vecinos que orábamos el uno por el otro.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be dear friends before the move.	Eran queridos amigos antes de la mudanza.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	My cat used to be the most playful in the neighborhood.	Mi gato era el más juguetón del vecindario.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Was your dog friendly with other animals?	¿Era tu perro amigable con otros animales?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	The hamster used to be very active at night.	El hámster era muy activo por las noches.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be known as the family with many pets.
-Éramos conocidos como la familia con muchas mascotas.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be volunteers at the animal rescue.	Eran voluntarios en el rescate de animales.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	I used to be a very dedicated student.	Era un estudiante muy dedicado.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Were you the best reader in your class?	¿Eras el mejor lector de tu clase?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	She used to be top of her class every year.	Era la primera de su clase cada año.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be students at the same school.
-Éramos estudiantes en la misma escuela.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be the most motivated students in the program.	Eran los estudiantes más motivados del programa.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	I used to be very active and healthy.	Era muy activo y saludable.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Was the doctor gentle with you during the exam?	¿Era gentil el médico contigo durante el examen?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	The clinic used to be very close to our home.	La clínica era muy cerca de nuestra casa.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be healthier when we cooked at home more.
-Éramos más saludables cuando cocinábamos en casa más seguido.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be in excellent shape before the illness.	Eran en excelente forma antes de la enfermedad.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	I used to be a nurse at the community clinic.	Era enfermero en la clínica comunitaria.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Were you a volunteer at the hospital chapel?	¿Eras voluntario en la capilla del hospital?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	The health fair used to be held at our church.	La feria de salud era realizada en nuestra iglesia.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be involved in the hospital ministry.
-Éramos involucrados en el ministerio del hospital.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be part of the mental health support group.	Eran parte del grupo de apoyo de salud mental.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	I used to be a manager at the Christian bookstore.	Era gerente en la librería cristiana.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Were you self-employed before joining the mission?	¿Eras trabajador independiente antes de unirte a la misión?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	She used to be the administrator of the ministry fund.	Era la administradora del fondo ministerial.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be business partners who served the Lord.
-Éramos socios de negocios que servíamos al Señor.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be the top fundraisers for the mission.	Eran los mejores recaudadores de fondos para la misión.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	I used to be the pianist for the worship team.	Era el pianista del equipo de adoración.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Were you in the choir as a teenager?	¿Eras del coro de adolescente?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	The music used to be very traditional at that church.	La música era muy tradicional en esa iglesia.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be known for our powerful worship services.
-Éramos conocidos por nuestros poderosos cultos de adoración.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be the praise team for the whole region.	Eran el equipo de alabanza de toda la región.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	The songs used to be simpler but very meaningful.	Las canciones eran más sencillas pero muy significativas.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Were you the guitar player in the band?	¿Eras el guitarrista de la banda?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	He used to be the choir director for twenty years.	Era el director del coro durante veinte años.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be in a gospel quartet together.
-Éramos parte de un cuarteto de gospel juntos.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be musicians at the evangelism crusades.	Eran músicos en las cruzadas de evangelismo.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	God used to speak to him through the Psalms every morning.	Dios le hablaba a través de los Salmos cada mañana.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Were the disciples afraid in the garden?	¿Eran los discípulos temerosos en el huerto?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Israel used to be a wandering nation in the desert.	Israel era una nación errante en el desierto.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be unaware of God grace until we heard the gospel.
-Éramos desconocedores de la gracia de Dios hasta que oímos el evangelio.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be skeptics before encountering the truth.	Eran escépticos antes de encontrarse con la verdad.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	The Pharisees used to be very strict about the law.	Los fariseos eran muy estrictos en cuanto a la ley.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Were the apostles ordinary fishermen?	¿Eran los apóstoles pescadores ordinarios?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Joseph used to be favored by his father Jacob.	José era el favorito de su padre Jacob.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be lost without the light of Christ.
-Éramos perdidos sin la luz de Cristo.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be faithful members of the early church.	Eran miembros fieles de la iglesia primitiva.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	I used to be afraid of death before I knew Jesus.	Era temeroso de la muerte antes de conocer a Jesús.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Were you unsure about your faith in your teens?	¿Eras inseguro sobre tu fe en tu adolescencia?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	She used to be doubtful until God answered her prayer.	Era dudosa hasta que Dios respondió su oración.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be distant from God before the revival.
-Éramos distantes de Dios antes del avivamiento.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be strangers to the grace of God.	Eran extraños a la gracia de Dios.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	I used to be insecure, but God gave me confidence.	Era inseguro, pero Dios me dio confianza.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Were you shy when you first joined the church?	¿Eras tímido cuando te uniste a la iglesia por primera vez?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	He used to be angry, but faith changed his heart.	Era enojón, pero la fe cambió su corazón.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be a divided family before Christ united us.
-Éramos una familia dividida antes de que Cristo nos uniera.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be rivals who became brothers in Christ.	Eran rivales que se convirtieron en hermanos en Cristo.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	The neighborhood used to be very different years ago.	El vecindario era muy diferente hace años.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	Were you a frequent visitor at the homeless shelter?	¿Eras visitante frecuente en el refugio de indigentes?	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	She used to be the director of the food pantry ministry.	Era la directora del ministerio de despensa de alimentos.	Ser Imperfect Indicative
-Basic	Ser::Imperfect::Indicative	We used to be known as the church that loved its community.
-Éramos conocidos como la iglesia que amaba a su comunidad.	Ser Imperfect Indicative
 Basic	Ser::Imperfect::Indicative	They used to be the first ones to help in a crisis.	Eran los primeros en ayudar en una crisis.	Ser Imperfect Indicative
 Basic	Ser::Future::Indicative	I will be a better servant of God this year.	Seré un mejor siervo de Dios este año.	Ser Future Indicative
 Basic	Ser::Future::Indicative	Will you be at the church retreat next month?	¿Estarás en el retiro de la iglesia el próximo mes?	Ser Future Indicative
@@ -543,148 +503,56 @@ Basic	Ser::Conditional	They would be so grateful if the church prayed for their 
 Basic	Ser::Present::Subjunctive	I hope you are the one to lead the prayer tonight.	Espero que seas tú quien dirija la oración esta noche.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is important that she be a woman of integrity.	Es importante que sea una mujer de integridad.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	God wants us to be a light in the darkness.	Dios quiere que seamos una luz en la oscuridad.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I pray that they be faithful servants of the Lord.
-Oro para que sean fieles siervos del Señor.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is good that he be involved in the youth ministry.	Es bueno que sea involucrado en el ministerio juvenil.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	May you be blessed in all that you do for the Lord.	Que seas bendecido en todo lo que hagas para el Señor.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	I need her to be the one who reads the scripture.	Necesito que ella sea quien lea las Escrituras.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is necessary that we be united as a church body.	Es necesario que seamos unidos como cuerpo de la iglesia.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	So that they be effective, prayer must come first.
-Para que sean efectivos, la oración debe ser lo primero.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I am glad that you are a part of this congregation.
-Me alegra que seas parte de esta congregación.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is important that the worship be heartfelt and genuine.	Es importante que la adoración sea sincera y genuina.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	I hope the pastor is prepared for the Bible study tonight.	Espero que el pastor esté preparado para el estudio bíblico esta noche.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	God desires that we be transformed by the renewing of our minds.	Dios desea que seamos transformados por la renovación de nuestra mente.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	May we be instruments of your peace, Lord.	Que seamos instrumentos de tu paz, Señor.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I pray that the new believers be discipled well.
-Oro para que los nuevos creyentes sean bien discipulados.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	I need you to be the translator for the mission trip.	Necesito que seas el traductor para el viaje misionero.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is important that the guide be trustworthy and knowledgeable.	Es importante que el guía sea de confianza y conocedor.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	So that we be safe, we must follow all the travel guidelines.
-Para que estemos seguros, debemos seguir todas las pautas de viaje.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	I hope the team is ready before departure day.	Espero que el equipo esté listo antes del día de partida.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	It is good that the church is well-represented on this trip.
-Es bueno que la iglesia esté bien representada en este viaje.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	I hope the meal is delicious and prepared with love.	Espero que la comida sea deliciosa y preparada con amor.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is important that the food be ready before the guests arrive.	Es importante que la comida esté lista antes de que lleguen los invitados.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	So that the potluck be a success, everyone must bring something.
-Para que el almuerzo compartido sea un éxito, todos deben traer algo.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I need the dishes to be cleaned before the gathering.
-Necesito que los platos estén limpios antes de la reunión.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is necessary that the restaurant be affordable for everyone.	Es necesario que el restaurante sea asequible para todos.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	I want the house to be welcoming for all who enter.	Quiero que la casa sea acogedora para todos los que entren.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is important that the home be a place of peace.	Es importante que el hogar sea un lugar de paz.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	So that we be comfortable, the house needs to be clean.
-Para que estemos cómodos, la casa debe estar limpia.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I hope the new apartment is close to the church.
-Espero que el nuevo apartamento esté cerca de la iglesia.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is good that the yard be safe for the children.	Es bueno que el patio sea seguro para los niños.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	I want my children to be raised in the fear of the Lord.	Quiero que mis hijos sean criados en el temor del Señor.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is important that the parents be present at the dedication.	Es importante que los padres estén presentes en la dedicación.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	God desires that we be devoted to our families.	Dios desea que seamos dedicados a nuestras familias.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	May our home be filled with joy and the Word of God.
-Que nuestro hogar esté lleno de alegría y la Palabra de Dios.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I pray that the children are healthy and strong.
-Oro para que los niños estén sanos y fuertes.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	I hope you are the right person for this role.	Espero que seas la persona adecuada para este papel.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	It is good that she is a caring and loyal friend.
-Es bueno que sea una amiga cariñosa y leal.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	So that you be a good friend, listen before you speak.
-Para que seas un buen amigo, escucha antes de hablar.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I pray that we are friends who point each other to Christ.
-Oro para que seamos amigos que nos señalemos mutuamente a Cristo.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is important that they be kind and supportive friends.	Es importante que sean amigos amables y solidarios.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	I need the dog to be calm around the baby.	Necesito que el perro sea tranquilo cerca del bebé.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is important that the cat be vaccinated before travel.	Es importante que el gato esté vacunado antes de viajar.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	So that the pet be healthy, it must have regular vet visits.
-Para que la mascota esté saludable, debe tener visitas veterinarias regulares.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I hope the puppy is friendly with the children.
-Espero que el cachorro sea amigable con los niños.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is good that the shelter animals be cared for with love.	Es bueno que los animales del refugio sean cuidados con amor.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	I want you to be the best student in the class.	Quiero que seas el mejor estudiante de la clase.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is important that she be attentive during the lesson.	Es importante que ella esté atenta durante la lección.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	God wants us to be diligent in our studies of his Word.	Dios quiere que seamos diligentes en el estudio de su Palabra.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	May you be an excellent teacher who inspires your students.
-Que seas un excelente maestro que inspire a sus estudiantes.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I pray that the school be a place of faith and learning.
-Oro para que la escuela sea un lugar de fe y aprendizaje.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	I hope you are feeling better after the treatment.	Espero que te sientas mejor después del tratamiento.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is important that the patient be monitored closely.	Es importante que el paciente sea monitoreado de cerca.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	So that we be healthy, we must take care of our bodies.
-Para que estemos saludables, debemos cuidar nuestros cuerpos.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I pray that the sick members of our church be healed.
-Oro para que los miembros enfermos de nuestra iglesia sean sanados.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is necessary that the clinic be accessible to all.	Es necesario que la clínica sea accesible para todos.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	I want you to be the leader of this ministry team.	Quiero que seas el líder de este equipo ministerial.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is important that he be trustworthy in the workplace.	Es importante que sea confiable en el lugar de trabajo.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	So that she be effective at work, she needs support.
-Para que sea efectiva en el trabajo, necesita apoyo.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I hope the new hire is a person of faith and character.
-Espero que el nuevo empleado sea una persona de fe y carácter.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is good that they be dedicated workers who honor God.	Es bueno que sean trabajadores dedicados que honren a Dios.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	I hope the concert is a blessing to the whole community.	Espero que el concierto sea una bendición para toda la comunidad.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is important that the worship be prepared and anointed.	Es importante que la adoración sea preparada y ungida.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	So that the music be excellent, we must practice more.
-Para que la música sea excelente, debemos practicar más.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I pray that they be instruments of praise to God.
-Oro para que sean instrumentos de alabanza a Dios.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is good that she be the lead vocalist on the worship team.	Es bueno que sea la vocalista principal del equipo de adoración.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	May God be exalted in every song we sing.
-Que Dios sea exaltado en cada canción que cantemos.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I pray that the gospel be preached clearly and boldly.
-Oro para que el evangelio sea predicado con claridad y valentía.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is important that the sermon be based on Scripture.	Es importante que el sermón esté basado en las Escrituras.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	God wants his Word to be proclaimed to every nation.	Dios quiere que su Palabra sea proclamada a todas las naciones.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	May Christ be glorified through our lives.
-Que Cristo sea glorificado a través de nuestras vidas.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I hope the Bible study is enriching for everyone.
-Espero que el estudio bíblico sea enriquecedor para todos.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	I do not think this approach is the most effective one.	No creo que este enfoque sea el más efectivo.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is possible that he is the answer to our prayer.	Es posible que él sea la respuesta a nuestra oración.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I hope the new pastor is a man of prayer.
-Espero que el nuevo pastor sea un hombre de oración.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is necessary that every member be committed to the vision.	Es necesario que cada miembro esté comprometido con la visión.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	I want our church to be a refuge for the broken.	Quiero que nuestra iglesia sea un refugio para los quebrantados.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	May the offering be used to bless others in need.
-Que la ofrenda sea usada para bendecir a otros en necesidad.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I pray that we be found faithful when Christ returns.
-Oro para que seamos hallados fieles cuando Cristo regrese.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is important that the children be taught about God.	Es importante que los niños sean enseñados acerca de Dios.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	So that we be fruitful, we must abide in the vine.
-Para que seamos fructíferos, debemos permanecer en la vid.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I am glad that you are a faithful member of this body.
-Me alegra que seas un miembro fiel de este cuerpo.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is good that the small group be a safe space to grow.	Es bueno que el grupo pequeño sea un espacio seguro para crecer.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I need the event to be organized and Christ-centered.
-Necesito que el evento esté organizado y centrado en Cristo.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is important that everyone be treated with dignity.	Es importante que todos sean tratados con dignidad.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	So that the mission be blessed, we must seek God first.
-Para que la misión sea bendecida, debemos buscar a Dios primero.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I pray that the new couple be rooted in Christ.
-Oro para que la nueva pareja esté arraigada en Cristo.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	May you be a vessel of honor for the Lord.
-Que seas un vaso de honra para el Señor.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I want this to be a place where people encounter God.
-Quiero que este sea un lugar donde las personas encuentren a Dios.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is necessary that the leaders be above reproach.	Es necesario que los líderes sean irreprochables.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	God desires that we be humble and teachable.	Dios desea que seamos humildes y enseñables.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	May the peace of God be with you always.
-Que la paz de Dios sea contigo siempre.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I pray that the church be a house of prayer for all people.
-Oro para que la iglesia sea una casa de oración para todas las personas.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is important that the testimony be honest and encouraging.	Es importante que el testimonio sea honesto y alentador.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	So that we be used by God, we must surrender our will.
-Para que seamos usados por Dios, debemos rendir nuestra voluntad.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I hope the community outreach is fruitful this month.
-Espero que el alcance comunitario sea fructífero este mes.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is good that the church be known for its generosity.	Es bueno que la iglesia sea conocida por su generosidad.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I want every person to be valued in this congregation.
-Quiero que cada persona sea valorada en esta congregación.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	May this church be a blessing to the city.
-Que esta iglesia sea una bendición para la ciudad.	Ser Present Subjunctive
-Basic	Ser::Present::Subjunctive	I pray that every family be touched by the love of God.
-Oro para que cada familia sea tocada por el amor de Dios.	Ser Present Subjunctive
 Basic	Ser::Present::Subjunctive	It is possible that the retreat is exactly what we need.	Es posible que el retiro sea exactamente lo que necesitamos.	Ser Present Subjunctive
 Basic	Ser::Imperfect::Subjunctive	If I were a better preacher, more people would listen.	Si fuera un mejor predicador, más personas escucharían.	Ser Imperfect Subjunctive
 Basic	Ser::Imperfect::Subjunctive	The pastor hoped we would be committed to the vision.	El pastor esperaba que fuéramos comprometidos con la visión.	Ser Imperfect Subjunctive
@@ -786,403 +654,264 @@ Basic	Ser::Imperfect::Subjunctive	The boss wished everyone would be more punctua
 Basic	Ser::Imperfect::Subjunctive	If she were in a different position, she could serve better.	Si estuviera en un puesto diferente, podría servir mejor.	Ser Imperfect Subjunctive
 Basic	Ser::Imperfect::Subjunctive	We hoped the ministry budget would be enough this year.	Esperábamos que el presupuesto ministerial fuera suficiente este año.	Ser Imperfect Subjunctive
 Basic	Ser::Imperfect::Subjunctive	If they were more aligned in vision, the team would thrive.	Si estuvieran más alineados en la visión, el equipo prosperaría.	Ser Imperfect Subjunctive
-Basic	Ser::Present::Perfect	I have been a member of this church for five years.
-He sido miembro de esta iglesia por cinco años.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Have you been baptized in this congregation?
-¿Has sido bautizado en esta congregación?	Ser Present Perfect
-Basic	Ser::Present::Perfect	She has been the worship leader since the church was founded.
-Ha sido la líder de adoración desde que se fundó la iglesia.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been blessed by the ministry of this pastor.
-Hemos sido bendecidos por el ministerio de este pastor.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been faithful servants of God for many years.
-Han sido fieles siervos de Dios durante muchos años.	Ser Present Perfect
-Basic	Ser::Present::Perfect	I have been a missionary in Latin America for three years.
-He sido misionero en América Latina durante tres años.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Have you been part of a mission trip before?
-¿Has sido parte de un viaje misionero antes?	Ser Present Perfect
-Basic	Ser::Present::Perfect	He has been the translator for the international team.
-Ha sido el traductor del equipo internacional.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been welcomed warmly by the local church.
-Hemos sido bienvenidos calurosamente por la iglesia local.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been ambassadors of Christ in every place they visited.
-Han sido embajadores de Cristo en cada lugar que visitaron.	Ser Present Perfect
-Basic	Ser::Present::Perfect	I have been a traveler for most of my adult life.
-He sido viajero durante la mayor parte de mi vida adulta.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Have you been to a Spanish-speaking country before?
-¿Has sido a un país de habla hispana antes?	Ser Present Perfect
-Basic	Ser::Present::Perfect	She has been our guide throughout the whole journey.
-Ha sido nuestra guía durante todo el viaje.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been in several cities during this mission trip.
-Hemos sido en varias ciudades durante este viaje misionero.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been on the road for three weeks now.
-Han sido en camino durante tres semanas ya.	Ser Present Perfect
-Basic	Ser::Present::Perfect	The food at this restaurant has been exceptional every time.
-La comida en este restaurante ha sido excepcional cada vez.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Have you been to the new restaurant near the church?
-¿Has sido al nuevo restaurante cerca de la iglesia?	Ser Present Perfect
-Basic	Ser::Present::Perfect	She has been the cook for every church potluck this year.
-Ha sido la cocinera de cada almuerzo compartido de la iglesia este año.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been grateful for every meal God has provided.
-Hemos sido agradecidos por cada comida que Dios ha provisto.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been known for their amazing homemade tortillas.
-Han sido conocidos por sus increíbles tortillas caseras.	Ser Present Perfect
-Basic	Ser::Present::Perfect	I have been the host for Bible study at my home this month.
-He sido el anfitrión del estudio bíblico en mi casa este mes.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Have you been living in the same house for long?
-¿Has sido viviendo en la misma casa por mucho tiempo?	Ser Present Perfect
-Basic	Ser::Present::Perfect	She has been the heart of our home for thirty years.
-Ha sido el corazón de nuestro hogar durante treinta años.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been homeowners for just over a year.
-Hemos sido dueños de casa por poco más de un año.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been neighbors and dear friends for a decade.
-Han sido vecinos y queridos amigos durante una década.	Ser Present Perfect
-Basic	Ser::Present::Perfect	I have been a devoted father since day one.
-He sido un padre dedicado desde el primer día.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Have you been married long?
-¿Has sido casado por mucho tiempo?	Ser Present Perfect
-Basic	Ser::Present::Perfect	She has been a devoted grandmother to all her grandchildren.
-Ha sido una abuela dedicada para todos sus nietos.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been a family built on faith and love.
-Hemos sido una familia construida sobre la fe y el amor.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been wonderful parents to their three children.
-Han sido padres maravillosos para sus tres hijos.	Ser Present Perfect
-Basic	Ser::Present::Perfect	I have been a loyal friend through every season of life.
-He sido un amigo leal en cada temporada de la vida.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Have you been in touch with your old friends from church?
-¿Has sido en contacto con tus viejos amigos de la iglesia?	Ser Present Perfect
-Basic	Ser::Present::Perfect	She has been a blessing to everyone in the friend group.
-Ha sido una bendición para todos en el grupo de amigos.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been friends since we met in Sunday school as children.
-Hemos sido amigos desde que nos conocimos en la escuela dominical de niños.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been close friends for over twenty years.
-Han sido amigos cercanos por más de veinte años.	Ser Present Perfect
-Basic	Ser::Present::Perfect	My dog has been my faithful companion for eight years.
-Mi perro ha sido mi fiel compañero por ocho años.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Have you been a pet owner before?
-¿Has sido dueño de mascotas antes?	Ser Present Perfect
-Basic	Ser::Present::Perfect	The cat has been a wonderful addition to our family.
-El gato ha sido una maravillosa adición a nuestra familia.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been volunteers at the animal shelter for two years.
-Hemos sido voluntarios en el refugio de animales por dos años.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been responsible pet owners from the very beginning.
-Han sido dueños de mascotas responsables desde el principio.	Ser Present Perfect
-Basic	Ser::Present::Perfect	I have been a student at this Bible college for two years.
-He sido estudiante en este colegio bíblico por dos años.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Have you been a teacher at the Christian school?
-¿Has sido maestro en la escuela cristiana?	Ser Present Perfect
-Basic	Ser::Present::Perfect	She has been the top student in every class she has taken.
-Ha sido la mejor estudiante en cada clase que ha tomado.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been study partners in theology class all semester.
-Hemos sido compañeros de estudio en la clase de teología todo el semestre.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been excellent mentors to the younger students.
-Han sido excelentes mentores para los estudiantes más jóvenes.	Ser Present Perfect
-Basic	Ser::Present::Perfect	I have been in good health since I started exercising.
-He sido en buena salud desde que empecé a hacer ejercicio.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Have you been feeling better since the treatment?
-¿Has sido sintiéndote mejor desde el tratamiento?	Ser Present Perfect
-Basic	Ser::Present::Perfect	The diagnosis has been a wake-up call for our whole family.
-El diagnóstico ha sido una llamada de atención para toda nuestra familia.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been blessed with good health this year.
-Hemos sido bendecidos con buena salud este año.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been incredible nurses at the community clinic.
-Han sido enfermeras increíbles en la clínica comunitaria.	Ser Present Perfect
-Basic	Ser::Present::Perfect	I have been an employee at the Christian organization for six years.
-He sido empleado en la organización cristiana por seis años.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Have you been the manager of this team for long?
-¿Has sido el gerente de este equipo por mucho tiempo?	Ser Present Perfect
-Basic	Ser::Present::Perfect	She has been the director of the nonprofit ministry for a decade.
-Ha sido la directora del ministerio sin fines de lucro por una década.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been a team committed to serving God in the workplace.
-Hemos sido un equipo comprometido a servir a Dios en el lugar de trabajo.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been recognized for their dedication to the mission.
-Han sido reconocidos por su dedicación a la misión.	Ser Present Perfect
-Basic	Ser::Present::Perfect	I have been the guitarist on the worship team for three years.
-He sido el guitarrista en el equipo de adoración por tres años.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Have you been in the choir before?
-¿Has sido del coro antes?	Ser Present Perfect
-Basic	Ser::Present::Perfect	She has been the lead vocalist at every service this year.
-Ha sido la vocalista principal en cada culto este año.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been a praise team that honors God every Sunday.
-Hemos sido un equipo de alabanza que honra a Dios cada domingo.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been making music together for over fifteen years.
-Han sido haciendo música juntos por más de quince años.	Ser Present Perfect
-Basic	Ser::Present::Perfect	God has been faithful to me throughout my entire life.
-Dios ha sido fiel conmigo durante toda mi vida.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Has the Bible always been important to your family?
-¿Ha sido la Biblia siempre importante para tu familia?	Ser Present Perfect
-Basic	Ser::Present::Perfect	Jesus has been the anchor of my soul in every storm.
-Jesús ha sido el ancla de mi alma en cada tormenta.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been changed by the power of the gospel.
-Hemos sido cambiados por el poder del evangelio.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been witnesses of God faithfulness in their community.
-Han sido testigos de la fidelidad de Dios en su comunidad.	Ser Present Perfect
-Basic	Ser::Present::Perfect	I have been a child of God since I gave my life to Jesus.
-He sido hijo de Dios desde que entregué mi vida a Jesús.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Have you been growing in your walk with God?
-¿Has sido creciendo en tu caminar con Dios?	Ser Present Perfect
-Basic	Ser::Present::Perfect	He has been a strong spiritual leader in our community.
-Ha sido un fuerte líder espiritual en nuestra comunidad.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been transformed by the grace of God.
-Hemos sido transformados por la gracia de Dios.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been an example of faithful Christian living.
-Han sido un ejemplo de una vida cristiana fiel.	Ser Present Perfect
-Basic	Ser::Present::Perfect	I have been deeply blessed by this church family.
-He sido profundamente bendecido por esta familia de la iglesia.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Has the prayer group been meeting regularly?
-¿Ha sido el grupo de oración reuniéndose con regularidad?	Ser Present Perfect
-Basic	Ser::Present::Perfect	She has been a pillar of this congregation for decades.
-Ha sido un pilar de esta congregación por décadas.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been committed to the vision of this ministry.
-Hemos sido comprometidos con la visión de este ministerio.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been a blessing to every church they have served.
-Han sido una bendición para cada iglesia que han servido.	Ser Present Perfect
-Basic	Ser::Present::Perfect	I have been in consistent prayer for your healing.
-He sido en oración constante por tu sanidad.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Have you been consistent in your Bible reading?
-¿Has sido consistente en tu lectura bíblica?	Ser Present Perfect
-Basic	Ser::Present::Perfect	He has been a great example of humility and service.
-Ha sido un gran ejemplo de humildad y servicio.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been encouraged by the testimonies shared tonight.
-Hemos sido alentados por los testimonios compartidos esta noche.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been instruments of revival in their region.
-Han sido instrumentos de avivamiento en su región.	Ser Present Perfect
-Basic	Ser::Present::Perfect	I have been a volunteer at the food pantry every Saturday.
-He sido voluntario en la despensa de alimentos cada sábado.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Have you been involved in outreach ministry before?
-¿Has sido involucrado en el ministerio de alcance antes?	Ser Present Perfect
-Basic	Ser::Present::Perfect	She has been an advocate for the poor in our neighborhood.
-Ha sido una defensora de los pobres en nuestro vecindario.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been committed to serving the vulnerable in our city.
-Hemos sido comprometidos a servir a los vulnerables en nuestra ciudad.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been a voice for justice and compassion.
-Han sido una voz por la justicia y la compasión.	Ser Present Perfect
-Basic	Ser::Present::Perfect	I have been passionate about sharing the gospel my whole life.
-He sido apasionado por compartir el evangelio toda mi vida.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Has the new building project been approved by the elders?
-¿Ha sido el nuevo proyecto del edificio aprobado por los ancianos?	Ser Present Perfect
-Basic	Ser::Present::Perfect	He has been a mentor to dozens of young believers.
-Ha sido un mentor para decenas de jóvenes creyentes.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been united in purpose and in prayer.
-Hemos sido unidos en propósito y en oración.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been the backbone of this church for many years.
-Han sido la columna vertebral de esta iglesia por muchos años.	Ser Present Perfect
-Basic	Ser::Present::Perfect	I have been renewed by the power of God grace.
-He sido renovado por el poder de la gracia de Dios.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Have you been encouraged by the testimonies of others?
-¿Has sido alentado por los testimonios de otros?	Ser Present Perfect
-Basic	Ser::Present::Perfect	She has been a joyful servant of the Lord all her life.
-Ha sido una sierva alegre del Señor toda su vida.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been shaped by the Word of God and prayer.
-Hemos sido formados por la Palabra de Dios y la oración.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been grateful for every open door God has given them.
-Han sido agradecidos por cada puerta abierta que Dios les ha dado.	Ser Present Perfect
-Basic	Ser::Present::Perfect	I have been forgiven and set free by the blood of Christ.
-He sido perdonado y liberado por la sangre de Cristo.	Ser Present Perfect
-Basic	Ser::Present::Perfect	Have you been set free from the burdens of the past?
-¿Has sido liberado de las cargas del pasado?	Ser Present Perfect
-Basic	Ser::Present::Perfect	He has been a faithful husband, father, and follower of Christ.
-Ha sido un esposo, padre y seguidor de Cristo fiel.	Ser Present Perfect
-Basic	Ser::Present::Perfect	We have been called to make disciples of all nations.
-Hemos sido llamados a hacer discípulos de todas las naciones.	Ser Present Perfect
-Basic	Ser::Present::Perfect	They have been sent out to carry the good news to the ends of the earth.
-Han sido enviados a llevar las buenas nuevas hasta los confines de la tierra.	Ser Present Perfect
-Basic	Ser::Past::Perfect	I had been a member of the church for years before moving.
-Había sido miembro de la iglesia por años antes de mudarme.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had you been baptized before joining this congregation?
-¿Habías sido bautizado antes de unirte a esta congregación?	Ser Past Perfect
-Basic	Ser::Past::Perfect	She had been the worship leader before the pastor arrived.
-Había sido la líder de adoración antes de que llegara el pastor.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been blessed by so many faithful pastors before him.
-Habíamos sido bendecidos por muchos pastores fieles antes que él.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been missionaries for a decade before returning home.
-Habían sido misioneros por una década antes de regresar a casa.	Ser Past Perfect
-Basic	Ser::Past::Perfect	I had been a volunteer at the mission before taking a staff role.
-Había sido voluntario en la misión antes de tomar un puesto de personal.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had you been the Bible study leader before she took over?
-¿Habías sido el líder del estudio bíblico antes de que ella tomara el mando?	Ser Past Perfect
-Basic	Ser::Past::Perfect	He had been the choir director for twenty years before retiring.
-Había sido el director del coro por veinte años antes de jubilarse.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been a small group church before the building was built.
-Habíamos sido una iglesia de grupo pequeño antes de que se construyera el edificio.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been elders of the church before the reorganization.
-Habían sido ancianos de la iglesia antes de la reorganización.	Ser Past Perfect
-Basic	Ser::Past::Perfect	I had been a traveler for years before settling in this city.
-Había sido viajero por años antes de establecerme en esta ciudad.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had you been abroad before the mission trip?
-¿Habías sido al extranjero antes del viaje misionero?	Ser Past Perfect
-Basic	Ser::Past::Perfect	She had been the guide before the agency hired someone new.
-Había sido la guía antes de que la agencia contratara a alguien nuevo.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been in six countries before reaching our final destination.
-Habíamos sido en seis países antes de llegar a nuestro destino final.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been on the road for weeks before finding a church to partner with.
-Habían sido en camino por semanas antes de encontrar una iglesia con quien asociarse.	Ser Past Perfect
-Basic	Ser::Past::Perfect	The restaurant had been the most popular one in town before it closed.
-El restaurante había sido el más popular del pueblo antes de cerrar.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had the food always been that good before the chef left?
-¿Había sido la comida siempre tan buena antes de que el chef se fuera?	Ser Past Perfect
-Basic	Ser::Past::Perfect	She had been the cook for church dinners before she moved away.
-Había sido la cocinera para las cenas de la iglesia antes de mudarse.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been known for our tamales before the recipe was lost.
-Habíamos sido conocidos por nuestros tamales antes de que se perdiera la receta.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been the main caterers for the church before the pandemic.
-Habían sido los principales proveedores de comida para la iglesia antes de la pandemia.	Ser Past Perfect
-Basic	Ser::Past::Perfect	I had been the host of the family Christmas before we moved.
-Había sido el anfitrión de la Navidad familiar antes de mudarnos.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had the house been in the family for generations?
-¿Había sido la casa de la familia por generaciones?	Ser Past Perfect
-Basic	Ser::Past::Perfect	She had been the heart of the home before her health declined.
-Había sido el corazón del hogar antes de que su salud declinara.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been homeowners for a year before the flood.
-Habíamos sido dueños de casa por un año antes de la inundación.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been neighbors before the neighborhood changed.
-Habían sido vecinos antes de que cambiara el vecindario.	Ser Past Perfect
-Basic	Ser::Past::Perfect	I had been a devoted father before losing my job.
-Había sido un padre dedicado antes de perder mi trabajo.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had you been married before you joined this church?
-¿Habías sido casado antes de unirte a esta iglesia?	Ser Past Perfect
-Basic	Ser::Past::Perfect	She had been the matriarch of the family before she passed away.
-Había sido la matriarca de la familia antes de fallecer.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been a close-knit family before the argument divided us.
-Habíamos sido una familia muy unida antes de que el argumento nos dividiera.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been wonderful parents long before the grandchildren came.
-Habían sido padres maravillosos mucho antes de que llegaran los nietos.	Ser Past Perfect
-Basic	Ser::Past::Perfect	I had been best friends with him long before we became coworkers.
-Había sido el mejor amigo de él mucho antes de que fuéramos compañeros de trabajo.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had you been friends with her before you started dating?
-¿Habías sido amigo de ella antes de que empezaran a salir?	Ser Past Perfect
-Basic	Ser::Past::Perfect	She had been my accountability partner before moving to another city.
-Había sido mi compañera de responsabilidad antes de mudarse a otra ciudad.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been inseparable friends before life pulled us in different directions.
-Habíamos sido amigos inseparables antes de que la vida nos llevara en direcciones diferentes.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been dear church friends for decades before the split.
-Habían sido queridos amigos de la iglesia por décadas antes de la división.	Ser Past Perfect
-Basic	Ser::Past::Perfect	My dog had been my companion for ten years before he died.
-Mi perro había sido mi compañero por diez años antes de morir.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had the cat been part of the family for long before you adopted her?
-¿Había sido el gato parte de la familia por mucho tiempo antes de adoptarla?	Ser Past Perfect
-Basic	Ser::Past::Perfect	The rabbit had been shy before we spent more time with it.
-El conejo había sido tímido antes de que pasáramos más tiempo con él.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been pet-free before the children convinced us to adopt.
-Habíamos sido sin mascotas antes de que los niños nos convencieran de adoptar.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been volunteers at the shelter before funding ran out.
-Habían sido voluntarios en el refugio antes de que se acabara el financiamiento.	Ser Past Perfect
-Basic	Ser::Past::Perfect	I had been a student at that school before it closed.
-Había sido estudiante en esa escuela antes de que cerrara.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had you been a teacher before going into ministry?
-¿Habías sido maestro antes de entrar al ministerio?	Ser Past Perfect
-Basic	Ser::Past::Perfect	She had been the top student before the semester ended.
-Había sido la mejor estudiante antes de que terminara el semestre.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been study partners before the class ended.
-Habíamos sido compañeros de estudio antes de que terminara la clase.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been students at the same seminary before graduating.
-Habían sido estudiantes en el mismo seminario antes de graduarse.	Ser Past Perfect
-Basic	Ser::Past::Perfect	I had been in good health before the diagnosis.
-Había sido en buena salud antes del diagnóstico.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had the patient been stable before the emergency?
-¿Había sido el paciente estable antes de la emergencia?	Ser Past Perfect
-Basic	Ser::Past::Perfect	The clinic had been the main health resource before the hospital opened.
-La clínica había sido el principal recurso de salud antes de que abriera el hospital.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been very healthy before we stopped exercising.
-Habíamos sido muy saludables antes de dejar de hacer ejercicio.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been the nurses at the mission clinic before retirement.
-Habían sido los enfermeros en la clínica misionera antes de jubilarse.	Ser Past Perfect
-Basic	Ser::Past::Perfect	I had been the manager before the company restructured.
-Había sido el gerente antes de que la empresa se reestructurara.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had you been the director of the ministry before she joined?
-¿Habías sido el director del ministerio antes de que ella se uniera?	Ser Past Perfect
-Basic	Ser::Past::Perfect	She had been the lead coordinator before taking maternity leave.
-Había sido la coordinadora principal antes de tomar la licencia de maternidad.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been coworkers who prayed together before the merger.
-Habíamos sido compañeros de trabajo que orábamos juntos antes de la fusión.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been the top team before the budget cuts.
-Habían sido el mejor equipo antes de los recortes presupuestarios.	Ser Past Perfect
-Basic	Ser::Past::Perfect	I had been the pianist on the worship team before the accident.
-Había sido el pianista en el equipo de adoración antes del accidente.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had you been in the choir before moving to this church?
-¿Habías sido del coro antes de mudarte a esta iglesia?	Ser Past Perfect
-Basic	Ser::Past::Perfect	She had been the soloist for years before her voice changed.
-Había sido la solista por años antes de que su voz cambiara.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been a gospel quartet before two members moved away.
-Habíamos sido un cuarteto de gospel antes de que dos miembros se mudaran.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been the worship band before the church merged.
-Habían sido la banda de adoración antes de que la iglesia se fusionara.	Ser Past Perfect
-Basic	Ser::Past::Perfect	God had been faithful long before we recognized it.
-Dios había sido fiel mucho antes de que lo reconociéramos.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had Jesus been the topic of the whole sermon series?
-¿Había sido Jesús el tema de toda la serie de sermones?	Ser Past Perfect
-Basic	Ser::Past::Perfect	The church had been a beacon of hope before the fire.
-La iglesia había sido un faro de esperanza antes del incendio.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been changed by the gospel before we even realized it.
-Habíamos sido cambiados por el evangelio antes de que lo entendiéramos.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been witnesses of God faithfulness in hard times.
-Habían sido testigos de la fidelidad de Dios en tiempos difíciles.	Ser Past Perfect
-Basic	Ser::Past::Perfect	I had been saved for ten years before I was baptized.
-Había sido salvo por diez años antes de ser bautizado.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had the congregation been larger before the split?
-¿Había sido la congregación más grande antes de la división?	Ser Past Perfect
-Basic	Ser::Past::Perfect	He had been a deacon for years before becoming a pastor.
-Había sido diácono por años antes de convertirse en pastor.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been discipled by faithful mentors before starting the ministry.
-Habíamos sido discipulados por mentores fieles antes de comenzar el ministerio.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been transformed by grace before anyone noticed.
-Habían sido transformados por la gracia antes de que nadie lo notara.	Ser Past Perfect
-Basic	Ser::Past::Perfect	I had been a prayer warrior before the illness weakened me.
-Había sido un guerrero de oración antes de que la enfermedad me debilitara.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had the Bible study group been meeting in that home long?
-¿Había sido el grupo de estudio bíblico reuniéndose en ese hogar por mucho tiempo?	Ser Past Perfect
-Basic	Ser::Past::Perfect	She had been a source of joy to the congregation for decades.
-Había sido una fuente de alegría para la congregación por décadas.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been committed to the mission before the funding was cut.
-Habíamos sido comprometidos con la misión antes de que se recortara el financiamiento.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been great evangelists before they retired from ministry.
-Habían sido grandes evangelistas antes de retirarse del ministerio.	Ser Past Perfect
-Basic	Ser::Past::Perfect	I had been a child of God before I fully understood what that meant.
-Había sido hijo de Dios antes de entender completamente lo que eso significaba.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had they been inspired before the worship service began?
-¿Habían sido inspirados antes de que comenzara el culto de adoración?	Ser Past Perfect
-Basic	Ser::Past::Perfect	He had been the intercessor of the group before he passed away.
-Había sido el intercesor del grupo antes de fallecer.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been a praying church before we lost our way.
-Habíamos sido una iglesia de oración antes de perder nuestro camino.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been sent out by the church before the pandemic closed borders.
-Habían sido enviados por la iglesia antes de que la pandemia cerrara las fronteras.	Ser Past Perfect
-Basic	Ser::Past::Perfect	I had been very close to my grandparents before they passed.
-Había sido muy cercano a mis abuelos antes de que fallecieran.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had your family been rooted in this community for long?
-¿Había sido tu familia arraigada en esta comunidad por mucho tiempo?	Ser Past Perfect
-Basic	Ser::Past::Perfect	He had been a great example to his children before the divorce.
-Había sido un gran ejemplo para sus hijos antes del divorcio.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been a unified family before the misunderstanding.
-Habíamos sido una familia unida antes del malentendido.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been wonderful grandparents before their health declined.
-Habían sido abuelos maravillosos antes de que su salud declinara.	Ser Past Perfect
-Basic	Ser::Past::Perfect	I had been involved in outreach before my work schedule changed.
-Había sido involucrado en el alcance antes de que cambiara mi horario de trabajo.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had the food pantry been operating for long before it moved locations?
-¿Había sido la despensa de alimentos operando por mucho tiempo antes de cambiar de lugar?	Ser Past Perfect
-Basic	Ser::Past::Perfect	She had been an advocate for the poor long before joining the ministry.
-Había sido una defensora de los pobres mucho antes de unirse al ministerio.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been committed to serving the vulnerable before the reorganization.
-Habíamos sido comprometidos a servir a los vulnerables antes de la reorganización.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been a voice for the marginalized in the community.
-Habían sido una voz para los marginados en la comunidad.	Ser Past Perfect
-Basic	Ser::Past::Perfect	I had been passionate about missions before I knew where to serve.
-Había sido apasionado por las misiones antes de saber dónde servir.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had the nonprofit been operational before they received the grant?
-¿Había sido la organización sin fines de lucro operativa antes de recibir la beca?	Ser Past Perfect
-Basic	Ser::Past::Perfect	He had been a mentor to young leaders before moving overseas.
-Había sido un mentor para jóvenes líderes antes de mudarse al extranjero.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been united in our purpose before the conflict arose.
-Habíamos sido unidos en nuestro propósito antes de que surgiera el conflicto.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been the backbone of the church before the new generation took over.
-Habían sido la columna vertebral de la iglesia antes de que la nueva generación tomara el mando.	Ser Past Perfect
-Basic	Ser::Past::Perfect	I had been renewed by worship before the trial began.
-Había sido renovado por la adoración antes de que comenzara la prueba.	Ser Past Perfect
-Basic	Ser::Past::Perfect	Had the music team been together long before the concert?
-¿Había sido el equipo de música juntos por mucho tiempo antes del concierto?	Ser Past Perfect
-Basic	Ser::Past::Perfect	She had been a joyful presence long before anyone recognized her gift.
-Había sido una presencia alegre mucho antes de que alguien reconociera su don.	Ser Past Perfect
-Basic	Ser::Past::Perfect	We had been shaped by Scripture long before we could articulate it.
-Habíamos sido formados por las Escrituras mucho antes de poder articularlo.	Ser Past Perfect
-Basic	Ser::Past::Perfect	They had been grateful to God even before the blessing came.
-Habían sido agradecidos a Dios incluso antes de que llegara la bendición.	Ser Past Perfect
+Basic	Ser::Imperfect::Indicative	We used to be prayer partners in the early days of our faith journey.	Éramos compañeros de oración en los primeros días de nuestro camino de fe.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be hosts for international students who came to study at the Christian school.	Éramos anfitriones de estudiantes internacionales que venían a estudiar en la escuela cristiana.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be known for our tamales at Christmas time in our congregation.	Éramos conocidos por nuestros tamales en época de Navidad en nuestra congregación.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be neighbors who prayed for each other through every difficulty.	Éramos vecinos que orábamos el uno por el otro en cada dificultad.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be students at the same Christian school before our family moved.	Éramos estudiantes en la misma escuela cristiana antes de que nuestra familia se mudara.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be involved in the hospital ministry before the health crisis changed everything.	Éramos parte del ministerio en el hospital antes de que la crisis de salud cambiara todo.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be known for our powerful worship services in the early years of the church plant.	Éramos conocidos por nuestros poderosos cultos de alabanza en los primeros años de la plantación de iglesia.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be in a gospel quartet together before three of us moved to different cities.	Éramos parte de un cuarteto de gospel juntos antes de que tres de nosotros nos mudáramos a diferentes ciudades.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be unaware of God's grace until we heard the gospel at that church service.	Éramos inconscientes de la gracia de Dios hasta que escuchamos el evangelio en ese culto de la iglesia.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be lost without the light of Christ before the mission team came to our village.	Éramos perdidos sin la luz de Cristo antes de que el equipo misionero llegara a nuestro pueblo.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be a divided family before Christ united us through the healing power of the gospel.	Éramos una familia dividida antes de que Cristo nos uniera a través del poder sanador del evangelio.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be distant from God before the church's revival meetings transformed our community.	Éramos distantes de Dios antes de que las reuniones de avivamiento de la iglesia transformaran nuestra comunidad.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be part of an evangelism team that went door-to-door in our neighborhood every Saturday.	Éramos parte de un equipo de evangelismo que iba de puerta en puerta en nuestro vecindario cada sábado.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be business partners who served the Lord together through a Christian-owned restaurant.	Éramos socios de negocios que servíamos al Señor juntos a través de un restaurante de propiedad cristiana.	Ser Imperfect Indicative
+Basic	Ser::Imperfect::Indicative	We used to be known as the church that loved its community through food and friendship.	Éramos conocidos como la iglesia que amaba a su comunidad a través de la comida y la amistad.	Ser Imperfect Indicative
+Basic	Ser::Present::Subjunctive	I hope that the new family is welcomed into this church community with love.	Espero que la nueva familia sea bienvenida en esta comunidad de la iglesia con amor.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is important that the worship service be a time of genuine encounter with God.	Es importante que el culto de adoración sea un tiempo de encuentro genuino con Dios.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	The pastor prays that we be equipped to serve the Lord faithfully in every season.	El pastor ora para que seamos equipados para servir al Señor fielmente en cada temporada.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	God desires that every person be reconciled to Him through faith in Jesus Christ.	Dios desea que toda persona sea reconciliada con Él a través de la fe en Jesucristo.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is wonderful that this small group be a safe place for people to grow in their faith.	Es maravilloso que este grupo pequeño sea un lugar seguro para que las personas crezcan en su fe.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I pray that you be filled with the peace of God that surpasses all understanding.	Oro para que seas lleno de la paz de Dios que sobrepasa todo entendimiento.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	The elder recommends that the volunteer be trained before leading the food distribution ministry.	El anciano recomienda que el voluntario sea capacitado antes de dirigir el ministerio de distribución de alimentos.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is necessary that the mission team be culturally sensitive when serving in another country.	Es necesario que el equipo misionero sea culturalmente sensible al servir en otro país.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	She hopes that the church be a lighthouse in the darkest parts of the city.	Ella espera que la iglesia sea un faro en las partes más oscuras de la ciudad.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	The congregation prays that the new pastor be guided by the Holy Spirit in every decision.	La congregación ora para que el nuevo pastor sea guiado por el Espíritu Santo en cada decisión.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I want us to be united in purpose as we serve the community through the food pantry.	Quiero que seamos unidos en propósito mientras servimos a la comunidad a través de la despensa de alimentos.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	The teacher insists that all students be respectful during the Bible class discussion.	El maestro insiste en que todos los estudiantes sean respetuosos durante la discusión de la clase bíblica.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is essential that the food ministry be organized well before the Thanksgiving meal distribution.	Es esencial que el ministerio de alimentos esté bien organizado antes de la distribución de la comida de Acción de Gracias.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I pray that my children be surrounded by godly friends who encourage their faith.	Oro para que mis hijos sean rodeados de amigos piadosos que alienten su fe.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	The board insists that the new building be accessible to people with disabilities.	La junta insiste en que el nuevo edificio sea accesible para las personas con discapacidades.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	God wants His people to be a blessing to every nation through the Great Commission.	Dios quiere que Su pueblo sea una bendición para cada nación a través de la Gran Comisión.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is vital that the worship team be spiritually prepared before leading the congregation in praise.	Es vital que el equipo de adoración esté espiritualmente preparado antes de guiar a la congregación en alabanza.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	The mission director requests that all volunteers be vaccinated before traveling to the field.	El director de la misión solicita que todos los voluntarios sean vacunados antes de viajar al campo.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I hope that the church be a place where the brokenhearted find healing and restoration.	Espero que la iglesia sea un lugar donde los quebrantados de corazón encuentren sanación y restauración.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	The pastor urges that each member be committed to the church's core values of love and service.	El pastor insta a que cada miembro sea comprometido con los valores fundamentales de amor y servicio de la iglesia.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is amazing that this small group be growing in its love for Scripture week after week.	Es increíble que este grupo pequeño esté creciendo en su amor por las Escrituras semana tras semana.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I pray that every person in our congregation be transformed by the renewing of their mind.	Oro para que cada persona en nuestra congregación sea transformada por la renovación de su mente.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	The deacon recommends that the food for the community dinner be prepared at least one day in advance.	El diácono recomienda que la comida para la cena comunitaria sea preparada al menos un día antes.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is good that the church be growing in its outreach to the international student community.	Es bueno que la iglesia esté creciendo en su alcance a la comunidad de estudiantes internacionales.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	God desires that all believers be ambassadors of His grace in their homes and workplaces.	Dios desea que todos los creyentes sean embajadores de Su gracia en sus hogares y lugares de trabajo.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I hope that the new couple be mentored by a godly couple from within our congregation.	Espero que la nueva pareja sea mentoreada por una pareja piadosa de dentro de nuestra congregación.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	The worship leader wants the choir to be prepared for the special music at the Christmas service.	El líder de adoración quiere que el coro esté preparado para la música especial en el culto de Navidad.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is a blessing that this community be served by so many dedicated volunteers from the church.	Es una bendición que esta comunidad sea servida por tantos voluntarios dedicados de la iglesia.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I pray that the sick member be restored to health through the prayers of the elders and the congregation.	Oro para que el miembro enfermo sea restaurado a la salud a través de las oraciones de los ancianos y la congregación.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	The pastor encourages that every family be intentional about reading the Bible together each evening.	El pastor alienta a que cada familia sea intencional en leer la Biblia juntos cada noche.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is crucial that the mission trip be covered in prayer before the team departs.	Es crucial que el viaje misionero sea cubierto en oración antes de que el equipo parta.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I want our small group to be a place where people can be honest about their struggles.	Quiero que nuestro grupo pequeño sea un lugar donde las personas puedan ser honestas sobre sus luchas.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	The congregation hopes that the new campus be established in the underserved part of the city.	La congregación espera que el nuevo campus sea establecido en la parte desatendida de la ciudad.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is powerful that the entire family be present at the church's annual covenant renewal service.	Es poderoso que toda la familia esté presente en el servicio anual de renovación del pacto de la iglesia.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	She prays that the children in the after-school ministry be protected and filled with hope.	Ella ora para que los niños del ministerio extraescolar sean protegidos y llenos de esperanza.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	The elder wants the marriage enrichment retreat to be a transformative experience for every couple.	El anciano quiere que el retiro de enriquecimiento matrimonial sea una experiencia transformadora para cada pareja.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is necessary that the church's leadership team be in unity before moving forward with the vision.	Es necesario que el equipo de liderazgo de la iglesia esté en unidad antes de avanzar con la visión.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I hope that every volunteer in the food ministry be encouraged and appreciated for their service.	Espero que cada voluntario en el ministerio de alimentos sea alentado y apreciado por su servicio.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	God wants His church to be a reflection of His kingdom on earth — one of love, peace, and justice.	Dios quiere que Su iglesia sea un reflejo de Su reino en la tierra — uno de amor, paz y justicia.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	The pastor prays that the new believers be discipled well in the foundational truths of the faith.	El pastor ora para que los nuevos creyentes sean discipulados bien en las verdades fundamentales de la fe.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is important that the sanctuary be prepared with prayer and reverence before each Sunday service.	Es importante que el santuario sea preparado con oración y reverencia antes de cada culto dominical.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	I pray that the music ministry be a channel of the Holy Spirit's presence in every service.	Oro para que el ministerio de música sea un canal de la presencia del Espíritu Santo en cada culto.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	The board requires that all board members be committed Christians in good standing with the church.	La junta requiere que todos los miembros de la junta sean cristianos comprometidos con buena reputación en la iglesia.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	It is a privilege that this city be served by so many faithful churches working together.	Es un privilegio que esta ciudad sea servida por tantas iglesias fieles trabajando juntas.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	She hopes that the homemade food at the church potluck be a symbol of the congregation's unity.	Ella espera que la comida casera en la cena comunitaria de la iglesia sea un símbolo de la unidad de la congregación.	Ser Present Subjunctive
+Basic	Ser::Present::Subjunctive	The mission coordinator wants every team member to be spiritually and physically prepared for the trip.	El coordinador de la misión quiere que cada miembro del equipo esté espiritual y físicamente preparado para el viaje.	Ser Present Subjunctive
+Basic	Ser::Present::Perfect	I have been a member of this church for five wonderful years.	He sido miembro de esta iglesia por cinco años maravillosos.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been baptized in this congregation?	¿Has sido bautizado en esta congregación?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been the worship leader since the church was founded ten years ago.	Ha sido la líder de alabanza desde que la iglesia fue fundada hace diez años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been blessed by the faithful ministry of this pastor for many years.	Hemos sido bendecidos por el ministerio fiel de este pastor durante muchos años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been faithful servants of God in this mission community for decades.	Han sido siervos fieles de Dios en esta comunidad misionera por décadas.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been a missionary in Latin America for three transformative years.	He sido misionero en América Latina por tres años transformadores.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been part of a mission trip before this one?	¿Has sido parte de un viaje misionero antes de este?	Ser Present Perfect
+Basic	Ser::Present::Perfect	He has been the translator for the international team at every conference.	Ha sido el traductor para el equipo internacional en cada conferencia.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been welcomed warmly by the local church in every city we have visited.	Hemos sido bienvenidos calurosamente por la iglesia local en cada ciudad que hemos visitado.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been ambassadors of Christ in every place they have visited as missionaries.	Han sido embajadores de Cristo en cada lugar que han visitado como misioneros.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been part of the praise and worship team at this church for seven years.	He sido parte del equipo de alabanza y adoración en esta iglesia por siete años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been a volunteer at the church food pantry before joining the leadership team?	¿Has sido voluntario en la despensa de alimentos de la iglesia antes de unirte al equipo de liderazgo?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been the children's ministry director since she returned from the mission field.	Ha sido la directora del ministerio infantil desde que regresó del campo misionero.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been encouraged by the growth of the small group ministry over the past year.	Hemos sido alentados por el crecimiento del ministerio de grupos pequeños durante el año pasado.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been a blessing to this neighborhood through their consistent acts of service and generosity.	Han sido una bendición para este vecindario a través de sus actos constantes de servicio y generosidad.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been the cook for the church's community meals every third Saturday for two years.	He sido el cocinero de las comidas comunitarias de la iglesia cada tercer sábado durante dos años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been the lead guitarist for the worship team this entire semester?	¿Has sido el guitarrista principal del equipo de adoración durante todo este semestre?	Ser Present Perfect
+Basic	Ser::Present::Perfect	He has been instrumental in growing the church's relationship with the local schools.	Ha sido fundamental para desarrollar la relación de la iglesia con las escuelas locales.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been transformed by the study of the Book of Romans over the past three months.	Hemos sido transformados por el estudio del Libro de Romanos durante los últimos tres meses.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been a light in the darkest corners of the city through their outreach ministry.	Han sido una luz en los rincones más oscuros de la ciudad a través de su ministerio de alcance.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been the designated prayer intercessor for the mission trips for many years.	He sido el intercesor de oración designado para los viajes misioneros durante muchos años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been the hospitality coordinator at the church for more than one year?	¿Has sido el coordinador de hospitalidad en la iglesia por más de un año?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been a consistent presence at the church's early morning prayer meetings all year.	Ha sido una presencia constante en las reuniones de oración matutinas de la iglesia todo el año.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been recipients of God's grace and mercy throughout the struggles of this past season.	Hemos sido receptores de la gracia y misericordia de Dios a lo largo de las luchas de esta última temporada.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been trained in cross-cultural ministry through the church's intensive missions program.	Han sido capacitados en ministerio intercultural a través del programa intensivo de misiones de la iglesia.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been a student in the church's school of ministry for the past two semesters.	He sido estudiante en la escuela de ministerio de la iglesia durante los últimos dos semestres.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been part of the Bible study that meets every Tuesday at the coffee shop?	¿Has sido parte del estudio bíblico que se reúne todos los martes en el café?	Ser Present Perfect
+Basic	Ser::Present::Perfect	He has been shaped by the mentorship of the senior pastor over the last four years.	Ha sido formado por la mentoría del pastor principal durante los últimos cuatro años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been deeply moved by the testimonies of restoration shared at the healing service.	Hemos sido profundamente conmovidos por los testimonios de restauración compartidos en el servicio de sanación.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been known throughout the city as a church that truly cares for the poor.	Han sido conocidos en toda la ciudad como una iglesia que realmente se preocupa por los pobres.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been assigned to lead the children's vacation Bible school for the second year in a row.	He sido asignado para dirigir la escuela bíblica de vacaciones de los niños por segundo año consecutivo.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been on the medical mission team that visits the village clinic each spring?	¿Has sido parte del equipo de misión médica que visita la clínica del pueblo cada primavera?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been a devoted prayer warrior for the church's overseas missionaries since day one.	Ha sido una guerrera de oración dedicada para los misioneros en el extranjero de la iglesia desde el primer día.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been honored to host the regional pastors for the annual ministerial fellowship dinner.	Hemos sido honrados de recibir a los pastores regionales para la cena anual de fraternidad ministerial.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been witnesses to miraculous answered prayer during the church's forty-day fast.	Han sido testigos de milagrosas respuestas a la oración durante el ayuno de cuarenta días de la iglesia.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been on every church mission trip to Guatemala since the program began six years ago.	He sido parte de cada viaje misionero de la iglesia a Guatemala desde que el programa comenzó hace seis años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been a Sunday school teacher for the five-year-olds in the children's ministry?	¿Has sido maestro de escuela dominical para los niños de cinco años en el ministerio infantil?	Ser Present Perfect
+Basic	Ser::Present::Perfect	He has been the health advocate who partners with the church to run the annual wellness fair.	Ha sido el defensor de la salud que se asocia con la iglesia para realizar la feria anual de bienestar.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been deeply impacted by our years of serving alongside the local church in the Andes.	Hemos sido profundamente impactados por nuestros años de servicio junto a la iglesia local en los Andes.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been the backbone of the church's international ministry for over twenty years.	Han sido la columna vertebral del ministerio internacional de la iglesia por más de veinte años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been a cook for the weekly community meals that the church hosts every Friday evening.	He sido cocinero para las comidas comunitarias semanales que la iglesia organiza cada viernes por la noche.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been part of the choir that performs at the citywide Easter service each year?	¿Has sido parte del coro que actúa en el culto de Pascua de toda la ciudad cada año?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been an integral part of the women's discipleship team since its founding five years ago.	Ha sido una parte integral del equipo de discipulado de mujeres desde su fundación hace cinco años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been challenged and encouraged by the year-long sermon series on the book of Psalms.	Hemos sido desafiados y alentados por la serie de sermones de un año sobre el libro de los Salmos.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been active members of the congregation's youth ministry for four consecutive years.	Han sido miembros activos del ministerio juvenil de la congregación durante cuatro años consecutivos.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been a teacher at the church's Christian school since it opened its doors eight years ago.	He sido maestro en la escuela cristiana de la iglesia desde que abrió sus puertas hace ocho años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been the one preparing the communion table for the first Sunday of each month?	¿Has sido el que prepara la mesa de comunión para el primer domingo de cada mes?	Ser Present Perfect
+Basic	Ser::Present::Perfect	He has been a student of God's Word his entire life, beginning with his parents' family devotions.	Ha sido estudiante de la Palabra de Dios toda su vida, comenzando con los devocionales familiares de sus padres.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been shaped by the faithful preaching of the gospel in this congregation for a generation.	Hemos sido formados por la predicación fiel del evangelio en esta congregación por una generación.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been a source of comfort and encouragement to families going through grief and loss.	Han sido una fuente de consuelo y aliento para las familias que atraviesan el duelo y la pérdida.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been overwhelmed by the generosity of this congregation toward the mission fund every year.	He sido abrumado por la generosidad de esta congregación hacia el fondo misionero cada año.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been inspired by the music at the bilingual worship service on Sunday evenings?	¿Has sido inspirado por la música en el culto de adoración bilingüe los domingos por la noche?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been a champion for the church's efforts to serve families experiencing food insecurity.	Ha sido una defensora de los esfuerzos de la iglesia por servir a las familias que experimentan inseguridad alimentaria.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been encouraged to see former mission team members return as long-term missionaries.	Hemos sido alentados al ver a los exmiembros del equipo misionero regresar como misioneros a largo plazo.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been witnesses to the faithfulness of God through every challenge this church has faced.	Han sido testigos de la fidelidad de Dios a través de cada desafío que ha enfrentado esta iglesia.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been the cantor for the Spanish-language early morning service every Sunday for three years.	He sido el cantor del servicio matutino en español cada domingo durante tres años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been the leader of the hospitality team that greets visitors at both campus entrances?	¿Has sido el líder del equipo de hospitalidad que recibe a los visitantes en ambas entradas del campus?	Ser Present Perfect
+Basic	Ser::Present::Perfect	He has been shaped by the stories of the prophets in a way that has defined his entire ministry.	Ha sido formado por las historias de los profetas de una manera que ha definido todo su ministerio.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been nourished spiritually by the depth of teaching in this church's Bible study program.	Hemos sido nutridos espiritualmente por la profundidad de la enseñanza en el programa de estudio bíblico de esta iglesia.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been recognized throughout the region for their outstanding community meal ministry.	Han sido reconocidos en toda la región por su destacado ministerio de comidas comunitarias.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been both student and teacher in the church's school of biblical interpretation.	He sido tanto estudiante como maestro en la escuela de interpretación bíblica de la iglesia.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been part of the prayer team that intercedes for missionaries around the world?	¿Has sido parte del equipo de oración que intercede por los misioneros alrededor del mundo?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been a faithful foster parent supported by the church's family care ministry for five years.	Ha sido una madre de acogida fiel apoyada por el ministerio de cuidado familiar de la iglesia durante cinco años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been inspired by the courage of believers who share their faith in difficult places.	Hemos sido inspirados por el valor de los creyentes que comparten su fe en lugares difíciles.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been part of every church plant that has been launched in this city over the past decade.	Han sido parte de cada plantación de iglesia que se ha lanzado en esta ciudad durante la última década.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been the home fellowship coordinator for the church's international families for two years.	He sido el coordinador de comunión hogareña para las familias internacionales de la iglesia durante dos años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been a participant in the church's annual forty-day prayer and fasting initiative?	¿Has sido participante en la iniciativa anual de oración y ayuno de cuarenta días de la iglesia?	Ser Present Perfect
+Basic	Ser::Present::Perfect	He has been the caretaker of the church's community garden for three consecutive growing seasons.	Ha sido el cuidador del jardín comunitario de la iglesia durante tres temporadas de cultivo consecutivas.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been humbled by the love and service shown to our congregation by the partner church in Peru.	Hemos sido humillados por el amor y el servicio que la iglesia asociada en Perú ha mostrado a nuestra congregación.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been a lifeline to the families who receive meals from the church's food ministry each week.	Han sido un salvavidas para las familias que reciben comidas del ministerio de alimentos de la iglesia cada semana.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been transformed by God's grace and am no longer the same person I was before coming to faith.	He sido transformado por la gracia de Dios y ya no soy la misma persona que era antes de llegar a la fe.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been assigned to lead the devotional at the next mission team planning meeting?	¿Has sido asignado para dirigir el devocional en la próxima reunión de planificación del equipo misionero?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been the face of compassion at the church's crisis intervention ministry for years.	Ha sido el rostro de la compasión en el ministerio de intervención en crisis de la iglesia durante años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been given the incredible honor of sharing the gospel with people on every continent.	Hemos sido honrados de manera increíble de compartir el evangelio con personas en todos los continentes.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been raised in the church and now serve as its youngest deacons in the congregation's history.	Han sido criados en la iglesia y ahora sirven como sus diáconos más jóvenes en la historia de la congregación.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been moved by the worship music composed by artists from indigenous mission communities.	He sido conmovido por la música de adoración compuesta por artistas de comunidades misioneras indígenas.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been mentored by one of the elders through the church's formal discipleship track?	¿Has sido mentoreado por uno de los ancianos a través del programa formal de discipulado de la iglesia?	Ser Present Perfect
+Basic	Ser::Present::Perfect	He has been the bridge between the English and Spanish congregations at the bilingual church.	Ha sido el puente entre las congregaciones en inglés y español en la iglesia bilingüe.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been enriched by the cultural diversity of the families who call this church home.	Hemos sido enriquecidos por la diversidad cultural de las familias que llaman hogar a esta iglesia.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been advocates for the church's health clinic ministry among the city's low-income families.	Han sido defensores del ministerio de la clínica de salud de la iglesia entre las familias de bajos ingresos de la ciudad.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been blessed to serve as the administrator for the church's after-school homework program.	He sido bendecido de servir como administrador del programa de tareas extraescolar de la iglesia.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been recognized as an exemplary student through the church school's honor program?	¿Has sido reconocido como estudiante ejemplar a través del programa de honor de la escuela de la iglesia?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been the backbone of the Sunday potluck tradition that this congregation has treasured for decades.	Ha sido la columna vertebral de la tradición del potluck del domingo que esta congregación ha atesorado por décadas.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been called to love our neighbors as ourselves, and this church has helped us live that out.	Hemos sido llamados a amar a nuestro prójimo como a nosotros mismos, y esta iglesia nos ha ayudado a vivirlo.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been changed by the grace of God and now lead the church's recovery and healing ministry.	Han sido cambiados por la gracia de Dios y ahora lideran el ministerio de recuperación y sanación de la iglesia.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been the recipient of this congregation's generosity during the hardest year of my life.	He sido el receptor de la generosidad de esta congregación durante el año más difícil de mi vida.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been to the new restaurant near the church that the small group uses for its monthly dinners?	¿Has sido al nuevo restaurante cerca de la iglesia que el grupo pequeño usa para sus cenas mensuales?	Ser Present Perfect
+Basic	Ser::Present::Perfect	He has been the lead pastor of this congregation for twenty-five years of faithful service.	Ha sido el pastor principal de esta congregación durante veinticinco años de servicio fiel.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been encouraged by the steadfast faith of the elderly members who remain pillars of this church.	Hemos sido alentados por la fe inquebrantable de los miembros ancianos que siguen siendo pilares de esta iglesia.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been a model of Christian generosity by donating meals to the food pantry every month for years.	Han sido un modelo de generosidad cristiana al donar comidas a la despensa de alimentos cada mes durante años.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been shaped by the worship music of this church in a way that has stayed with me for life.	He sido formado por la música de adoración de esta iglesia de una manera que me ha acompañado toda la vida.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been moved by the story of how God brought this church community together from five different backgrounds?	¿Has sido conmovido por la historia de cómo Dios unió a esta comunidad de la iglesia de cinco trasfondos diferentes?	Ser Present Perfect
+Basic	Ser::Present::Perfect	She has been a tremendous support to international students who find community through the campus ministry.	Ha sido un apoyo tremendo para los estudiantes internacionales que encuentran comunidad a través del ministerio universitario.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been privileged to watch this congregation grow from forty members to over a thousand.	Hemos sido privilegiados de ver a esta congregación crecer de cuarenta miembros a más de mil.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been the hosts of the annual regional pastors' conference for seven consecutive years.	Han sido los anfitriones de la conferencia anual de pastores regionales durante siete años consecutivos.	Ser Present Perfect
+Basic	Ser::Present::Perfect	I have been inspired to cook for others as an act of worship ever since hearing that sermon on service.	He sido inspirado a cocinar para otros como un acto de adoración desde que escuché ese sermón sobre el servicio.	Ser Present Perfect
+Basic	Ser::Present::Perfect	Have you been the one coordinating the prayer chain every time a family in the church faces a crisis?	¿Has sido el que coordina la cadena de oración cada vez que una familia en la iglesia enfrenta una crisis?	Ser Present Perfect
+Basic	Ser::Past::Perfect	I had been a member of the small group for two years before the leader invited me to lead it.	Había sido miembro del grupo pequeño durante dos años antes de que el líder me invitara a dirigirlo.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been part of the mission team before the departure to the Dominican Republic?	¿Habías sido parte del equipo misionero antes de la partida a la República Dominicana?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been the children's ministry director for five years before moving to the new campus.	Había sido la directora del ministerio infantil durante cinco años antes de mudarse al nuevo campus.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been members of this congregation for a decade before becoming elders in the church.	Habíamos sido miembros de esta congregación durante una década antes de convertirnos en ancianos de la iglesia.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been faithful in the small things before God entrusted them with a larger ministry.	Habían sido fieles en las cosas pequeñas antes de que Dios les confiara un ministerio más grande.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been the volunteer cook for the community meals for a year before the food director was hired.	Había sido el cocinero voluntario de las comidas comunitarias durante un año antes de que se contratara al director de alimentos.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been a regular visitor to this church before you officially joined the congregation?	¿Habías sido un visitante regular de esta iglesia antes de unirte oficialmente a la congregación?	Ser Past Perfect
+Basic	Ser::Past::Perfect	He had been the worship leader for six years before the new music director was appointed.	Había sido el líder de alabanza durante seis años antes de que se nombrara al nuevo director de música.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been prayer partners for years before starting the church's intercessory prayer ministry together.	Habíamos sido compañeros de oración durante años antes de comenzar juntos el ministerio de oración intercesora de la iglesia.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been known throughout the city for their outreach before the church launched its official mercy ministry.	Habían sido conocidos en toda la ciudad por su alcance antes de que la iglesia lanzara su ministerio oficial de misericordia.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been a student at the Bible college for two years before being placed in my first ministry assignment.	Había sido estudiante en el colegio bíblico durante dos años antes de ser colocado en mi primera asignación ministerial.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been on the hospitality team before they asked you to become the team coordinator?	¿Habías sido parte del equipo de hospitalidad antes de que te pidieran convertirte en el coordinador del equipo?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been the translator for the Spanish-speaking congregation for three years before the bilingual service began.	Había sido la traductora de la congregación hispanohablante durante tres años antes de que comenzara el culto bilingüe.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been part of the church's outreach team before we were commissioned for full-time mission work.	Habíamos sido parte del equipo de alcance de la iglesia antes de ser comisionados para el trabajo misionero a tiempo completo.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been dedicated volunteers at the food pantry before taking on paid roles with the ministry.	Habían sido voluntarios dedicados en la despensa de alimentos antes de asumir roles remunerados en el ministerio.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been a foster parent supported by the church for three years before adopting the children.	Había sido padre de acogida apoyado por la iglesia durante tres años antes de adoptar a los niños.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been the lead singer in the gospel choir before the worship team was restructured?	¿Habías sido el cantante principal en el coro de gospel antes de que se reestructurara el equipo de adoración?	Ser Past Perfect
+Basic	Ser::Past::Perfect	He had been a long-term missionary in Ecuador before returning to serve on the church's mission board.	Había sido un misionero a largo plazo en Ecuador antes de regresar a servir en la junta de misiones de la iglesia.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been friends from the same Bible study before becoming co-leaders of the marriage enrichment ministry.	Habíamos sido amigos del mismo estudio bíblico antes de convertirnos en co-líderes del ministerio de enriquecimiento matrimonial.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been the only church in the village for years before the second congregation was planted nearby.	Habían sido la única iglesia en el pueblo durante años antes de que se plantara la segunda congregación cerca.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been a teacher at the Christian school for four years before transferring to the new campus.	Había sido maestro en la escuela cristiana durante cuatro años antes de trasladarme al nuevo campus.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been in charge of decorating the church sanctuary for the special services before this year?	¿Habías sido responsable de decorar el santuario de la iglesia para los cultos especiales antes de este año?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been the deaconess who oversaw the welcome ministry before becoming an ordained elder.	Había sido la diaconisa que supervisaba el ministerio de bienvenida antes de convertirse en anciana ordenada.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been the home where the church leadership meetings were held before the new office was built.	Habíamos sido el hogar donde se celebraban las reuniones de liderazgo de la iglesia antes de que se construyera la nueva oficina.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been the founding family of the church before the congregation grew beyond one hundred members.	Habían sido la familia fundadora de la iglesia antes de que la congregación creciera más allá de cien miembros.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been a regular attendee at the Sunday morning prayer meeting before joining the intercessory team.	Había sido asistente regular a la reunión de oración del domingo por la mañana antes de unirme al equipo intercesor.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been the church's primary donor to the food ministry before the ministry grew its own funding?	¿Habías sido el principal donante de la iglesia al ministerio de alimentos antes de que el ministerio generara su propio financiamiento?	Ser Past Perfect
+Basic	Ser::Past::Perfect	He had been the church's caretaker for over two decades before retiring and being honored by the congregation.	Había sido el cuidador de la iglesia durante más de dos décadas antes de jubilarse y ser honrado por la congregación.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been a family of six living in that small house before the church helped us find a larger one.	Habíamos sido una familia de seis viviendo en esa pequeña casa antes de que la iglesia nos ayudara a encontrar una más grande.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been regular visitors to the congregation for months before committing to membership.	Habían sido visitantes regulares de la congregación durante meses antes de comprometerse con la membresía.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been the school's chapel coordinator for three years before being promoted to academic dean.	Había sido el coordinador de la capilla de la escuela durante tres años antes de ser promovido a decano académico.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been a member of the leadership team before the church underwent its organizational restructuring?	¿Habías sido miembro del equipo de liderazgo antes de que la iglesia sufriera su reestructuración organizativa?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been the small group facilitator for four years before the new discipleship program was introduced.	Había sido la facilitadora del grupo pequeño durante cuatro años antes de que se introdujera el nuevo programa de discipulado.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been a mission-focused church for twenty years before formally establishing our international mission fund.	Habíamos sido una iglesia enfocada en la misión durante veinte años antes de establecer formalmente nuestro fondo de misiones internacionales.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been the youth group leaders before they were commissioned as full-time missionaries to Colombia.	Habían sido los líderes del grupo juvenil antes de ser comisionados como misioneros a tiempo completo en Colombia.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been a skeptic for years before hearing the gospel preached at a church community meal.	Había sido escéptico durante años antes de escuchar el evangelio predicado en una comida comunitaria de la iglesia.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been the designated driver for the church mission team before getting your license renewed?	¿Habías sido el conductor designado para el equipo misionero de la iglesia antes de renovar tu licencia?	Ser Past Perfect
+Basic	Ser::Past::Perfect	He had been the head chef for the church's annual harvest festival for seven straight years.	Había sido el chef principal del festival anual de la cosecha de la iglesia durante siete años consecutivos.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been known as the church with the best worship music in the region before the new wave of congregations arrived.	Habíamos sido conocidos como la iglesia con la mejor música de adoración en la región antes de que llegara la nueva ola de congregaciones.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been advocates for the health of the congregation long before the church hired a wellness pastor.	Habían sido defensores de la salud de la congregación mucho antes de que la iglesia contratara a un pastor de bienestar.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been a follower of Christ for only one year before feeling called to enter full-time ministry.	Había sido seguidor de Cristo por solo un año antes de sentir el llamado a entrar al ministerio a tiempo completo.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been the person who prepared the prayer requests for the weekly church bulletin?	¿Habías sido la persona que preparaba las peticiones de oración para el boletín semanal de la iglesia?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been a nurse volunteering at the church clinic before becoming its full-time medical director.	Había sido una enfermera voluntaria en la clínica de la iglesia antes de convertirse en su directora médica a tiempo completo.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been an all-volunteer team managing the church's food distribution before hiring our first part-time staff member.	Habíamos sido un equipo completamente voluntario que gestionaba la distribución de alimentos de la iglesia antes de contratar a nuestro primer miembro del personal a tiempo parcial.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been in charge of the church's international partnerships before the global missions director was hired.	Habían sido responsables de las asociaciones internacionales de la iglesia antes de que se contratara al director de misiones globales.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been the server at the weekly church luncheon for eighteen months before moving into a leadership role.	Había sido el servidor en el almuerzo semanal de la iglesia durante dieciocho meses antes de pasar a un rol de liderazgo.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been part of the women's Bible study before the church launched the full women's ministry program?	¿Habías sido parte del estudio bíblico de mujeres antes de que la iglesia lanzara el programa completo del ministerio de mujeres?	Ser Past Perfect
+Basic	Ser::Past::Perfect	He had been a worship musician at his home church for ten years before joining the recording team.	Había sido un músico de adoración en su iglesia de origen durante diez años antes de unirse al equipo de grabación.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been the ones cooking for the church retreat for five years before the catering ministry was formed.	Habíamos sido quienes cocinaban para el retiro de la iglesia durante cinco años antes de que se formara el ministerio de catering.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been strangers to each other until the church's newcomer luncheon brought them together.	Habían sido extraños el uno para el otro hasta que el almuerzo para recién llegados de la iglesia los unió.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been the prayer coordinator for the night vigils before the church restructured its prayer ministry.	Había sido el coordinador de oración para las vigilias nocturnas antes de que la iglesia reestructurara su ministerio de oración.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been the one who translated the Bible study materials into Spanish before the new translation team was formed?	¿Habías sido el que traducía los materiales del estudio bíblico al español antes de que se formara el nuevo equipo de traducción?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been the director of the church's after-school tutoring ministry for eight years.	Había sido la directora del ministerio de tutoría extraescolar de la iglesia durante ocho años.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been part of an informal prayer group for years before the church formalized its intercessory ministry.	Habíamos sido parte de un grupo de oración informal durante años antes de que la iglesia formalizara su ministerio intercesor.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been the church's lead couple for outreach to the international student community for many years.	Habían sido la pareja principal de la iglesia para el alcance a la comunidad estudiantil internacional durante muchos años.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been transformed by God's grace long before I ever stood behind a pulpit to preach.	Había sido transformado por la gracia de Dios mucho antes de que alguna vez me parara detrás de un púlpito para predicar.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been a participant in the church's annual missions week before taking your first short-term trip?	¿Habías sido participante en la semana anual de misiones de la iglesia antes de hacer tu primer viaje a corto plazo?	Ser Past Perfect
+Basic	Ser::Past::Perfect	He had been a close friend to the founding pastor for many years before the church celebrated its anniversary.	Había sido un amigo cercano del pastor fundador durante muchos años antes de que la iglesia celebrara su aniversario.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been feeding the homeless community through the church kitchen for five years before expanding the program.	Habíamos estado alimentando a la comunidad sin hogar a través de la cocina de la iglesia durante cinco años antes de expandir el programa.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been the ones who introduced the tradition of sharing a meal after Sunday worship in this congregation.	Habían sido los que introdujeron la tradición de compartir una comida después de la adoración del domingo en esta congregación.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been a skeptic of faith until a church family invited me to dinner and shared the gospel with love.	Había sido un escéptico de la fe hasta que una familia de la iglesia me invitó a cenar y compartió el evangelio con amor.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been the church's point person for connecting new families to small groups before the restructuring?	¿Habías sido el referente de la iglesia para conectar a nuevas familias con grupos pequeños antes de la reestructuración?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been the mission base's hospitality coordinator for two years before leading her own team.	Había sido la coordinadora de hospitalidad de la base misionera durante dos años antes de liderar su propio equipo.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been known throughout the denomination for our passion for community service before the merger.	Habíamos sido conocidos en toda la denominación por nuestra pasión por el servicio comunitario antes de la fusión.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been the neighbors who hosted block parties for years before the church launched its formal outreach.	Habían sido los vecinos que organizaban fiestas del vecindario durante años antes de que la iglesia lanzara su alcance formal.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been a skeptic of miraculous healing until I witnessed it during the church's prayer vigil for the sick.	Había sido escéptico de la sanación milagrosa hasta que la presencié durante la vigilia de oración de la iglesia por los enfermos.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been the Sunday school teacher for the third-grade class before taking the sabbatical year?	¿Habías sido el maestro de escuela dominical para la clase de tercer grado antes de tomarte el año sabático?	Ser Past Perfect
+Basic	Ser::Past::Perfect	He had been the church's legal advisor for years before the congregation needed his expertise most.	Había sido el asesor legal de la iglesia durante años antes de que la congregación más necesitara su experiencia.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been guests at the community dinner before joining the team of volunteers who serve it weekly.	Habíamos sido invitados en la cena comunitaria antes de unirnos al equipo de voluntarios que la sirve semanalmente.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been the organizers of the church's annual talent night before it became an official music ministry event.	Habían sido los organizadores de la noche de talentos anual de la iglesia antes de que se convirtiera en un evento oficial del ministerio de música.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been an orphan before the church's family ministry team connected me with a loving foster home.	Había sido huérfano antes de que el equipo del ministerio familiar de la iglesia me conectara con un hogar de acogida amoroso.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been the one managing the church's relationship with its mission partner in Bolivia before the transition?	¿Habías sido el encargado de gestionar la relación de la iglesia con su socio misionero en Bolivia antes de la transición?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been a schoolteacher for fifteen years before accepting the call to full-time pastoral ministry.	Había sido maestra durante quince años antes de aceptar el llamado al ministerio pastoral a tiempo completo.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been volunteers at the church's literacy program for two years before the city recognized the initiative.	Habíamos sido voluntarios en el programa de alfabetización de la iglesia durante dos años antes de que la ciudad reconociera la iniciativa.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been an example of Christian marriage and family to the entire congregation for many years.	Habían sido un ejemplo de matrimonio y familia cristiana para toda la congregación durante muchos años.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been part of the music ministry for three years before the worship director invited me to co-lead services.	Había sido parte del ministerio de música durante tres años antes de que el director de adoración me invitara a codirigir los cultos.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been the church's spokesperson to the media before the communications team was organized?	¿Habías sido el portavoz de la iglesia ante los medios de comunicación antes de que se organizara el equipo de comunicaciones?	Ser Past Perfect
+Basic	Ser::Past::Perfect	He had been the person responsible for the church's relationship with the local food bank for many years.	Había sido la persona responsable de la relación de la iglesia con el banco de alimentos local durante muchos años.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been the hosts for the pastors' network breakfast long before it became a citywide gathering.	Habíamos sido los anfitriones del desayuno de la red de pastores mucho antes de que se convirtiera en una reunión de toda la ciudad.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been worshipping together for years before the two churches merged into one unified congregation.	Habían estado adorando juntos durante años antes de que las dos iglesias se fusionaran en una congregación unificada.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been a pastor's kid for my entire childhood before understanding the weight of that calling on my own life.	Había sido hijo de pastor durante toda mi infancia antes de entender el peso de ese llamado en mi propia vida.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been the one preparing traditional Mexican dishes for the church's Cinco de Mayo community feast?	¿Habías sido el que preparaba los platos mexicanos tradicionales para la fiesta comunitaria de Cinco de Mayo de la iglesia?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been a missionary kid who grew up on the field before returning to serve the mission at home.	Había sido una hija de misioneros que creció en el campo antes de regresar a servir en la misión en casa.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been unknown to the neighborhood before the church's outreach block party changed everything.	Habíamos sido desconocidos para el vecindario antes de que la fiesta de alcance del vecindario de la iglesia lo cambiara todo.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been the most consistent givers to the missionary fund before the church recognized them publicly.	Habían sido los donantes más consistentes al fondo misionero antes de que la iglesia los reconociera públicamente.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been the director of the church's pet adoption ministry before the program was handed off to new leadership.	Había sido el director del ministerio de adopción de mascotas de la iglesia antes de que el programa se transfiriera al nuevo liderazgo.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been part of the planning committee for the church's international food festival before this year?	¿Habías sido parte del comité de planificación del festival internacional de alimentos de la iglesia antes de este año?	Ser Past Perfect
+Basic	Ser::Past::Perfect	He had been the one who started the tradition of distributing meals to homebound members every holiday.	Había sido el que inició la tradición de distribuir comidas a los miembros que no podían salir de casa en cada día festivo.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been the founders of the church's school partnership program before it expanded to fifteen local schools.	Habíamos sido los fundadores del programa de asociación escolar de la iglesia antes de que se expandiera a quince escuelas locales.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been the ones who prepared the traditional posadas celebration at the church for the past decade.	Habían sido los que preparaban la celebración tradicional de las posadas en la iglesia durante la última década.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been the intercessor behind the scenes for years before the Lord called me to a more public role.	Había sido el intercesor detrás de escena durante años antes de que el Señor me llamara a un rol más público.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been the one responsible for building the church's relationship with the local health clinic?	¿Habías sido el responsable de construir la relación de la iglesia con la clínica de salud local?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been a student in the Bible college before returning to lead her home church's youth ministry.	Había sido estudiante en el colegio bíblico antes de regresar a dirigir el ministerio juvenil de su iglesia de origen.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been the church that quietly served the homeless community for a decade before anyone took notice.	Habíamos sido la iglesia que sirvió silenciosamente a la comunidad de personas sin hogar durante una década antes de que alguien lo notara.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been the worship team that introduced contemporary Latin music to the congregation years before it became popular.	Habían sido el equipo de adoración que introdujo música latina contemporánea a la congregación años antes de que se popularizara.	Ser Past Perfect
+Basic	Ser::Past::Perfect	I had been the one organizing the annual church health fair for three years before handing it off.	Había sido el que organizaba la feria anual de salud de la iglesia durante tres años antes de pasarla a otros.	Ser Past Perfect
+Basic	Ser::Past::Perfect	Had you been part of the Spanish worship team before the bilingual service was officially launched?	¿Habías sido parte del equipo de adoración en español antes de que se lanzara oficialmente el culto bilingüe?	Ser Past Perfect
+Basic	Ser::Past::Perfect	She had been the coordinator for the church's prison ministry for four years before moving to a new city.	Había sido la coordinadora del ministerio carcelario de la iglesia durante cuatro años antes de mudarse a una nueva ciudad.	Ser Past Perfect
+Basic	Ser::Past::Perfect	We had been the primary contact for international mission teams visiting our city before the center was built.	Habíamos sido el contacto principal para los equipos misioneros internacionales que visitaban nuestra ciudad antes de que se construyera el centro.	Ser Past Perfect
+Basic	Ser::Past::Perfect	They had been the faithful prayer cover for the medical missions team long before anyone acknowledged it.	Habían sido la cobertura fiel de oración para el equipo de misiones médicas mucho antes de que alguien lo reconociera.	Ser Past Perfect
+Basic	Ser::Present::Perfect	He has been the head deacon of this congregation through both seasons of growth and times of trial.	Ha sido el diácono principal de esta congregación tanto en temporadas de crecimiento como en tiempos de prueba.	Ser Present Perfect
+Basic	Ser::Present::Perfect	We have been changed by our years of sharing meals and Scripture with our Sunday home fellowship group.	Hemos sido cambiados por nuestros años de compartir comidas y Escrituras con nuestro grupo de comunión hogareña del domingo.	Ser Present Perfect
+Basic	Ser::Present::Perfect	They have been a testimony of God's faithfulness through the church's long-term community development ministry.	Han sido un testimonio de la fidelidad de Dios a través del ministerio de desarrollo comunitario a largo plazo de la iglesia.	Ser Present Perfect

@@ -100,3 +100,808 @@ Basic	Comer::Present::Indicative	Do you eat fresh bread and give thanks for the 
 Basic	Comer::Present::Indicative	She eats at the table of grace and invites everyone she knows to join her there.	Come en la mesa de la gracia e invita a todos los que conoce a unirse a ella allí.	Comer Present Indicative
 Basic	Comer::Present::Indicative	We eat and are filled not only with food but with the presence of God among us.	Comemos y quedamos satisfechos no solo con comida sino con la presencia de Dios entre nosotros.	Comer Present Indicative
 Basic	Comer::Present::Indicative	They eat knowing that every meal is a reminder of the ultimate feast to come in eternity.	Comen sabiendo que cada comida es un recordatorio del banquete final que vendrá en la eternidad.	Comer Present Indicative
+Basic	Comer::Preterit::Indicative	I ate the bread that Jesus blessed in the story.	Comí el pan que Jesús bendijo en la historia.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	Did you eat at the church potluck last Sunday?	¿Comiste en la cena comunitaria de la iglesia el domingo pasado?	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	She ate the fish that was miraculously provided.	Comió el pescado que fue provisto milagrosamente.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate together after the Bible study.	Comimos juntos después del estudio bíblico.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate the loaves and fish that Jesus multiplied.	Comieron los panes y peces que Jesús multiplicó.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	I ate at a great restaurant during my trip to Mexico.	Comí en un restaurante excelente durante mi viaje a México.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	Did you eat local food when you traveled to Colombia?	¿Comiste la comida local cuando viajaste a Colombia?	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	He ate at a street food stand near the hotel.	Comió en un puesto de comida callejera cerca del hotel.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate traditional dishes during our mission trip.	Comimos platillos tradicionales durante nuestro viaje misionero.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate dinner together every night of the trip.	Comieron juntos cada noche del viaje.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	I ate a delicious meal at that new restaurant downtown.	Comí una comida deliciosa en ese nuevo restaurante del centro.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	Did you eat the soup or the salad for lunch?	¿Comiste la sopa o la ensalada en el almuerzo?	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	She ate a big breakfast before church.	Comió un desayuno grande antes de ir a la iglesia.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate all the tamales at the family gathering.	Comimos todos los tamales en la reunión familiar.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate so much at the birthday party.	Comieron mucho en la fiesta de cumpleaños.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	I ate tacos with my friends after the concert.	Comí tacos con mis amigos después del concierto.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	Did you eat something before the music rehearsal?	¿Comiste algo antes del ensayo de música?	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	He ate at home before going to work.	Comió en casa antes de ir al trabajo.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate pizza at the school fundraiser.	Comimos pizza en la recaudación de fondos de la escuela.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate at the hospital cafeteria during the long wait.	Comieron en la cafetería del hospital durante la larga espera.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	I ate lunch with my coworkers at the office.	Comí el almuerzo con mis compañeros de trabajo en la oficina.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	Did you eat the bread at communion?	¿Comiste el pan en la comunión?	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	She ate dinner with her family before the church service.	Comió la cena con su familia antes del culto.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate the leftovers from Sunday's meal on Monday.	Comimos los sobrantes de la comida del domingo el lunes.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate at the missionary's house during the conference.	Comieron en la casa del misionero durante la conferencia.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	I ate fruit from the market while traveling.	Comí fruta del mercado mientras viajaba.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	Did you eat breakfast before the long flight?	¿Comiste el desayuno antes del largo vuelo?	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	He ate something at the airport while waiting for his flight.	Comió algo en el aeropuerto mientras esperaba su vuelo.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate authentic local food on our vacation.	Comimos comida local auténtica durante nuestras vacaciones.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate at an outdoor café near the plaza.	Comieron en un café al aire libre cerca de la plaza.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	I ate a lot at the church anniversary dinner.	Comí mucho en la cena del aniversario de la iglesia.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	Did you eat the vegetables your mom prepared?	¿Comiste las verduras que preparó tu mamá?	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	She ate healthy food during her recovery from surgery.	Comió comida saludable durante su recuperación de la cirugía.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate together as a family every night that week.	Comimos juntos en familia cada noche esa semana.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate bread and drank water during the fast.	Comieron pan y bebieron agua durante el ayuno.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	I ate at that restaurant with my study group.	Comí en ese restaurante con mi grupo de estudio.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	He ate at the neighbor's house after helping with the move.	Comió en la casa del vecino después de ayudar con la mudanza.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate a special meal to celebrate the end of the semester.	Comimos una comida especial para celebrar el fin del semestre.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate rice and beans every day on the mission trip.	Comieron arroz y frijoles cada día durante el viaje misionero.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	I ate fruit salad at the baby shower at church.	Comí ensalada de frutas en el baby shower de la iglesia.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	Did you eat before the worship team practice?	¿Comiste antes del ensayo del equipo de alabanza?	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	She ate a sandwich at her desk during work.	Comió un sándwich en su escritorio durante el trabajo.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate out to celebrate the new job.	Comimos fuera para celebrar el nuevo trabajo.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate together at the family reunion last summer.	Comieron juntos en la reunión familiar el verano pasado.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	I ate a bowl of soup when I felt sick.	Comí un tazón de sopa cuando me sentí enfermo.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	Did you eat the leftovers in the fridge?	¿Comiste los sobrantes en el refrigerador?	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	He ate at his grandmother's house on Sunday.	Comió en la casa de su abuela el domingo.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate fish on Fridays during Lent.	Comimos pescado los viernes durante la Cuaresma.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate traditional food at the cultural festival.	Comieron comida tradicional en el festival cultural.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	I ate a big dinner after the long hike.	Comí una cena grande después de la larga caminata.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	Did you eat at that new taqueria near the church?	¿Comiste en esa nueva taquería cerca de la iglesia?	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	She ate very little because of the stomach pain.	Comió muy poco a causa del dolor de estómago.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate mangoes fresh from the tree during the trip.	Comimos mangos frescos del árbol durante el viaje.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate at the school cafeteria every day.	Comieron en la cafetería de la escuela todos los días.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	I ate my lunch in the park on a nice day.	Comí mi almuerzo en el parque en un día agradable.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	Did you eat the apple your teacher gave you?	¿Comiste la manzana que te dio tu maestra?	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	He ate two plates of food at the potluck.	Comió dos platos de comida en la cena comunitaria.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate a farewell meal before the missionaries left.	Comimos una comida de despedida antes de que los misioneros partieran.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate the cookies the children made at Sunday school.	Comieron las galletas que los niños hicieron en la escuela dominical.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	I ate grapes while reading the Bible in the garden.	Comí uvas mientras leía la Biblia en el jardín.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	Did you eat at the hotel restaurant during the conference?	¿Comiste en el restaurante del hotel durante la conferencia?	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	She ate the bread and dipped it in olive oil.	Comió el pan y lo mojó en aceite de oliva.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate at an open-air market near the beach.	Comimos en un mercado al aire libre cerca de la playa.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate incredible food on their trip to Peru.	Comieron comida increíble en su viaje a Perú.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	I ate with the whole family after Christmas service.	Comí con toda la familia después del culto de Navidad.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	Did you eat the dessert they served at the dinner?	¿Comiste el postre que sirvieron en la cena?	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	He ate all the pizza before we got home.	Comió toda la pizza antes de que llegáramos a casa.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate a light snack before the worship concert.	Comimos un refrigerio ligero antes del concierto de alabanza.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate in silence during the prayer retreat.	Comieron en silencio durante el retiro de oración.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	I ate chicken soup when I had the flu.	Comí sopa de pollo cuando tuve gripe.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	Did you eat the arepas that Grandma made?	¿Comiste las arepas que hizo la abuela?	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	She ate a large lunch and skipped dinner that evening.	Comió un almuerzo grande y no cenó esa noche.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate at a famous restaurant while on vacation.	Comimos en un restaurante famoso durante nuestras vacaciones.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate at the community soup kitchen as volunteers.	Comieron en la cocina comunitaria como voluntarios.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	I ate mole for the first time at a Mexican restaurant.	Comí mole por primera vez en un restaurante mexicano.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	Did you eat before or after the evening service?	¿Comiste antes o después del culto de la tarde?	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	He ate his vegetables even though he didn't like them.	Comió sus verduras aunque no le gustaban.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate pozole together on a cold night.	Comimos pozole juntos una noche fría.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate at a rooftop restaurant with an amazing view.	Comieron en un restaurante en la azotea con una vista increíble.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	I ate the same meal every day during the fast.	Comí la misma comida todos los días durante el ayuno.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	Did you eat the food the neighbors brought when you were sick?	¿Comiste la comida que trajeron los vecinos cuando estabas enfermo?	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	She ate a salad for lunch to stay healthy.	Comió una ensalada en el almuerzo para mantenerse saludable.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate breakfast together before leaving for the airport.	Comimos el desayuno juntos antes de salir para el aeropuerto.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate fresh bread from the bakery near the church.	Comieron pan fresco de la panadería cerca de la iglesia.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	I ate tacos de barbacoa for lunch on Sunday.	Comí tacos de barbacoa en el almuerzo el domingo.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	Did you eat anything after the music festival?	¿Comiste algo después del festival de música?	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	He ate a protein bar before the morning workout.	Comió una barra de proteína antes del entrenamiento matutino.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate at a seafood restaurant on the coast.	Comimos en un restaurante de mariscos en la costa.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate breakfast in silence during the morning devotional.	Comieron el desayuno en silencio durante el devocional matutino.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	I ate my birthday cake with my friends at church.	Comí mi pastel de cumpleaños con mis amigos de la iglesia.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	Did you eat at the food court at the mall?	¿Comiste en el patio de comidas del centro comercial?	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	She took medicine with food so her stomach wouldn't hurt.	Comió con comida para que no le doliera el estómago al tomar la medicina.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate the last of the leftovers from Thanksgiving.	Comimos lo último de los sobrantes del Día de Acción de Gracias.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate pupusas at the Salvadoran restaurant downtown.	Comieron pupusas en el restaurante salvadoreño del centro.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	I ate street tacos with the worship band after the concert.	Comí tacos de la calle con el grupo de alabanza después del concierto.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	Did you eat before going to the doctor?	¿Comiste antes de ir al médico?	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	He ate dinner quietly and then went to pray.	Comió la cena tranquilamente y luego fue a orar.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	We ate together as a cell group after the meeting.	Comimos juntos como grupo celular después de la reunión.	Comer Preterit Indicative
+Basic	Comer::Preterit::Indicative	They ate the best ceviche of their lives during the mission trip.	Comieron el mejor ceviche de sus vidas durante el viaje misionero.	Comer Preterit Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat breakfast with my family every morning.	Comía el desayuno con mi familia todas las mañanas.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat at church every Sunday?	¿Comías en la iglesia todos los domingos?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	She used to eat slowly and give thanks before each meal.	Comía despacio y daba gracias antes de cada comida.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat together after Bible study every week.	Comíamos juntos después del estudio bíblico cada semana.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat at the same restaurant every Friday.	Comían en el mismo restaurante todos los viernes.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat street food every time I traveled.	Comía comida de la calle cada vez que viajaba.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat at local restaurants when you lived abroad?	¿Comías en restaurantes locales cuando vivías en el extranjero?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	He used to eat very little while studying for exams.	Comía muy poco mientras estudiaba para los exámenes.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat at my grandmother's house every Sunday.	Comíamos en la casa de mi abuela todos los domingos.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat traditional food at every family gathering.	Comían comida tradicional en cada reunión familiar.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat lunch in the park near the school.	Comía el almuerzo en el parque cerca de la escuela.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat meat or were you vegetarian back then?	¿Comías carne o eras vegetariano en ese tiempo?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	She used to eat fresh fruit every morning from the garden.	Comía fruta fresca cada mañana del jardín.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat dinner at 6 pm when the children were small.	Comíamos la cena a las 6 de la tarde cuando los niños eran pequeños.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat pozole every New Year at the family reunion.	Comían pozole cada Año Nuevo en la reunión familiar.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat at the school cafeteria every day.	Comía en la cafetería de la escuela todos los días.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat at home or at work?	¿Comías en casa o en el trabajo?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	He used to eat a big breakfast before going to church.	Comía un desayuno grande antes de ir a la iglesia.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat together as a team at the office.	Comíamos juntos como equipo en la oficina.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat at the mission every Saturday to help the poor.	Comían en la misión cada sábado para ayudar a los pobres.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat fruits and vegetables to stay healthy.	Comía frutas y verduras para mantenerme saludable.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat at that restaurant near the church?	¿Comías en ese restaurante cerca de la iglesia?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	She used to eat a light dinner before the evening service.	Comía una cena ligera antes del culto de la tarde.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat tamales every Christmas Eve as a tradition.	Comíamos tamales cada Nochebuena como tradición.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat fish on Fridays during Lent.	Comían pescado los viernes durante la Cuaresma.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat with my Bible study group on Wednesdays.	Comía con mi grupo de estudio bíblico los miércoles.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat a snack before choir practice?	¿Comías un refrigerio antes del ensayo del coro?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	He used to eat at his desk while reviewing the lesson.	Comía en su escritorio mientras revisaba la lección.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat a simple meal and pray together each morning.	Comíamos una comida sencilla y orábamos juntos cada mañana.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat at the soup kitchen to serve the community.	Comían en la cocina comunitaria para servir a la comunidad.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat mangoes while sitting on the porch.	Comía mangos sentado en el porche.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat healthy when you were in college?	¿Comías saludable cuando estabas en la universidad?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	She used to eat every meal at the table with her family.	Comía cada comida en la mesa con su familia.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat breakfast before the morning worship service.	Comíamos el desayuno antes del culto matutino.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat at local comedores when they traveled in Central America.	Comían en comedores locales cuando viajaban por Centroamérica.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat a lot more before I changed my diet for health reasons.	Comía mucho más antes de cambiar mi dieta por razones de salud.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat at the missionary's house during language school?	¿Comías en la casa del misionero durante la escuela de idiomas?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	He used to eat quietly and meditate on Scripture after meals.	Comía en silencio y meditaba en las Escrituras después de las comidas.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat dinner early so the kids could go to youth group.	Comíamos la cena temprano para que los niños pudieran ir al grupo juvenil.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat together at church every Sunday morning.	Comían juntos en la iglesia cada domingo por la mañana.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat at that café while practicing Spanish.	Comía en ese café mientras practicaba español.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat vegetables from your own garden?	¿Comías verduras de tu propio jardín?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	She used to eat very carefully because of her food allergies.	Comía con mucho cuidado a causa de sus alergias alimentarias.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat lunch together every day during our mission trip.	Comíamos el almuerzo juntos cada día durante nuestro viaje misionero.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat at the corner food stand every morning.	Comían en el puesto de comida de la esquina cada mañana.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat fast food but now I prefer home-cooked meals.	Comía comida rápida, pero ahora prefiero las comidas caseras.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat at the hospital cafeteria when your mom was sick?	¿Comías en la cafetería del hospital cuando tu mamá estaba enferma?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	He used to eat only once a day when he was fasting and praying.	Comía solo una vez al día cuando ayunaba y oraba.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat churros from the street vendor after the service.	Comíamos churros del vendedor ambulante después del culto.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat rice and beans every day on the mission field.	Comían arroz y frijoles todos los días en el campo misionero.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat chicken soup whenever I was sick as a child.	Comía sopa de pollo siempre que estaba enfermo de niño.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat at the school cafeteria or bring your lunch?	¿Comías en la cafetería de la escuela o traías tu almuerzo?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	She used to eat breakfast while reading a devotional each morning.	Comía el desayuno mientras leía un devocional cada mañana.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat outside in the courtyard during nice weather.	Comíamos afuera en el patio cuando hacía buen tiempo.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat at a long table together as one big family.	Comían en una mesa larga juntos como una gran familia.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat a lot of spicy food until my stomach couldn't handle it.	Comía mucha comida picante hasta que mi estómago dejó de aguantarla.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat plantains every day when you lived in Panama?	¿Comías plátanos todos los días cuando vivías en Panamá?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	He used to eat at the neighborhood restaurant every Friday evening.	Comía en el restaurante del barrio cada viernes por la tarde.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat fruit from our grandparents' orchard each summer.	Comíamos la fruta del huerto de nuestros abuelos cada verano.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat all their meals together when they were on retreat.	Comían todas sus comidas juntos cuando estaban en retiro.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat at my aunt's house every Sunday when I was little.	Comía en la casa de mi tía todos los domingos cuando era pequeño.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat a snack before bed when you were a kid?	¿Comías un refrigerio antes de dormir cuando eras niño?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	She used to eat a salad for lunch every day at work.	Comía una ensalada en el almuerzo todos los días en el trabajo.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat at the church fellowship hall after every service.	Comíamos en el salón de compañerismo de la iglesia después de cada culto.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat traditional dishes that had been passed down for generations.	Comían platillos tradicionales que se habían transmitido por generaciones.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat a banana every morning before my runs.	Comía un plátano cada mañana antes de mis carreras.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat at that taco stand near your work?	¿Comías en ese taquero cerca de tu trabajo?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	He used to eat at the food pantry when his family was going through hard times.	Comía en la despensa de alimentos cuando su familia atravesaba tiempos difíciles.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat lunch at the park every Friday when the weather was nice.	Comíamos el almuerzo en el parque cada viernes cuando hacía buen tiempo.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat homemade bread every Sunday morning.	Comían pan casero cada domingo por la mañana.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat so many sweets before I changed my diet.	Comía muchos dulces antes de cambiar mi dieta.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat at the corner bakery before church?	¿Comías en la panadería de la esquina antes de la iglesia?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	She used to eat lunch with her students in the classroom.	Comía el almuerzo con sus alumnos en el salón de clases.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat at the same table in the cafeteria with our friends.	Comíamos en la misma mesa de la cafetería con nuestros amigos.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat together every night and share what God had done that day.	Comían juntos cada noche y compartían lo que Dios había hecho ese día.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat avocado every day when I lived in Mexico.	Comía aguacate todos los días cuando vivía en México.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat lunch alone at the office?	¿Comías solo el almuerzo en la oficina?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	He used to eat so well when his wife cooked for him.	Comía tan bien cuando su esposa le cocinaba.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat a warm meal before the evening prayer meeting.	Comíamos una comida caliente antes de la reunión de oración de la tarde.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat fresh tortillas from the market every day.	Comían tortillas frescas del mercado todos los días.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat at the food truck that parked outside my office.	Comía en el camión de comida que se estacionaba afuera de mi oficina.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat the lunch your mom packed for you?	¿Comías el almuerzo que tu mamá te preparaba?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	She used to eat so carefully when she was pregnant.	Comía con tanto cuidado cuando estaba embarazada.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat grilled fish at the beach every summer.	Comíamos pescado a la parrilla en la playa cada verano.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat lentil soup on cold winter nights.	Comían sopa de lentejas las noches frías de invierno.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat at the school cafeteria with my best friend every day.	Comía en la cafetería de la escuela con mi mejor amigo todos los días.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat a big meal before going to the concert?	¿Comías una comida grande antes de ir al concierto?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	He used to eat at the hospital every day while his father was recovering.	Comía en el hospital todos los días mientras su padre se recuperaba.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat from the same pot around the campfire on the retreat.	Comíamos de la misma olla alrededor de la fogata en el retiro.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat Sunday lunch with the whole congregation.	Comían el almuerzo del domingo con toda la congregación.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat papaya every morning for breakfast.	Comía papaya cada mañana en el desayuno.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat at a specific table in the cafeteria?	¿Comías en una mesa específica de la cafetería?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	She used to eat little snacks while studying late at night.	Comía pequeños bocadillos mientras estudiaba tarde en la noche.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat homemade empanadas after the worship practice.	Comíamos empanadas caseras después del ensayo de alabanza.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat together and sing songs of praise before the meal.	Comían juntos y cantaban canciones de alabanza antes de la comida.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	I used to eat a big salad for lunch and feel so much better.	Comía una ensalada grande en el almuerzo y me sentía mucho mejor.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	Did you used to eat at that Colombian restaurant on Fifth Street?	¿Comías en ese restaurante colombiano en la Quinta Calle?	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	He used to eat at the cafeteria but stopped when he started cooking at home.	Comía en la cafetería pero dejó cuando empezó a cocinar en casa.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	We used to eat the most amazing food at the church harvest festival.	Comíamos la comida más increíble en el festival de cosecha de la iglesia.	Comer Imperfect Indicative
+Basic	Comer::Imperfect::Indicative	They used to eat at the community center kitchen every Wednesday night.	Comían en la cocina del centro comunitario cada miércoles por la noche.	Comer Imperfect Indicative
+Basic	Comer::Future::Indicative	I will eat at the new restaurant that opened near the church.	Comeré en el nuevo restaurante que abrió cerca de la iglesia.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat before or after the Sunday morning service?	¿Comerás antes o después del culto del domingo por la mañana?	Comer Future Indicative
+Basic	Comer::Future::Indicative	She will eat with her family to celebrate the baptism.	Comerá con su familia para celebrar el bautismo.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat together after the Bible study tonight.	Comeremos juntos después del estudio bíblico esta noche.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat at the church potluck on Saturday.	Comerán en la cena comunitaria de la iglesia el sábado.	Comer Future Indicative
+Basic	Comer::Future::Indicative	I will eat local food when I travel to Guatemala.	Comeré comida local cuando viaje a Guatemala.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat at the hotel or go out during the trip?	¿Comerás en el hotel o saldrás durante el viaje?	Comer Future Indicative
+Basic	Comer::Future::Indicative	He will eat traditional food at the cultural festival.	Comerá comida tradicional en el festival cultural.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat at a restaurant by the river during our vacation.	Comeremos en un restaurante junto al río durante nuestras vacaciones.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat the best seafood when they visit the coast.	Comerán los mejores mariscos cuando visiten la costa.	Comer Future Indicative
+Basic	Comer::Future::Indicative	I will eat a healthy diet to take care of the body God gave me.	Comeré una dieta saludable para cuidar el cuerpo que Dios me dio.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat the birthday cake they prepared at church?	¿Comerás el pastel de cumpleaños que prepararon en la iglesia?	Comer Future Indicative
+Basic	Comer::Future::Indicative	She will eat at the cafeteria on her first day at the new school.	Comerá en la cafetería su primer día en la nueva escuela.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat together as a family before the holiday service.	Comeremos juntos en familia antes del culto de la festividad.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat at the neighbor's house to welcome them to the block.	Comerán en la casa del vecino para darle la bienvenida al vecindario.	Comer Future Indicative
+Basic	Comer::Future::Indicative	I will eat something small before the worship concert.	Comeré algo pequeño antes del concierto de alabanza.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat out or cook at home this Sunday?	¿Comerás fuera o cocinarás en casa este domingo?	Comer Future Indicative
+Basic	Comer::Future::Indicative	He will eat more vegetables now that the doctor recommended it.	Comerá más verduras ahora que el médico lo recomendó.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat at the missions conference dinner this Friday.	Comeremos en la cena de la conferencia de misiones este viernes.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat tamales for Christmas as they do every year.	Comerán tamales para Navidad como hacen cada año.	Comer Future Indicative
+Basic	Comer::Future::Indicative	I will eat whatever is served at the community soup kitchen today.	Comeré lo que sirvan en la cocina comunitaria hoy.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat breakfast before the prayer walk this morning?	¿Comerás el desayuno antes de la caminata de oración esta mañana?	Comer Future Indicative
+Basic	Comer::Future::Indicative	She will eat lunch with the missionaries who are visiting this week.	Comerá el almuerzo con los misioneros que nos visitan esta semana.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat fresh fruit from the market on the trip.	Comeremos fruta fresca del mercado en el viaje.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat at the outdoor market on the last day of the conference.	Comerán en el mercado al aire libre el último día de la conferencia.	Comer Future Indicative
+Basic	Comer::Future::Indicative	I will eat more balanced meals to improve my energy at work.	Comeré comidas más balanceadas para mejorar mi energía en el trabajo.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat at the hospital cafeteria while visiting the patient?	¿Comerás en la cafetería del hospital mientras visitas al paciente?	Comer Future Indicative
+Basic	Comer::Future::Indicative	He will eat dinner at the shelter to serve those in need.	Comerá la cena en el refugio para servir a los necesitados.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat at the same restaurant where we had our first Bible study.	Comeremos en el mismo restaurante donde tuvimos nuestro primer estudio bíblico.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat at the taqueria near the airport after the mission trip.	Comerán en la taquería cerca del aeropuerto después del viaje misionero.	Comer Future Indicative
+Basic	Comer::Future::Indicative	I will eat at my parents' house for the holidays.	Comeré en la casa de mis padres en las fiestas.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat at the restaurant or order delivery tonight?	¿Comerás en el restaurante o pedirás a domicilio esta noche?	Comer Future Indicative
+Basic	Comer::Future::Indicative	She will eat healthy meals while recovering from her illness.	Comerá comidas saludables mientras se recupera de su enfermedad.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat everything the host family prepared for us in Costa Rica.	Comeremos todo lo que la familia anfitriona nos preparó en Costa Rica.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat together in the fellowship hall after the baptism service.	Comerán juntos en el salón de compañerismo después del culto de bautismo.	Comer Future Indicative
+Basic	Comer::Future::Indicative	I will eat with my coworkers to celebrate finishing the project.	Comeré con mis compañeros de trabajo para celebrar terminar el proyecto.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat at the cafeteria or go to the food truck?	¿Comerás en la cafetería o irás al camión de comida?	Comer Future Indicative
+Basic	Comer::Future::Indicative	He will eat at the hospital cafeteria during his shift.	Comerá en la cafetería del hospital durante su turno.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat together after the worship practice next week.	Comeremos juntos después del ensayo de alabanza la próxima semana.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat at the beach restaurant when the vacation starts.	Comerán en el restaurante de la playa cuando empiecen las vacaciones.	Comer Future Indicative
+Basic	Comer::Future::Indicative	I will eat fresh ceviche when we visit the coast next month.	Comeré ceviche fresco cuando visitemos la costa el próximo mes.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat at the Christmas dinner they're hosting at church?	¿Comerás en la cena de Navidad que organizan en la iglesia?	Comer Future Indicative
+Basic	Comer::Future::Indicative	She will eat at the school health fair to try healthy options.	Comerá en la feria de salud de la escuela para probar opciones saludables.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat what is set before us with gratitude and joy.	Comeremos lo que se nos sirva con gratitud y alegría.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat at a restaurant downtown after the music performance.	Comerán en un restaurante del centro después de la actuación musical.	Comer Future Indicative
+Basic	Comer::Future::Indicative	I will eat my lunch at the park today and pray while I'm there.	Comeré mi almuerzo en el parque hoy y oraré mientras estoy allí.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat something before the long drive to the retreat?	¿Comerás algo antes del largo viaje en carro al retiro?	Comer Future Indicative
+Basic	Comer::Future::Indicative	He will eat at his sister's house for her birthday celebration.	Comerá en la casa de su hermana para la celebración de su cumpleaños.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat the biggest plates of food at the harvest festival.	Comeremos los platos más grandes en el festival de cosecha.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat well and rest before the long mission trip.	Comerán bien y descansarán antes del largo viaje misionero.	Comer Future Indicative
+Basic	Comer::Future::Indicative	I will eat less sugar this month to take care of my health.	Comeré menos azúcar este mes para cuidar mi salud.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat at the food stands outside the music festival?	¿Comerás en los puestos de comida afuera del festival de música?	Comer Future Indicative
+Basic	Comer::Future::Indicative	She will eat with her whole family at the church anniversary lunch.	Comerá con toda su familia en el almuerzo del aniversario de la iglesia.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat at the same table as the visiting pastor.	Comeremos en la misma mesa que el pastor visitante.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat traditional Christmas food at the family gathering.	Comerán comida navideña tradicional en la reunión familiar.	Comer Future Indicative
+Basic	Comer::Future::Indicative	I will eat at the Mexican restaurant my friend recommended.	Comeré en el restaurante mexicano que recomendó mi amigo.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat before or after the music rehearsal tomorrow?	¿Comerás antes o después del ensayo de música mañana?	Comer Future Indicative
+Basic	Comer::Future::Indicative	He will eat soup and bread every day during the spiritual fast.	Comerá sopa y pan todos los días durante el ayuno espiritual.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat at the outdoor café near the museum during our trip.	Comeremos en el café al aire libre cerca del museo durante nuestro viaje.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat at the conference dinner with church leaders from across the region.	Comerán en la cena de la conferencia con líderes de iglesias de toda la región.	Comer Future Indicative
+Basic	Comer::Future::Indicative	I will eat more protein to recover after the surgery.	Comeré más proteína para recuperarme después de la cirugía.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat breakfast before the early morning prayer service?	¿Comerás el desayuno antes del culto de oración de la madrugada?	Comer Future Indicative
+Basic	Comer::Future::Indicative	She will eat at the school lunch program since it's free this week.	Comerá en el programa de almuerzo escolar ya que esta semana es gratis.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat and sing together at the family reunion.	Comeremos y cantaremos juntos en la reunión familiar.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat at a traditional Latin restaurant after the concert.	Comerán en un restaurante latinoamericano tradicional después del concierto.	Comer Future Indicative
+Basic	Comer::Future::Indicative	I will eat with the children at the after-school program on Friday.	Comeré con los niños en el programa extracurricular el viernes.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat the pastor's wife's famous enchiladas at the potluck?	¿Comerás las famosas enchiladas de la esposa del pastor en la cena comunitaria?	Comer Future Indicative
+Basic	Comer::Future::Indicative	He will eat fresh fruit every morning to stay healthy this year.	Comerá fruta fresca cada mañana para mantenerse saludable este año.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat dinner at my grandmother's house before the Christmas service.	Comeremos la cena en la casa de mi abuela antes del culto de Navidad.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat at the restaurant they discovered on their mission trip to Ecuador.	Comerán en el restaurante que descubrieron en su viaje misionero a Ecuador.	Comer Future Indicative
+Basic	Comer::Future::Indicative	I will eat better starting Monday for the sake of my health.	Comeré mejor a partir del lunes por el bien de mi salud.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat at the food pantry dinner to serve the community?	¿Comerás en la cena de la despensa de alimentos para servir a la comunidad?	Comer Future Indicative
+Basic	Comer::Future::Indicative	She will eat with her study group after their final exam.	Comerá con su grupo de estudio después de su examen final.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat and laugh and give thanks together this Thanksgiving.	Comeremos, reiremos y daremos gracias juntos este Día de Acción de Gracias.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat at the fellowship dinner following the baptism celebration.	Comerán en la cena de compañerismo después de la celebración del bautismo.	Comer Future Indicative
+Basic	Comer::Future::Indicative	I will eat a big meal to fuel up before the church construction project.	Comeré una comida grande para tener energía antes del proyecto de construcción de la iglesia.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat at the food truck or bring your own lunch?	¿Comerás en el camión de comida o traerás tu propio almuerzo?	Comer Future Indicative
+Basic	Comer::Future::Indicative	He will eat lunch with his mentor at the restaurant downtown.	Comerá el almuerzo con su mentor en el restaurante del centro.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat outside under the stars at the retreat this year.	Comeremos afuera bajo las estrellas en el retiro este año.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat the most delicious food at the wedding reception.	Comerán la comida más deliciosa en la recepción de la boda.	Comer Future Indicative
+Basic	Comer::Future::Indicative	I will eat a light meal before the worship team practice.	Comeré una comida ligera antes del ensayo del equipo de alabanza.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat with us at the neighborhood cookout this weekend?	¿Comerás con nosotros en el asado del vecindario este fin de semana?	Comer Future Indicative
+Basic	Comer::Future::Indicative	She will eat more iron-rich foods now that she is anemic.	Comerá más alimentos ricos en hierro ahora que tiene anemia.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat tacos and sing worship songs at the youth group party.	Comeremos tacos y cantaremos canciones de alabanza en la fiesta del grupo juvenil.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat at the last supper reenactment during Holy Week.	Comerán en la recreación de la Última Cena durante la Semana Santa.	Comer Future Indicative
+Basic	Comer::Future::Indicative	I will eat at that little comedor I found on my last trip to Honduras.	Comeré en ese pequeño comedor que encontré en mi último viaje a Honduras.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat what the host family serves, even if it's unfamiliar?	¿Comerás lo que sirva la familia anfitriona, aunque sea algo desconocido?	Comer Future Indicative
+Basic	Comer::Future::Indicative	He will eat at the work retreat dinner with the whole team.	Comerá en la cena del retiro de trabajo con todo el equipo.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat a celebratory meal after the graduation ceremony.	Comeremos una comida de celebración después de la ceremonia de graduación.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat at the beach while watching the sunset and praising God.	Comerán en la playa mientras ven el atardecer y alaban a Dios.	Comer Future Indicative
+Basic	Comer::Future::Indicative	I will eat whatever food is available and be thankful.	Comeré cualquier comida que esté disponible y seré agradecido.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat at the church camp or go to the local restaurant?	¿Comerás en el campamento de la iglesia o irás al restaurante local?	Comer Future Indicative
+Basic	Comer::Future::Indicative	She will eat at the school nutrition program to stay healthy.	Comerá en el programa de nutrición escolar para mantenerse saludable.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat a long leisurely dinner with the whole family this Sunday.	Comeremos una cena larga y tranquila con toda la familia este domingo.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat at the café near the concert hall before the show.	Comerán en el café cerca de la sala de conciertos antes del espectáculo.	Comer Future Indicative
+Basic	Comer::Future::Indicative	I will eat less processed food this year for my health.	Comeré menos comida procesada este año por mi salud.	Comer Future Indicative
+Basic	Comer::Future::Indicative	Will you eat the food from the church garden at the harvest celebration?	¿Comerás la comida del jardín de la iglesia en la celebración de la cosecha?	Comer Future Indicative
+Basic	Comer::Future::Indicative	He will eat at the senior center to spend time with the elderly congregation members.	Comerá en el centro para adultos mayores para pasar tiempo con los miembros mayores de la congregación.	Comer Future Indicative
+Basic	Comer::Future::Indicative	We will eat together and share testimonies at the end of the retreat.	Comeremos juntos y compartiremos testimonios al final del retiro.	Comer Future Indicative
+Basic	Comer::Future::Indicative	They will eat at the best restaurant in town after the worship conference.	Comerán en el mejor restaurante de la ciudad después de la conferencia de alabanza.	Comer Future Indicative
+Basic	Comer::Conditional	I would eat at that restaurant if I had more money.	Comería en ese restaurante si tuviera más dinero.	Comer Conditional
+Basic	Comer::Conditional	Would you eat at the church potluck if you weren't feeling well?	¿Comerías en la cena comunitaria de la iglesia si no te sintieras bien?	Comer Conditional
+Basic	Comer::Conditional	She would eat healthy food if she had time to cook.	Comería comida saludable si tuviera tiempo de cocinar.	Comer Conditional
+Basic	Comer::Conditional	We would eat together more often if our schedules matched.	Comeríamos juntos más seguido si nuestros horarios coincidieran.	Comer Conditional
+Basic	Comer::Conditional	They would eat at the mission field cafeteria if they went on the trip.	Comerían en la cafetería del campo misionero si fueran al viaje.	Comer Conditional
+Basic	Comer::Conditional	I would eat local food when I travel if I weren't allergic.	Comería comida local cuando viajo si no fuera alérgico.	Comer Conditional
+Basic	Comer::Conditional	Would you eat street food if you visited Mexico City?	¿Comerías comida de la calle si visitaras la Ciudad de México?	Comer Conditional
+Basic	Comer::Conditional	He would eat at that restaurant if it were closer to the church.	Comería en ese restaurante si estuviera más cerca de la iglesia.	Comer Conditional
+Basic	Comer::Conditional	We would eat better if we had a bigger kitchen.	Comeríamos mejor si tuviéramos una cocina más grande.	Comer Conditional
+Basic	Comer::Conditional	They would eat more fruits and vegetables if they were less expensive.	Comerían más frutas y verduras si fueran menos costosas.	Comer Conditional
+Basic	Comer::Conditional	I would eat a big breakfast every day if I woke up earlier.	Comería un desayuno grande todos los días si me levantara más temprano.	Comer Conditional
+Basic	Comer::Conditional	Would you eat at that café if it had better lighting for Bible reading?	¿Comerías en ese café si tuviera mejor iluminación para leer la Biblia?	Comer Conditional
+Basic	Comer::Conditional	She would eat at the school cafeteria if the food were healthier.	Comería en la cafetería de la escuela si la comida fuera más saludable.	Comer Conditional
+Basic	Comer::Conditional	We would eat at the mission conference if we could afford the tickets.	Comeríamos en la conferencia misionera si pudiéramos pagar las entradas.	Comer Conditional
+Basic	Comer::Conditional	They would eat together every night if they didn't work late.	Comerían juntos cada noche si no trabajaran hasta tarde.	Comer Conditional
+Basic	Comer::Conditional	I would eat less sugar if it weren't so delicious.	Comería menos azúcar si no fuera tan deliciosa.	Comer Conditional
+Basic	Comer::Conditional	Would you eat at the restaurant or cook at home for the celebration?	¿Comerías en el restaurante o cocinarías en casa para la celebración?	Comer Conditional
+Basic	Comer::Conditional	He would eat more vegetables if his kids didn't complain.	Comería más verduras si sus hijos no se quejaran.	Comer Conditional
+Basic	Comer::Conditional	We would eat at the soup kitchen more often if we weren't so busy.	Comeríamos en la cocina comunitaria más seguido si no estuviéramos tan ocupados.	Comer Conditional
+Basic	Comer::Conditional	They would eat traditional food more often if they lived closer to their family.	Comerían comida tradicional más seguido si vivieran más cerca de su familia.	Comer Conditional
+Basic	Comer::Conditional	I would eat at that restaurant if the portions were bigger.	Comería en ese restaurante si las porciones fueran más grandes.	Comer Conditional
+Basic	Comer::Conditional	Would you eat the food at the church potluck if you didn't know who made it?	¿Comerías la comida en la cena comunitaria si no supieras quién la hizo?	Comer Conditional
+Basic	Comer::Conditional	She would eat at home more if cooking weren't so time-consuming.	Comería más en casa si cocinar no llevara tanto tiempo.	Comer Conditional
+Basic	Comer::Conditional	We would eat at a nicer restaurant for our anniversary if we had the budget.	Comeríamos en un restaurante mejor para nuestro aniversario si tuviéramos el presupuesto.	Comer Conditional
+Basic	Comer::Conditional	They would eat healthier if they had access to better grocery stores.	Comerían más saludable si tuvieran acceso a mejores supermercados.	Comer Conditional
+Basic	Comer::Conditional	I would eat at the school cafeteria if it had a salad bar.	Comería en la cafetería de la escuela si tuviera una barra de ensaladas.	Comer Conditional
+Basic	Comer::Conditional	Would you eat spicy food if it didn't upset your stomach?	¿Comerías comida picante si no te causara malestar estomacal?	Comer Conditional
+Basic	Comer::Conditional	He would eat at the food truck every day if it were open on Sundays.	Comería en el camión de comida todos los días si estuviera abierto los domingos.	Comer Conditional
+Basic	Comer::Conditional	We would eat outside more if it weren't so hot in the summer.	Comeríamos afuera más seguido si no hiciera tanto calor en el verano.	Comer Conditional
+Basic	Comer::Conditional	They would eat at the church retreat every year if it weren't so far away.	Comerían en el retiro de la iglesia cada año si no estuviera tan lejos.	Comer Conditional
+Basic	Comer::Conditional	I would eat the leftovers if there were any.	Comería los sobrantes si hubiera alguno.	Comer Conditional
+Basic	Comer::Conditional	Would you eat at that new restaurant if someone paid for the meal?	¿Comerías en ese nuevo restaurante si alguien pagara la comida?	Comer Conditional
+Basic	Comer::Conditional	She would eat more fiber if her doctor recommended it.	Comería más fibra si su médico lo recomendara.	Comer Conditional
+Basic	Comer::Conditional	We would eat at the park every Sunday if the weather cooperated.	Comeríamos en el parque cada domingo si el tiempo lo permitiera.	Comer Conditional
+Basic	Comer::Conditional	They would eat at the conference dinner if the registration included it.	Comerían en la cena de la conferencia si el registro lo incluyera.	Comer Conditional
+Basic	Comer::Conditional	I would eat at a restaurant every day if I could afford it.	Comería en un restaurante todos los días si pudiera pagarlo.	Comer Conditional
+Basic	Comer::Conditional	Would you eat more at the potluck if you weren't watching your diet?	¿Comerías más en la cena comunitaria si no estuvieras cuidando tu dieta?	Comer Conditional
+Basic	Comer::Conditional	He would eat all his vegetables if his mother were watching.	Comería todas sus verduras si su madre lo estuviera mirando.	Comer Conditional
+Basic	Comer::Conditional	We would eat together more if we all lived in the same city.	Comeríamos juntos más seguido si todos viviéramos en la misma ciudad.	Comer Conditional
+Basic	Comer::Conditional	They would eat at the soup kitchen every weekend if they had more time.	Comerían en la cocina comunitaria cada fin de semana si tuvieran más tiempo.	Comer Conditional
+Basic	Comer::Conditional	I would eat a balanced diet if I knew how to cook more dishes.	Comería una dieta balanceada si supiera cocinar más platillos.	Comer Conditional
+Basic	Comer::Conditional	Would you eat something before the early morning worship service?	¿Comerías algo antes del culto de alabanza a primera hora de la mañana?	Comer Conditional
+Basic	Comer::Conditional	She would eat at the hospital cafeteria if the food were more appealing.	Comería en la cafetería del hospital si la comida fuera más apetecible.	Comer Conditional
+Basic	Comer::Conditional	We would eat out every Friday if the restaurants near us were open late.	Comeríamos fuera cada viernes si los restaurantes cercanos estuvieran abiertos hasta tarde.	Comer Conditional
+Basic	Comer::Conditional	They would eat more fish if it were easier to prepare.	Comerían más pescado si fuera más fácil de preparar.	Comer Conditional
+Basic	Comer::Conditional	I would eat at that little taqueria every day if I lived nearby.	Comería en esa pequeña taquería todos los días si viviera cerca.	Comer Conditional
+Basic	Comer::Conditional	Would you eat less meat if it were better for your health?	¿Comerías menos carne si fuera mejor para tu salud?	Comer Conditional
+Basic	Comer::Conditional	He would eat at the seminary cafeteria if he were studying there.	Comería en la cafetería del seminario si estudiara allí.	Comer Conditional
+Basic	Comer::Conditional	We would eat a feast fit for a king at the church gala if it were free.	Comeríamos un banquete digno de un rey en la gala de la iglesia si fuera gratis.	Comer Conditional
+Basic	Comer::Conditional	They would eat at the retreat center cafeteria if the food were included.	Comerían en la cafetería del centro de retiros si la comida estuviera incluida.	Comer Conditional
+Basic	Comer::Conditional	I would eat more greens if someone prepared them for me.	Comería más verduras de hoja si alguien me las preparara.	Comer Conditional
+Basic	Comer::Conditional	Would you eat at a restaurant in a country where you don't speak the language?	¿Comerías en un restaurante en un país donde no hablas el idioma?	Comer Conditional
+Basic	Comer::Conditional	She would eat more iron-rich foods if she knew which ones they were.	Comería más alimentos ricos en hierro si supiera cuáles son.	Comer Conditional
+Basic	Comer::Conditional	We would eat at the new restaurant near the church if they had good reviews.	Comeríamos en el nuevo restaurante cerca de la iglesia si tuviera buenas reseñas.	Comer Conditional
+Basic	Comer::Conditional	They would eat together every Sunday if everyone lived in the same city.	Comerían juntos cada domingo si todos vivieran en la misma ciudad.	Comer Conditional
+Basic	Comer::Conditional	I would eat at the missions dinner every year if I lived closer to the church.	Comería en la cena de misiones cada año si viviera más cerca de la iglesia.	Comer Conditional
+Basic	Comer::Conditional	Would you eat the local food in a foreign country even if it looked strange?	¿Comerías la comida local en un país extranjero aunque se viera extraña?	Comer Conditional
+Basic	Comer::Conditional	He would eat more whole grains if he knew how to cook them.	Comería más granos enteros si supiera cómo cocinarlos.	Comer Conditional
+Basic	Comer::Conditional	We would eat at the food pantry dinner to help the ministry if we weren't working.	Comeríamos en la cena de la despensa de alimentos para apoyar el ministerio si no estuviéramos trabajando.	Comer Conditional
+Basic	Comer::Conditional	They would eat at the café downtown if the prices weren't so high.	Comerían en el café del centro si los precios no fueran tan altos.	Comer Conditional
+Basic	Comer::Conditional	I would eat a home-cooked meal every night if I had someone to cook for me.	Comería una comida casera cada noche si tuviera a alguien que cocinara para mí.	Comer Conditional
+Basic	Comer::Conditional	Would you eat the holiday food even if you were on a diet?	¿Comerías la comida de las fiestas aunque estuvieras a dieta?	Comer Conditional
+Basic	Comer::Conditional	She would eat at the church breakfast if it started later in the morning.	Comería en el desayuno de la iglesia si empezara más tarde en la mañana.	Comer Conditional
+Basic	Comer::Conditional	We would eat at the park with our pets if the dogs were allowed.	Comeríamos en el parque con nuestras mascotas si se permitieran los perros.	Comer Conditional
+Basic	Comer::Conditional	They would eat at the outdoor festival every summer if there were fewer crowds.	Comerían en el festival al aire libre cada verano si hubiera menos multitudes.	Comer Conditional
+Basic	Comer::Conditional	I would eat every meal with my family if I worked from home.	Comería cada comida con mi familia si trabajara desde casa.	Comer Conditional
+Basic	Comer::Conditional	Would you eat less if you kept a food journal every day?	¿Comerías menos si llevaras un diario de alimentos todos los días?	Comer Conditional
+Basic	Comer::Conditional	He would eat at his grandparents' house every Sunday if they still lived nearby.	Comería en la casa de sus abuelos cada domingo si todavía vivieran cerca.	Comer Conditional
+Basic	Comer::Conditional	We would eat at that restaurant by the waterfall if we went back to Costa Rica.	Comeríamos en ese restaurante junto a la cascada si volviéramos a Costa Rica.	Comer Conditional
+Basic	Comer::Conditional	They would eat at the concert venue if there were better food options.	Comerían en el recinto del concierto si hubiera mejores opciones de comida.	Comer Conditional
+Basic	Comer::Conditional	I would eat whatever they serve at the church retreat, even if it's unusual.	Comería lo que sirvan en el retiro de la iglesia, aunque sea inusual.	Comer Conditional
+Basic	Comer::Conditional	Would you eat at a restaurant every night if you didn't have to cook?	¿Comerías en un restaurante cada noche si no tuvieras que cocinar?	Comer Conditional
+Basic	Comer::Conditional	She would eat more balanced meals if she meal prepped on Sundays.	Comería comidas más balanceadas si preparara sus comidas los domingos.	Comer Conditional
+Basic	Comer::Conditional	We would eat at a fancier restaurant if this were a special occasion.	Comeríamos en un restaurante más elegante si esta fuera una ocasión especial.	Comer Conditional
+Basic	Comer::Conditional	They would eat at the food stand near the church if it were open on Sundays.	Comerían en el puesto de comida cerca de la iglesia si estuviera abierto los domingos.	Comer Conditional
+Basic	Comer::Conditional	I would eat healthier lunches if the cafeteria at work had better options.	Comería almuerzos más saludables si la cafetería del trabajo tuviera mejores opciones.	Comer Conditional
+Basic	Comer::Conditional	Would you eat a completely plant-based diet if it cured your illness?	¿Comerías una dieta completamente basada en plantas si curara tu enfermedad?	Comer Conditional
+Basic	Comer::Conditional	He would eat at the church camp every summer if the kids wanted to go.	Comería en el campamento de la iglesia cada verano si los niños quisieran ir.	Comer Conditional
+Basic	Comer::Conditional	We would eat at the conference center if the retreat included meals.	Comeríamos en el centro de conferencias si el retiro incluyera comidas.	Comer Conditional
+Basic	Comer::Conditional	They would eat more variety of food if the children weren't so picky.	Comerían más variedad de comida si los niños no fueran tan exigentes.	Comer Conditional
+Basic	Comer::Conditional	I would eat at the school cafeteria if the lunch lines weren't so long.	Comería en la cafetería de la escuela si las filas del almuerzo no fueran tan largas.	Comer Conditional
+Basic	Comer::Conditional	Would you eat the church potluck desserts even if you were watching your sugar?	¿Comerías los postres de la cena comunitaria aunque estuvieras cuidando tu azúcar?	Comer Conditional
+Basic	Comer::Conditional	She would eat more slowly if she weren't always in such a hurry.	Comería más despacio si no estuviera siempre con tanta prisa.	Comer Conditional
+Basic	Comer::Conditional	We would eat at the waterfront restaurant if it were within our budget.	Comeríamos en el restaurante frente al mar si estuviera dentro de nuestro presupuesto.	Comer Conditional
+Basic	Comer::Conditional	They would eat together at lunch if they worked in the same office.	Comerían juntos en el almuerzo si trabajaran en la misma oficina.	Comer Conditional
+Basic	Comer::Conditional	I would eat vegetarian food more often if I knew how to cook it well.	Comería comida vegetariana más seguido si supiera cocinarla bien.	Comer Conditional
+Basic	Comer::Conditional	Would you eat at the missions banquet if it were free for volunteers?	¿Comerías en el banquete de misiones si fuera gratuito para los voluntarios?	Comer Conditional
+Basic	Comer::Conditional	He would eat at home more if his wife weren't working the evening shift.	Comería más en casa si su esposa no trabajara el turno de la tarde.	Comer Conditional
+Basic	Comer::Conditional	We would eat at the camp kitchen every night if we went to church camp.	Comeríamos en la cocina del campamento cada noche si fuéramos al campamento de la iglesia.	Comer Conditional
+Basic	Comer::Conditional	They would eat breakfast together if they all woke up at the same time.	Comerían el desayuno juntos si todos se levantaran a la misma hora.	Comer Conditional
+Basic	Comer::Conditional	I would eat a lighter dinner if I went to the late service at church.	Comería una cena más ligera si fuera al culto nocturno en la iglesia.	Comer Conditional
+Basic	Comer::Conditional	Would you eat raw fish if you traveled to Japan on a mission trip?	¿Comerías pescado crudo si viajáras a Japón en un viaje misionero?	Comer Conditional
+Basic	Comer::Conditional	She would eat at the graduation dinner if her whole family could attend.	Comería en la cena de graduación si toda su familia pudiera asistir.	Comer Conditional
+Basic	Comer::Conditional	We would eat at the street festival every year if it weren't so crowded.	Comeríamos en el festival callejero cada año si no estuviera tan lleno de gente.	Comer Conditional
+Basic	Comer::Conditional	They would eat healthier snacks if the vending machine had better options.	Comerían refrigerios más saludables si la máquina expendedora tuviera mejores opciones.	Comer Conditional
+Basic	Comer::Conditional	I would eat fresh bread every day if there were a good bakery nearby.	Comería pan fresco todos los días si hubiera una buena panadería cerca.	Comer Conditional
+Basic	Comer::Conditional	Would you eat less if you prayed before every meal?	¿Comerías menos si oraras antes de cada comida?	Comer Conditional
+Basic	Comer::Conditional	He would eat at the soup kitchen every week if he didn't have other commitments.	Comería en la cocina comunitaria cada semana si no tuviera otros compromisos.	Comer Conditional
+Basic	Comer::Conditional	We would eat at the last restaurant we found on the mission trip every time we travel now.	Comeríamos en el último restaurante que encontramos en el viaje misionero cada vez que viajamos ahora.	Comer Conditional
+Basic	Comer::Conditional	They would eat at the retreat center every year if it held a food and worship conference.	Comerían en el centro de retiros cada año si celebrara una conferencia de comida y alabanza.	Comer Conditional
+Basic	Comer::Present::Subjunctive	I hope that you eat something before the long trip.	Espero que comas algo antes del largo viaje.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The pastor recommends that we eat together as a sign of community.	El pastor recomienda que comamos juntos como señal de comunidad.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	My mom wants me to eat all my vegetables.	Mi mamá quiere que coma todas mis verduras.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	God wants us to eat and be satisfied with His provision.	Dios quiere que comamos y nos saciemos con Su provisión.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The doctor recommends that she eat more iron-rich foods.	El médico recomienda que coma más alimentos ricos en hierro.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I'm glad you eat with us at the Bible study every week.	Me alegra que comas con nosotros en el estudio bíblico cada semana.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The teacher asks that the students eat before the field trip.	La maestra pide que los estudiantes coman antes de la excursión.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's important that he eat healthy meals during his recovery.	Es importante que coma comidas saludables durante su recuperación.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The host family wants us to eat traditional food during our stay.	La familia anfitriona quiere que comamos comida tradicional durante nuestra estadía.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I doubt that they eat the local food during the mission trip.	Dudo que coman la comida local durante el viaje misionero.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's great that you eat at the church potluck every month.	Es genial que comas en la cena comunitaria de la iglesia cada mes.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The missionaries hope that we eat well and stay healthy.	Los misioneros esperan que comamos bien y nos mantengamos saludables.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I'm afraid that she doesn't eat enough when she's stressed with work.	Temo que no coma suficiente cuando está estresada con el trabajo.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The nutritionist suggests that he eat more whole grains.	La nutricionista sugiere que coma más granos enteros.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's necessary that everyone eat before the long journey begins.	Es necesario que todos coman antes de que comience el largo viaje.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The church elder recommends that we eat together as a family.	El anciano de la iglesia recomienda que comamos juntos como familia.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I want you to eat something nutritious before the music concert.	Quiero que comas algo nutritivo antes del concierto de música.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's a miracle that she eats after being so sick.	Es un milagro que coma después de estar tan enferma.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The camp director asks that all campers eat before the morning activities.	El director del campamento pide que todos los campistas coman antes de las actividades de la mañana.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	We pray that they eat and find comfort during this difficult time.	Oramos para que coman y encuentren consuelo en este momento difícil.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's good that he eats at home instead of skipping meals.	Es bueno que coma en casa en vez de saltarse las comidas.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The host recommends that you eat the soup before it gets cold.	El anfitrión recomienda que comas la sopa antes de que se enfríe.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I hope that we eat at that wonderful restaurant again on our next trip.	Espero que comamos en ese restaurante maravilloso otra vez en nuestro próximo viaje.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's important that they eat a balanced meal before the service trip.	Es importante que coman una comida balanceada antes del viaje de servicio.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The Bible says it is good for a man that he eat and drink with friends.	La Biblia dice que es bueno para el hombre que coma y beba con amigos.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I want her to eat before she takes the medication.	Quiero que coma antes de tomar el medicamento.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's necessary that we eat breakfast before the long hike.	Es necesario que comamos el desayuno antes de la larga caminata.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The teacher wants the children to eat their snacks quietly during class.	La maestra quiere que los niños coman sus refrigerios en silencio durante la clase.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I hope you eat well during your stay with the host family.	Espero que comas bien durante tu estadía con la familia anfitriona.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's possible that they eat at the new restaurant after church.	Es posible que coman en el nuevo restaurante después de la iglesia.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	My parents want me to eat before I leave for the school trip.	Mis padres quieren que coma antes de salir para el viaje escolar.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The coach recommends that the players eat carbohydrates before the game.	El entrenador recomienda que los jugadores coman carbohidratos antes del partido.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I'm happy that she eats with us at the family reunion every year.	Estoy feliz de que coma con nosotros en la reunión familiar cada año.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The retreat leader insists that everyone eat breakfast before morning prayer.	El líder del retiro insiste en que todos coman el desayuno antes de la oración matutina.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's necessary that they eat nutritious food to stay strong during the mission.	Es necesario que coman alimentos nutritivos para mantenerse fuertes durante la misión.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I'm glad that he eats at the community table with the other volunteers.	Me alegra que coma en la mesa comunitaria con los otros voluntarios.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	My grandmother wants everyone to eat her tamales at Christmas.	Mi abuela quiere que todos coman sus tamales en Navidad.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's amazing that she eats so healthily even when traveling.	Es sorprendente que coma tan saludable incluso cuando viaja.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The missionary coordinator asks that each team member eat a good meal before departure.	La coordinadora misionera pide que cada miembro del equipo coma bien antes de la partida.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	We want them to eat with us at the celebration after the baptism.	Queremos que coman con nosotros en la celebración después del bautismo.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's sad that he doesn't eat because he's too worried.	Es triste que no coma porque está demasiado preocupado.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The pastor suggests that the whole congregation eat together once a month.	El pastor sugiere que toda la congregación coma junta una vez al mes.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I wish you would eat before singing in the choir.	Ojalá comas antes de cantar en el coro.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's important that she eat something after surgery.	Es importante que coma algo después de la cirugía.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	God wants us to eat and drink to His glory.	Dios quiere que comamos y bebamos para Su gloria.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The teacher recommends that students eat a good breakfast before the exam.	La maestra recomienda que los estudiantes coman un buen desayuno antes del examen.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I'm surprised that they eat so little even at the big family reunion.	Me sorprende que coman tan poco incluso en la gran reunión familiar.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The nutritionist urges that he eat more vegetables and less red meat.	La nutricionista insiste en que coma más verduras y menos carne roja.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	We hope that everyone eats well at the potluck this Sunday.	Esperamos que todos coman bien en la cena comunitaria este domingo.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's wonderful that she eats with the children at the orphanage during her mission trips.	Es maravilloso que coma con los niños en el orfanato durante sus viajes misioneros.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I want you to eat at least a little even if you're not hungry.	Quiero que comas al menos un poco aunque no tengas hambre.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's great that he eats healthy food to honor God with his body.	Es genial que coma comida saludable para honrar a Dios con su cuerpo.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The church recommends that every family eat together at least five nights a week.	La iglesia recomienda que cada familia coma junta al menos cinco noches a la semana.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I hope they eat enough to sustain them during the long conference.	Espero que coman suficiente para sostenerse durante la larga conferencia.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's crucial that everyone eats before the early morning prayer service.	Es fundamental que todos coman antes del culto de oración temprano por la mañana.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	My boss prefers that we eat lunch away from our desks.	Mi jefe prefiere que comamos el almuerzo lejos de nuestros escritorios.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I'm happy that she eats so well now that she's following the doctor's advice.	Estoy feliz de que coma tan bien ahora que sigue los consejos del médico.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's important that the children eat something nourishing after school.	Es importante que los niños coman algo nutritivo después de la escuela.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The choir director wants us to eat lightly before the performance.	El director del coro quiere que comamos poco antes de la actuación.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I doubt that anyone can eat all that food by themselves.	Dudo que alguien pueda comerse toda esa comida solo.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's recommended that we eat slowly and enjoy every meal God provides.	Se recomienda que comamos despacio y disfrutemos cada comida que Dios provee.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	They want her to eat with the family instead of alone in her room.	Quieren que coma con la familia en vez de sola en su cuarto.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I hope that we eat at that amazing restaurant when we visit next year.	Espero que comamos en ese restaurante increíble cuando visitemos el próximo año.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's essential that you eat a full meal before the music festival.	Es fundamental que comas una comida completa antes del festival de música.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The missionary hopes that the team eats traditional food and learns the local culture.	El misionero espera que el equipo coma comida tradicional y aprenda la cultura local.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I want him to eat more fruit instead of junk food.	Quiero que coma más fruta en vez de comida chatarra.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's possible that they eat at a different restaurant each time they visit.	Es posible que coman en un restaurante diferente cada vez que visitan.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	My mother-in-law wants us to eat at her house every Sunday.	Mi suegra quiere que comamos en su casa cada domingo.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The camp nurse recommends that all campers eat a light breakfast.	La enfermera del campamento recomienda que todos los campistas coman un desayuno ligero.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I'm glad that he eats at the food pantry dinner with the volunteers.	Me alegra que coma en la cena de la despensa de alimentos con los voluntarios.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's a blessing that she eats and regains strength after her illness.	Es una bendición que coma y recupere fuerzas después de su enfermedad.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The team leader asks that everyone eat before the morning debrief.	El líder del equipo pide que todos coman antes de la reunión de la mañana.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I hope that we eat together more often during the busy school season.	Espero que comamos juntos más seguido durante la temporada escolar ajetreada.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's good that they eat nutritious food at the school lunch program.	Es bueno que coman alimentos nutritivos en el programa de almuerzos escolares.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The worship leader wants us to eat quietly before the evening rehearsal.	El líder de alabanza quiere que comamos tranquilamente antes del ensayo de la tarde.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I'm glad that you eat breakfast every day to start the day with strength.	Me alegra que comas el desayuno todos los días para comenzar el día con fuerzas.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The pediatrician recommends that the baby eat soft foods first.	La pediatra recomienda que el bebé coma alimentos blandos primero.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's a joy that they eat together as a family after a long week.	Es una alegría que coman juntos como familia después de una larga semana.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The pastor encourages that each family eat together and read the Bible.	El pastor alienta a que cada familia coma junta y lea la Biblia.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I want you to eat at the new restaurant with us before you leave town.	Quiero que comas en el nuevo restaurante con nosotros antes de que salgas de la ciudad.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's necessary that she eat regularly to manage her blood sugar.	Es necesario que coma con regularidad para controlar su azúcar en la sangre.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The host church asks that mission teams eat with local families.	La iglesia anfitriona pide que los equipos misioneros coman con familias locales.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I hope that everyone eats well at the conference and feels taken care of.	Espero que todos coman bien en la conferencia y se sientan bien atendidos.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's good that he eats at the church community table when he's alone.	Es bueno que coma en la mesa comunitaria de la iglesia cuando está solo.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The travel coordinator suggests that we eat at the local market for the best experience.	El coordinador de viajes sugiere que comamos en el mercado local para la mejor experiencia.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I pray that they eat and are filled with joy during the Christmas celebration.	Oro para que coman y se llenen de alegría durante la celebración de Navidad.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's important that you eat a healthy breakfast before the worship service.	Es importante que comas un desayuno saludable antes del culto de alabanza.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	My wife wants me to eat less fried food for my heart health.	Mi esposa quiere que coma menos comida frita por la salud de mi corazón.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's wonderful that they eat at the community table with people from all walks of life.	Es maravilloso que coman en la mesa comunitaria con personas de todos los ámbitos de la vida.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The Bible teacher urges us to eat with thankfulness in our hearts.	La maestra bíblica nos exhorta a que comamos con gratitud en el corazón.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I hope she eats before her shift at the hospital.	Espero que coma antes de su turno en el hospital.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It is better that we eat together than alone during times of trouble.	Es mejor que comamos juntos que solos en tiempos de dificultad.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The school counselor recommends that the students eat a healthy lunch.	El consejero escolar recomienda que los estudiantes coman un almuerzo saludable.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I pray that you eat well and stay strong on the mission field.	Oro para que comas bien y te mantengas fuerte en el campo misionero.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's a shame that he doesn't eat with the rest of the family.	Es una lástima que no coma con el resto de la familia.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	My church group asks that we each bring a dish to eat together.	Mi grupo de la iglesia pide que cada uno traiga un platillo para comer juntos.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I'm glad that she eats at the table with us and shares her story.	Me alegra que coma en la mesa con nosotros y comparta su historia.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	It's crucial that they eat before the long overnight journey.	Es crucial que coman antes del largo viaje nocturno.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	The worship team leader wants us to eat before the sound check.	El líder del equipo de alabanza quiere que comamos antes de la prueba de sonido.	Comer Present Subjunctive
+Basic	Comer::Present::Subjunctive	I hope that we can eat together at the reunion next year and give thanks to God.	Espero que podamos comer juntos en la reunión el próximo año y dar gracias a Dios.	Comer Present Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I wanted you to eat before the long trip.	Quería que comieras antes del largo viaje.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The pastor asked that we eat together after the service.	El pastor pidió que comiéramos juntos después del culto.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	My mom wanted me to eat all the vegetables on my plate.	Mi mamá quería que comiera todas las verduras en mi plato.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	God provided so that they could eat and not go hungry.	Dios proveyó para que comieran y no tuvieran hambre.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The doctor recommended that she eat healthier foods.	El médico recomendó que comiera alimentos más saludables.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I was happy that you ate with us at the Bible study.	Me alegró que comieras con nosotros en el estudio bíblico.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The teacher asked that students eat before the field trip.	La maestra pidió que los estudiantes comieran antes de la excursión.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was important that he eat something after surgery.	Era importante que comiera algo después de la cirugía.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The host family wanted us to eat traditional food.	La familia anfitriona quería que comiéramos comida tradicional.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I doubted that they would eat local food during the mission trip.	Dudaba que comieran comida local durante el viaje misionero.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was wonderful that she ate every meal at the table with her family.	Era maravilloso que comiera cada comida en la mesa con su familia.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The missionaries hoped we would eat well and stay healthy.	Los misioneros esperaban que comiéramos bien y nos mantuviéramos saludables.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I was afraid she wasn't eating enough while she was sick.	Temía que no comiera suficiente mientras estaba enferma.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The nutritionist suggested that he eat more fruits and vegetables.	La nutricionista sugirió que comiera más frutas y verduras.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was necessary that everyone eat before the long journey.	Era necesario que todos comieran antes del largo viaje.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The church elder recommended that we eat together as a congregation.	El anciano de la iglesia recomendó que comiéramos juntos como congregación.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I wanted you to eat something before the choir practice.	Quería que comieras algo antes del ensayo del coro.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was a miracle that she ate after being so sick.	Era un milagro que comiera después de estar tan enferma.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The camp director asked that all the campers eat before activities.	El director del campamento pidió que todos los campistas comieran antes de las actividades.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	We prayed that they would eat and find comfort.	Oramos para que comieran y encontraran consuelo.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was good that he ate at home instead of skipping meals.	Era bueno que comiera en casa en vez de saltarse las comidas.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The host recommended that you eat the tamales while they were hot.	El anfitrión recomendó que comieras los tamales mientras estaban calientes.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I hoped we would eat at that restaurant again on our trip.	Esperaba que comiéramos en ese restaurante otra vez en nuestro viaje.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was important that they eat well before the long service trip.	Era importante que comieran bien antes del largo viaje de servicio.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	Jesus wanted his disciples to eat the bread and remember him.	Jesús quería que sus discípulos comieran el pan y lo recordaran.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I wanted her to eat before taking her medication.	Quería que comiera antes de tomar su medicamento.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was necessary that we eat a good breakfast before the hike.	Era necesario que comiéramos un buen desayuno antes de la caminata.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The teacher wanted the children to eat their snacks before recess.	La maestra quería que los niños comieran sus refrigerios antes del recreo.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I hoped you would eat well while staying with the host family.	Esperaba que comieras bien durante tu estadía con la familia anfitriona.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was possible that they would eat at the new restaurant after church.	Era posible que comieran en el nuevo restaurante después de la iglesia.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	My parents wanted me to eat before leaving for the school trip.	Mis padres querían que comiera antes de salir para el viaje escolar.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The coach recommended that the players eat carbohydrates before the game.	El entrenador recomendó que los jugadores comieran carbohidratos antes del partido.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I was happy that she ate with us at the family reunion.	Estaba feliz de que comiera con nosotros en la reunión familiar.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The retreat leader insisted that everyone eat breakfast before morning prayer.	El líder del retiro insistió en que todos comieran el desayuno antes de la oración matutina.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was necessary that they eat nutritious food during the mission.	Era necesario que comieran alimentos nutritivos durante la misión.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I was glad he ate at the community table with the other volunteers.	Me alegró que comiera en la mesa comunitaria con los otros voluntarios.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	My grandmother wanted everyone to eat her pozole at the family gathering.	Mi abuela quería que todos comieran su pozole en la reunión familiar.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was amazing that she ate so well even while traveling.	Era sorprendente que comiera tan bien incluso viajando.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The missionary coordinator asked that each team member eat a good meal before departure.	La coordinadora misionera pidió que cada miembro del equipo comiera bien antes de la partida.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	We wanted them to eat with us at the celebration.	Queríamos que comieran con nosotros en la celebración.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was sad that he didn't eat because he was too worried.	Era triste que no comiera porque estaba demasiado preocupado.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The pastor suggested that the congregation eat together once a month.	El pastor sugirió que la congregación comiera junta una vez al mes.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I wished you would eat before singing in the worship team.	Ojalá comieras antes de cantar en el equipo de alabanza.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was important that she eat something after the surgery.	Era importante que comiera algo después de la cirugía.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	Paul wrote that those who don't work should not eat either.	Pablo escribió que el que no trabaje tampoco comiera.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The teacher recommended that students eat a good breakfast before the exam.	La maestra recomendó que los estudiantes comieran un buen desayuno antes del examen.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I was surprised that they ate so little at the big family reunion.	Me sorprendió que comieran tan poco en la gran reunión familiar.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The nutritionist urged that he eat more vegetables and less red meat.	La nutricionista instó a que comiera más verduras y menos carne roja.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	We hoped that everyone would eat well at the church potluck.	Esperábamos que todos comieran bien en la cena comunitaria de la iglesia.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was wonderful that she ate with the children at the orphanage.	Era maravilloso que comiera con los niños en el orfanato.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I wanted you to eat at least a little, even if you weren't hungry.	Quería que comieras al menos un poco, aunque no tuvieras hambre.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was great that he ate healthy food to honor God with his body.	Era genial que comiera comida saludable para honrar a Dios con su cuerpo.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The church recommended that each family eat together every night.	La iglesia recomendó que cada familia comiera junta cada noche.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I hoped they would eat enough to sustain them at the long conference.	Esperaba que comieran suficiente para sostenerse en la larga conferencia.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was crucial that everyone eat before the early morning prayer service.	Era fundamental que todos comieran antes del culto de oración temprano.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	My boss preferred that we eat lunch away from our desks.	Mi jefe prefería que comiéramos el almuerzo lejos de nuestros escritorios.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I was happy that she ate so well after following the doctor's advice.	Estaba feliz de que comiera tan bien después de seguir los consejos del médico.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was important that the children eat something nourishing after school.	Era importante que los niños comieran algo nutritivo después de la escuela.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The choir director wanted us to eat lightly before the performance.	El director del coro quería que comiéramos poco antes de la actuación.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I doubted that anyone could eat all that food by themselves.	Dudaba que alguien pudiera comer toda esa comida solo.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was recommended that we eat slowly and thank God for each meal.	Se recomendó que comiéramos despacio y diéramos gracias a Dios por cada comida.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	They wanted her to eat with the family instead of alone.	Querían que comiera con la familia en vez de sola.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I hoped we would eat at that amazing restaurant when we visited.	Esperaba que comiéramos en ese restaurante increíble cuando visitáramos.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was essential that you eat a full meal before the music festival.	Era fundamental que comieras una comida completa antes del festival de música.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The missionary hoped the team would eat traditional food and learn the local culture.	El misionero esperaba que el equipo comiera comida tradicional y aprendiera la cultura local.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I wanted him to eat more fruit instead of junk food.	Quería que comiera más fruta en vez de comida chatarra.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was possible that they ate at a different restaurant each time they visited.	Era posible que comieran en un restaurante diferente cada vez que visitaban.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	My mother-in-law wanted us to eat at her house every Sunday.	Mi suegra quería que comiéramos en su casa cada domingo.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The camp nurse recommended that all campers eat a light breakfast.	La enfermera del campamento recomendó que todos los campistas comieran un desayuno ligero.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I was glad he ate at the food pantry dinner with the volunteers.	Me alegró que comiera en la cena de la despensa de alimentos con los voluntarios.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was a blessing that she ate and regained strength.	Era una bendición que comiera y recuperara fuerzas.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The team leader asked that everyone eat before the morning meeting.	El líder del equipo pidió que todos comieran antes de la reunión de la mañana.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I hoped we would eat together more during the busy school season.	Esperaba que comiéramos juntos más durante la temporada escolar ajetreada.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was good that they ate nutritious food at the school program.	Era bueno que comieran alimentos nutritivos en el programa escolar.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The worship leader wanted us to eat quietly before the evening rehearsal.	El líder de alabanza quería que comiéramos tranquilamente antes del ensayo de la tarde.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I was glad you ate breakfast every morning to start the day with energy.	Me alegró que comieras el desayuno cada mañana para comenzar el día con energía.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The pediatrician recommended that the baby eat soft foods first.	La pediatra recomendó que el bebé comiera alimentos blandos primero.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was a joy that they ate together as a family after a long week.	Era una alegría que comieran juntos como familia después de una larga semana.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The pastor encouraged that each family eat together and read the Word.	El pastor alentó a que cada familia comiera junta y leyera la Palabra.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I wanted you to eat at the new restaurant with us before you left.	Quería que comieras en el nuevo restaurante con nosotros antes de que te fueras.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was necessary that she eat regularly to manage her condition.	Era necesario que comiera con regularidad para manejar su condición.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The host church asked that mission teams eat with local families.	La iglesia anfitriona pidió que los equipos misioneros comieran con familias locales.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I hoped that everyone would eat well and feel cared for at the conference.	Esperaba que todos comieran bien y se sintieran atendidos en la conferencia.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was good that he ate at the church community table when he was lonely.	Era bueno que comiera en la mesa comunitaria de la iglesia cuando estaba solo.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The travel coordinator suggested we eat at the local market for the best experience.	El coordinador de viajes sugirió que comiéramos en el mercado local para la mejor experiencia.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I prayed that they would eat and be filled with joy during the celebration.	Oré para que comieran y se llenaran de alegría durante la celebración.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was important that you eat a nutritious breakfast before the worship service.	Era importante que comieras un desayuno nutritivo antes del culto de alabanza.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	My wife wanted me to eat less fried food for my heart.	Mi esposa quería que comiera menos comida frita por mi corazón.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was wonderful that they ate at the community table with people of all backgrounds.	Era maravilloso que comieran en la mesa comunitaria con personas de todos los entornos.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The Bible teacher urged us to eat with thankfulness in our hearts.	La maestra bíblica nos instó a que comiéramos con gratitud en el corazón.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I hoped she would eat before her shift at the hospital.	Esperaba que comiera antes de su turno en el hospital.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was better that we eat together than alone in hard times.	Era mejor que comiéramos juntos que solos en tiempos difíciles.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The school counselor recommended that students eat a healthy lunch.	El consejero escolar recomendó que los estudiantes comieran un almuerzo saludable.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I prayed that you would eat well and stay strong on the mission field.	Oré para que comieras bien y te mantuvieras fuerte en el campo misionero.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was a shame that he didn't eat with the rest of the family.	Era una lástima que no comiera con el resto de la familia.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The church group asked that everyone bring a dish to eat together.	El grupo de la iglesia pidió que todos trajeran un platillo para comer juntos.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I was glad she ate at the table with us and shared her story.	Me alegró que comiera en la mesa con nosotros y compartiera su historia.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	It was crucial that they eat before the long overnight journey.	Era fundamental que comieran antes del largo viaje nocturno.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	The worship team leader wanted us to eat before the sound check.	El líder del equipo de alabanza quería que comiéramos antes de la prueba de sonido.	Comer Imperfect Subjunctive
+Basic	Comer::Imperfect::Subjunctive	I hoped we would eat together at the reunion and give thanks.	Esperaba que comiéramos juntos en la reunión y diéramos gracias.	Comer Imperfect Subjunctive
+Basic	Comer::Present::Perfect	I have eaten at this restaurant before with my family.	He comido en este restaurante antes con mi familia.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten the local food during your travels?	¿Has comido la comida local durante tus viajes?	Comer Present Perfect
+Basic	Comer::Present::Perfect	She has eaten well every day since starting her recovery program.	Ha comido bien todos los días desde que comenzó su programa de recuperación.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten together as a family for many years on Christmas Eve.	Hemos comido juntos como familia por muchos años en Nochebuena.	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten at every food stand at the church festival.	Han comido en cada puesto de comida en el festival de la iglesia.	Comer Present Perfect
+Basic	Comer::Present::Perfect	I have eaten at that taqueria near the church many times.	He comido en esa taquería cerca de la iglesia muchas veces.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten breakfast yet this morning?	¿Has comido el desayuno esta mañana?	Comer Present Perfect
+Basic	Comer::Present::Perfect	He has eaten at the soup kitchen every Saturday this month.	Ha comido en la cocina comunitaria cada sábado este mes.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten at the same restaurant after every choir performance.	Hemos comido en el mismo restaurante después de cada actuación del coro.	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten traditional foods from many countries on their mission trips.	Han comido alimentos tradicionales de muchos países en sus viajes misioneros.	Comer Present Perfect
+Basic	Comer::Present::Perfect	I have eaten more vegetables this year because of my health goals.	He comido más verduras este año por mis metas de salud.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten at the new restaurant that opened near the church?	¿Has comido en el nuevo restaurante que abrió cerca de la iglesia?	Comer Present Perfect
+Basic	Comer::Present::Perfect	She has eaten at the hospital cafeteria every day while caring for her father.	Ha comido en la cafetería del hospital todos los días mientras cuida a su padre.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten so much at the family reunion this year!	¡Hemos comido tanto en la reunión familiar este año!	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten at the community table with the missionaries every week.	Han comido en la mesa comunitaria con los misioneros cada semana.	Comer Present Perfect
+Basic	Comer::Present::Perfect	I have eaten food from all over Latin America at my church's multicultural night.	He comido comida de toda América Latina en la noche multicultural de mi iglesia.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten at any interesting places on your trip so far?	¿Has comido en algún lugar interesante en tu viaje hasta ahora?	Comer Present Perfect
+Basic	Comer::Present::Perfect	He has eaten very little because of his illness.	Ha comido muy poco a causa de su enfermedad.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten together every Sunday for ten years as a family tradition.	Hemos comido juntos cada domingo durante diez años como tradición familiar.	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten at the church potluck so many times they know everyone's dish.	Han comido en la cena comunitaria de la iglesia tantas veces que conocen el platillo de todos.	Comer Present Perfect
+Basic	Comer::Present::Perfect	I have eaten more fruit since the doctor recommended it.	He comido más fruta desde que el médico lo recomendó.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten yet? The service is about to start.	¿Ya has comido? El culto está por comenzar.	Comer Present Perfect
+Basic	Comer::Present::Perfect	She has eaten at the school cafeteria every day this semester.	Ha comido en la cafetería de la escuela todos los días este semestre.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten together as a cell group after every meeting this year.	Hemos comido juntos como grupo celular después de cada reunión este año.	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten food from a different country every month as part of their cultural exchange.	Han comido comida de un país diferente cada mes como parte de su intercambio cultural.	Comer Present Perfect
+Basic	Comer::Present::Perfect	I have eaten at nearly every restaurant in this city while looking for my favorite taco.	He comido en casi todos los restaurantes de esta ciudad buscando mi taco favorito.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten ceviche before? It's so refreshing during the trip.	¿Has comido ceviche antes? Es muy refrescante durante el viaje.	Comer Present Perfect
+Basic	Comer::Present::Perfect	He has eaten at the food pantry to support the volunteers by joining them.	Ha comido en la despensa de alimentos para apoyar a los voluntarios uniéndose a ellos.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten at the retreat center cafeteria during all our annual retreats.	Hemos comido en la cafetería del centro de retiros durante todos nuestros retiros anuales.	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten all the tamales already and it's only noon.	Ya han comido todos los tamales y apenas es mediodía.	Comer Present Perfect
+Basic	Comer::Present::Perfect	I have eaten at this family's table many times and always feel at home.	He comido en la mesa de esta familia muchas veces y siempre me siento en casa.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten the pastor's wife's famous flan?	¿Has comido el famoso flan de la esposa del pastor?	Comer Present Perfect
+Basic	Comer::Present::Perfect	She has eaten healthier since she started going to the church nutrition program.	Ha comido más saludable desde que empezó a ir al programa de nutrición de la iglesia.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten at this table and talked about the Word of God for years.	Hemos comido en esta mesa y hablado de la Palabra de Dios por años.	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten together on every mission trip they've taken.	Han comido juntos en cada viaje misionero que han hecho.	Comer Present Perfect
+Basic	Comer::Present::Perfect	I have eaten there before and the food is excellent.	He comido allí antes y la comida es excelente.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten at the Mexican restaurant they opened near school?	¿Has comido en el restaurante mexicano que abrieron cerca de la escuela?	Comer Present Perfect
+Basic	Comer::Present::Perfect	He has eaten at every potluck the church has hosted this year.	Ha comido en cada cena comunitaria que la iglesia ha organizado este año.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten the same holiday meal together for twenty years.	Hemos comido la misma comida de las fiestas juntos por veinte años.	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten traditional bread and wine at communion every Sunday.	Han comido pan tradicional y bebido vino en la comunión cada domingo.	Comer Present Perfect
+Basic	Comer::Present::Perfect	I have eaten mole for the first time and it's incredible.	He comido mole por primera vez y es increíble.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten yet, or should we wait for you before we pray?	¿Ya has comido, o debemos esperar a que llegues para orar?	Comer Present Perfect
+Basic	Comer::Present::Perfect	She has eaten at the hospital cafeteria for a week and is ready for home cooking.	Ha comido en la cafetería del hospital durante una semana y ya quiere comida casera.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten some amazing food on this mission trip to Mexico.	Hemos comido comida increíble en este viaje misionero a México.	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten at this restaurant on every anniversary since they got married.	Han comido en este restaurante en cada aniversario desde que se casaron.	Comer Present Perfect
+Basic	Comer::Present::Perfect	I have eaten fresh tortillas straight from the comal on this trip.	He comido tortillas frescas directamente del comal en este viaje.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten the empanadas they sell outside the church after service?	¿Has comido las empanadas que venden afuera de la iglesia después del culto?	Comer Present Perfect
+Basic	Comer::Present::Perfect	He has eaten so well on this trip that he doesn't want to go home.	Ha comido tan bien en este viaje que no quiere volver a casa.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten at this table and prayed together for thirty years.	Hemos comido en esta mesa y orado juntos por treinta años.	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten so many different types of food on their world mission trips.	Han comido tantos tipos diferentes de alimentos en sus viajes misioneros por el mundo.	Comer Present Perfect
+Basic	Comer::Present::Perfect	I have eaten at the food truck near my work every Friday this month.	He comido en el camión de comida cerca de mi trabajo cada viernes este mes.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten breakfast before the morning prayer service?	¿Has comido el desayuno antes del culto de oración matutina?	Comer Present Perfect
+Basic	Comer::Present::Perfect	She has eaten at the community dinner to serve and be served.	Ha comido en la cena comunitaria para servir y ser servida.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten well on this vacation and are thankful to God.	Hemos comido bien en estas vacaciones y le damos gracias a Dios.	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten together every Sunday evening for the past year.	Han comido juntos cada domingo por la tarde durante el último año.	Comer Present Perfect
+Basic	Comer::Present::Perfect	I have eaten at the food court at the mall when I couldn't find anywhere else.	He comido en el patio de comidas del centro comercial cuando no encontré otro lugar.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten anything since morning? You need to take care of yourself.	¿Has comido algo desde la mañana? Necesitas cuidarte.	Comer Present Perfect
+Basic	Comer::Present::Perfect	He has eaten at the seminary cafeteria for three years while studying.	Ha comido en la cafetería del seminario durante tres años mientras estudiaba.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten traditional food from the Bible lands at our annual Passover meal.	Hemos comido comida tradicional de las tierras bíblicas en nuestra cena anual de Pascua.	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten at the restaurant three times this week because the food is so good.	Han comido en el restaurante tres veces esta semana porque la comida es muy buena.	Comer Present Perfect
+Basic	Comer::Present::Perfect	I have eaten more consciously since I started learning about nutrition at church.	He comido más conscientemente desde que empecé a aprender sobre nutrición en la iglesia.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten at the new comedor near the school?	¿Has comido en el nuevo comedor cerca de la escuela?	Comer Present Perfect
+Basic	Comer::Present::Perfect	She has eaten at the hospital cafeteria so often she knows all the menu items.	Ha comido en la cafetería del hospital con tanta frecuencia que ya conoce todos los platillos del menú.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten so many plates of food at this annual church barbecue.	Hemos comido tantos platos de comida en este asado anual de la iglesia.	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten at the orphanage with the children every month this year.	Han comido en el orfanato con los niños cada mes este año.	Comer Present Perfect
+Basic	Comer::Present::Perfect	I have eaten so well since my neighbor started sharing food from her garden.	He comido tan bien desde que mi vecina empezó a compartir comida de su jardín.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten the bread at communion today?	¿Has comido el pan en la comunión hoy?	Comer Present Perfect
+Basic	Comer::Present::Perfect	He has eaten with the team at the mission base every day this week.	Ha comido con el equipo en la base misionera todos los días esta semana.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten together at this table and thanked God every day for twenty years.	Hemos comido juntos en esta mesa y le hemos dado gracias a Dios todos los días por veinte años.	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten at restaurants from Peru to Mexico on their mission trips.	Han comido en restaurantes desde Perú hasta México en sus viajes misioneros.	Comer Present Perfect
+Basic	Comer::Present::Perfect	I have eaten more carefully since my diabetes diagnosis.	He comido más cuidadosamente desde mi diagnóstico de diabetes.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten at the school's international food day? It was amazing.	¿Has comido en el día de comida internacional de la escuela? Fue increíble.	Comer Present Perfect
+Basic	Comer::Present::Perfect	She has eaten at the community table with the homeless every Friday.	Ha comido en la mesa comunitaria con los desamparados cada viernes.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten at this restaurant for every birthday in our family.	Hemos comido en este restaurante para cada cumpleaños de nuestra familia.	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten the most amazing variety of food in their years on the mission field.	Han comido la variedad de comida más increíble en sus años en el campo misionero.	Comer Present Perfect
+Basic	Comer::Present::Perfect	I have eaten breakfast before work every day this week to stay focused.	He comido el desayuno antes del trabajo todos los días esta semana para mantenerme enfocado.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten at the taqueria where the church small group meets?	¿Has comido en la taquería donde se reúne el grupo pequeño de la iglesia?	Comer Present Perfect
+Basic	Comer::Present::Perfect	He has eaten at the conference center cafeteria for the entire missions week.	Ha comido en la cafetería del centro de conferencias durante toda la semana misionera.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten at every restaurant this side of the mountain on our vacation.	Hemos comido en cada restaurante de este lado de la montaña en nuestras vacaciones.	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten here every Sunday for three years and feel like family to us.	Han comido aquí cada domingo por tres años y ya se sienten como familia para nosotros.	Comer Present Perfect
+Basic	Comer::Present::Perfect	I have eaten healthier this month than I have in years.	He comido más saludable este mes que en años.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten the new dish the chef at the church camp prepared?	¿Has comido el nuevo platillo que preparó el chef en el campamento de la iglesia?	Comer Present Perfect
+Basic	Comer::Present::Perfect	She has eaten at the school's free lunch program since her family needed the help.	Ha comido en el programa de almuerzo gratuito de la escuela desde que su familia necesitó la ayuda.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten and prayed and worshipped together for many years as a church family.	Hemos comido, orado y adorado juntos por muchos años como familia de la iglesia.	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten at the local market every day and love the variety of food.	Han comido en el mercado local todos los días y les encanta la variedad de comida.	Comer Present Perfect
+Basic	Comer::Present::Perfect	I have eaten at that restaurant with every visiting pastor this year.	He comido en ese restaurante con cada pastor visitante este año.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten the mango from the tree in the backyard yet?	¿Ya has comido el mango del árbol en el patio trasero?	Comer Present Perfect
+Basic	Comer::Present::Perfect	He has eaten at the hospital daily to support his wife during her treatment.	Ha comido en el hospital a diario para apoyar a su esposa durante su tratamiento.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten together at the end of each missions training session.	Hemos comido juntos al final de cada sesión de entrenamiento misionero.	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten street food in five different countries and loved every bite.	Han comido comida callejera en cinco países diferentes y amaron cada bocado.	Comer Present Perfect
+Basic	Comer::Present::Perfect	I have eaten tamales every Christmas since I was a child and never get tired of them.	He comido tamales cada Navidad desde que era niño y nunca me canso de ellos.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten the empanadas or the arroz con leche at the potluck?	¿Has comido las empanadas o el arroz con leche en la cena comunitaria?	Comer Present Perfect
+Basic	Comer::Present::Perfect	She has eaten at the church fellowship dinner every month for years.	Ha comido en la cena de compañerismo de la iglesia cada mes durante años.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten our way through this city one meal at a time, praising God for the flavors.	Hemos comido por esta ciudad una comida a la vez, alabando a Dios por los sabores.	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten together as a worship team before every concert this season.	Han comido juntos como equipo de alabanza antes de cada concierto esta temporada.	Comer Present Perfect
+Basic	Comer::Present::Perfect	I have eaten at the school cafeteria with my coworkers every day this month.	He comido en la cafetería de la escuela con mis compañeros todos los días este mes.	Comer Present Perfect
+Basic	Comer::Present::Perfect	Have you eaten enough to feel strong for the work day ahead?	¿Has comido suficiente para sentirte con fuerzas para el día de trabajo que viene?	Comer Present Perfect
+Basic	Comer::Present::Perfect	He has eaten well and given thanks to God for every meal on this trip.	Ha comido bien y ha dado gracias a Dios por cada comida en este viaje.	Comer Present Perfect
+Basic	Comer::Present::Perfect	We have eaten at the best little comedor in all of Honduras on this mission trip.	Hemos comido en el mejor pequeño comedor de todo Honduras en este viaje misionero.	Comer Present Perfect
+Basic	Comer::Present::Perfect	They have eaten well and rested well and are ready to serve God with strength.	Han comido bien y descansado bien y están listos para servir a Dios con fuerzas.	Comer Present Perfect
+Basic	Comer::Past::Perfect	I had eaten before the service started, so I was able to focus on worship.	Había comido antes de que comenzara el culto, así que pude concentrarme en la alabanza.	Comer Past Perfect
+Basic	Comer::Past::Perfect	Had you eaten before the long drive to the retreat?	¿Habías comido antes del largo viaje al retiro?	Comer Past Perfect
+Basic	Comer::Past::Perfect	She had eaten all the food on her plate before we finished praying.	Había comido toda la comida en su plato antes de que termináramos de orar.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten together before we heard the difficult news.	Habíamos comido juntos antes de escuchar las noticias difíciles.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten at that restaurant many times before it closed down.	Habían comido en ese restaurante muchas veces antes de que cerrara.	Comer Past Perfect
+Basic	Comer::Past::Perfect	I had eaten at many local restaurants before I found my favorite one in Mexico City.	Había comido en muchos restaurantes locales antes de encontrar mi favorito en la Ciudad de México.	Comer Past Perfect
+Basic	Comer::Past::Perfect	Had you eaten breakfast before the early morning prayer service?	¿Habías comido el desayuno antes del culto de oración de la madrugada?	Comer Past Perfect
+Basic	Comer::Past::Perfect	He had eaten only bread and water during the three-day fast.	Había comido solo pan y agua durante el ayuno de tres días.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten dinner by the time the guests arrived from the airport.	Habíamos comido la cena cuando llegaron los invitados del aeropuerto.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten at the food pantry dinner before joining the volunteer team.	Habían comido en la cena de la despensa de alimentos antes de unirse al equipo de voluntarios.	Comer Past Perfect
+Basic	Comer::Past::Perfect	I had eaten so much at the potluck that I could barely walk home.	Había comido tanto en la cena comunitaria que apenas podía caminar a casa.	Comer Past Perfect
+Basic	Comer::Past::Perfect	Had you eaten anything before taking the exam at school?	¿Habías comido algo antes de tomar el examen en la escuela?	Comer Past Perfect
+Basic	Comer::Past::Perfect	She had eaten at the same restaurant so many times that she knew the whole menu.	Había comido en el mismo restaurante tantas veces que conocía todo el menú.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten well on the mission trip, thanks to the generous host families.	Habíamos comido bien en el viaje misionero, gracias a las generosas familias anfitrionas.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten every dish at the church harvest festival before it was even noon.	Habían comido cada platillo en el festival de cosecha de la iglesia antes de que fuera mediodía.	Comer Past Perfect
+Basic	Comer::Past::Perfect	I had eaten fresh ceviche at that restaurant the last time I visited.	Había comido ceviche fresco en ese restaurante la última vez que visité.	Comer Past Perfect
+Basic	Comer::Past::Perfect	Had you eaten at the community kitchen before you became a volunteer there?	¿Habías comido en la cocina comunitaria antes de ser voluntario allí?	Comer Past Perfect
+Basic	Comer::Past::Perfect	He had eaten before his medical appointment and had to fast again for the test.	Había comido antes de su cita médica y tuvo que ayunar de nuevo para el examen.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten at that table so many times, and now we were saying goodbye to it.	Habíamos comido en esa mesa tantas veces, y ahora nos despedíamos de ella.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten at the airport restaurant before boarding the flight to the missions conference.	Habían comido en el restaurante del aeropuerto antes de abordar el vuelo a la conferencia misionera.	Comer Past Perfect
+Basic	Comer::Past::Perfect	I had eaten the last piece of bread before realizing my brother hadn't eaten yet.	Había comido el último trozo de pan antes de darme cuenta de que mi hermano aún no había comido.	Comer Past Perfect
+Basic	Comer::Past::Perfect	Had you eaten at that taqueria before it became famous?	¿Habías comido en esa taquería antes de que se hiciera famosa?	Comer Past Perfect
+Basic	Comer::Past::Perfect	She had eaten with the missionaries every evening before the conference ended.	Había comido con los misioneros cada noche antes de que terminara la conferencia.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten all the leftovers from Sunday by Tuesday.	Habíamos comido todos los sobrantes del domingo para el martes.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten together as a family every Sunday before the pandemic changed everything.	Habían comido juntos como familia cada domingo antes de que la pandemia cambiara todo.	Comer Past Perfect
+Basic	Comer::Past::Perfect	I had eaten at the hotel restaurant before we explored the local food on the trip.	Había comido en el restaurante del hotel antes de explorar la comida local en el viaje.	Comer Past Perfect
+Basic	Comer::Past::Perfect	Had you eaten at this restaurant before they renovated it?	¿Habías comido en este restaurante antes de que lo renovaran?	Comer Past Perfect
+Basic	Comer::Past::Perfect	He had eaten breakfast before heading to the hospital for surgery.	Había comido el desayuno antes de ir al hospital para la cirugía.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten a big dinner before realizing the prayer meeting was that same night.	Habíamos comido una cena grande antes de darnos cuenta de que la reunión de oración era esa misma noche.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten local food on every trip before deciding to write a missions cookbook.	Habían comido comida local en cada viaje antes de decidir escribir un libro de cocina misionero.	Comer Past Perfect
+Basic	Comer::Past::Perfect	I had eaten so many tamales by Christmas afternoon that I had to lie down.	Había comido tantos tamales para la tarde de Navidad que tuve que acostarme.	Comer Past Perfect
+Basic	Comer::Past::Perfect	Had you eaten the mole before they took it off the restaurant menu?	¿Habías comido el mole antes de que lo quitaran del menú del restaurante?	Comer Past Perfect
+Basic	Comer::Past::Perfect	She had eaten at the school cafeteria for ten years before transferring.	Había comido en la cafetería de la escuela durante diez años antes de transferirse.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten at that restaurant so often it felt like a second home.	Habíamos comido en ese restaurante con tanta frecuencia que se sentía como un segundo hogar.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten well before the long overnight bus ride to the next city.	Habían comido bien antes del largo viaje en autobús nocturno a la siguiente ciudad.	Comer Past Perfect
+Basic	Comer::Past::Perfect	I had eaten at the food court before realizing there was a better option nearby.	Había comido en el patio de comidas antes de darme cuenta de que había una mejor opción cerca.	Comer Past Perfect
+Basic	Comer::Past::Perfect	Had you eaten before the music rehearsal started without you?	¿Habías comido antes de que comenzara el ensayo de música sin ti?	Comer Past Perfect
+Basic	Comer::Past::Perfect	He had eaten dinner quietly and gone to his room to pray.	Había comido la cena tranquilamente y fue a su cuarto a orar.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten breakfast together before the graduation ceremony.	Habíamos comido el desayuno juntos antes de la ceremonia de graduación.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten at the mission base before going out for the day's work.	Habían comido en la base misionera antes de salir al trabajo del día.	Comer Past Perfect
+Basic	Comer::Past::Perfect	I had eaten at that street stall many times before it disappeared after the holidays.	Había comido en ese puesto callejero muchas veces antes de que desapareciera después de las fiestas.	Comer Past Perfect
+Basic	Comer::Past::Perfect	Had you eaten at the church anniversary dinner before you became a member?	¿Habías comido en la cena del aniversario de la iglesia antes de ser miembro?	Comer Past Perfect
+Basic	Comer::Past::Perfect	She had eaten only fruits and nuts during the week of fasting.	Había comido solo frutas y nueces durante la semana de ayuno.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten every traditional dish at the cultural festival before it ended.	Habíamos comido cada platillo tradicional en el festival cultural antes de que terminara.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten with the local church family before continuing on their journey.	Habían comido con la familia de la iglesia local antes de continuar su camino.	Comer Past Perfect
+Basic	Comer::Past::Perfect	I had eaten at the retreat center cafeteria many times before they changed the menu.	Había comido en la cafetería del centro de retiros muchas veces antes de que cambiaran el menú.	Comer Past Perfect
+Basic	Comer::Past::Perfect	Had you eaten before the Bible study session ran so late that everyone got hungry?	¿Habías comido antes de que la sesión del estudio bíblico se extendiera tanto que todos tuvimos hambre?	Comer Past Perfect
+Basic	Comer::Past::Perfect	He had eaten all the empanadas before his brother even arrived home.	Había comido todas las empanadas antes de que su hermano llegara a casa.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten breakfast and read the Bible before going to volunteer at the shelter.	Habíamos comido el desayuno y leído la Biblia antes de ir a ser voluntarios en el refugio.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten well before the long hike through the mountains during the retreat.	Habían comido bien antes de la larga caminata por las montañas durante el retiro.	Comer Past Perfect
+Basic	Comer::Past::Perfect	I had eaten at the neighborhood restaurant so often that I considered it my dining room.	Había comido en el restaurante del vecindario con tanta frecuencia que lo consideraba mi comedor.	Comer Past Perfect
+Basic	Comer::Past::Perfect	Had you eaten anything before the concert? You looked pale up there on the stage.	¿Habías comido algo antes del concierto? Se te veía pálido allá en el escenario.	Comer Past Perfect
+Basic	Comer::Past::Perfect	She had eaten a large lunch and wasn't hungry for dinner that evening.	Había comido un almuerzo grande y no tenía hambre para la cena esa noche.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten together many times before God called us to different cities.	Habíamos comido juntos muchas veces antes de que Dios nos llamara a ciudades diferentes.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten at every church potluck for thirty years before they finally moved away.	Habían comido en cada cena comunitaria de la iglesia durante treinta años antes de mudarse.	Comer Past Perfect
+Basic	Comer::Past::Perfect	I had eaten there before the chef became famous for his Biblical-themed menu.	Había comido allí antes de que el chef se hiciera famoso por su menú de temática bíblica.	Comer Past Perfect
+Basic	Comer::Past::Perfect	Had you eaten the tamales before they ran out at the Christmas celebration?	¿Habías comido los tamales antes de que se acabaran en la celebración de Navidad?	Comer Past Perfect
+Basic	Comer::Past::Perfect	He had eaten very little all day and fainted during the evening prayer meeting.	Había comido muy poco en todo el día y se desmayó durante la reunión de oración de la tarde.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten at the outdoor market before the rain came and we had to run for cover.	Habíamos comido en el mercado al aire libre antes de que llegara la lluvia y tuviéramos que refugiarnos.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten at this restaurant so many times that the staff knew their order.	Habían comido en este restaurante tantas veces que el personal ya sabía su pedido.	Comer Past Perfect
+Basic	Comer::Past::Perfect	I had eaten the entire bowl of soup before realizing it had gluten in it.	Había comido todo el tazón de sopa antes de darme cuenta de que tenía gluten.	Comer Past Perfect
+Basic	Comer::Past::Perfect	Had you eaten at the church camp cafeteria before they hired the new cook?	¿Habías comido en la cafetería del campamento de la iglesia antes de que contrataran al nuevo cocinero?	Comer Past Perfect
+Basic	Comer::Past::Perfect	She had eaten at the food pantry dinner to show solidarity with those in need.	Había comido en la cena de la despensa de alimentos para mostrar solidaridad con los necesitados.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten so much fresh fruit during the trip that we wanted nothing else.	Habíamos comido tanta fruta fresca durante el viaje que no queríamos nada más.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten together on every Sunday for fifteen years without missing once.	Habían comido juntos cada domingo durante quince años sin fallar ni una vez.	Comer Past Perfect
+Basic	Comer::Past::Perfect	I had eaten at the school cafeteria every day until I discovered the food trucks.	Había comido en la cafetería de la escuela todos los días hasta que descubrí los camiones de comida.	Comer Past Perfect
+Basic	Comer::Past::Perfect	Had you eaten at the new restaurant before it closed just two months after opening?	¿Habías comido en el nuevo restaurante antes de que cerrara apenas dos meses después de abrir?	Comer Past Perfect
+Basic	Comer::Past::Perfect	He had eaten at the soup kitchen every weekend for three years before moving to a new city.	Había comido en la cocina comunitaria cada fin de semana durante tres años antes de mudarse a una nueva ciudad.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten at this table with guests from five different countries over the years.	Habíamos comido en esta mesa con huéspedes de cinco países diferentes a lo largo de los años.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten local dishes at every stop along the mission trail.	Habían comido platillos locales en cada parada a lo largo del recorrido misionero.	Comer Past Perfect
+Basic	Comer::Past::Perfect	I had eaten at the pastor's house so many times that his table felt like home.	Había comido en la casa del pastor tantas veces que su mesa se sentía como hogar.	Comer Past Perfect
+Basic	Comer::Past::Perfect	Had you eaten the tamales from the lady who sells them outside church before?	¿Habías comido los tamales de la señora que los vende afuera de la iglesia antes?	Comer Past Perfect
+Basic	Comer::Past::Perfect	She had eaten at the community table many times before she joined the volunteer team.	Había comido en la mesa comunitaria muchas veces antes de unirse al equipo de voluntarios.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten and prayed and given thanks before the celebration began.	Habíamos comido, orado y dado gracias antes de que comenzara la celebración.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten at the restaurant every Friday until it changed owners.	Habían comido en el restaurante cada viernes hasta que cambió de dueño.	Comer Past Perfect
+Basic	Comer::Past::Perfect	I had eaten everything the host family prepared and felt so grateful.	Había comido todo lo que la familia anfitriona preparó y me sentí muy agradecido.	Comer Past Perfect
+Basic	Comer::Past::Perfect	Had you eaten before the worship leader started the concert without warning?	¿Habías comido antes de que el líder de alabanza comenzara el concierto sin avisar?	Comer Past Perfect
+Basic	Comer::Past::Perfect	He had eaten all the Christmas cookies by himself without leaving any for the children.	Había comido todas las galletas de Navidad solo sin dejarle ninguna a los niños.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten at the community feast before committing to serve the poor together.	Habíamos comido en la cena comunitaria antes de comprometernos a servir juntos a los pobres.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten three full plates before any of the latecomers arrived to the potluck.	Habían comido tres platos llenos antes de que llegara alguno de los que llegaron tarde a la cena comunitaria.	Comer Past Perfect
+Basic	Comer::Past::Perfect	I had eaten at this café after every choir rehearsal for years.	Había comido en este café después de cada ensayo del coro por años.	Comer Past Perfect
+Basic	Comer::Past::Perfect	She had eaten at the market every morning before going to language school.	Había comido en el mercado cada mañana antes de ir a la escuela de idiomas.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten together and shared the Word before the guests arrived.	Habíamos comido juntos y compartido la Palabra antes de que llegaran los invitados.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten homemade bread and soup before going out to serve the community.	Habían comido pan y sopa caseros antes de salir a servir a la comunidad.	Comer Past Perfect
+Basic	Comer::Past::Perfect	I had eaten at every single restaurant on the block before deciding on this one as my favorite.	Había comido en cada restaurante de la cuadra antes de decidir que este era mi favorito.	Comer Past Perfect
+Basic	Comer::Past::Perfect	Had you eaten breakfast before the pastor called to say services were cancelled?	¿Habías comido el desayuno antes de que el pastor llamara a decir que los cultos se cancelaban?	Comer Past Perfect
+Basic	Comer::Past::Perfect	He had eaten at the retreat cafeteria so many times he memorized the weekly menu.	Había comido en la cafetería del retiro tantas veces que memorizó el menú semanal.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten at the local comedor before we knew it was run by a Christian family.	Habíamos comido en el comedor local antes de saber que era administrado por una familia cristiana.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten together at every life event — births, baptisms, graduations, and funerals.	Habían comido juntos en cada evento de vida: nacimientos, bautismos, graduaciones y funerales.	Comer Past Perfect
+Basic	Comer::Past::Perfect	I had eaten there before they added so many items to the menu that I got confused.	Había comido allí antes de que agregaran tantos platillos al menú que me confundí.	Comer Past Perfect
+Basic	Comer::Past::Perfect	Had you eaten the street tacos before the vendor moved to a different corner?	¿Habías comido los tacos de la calle antes de que el vendedor se mudara a otra esquina?	Comer Past Perfect
+Basic	Comer::Past::Perfect	She had eaten at the college cafeteria every day for four years and graduated healthy.	Había comido en la cafetería de la universidad todos los días durante cuatro años y se graduó saludable.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten from the same bowl of pozole at the New Year's gathering many times.	Habíamos comido del mismo tazón de pozole en la reunión de Año Nuevo muchas veces.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten at every food stall at the annual church bazaar before noon.	Habían comido en cada puesto de comida en el bazar anual de la iglesia antes del mediodía.	Comer Past Perfect
+Basic	Comer::Past::Perfect	I had eaten at that comedor every day during the missions training before realizing it was famous.	Había comido en ese comedor todos los días durante el entrenamiento misionero antes de darme cuenta de que era famoso.	Comer Past Perfect
+Basic	Comer::Past::Perfect	Had you eaten the chiles en nogada before they took them off the special menu?	¿Habías comido los chiles en nogada antes de que los quitaran del menú especial?	Comer Past Perfect
+Basic	Comer::Past::Perfect	He had eaten at the school cafeteria until he started bringing his own Bible study lunch.	Había comido en la cafetería de la escuela hasta que empezó a traer su propio almuerzo del estudio bíblico.	Comer Past Perfect
+Basic	Comer::Past::Perfect	We had eaten together as a worship team before every performance for the past five years.	Habíamos comido juntos como equipo de alabanza antes de cada actuación durante los últimos cinco años.	Comer Past Perfect
+Basic	Comer::Past::Perfect	They had eaten at the same table so many times that the restaurant reserved it just for them.	Habían comido en la misma mesa tantas veces que el restaurante la reservaba especialmente para ellos.	Comer Past Perfect
+Basic	Comer::Preterit::Indicative	She ate pozole with her family at the New Year's gathering.	Comió pozole con su familia en la reunión de Año Nuevo.	Comer Preterit Indicative
+Basic	Comer::Past::Perfect	They had eaten at the community table before any of them knew they would become lifelong friends.	Habían comido en la mesa comunitaria antes de que ninguno supiera que se convertirían en amigos de por vida.	Comer Past Perfect
+Basic	Comer::Present::Indicative	I eat breakfast every morning before reading my devotional.	Como el desayuno cada mañana antes de leer mi devocional.	Comer Present Indicative
+Basic	Comer::Present::Indicative	Do you eat with your family every night at the dinner table?	¿Comes con tu familia cada noche en la mesa del comedor?	Comer Present Indicative
+Basic	Comer::Present::Indicative	He eats lunch at the same restaurant near the office every day.	Come el almuerzo en el mismo restaurante cerca de la oficina todos los días.	Comer Present Indicative
+Basic	Comer::Present::Indicative	We eat together as a church family every Sunday after the service.	Comemos juntos como familia de la iglesia cada domingo después del culto.	Comer Present Indicative
+Basic	Comer::Present::Indicative	They eat healthy food to honor God with their bodies.	Comen comida saludable para honrar a Dios con sus cuerpos.	Comer Present Indicative
