@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Spanish Verb Conjugation Cheatsheet</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: #121212;
+    color: #e0e0e0;
+    font-family: system-ui, -apple-system, sans-serif;
+    font-size: 13px;
+    line-height: 1.4;
+    padding: 16px;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 1.4rem;
+    color: #f5c842;
+    margin-bottom: 6px;
+  }
+
+  .subtitle {
+    text-align: center;
+    color: #999;
+    font-size: 0.8rem;
+    margin-bottom: 20px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 14px;
+  }
+
+  .section {
+    background: #1e1e1e;
+    border: 1px solid #333;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+
+  .section-header {
+    background: #2a2a2a;
+    padding: 6px 10px;
+    border-bottom: 1px solid #444;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+
+  .section-header h2 {
+    font-size: 0.85rem;
+    color: #f5c842;
+    font-weight: 600;
+  }
+
+  .section-header .use {
+    font-size: 0.7rem;
+    color: #888;
+    font-style: italic;
+  }
+
+  .section-header .mood-tag {
+    font-size: 0.65rem;
+    background: #3a3a3a;
+    color: #aaa;
+    padding: 1px 5px;
+    border-radius: 3px;
+    margin-left: 6px;
+  }
+
+  .mood-tag.indicative { background: #1a3a5c; color: #7ab8f5; }
+  .mood-tag.subjunctive { background: #3a1a5c; color: #b87af5; }
+  .mood-tag.imperative { background: #1a4a1a; color: #7af57a; }
+  .mood-tag.compound { background: #4a2a1a; color: #f5a87a; }
+  .mood-tag.other { background: #3a3a1a; color: #f5f07a; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    padding: 4px 8px;
+    text-align: left;
+    border-bottom: 1px solid #2a2a2a;
+  }
+
+  th {
+    background: #252525;
+    color: #aaa;
+    font-weight: 600;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+
+  td:first-child {
+    color: #888;
+    font-size: 0.75rem;
+    width: 90px;
+  }
+
+  td.ar { color: #7ab8f5; }
+  td.er { color: #7af5a8; }
+  td.ir { color: #f5a87a; }
+
+  .ending { color: #f5c842; font-weight: 600; }
+
+  .formula {
+    padding: 8px 10px;
+    font-size: 0.78rem;
+    color: #ccc;
+    border-bottom: 1px solid #2a2a2a;
+    background: #1a1a1a;
+  }
+
+  .formula strong { color: #f5c842; }
+
+  .note {
+    padding: 5px 10px;
+    font-size: 0.7rem;
+    color: #888;
+    font-style: italic;
+    background: #1a1a1a;
+  }
+
+  .irr-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .irr-table td {
+    padding: 3px 8px;
+    border-bottom: 1px solid #252525;
+    font-size: 0.78rem;
+  }
+
+  .irr-table td:first-child { color: #7ab8f5; width: 90px; }
+  .irr-table td:last-child { color: #e0e0e0; }
+
+  .wide { grid-column: span 2; }
+
+  @media (max-width: 720px) {
+    .wide { grid-column: span 1; }
+  }
+
+  .pronoun-key {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    padding: 8px 12px;
+    background: #1a1a1a;
+    border-radius: 6px;
+    margin-bottom: 14px;
+    font-size: 0.72rem;
+    color: #888;
+    border: 1px solid #333;
+  }
+  .pronoun-key span { color: #ccc; }
+  .pronoun-key b { color: #f5c842; }
+</style>
+</head>
+<body>
+
+<h1>Spanish Verb Conjugation Cheatsheet</h1>
+<p class="subtitle">Latin American Spanish · hablar (-ar) · comer (-er) · vivir (-ir)</p>
+
+<div class="pronoun-key">
+  <div><b>yo</b> <span>I</span></div>
+  <div><b>tú</b> <span>you</span></div>
+  <div><b>él/ella/Ud.</b> <span>he/she/you (formal)</span></div>
+  <div><b>nosotros</b> <span>we</span></div>
+  <div><b>ellos/Uds.</b> <span>they/you all</span></div>
+</div>
+
+<div class="grid">
+
+  <!-- Present Indicative -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Present Indicative <span class="mood-tag indicative">Indicative</span></h2>
+      <span class="use">current facts, habits, truths</span>
+    </div>
+    <table>
+      <tr><th>Pronoun</th><th class="ar">hablar</th><th class="er">comer</th><th class="ir">vivir</th></tr>
+      <tr><td>yo</td><td class="ar">habl<span class="ending">o</span></td><td class="er">com<span class="ending">o</span></td><td class="ir">viv<span class="ending">o</span></td></tr>
+      <tr><td>tú</td><td class="ar">habl<span class="ending">as</span></td><td class="er">com<span class="ending">es</span></td><td class="ir">viv<span class="ending">es</span></td></tr>
+      <tr><td>él/ella/Ud.</td><td class="ar">habl<span class="ending">a</span></td><td class="er">com<span class="ending">e</span></td><td class="ir">viv<span class="ending">e</span></td></tr>
+      <tr><td>nosotros</td><td class="ar">habl<span class="ending">amos</span></td><td class="er">com<span class="ending">emos</span></td><td class="ir">viv<span class="ending">imos</span></td></tr>
+      <tr><td>ellos/Uds.</td><td class="ar">habl<span class="ending">an</span></td><td class="er">com<span class="ending">en</span></td><td class="ir">viv<span class="ending">en</span></td></tr>
+    </table>
+    <div class="note">Irregulars: ser/estar/ir/tener/hacer — see irregular table</div>
+  </div>
+
+  <!-- Preterite -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Preterite <span class="mood-tag indicative">Indicative</span></h2>
+      <span class="use">completed past actions</span>
+    </div>
+    <table>
+      <tr><th>Pronoun</th><th class="ar">hablar</th><th class="er">comer</th><th class="ir">vivir</th></tr>
+      <tr><td>yo</td><td class="ar">habl<span class="ending">é</span></td><td class="er">com<span class="ending">í</span></td><td class="ir">viv<span class="ending">í</span></td></tr>
+      <tr><td>tú</td><td class="ar">habl<span class="ending">aste</span></td><td class="er">com<span class="ending">iste</span></td><td class="ir">viv<span class="ending">iste</span></td></tr>
+      <tr><td>él/ella/Ud.</td><td class="ar">habl<span class="ending">ó</span></td><td class="er">com<span class="ending">ió</span></td><td class="ir">viv<span class="ending">ió</span></td></tr>
+      <tr><td>nosotros</td><td class="ar">habl<span class="ending">amos</span></td><td class="er">com<span class="ending">imos</span></td><td class="ir">viv<span class="ending">imos</span></td></tr>
+      <tr><td>ellos/Uds.</td><td class="ar">habl<span class="ending">aron</span></td><td class="er">com<span class="ending">ieron</span></td><td class="ir">viv<span class="ending">ieron</span></td></tr>
+    </table>
+    <div class="note">ser/ir share forms: fui, fuiste, fue, fuimos, fueron</div>
+  </div>
+
+  <!-- Imperfect -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Imperfect <span class="mood-tag indicative">Indicative</span></h2>
+      <span class="use">habitual/ongoing past states</span>
+    </div>
+    <table>
+      <tr><th>Pronoun</th><th class="ar">hablar</th><th class="er">comer</th><th class="ir">vivir</th></tr>
+      <tr><td>yo</td><td class="ar">habl<span class="ending">aba</span></td><td class="er">com<span class="ending">ía</span></td><td class="ir">viv<span class="ending">ía</span></td></tr>
+      <tr><td>tú</td><td class="ar">habl<span class="ending">abas</span></td><td class="er">com<span class="ending">ías</span></td><td class="ir">viv<span class="ending">ías</span></td></tr>
+      <tr><td>él/ella/Ud.</td><td class="ar">habl<span class="ending">aba</span></td><td class="er">com<span class="ending">ía</span></td><td class="ir">viv<span class="ending">ía</span></td></tr>
+      <tr><td>nosotros</td><td class="ar">habl<span class="ending">ábamos</span></td><td class="er">com<span class="ending">íamos</span></td><td class="ir">viv<span class="ending">íamos</span></td></tr>
+      <tr><td>ellos/Uds.</td><td class="ar">habl<span class="ending">aban</span></td><td class="er">com<span class="ending">ían</span></td><td class="ir">viv<span class="ending">ían</span></td></tr>
+    </table>
+    <div class="note">Only 3 irregulars: ser (era), ir (iba), ver (veía)</div>
+  </div>
+
+  <!-- Future -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Future <span class="mood-tag indicative">Indicative</span></h2>
+      <span class="use">future events, predictions</span>
+    </div>
+    <div class="formula">Add endings to the <strong>full infinitive</strong></div>
+    <table>
+      <tr><th>Pronoun</th><th class="ar">hablar</th><th class="er">comer</th><th class="ir">vivir</th></tr>
+      <tr><td>yo</td><td class="ar">hablar<span class="ending">é</span></td><td class="er">comer<span class="ending">é</span></td><td class="ir">vivir<span class="ending">é</span></td></tr>
+      <tr><td>tú</td><td class="ar">hablar<span class="ending">ás</span></td><td class="er">comer<span class="ending">ás</span></td><td class="ir">vivir<span class="ending">ás</span></td></tr>
+      <tr><td>él/ella/Ud.</td><td class="ar">hablar<span class="ending">á</span></td><td class="er">comer<span class="ending">á</span></td><td class="ir">vivir<span class="ending">á</span></td></tr>
+      <tr><td>nosotros</td><td class="ar">hablar<span class="ending">emos</span></td><td class="er">comer<span class="ending">emos</span></td><td class="ir">vivir<span class="ending">emos</span></td></tr>
+      <tr><td>ellos/Uds.</td><td class="ar">hablar<span class="ending">án</span></td><td class="er">comer<span class="ending">án</span></td><td class="ir">vivir<span class="ending">án</span></td></tr>
+    </table>
+    <div class="note">Irreg. stems: tendr- · vendr- · pondr- · saldr- · podr- · sabr- · habr- · querr- · har- · dir-</div>
+  </div>
+
+  <!-- Conditional -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Conditional <span class="mood-tag indicative">Indicative</span></h2>
+      <span class="use">would; polite requests, hypotheticals</span>
+    </div>
+    <div class="formula">Add endings to the <strong>full infinitive</strong> (same stems as future)</div>
+    <table>
+      <tr><th>Pronoun</th><th class="ar">hablar</th><th class="er">comer</th><th class="ir">vivir</th></tr>
+      <tr><td>yo</td><td class="ar">hablar<span class="ending">ía</span></td><td class="er">comer<span class="ending">ía</span></td><td class="ir">vivir<span class="ending">ía</span></td></tr>
+      <tr><td>tú</td><td class="ar">hablar<span class="ending">ías</span></td><td class="er">comer<span class="ending">ías</span></td><td class="ir">vivir<span class="ending">ías</span></td></tr>
+      <tr><td>él/ella/Ud.</td><td class="ar">hablar<span class="ending">ía</span></td><td class="er">comer<span class="ending">ía</span></td><td class="ir">vivir<span class="ending">ía</span></td></tr>
+      <tr><td>nosotros</td><td class="ar">hablar<span class="ending">íamos</span></td><td class="er">comer<span class="ending">íamos</span></td><td class="ir">vivir<span class="ending">íamos</span></td></tr>
+      <tr><td>ellos/Uds.</td><td class="ar">hablar<span class="ending">ían</span></td><td class="er">comer<span class="ending">ían</span></td><td class="ir">vivir<span class="ending">ían</span></td></tr>
+    </table>
+    <div class="note">Irreg. stems identical to future: tendr- · har- · dir- · etc.</div>
+  </div>
+
+  <!-- Present Subjunctive -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Present Subjunctive <span class="mood-tag subjunctive">Subjunctive</span></h2>
+      <span class="use">wishes, doubt, emotion, recommendations</span>
+    </div>
+    <div class="formula">From <strong>yo present</strong> (drop -o) + "opposite" vowel endings</div>
+    <table>
+      <tr><th>Pronoun</th><th class="ar">hablar</th><th class="er">comer</th><th class="ir">vivir</th></tr>
+      <tr><td>yo</td><td class="ar">habl<span class="ending">e</span></td><td class="er">com<span class="ending">a</span></td><td class="ir">viv<span class="ending">a</span></td></tr>
+      <tr><td>tú</td><td class="ar">habl<span class="ending">es</span></td><td class="er">com<span class="ending">as</span></td><td class="ir">viv<span class="ending">as</span></td></tr>
+      <tr><td>él/ella/Ud.</td><td class="ar">habl<span class="ending">e</span></td><td class="er">com<span class="ending">a</span></td><td class="ir">viv<span class="ending">a</span></td></tr>
+      <tr><td>nosotros</td><td class="ar">habl<span class="ending">emos</span></td><td class="er">com<span class="ending">amos</span></td><td class="ir">viv<span class="ending">amos</span></td></tr>
+      <tr><td>ellos/Uds.</td><td class="ar">habl<span class="ending">en</span></td><td class="er">com<span class="ending">an</span></td><td class="ir">viv<span class="ending">an</span></td></tr>
+    </table>
+    <div class="note">Fully irreg.: ser→sea · estar→esté · ir→vaya · saber→sepa · haber→haya · dar→dé</div>
+  </div>
+
+  <!-- Imperfect Subjunctive -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Imperfect Subjunctive <span class="mood-tag subjunctive">Subjunctive</span></h2>
+      <span class="use">past wishes; "if I were…"; polite requests</span>
+    </div>
+    <div class="formula">From <strong>ellos preterite</strong> (drop -ron) + endings below</div>
+    <table>
+      <tr><th>Pronoun</th><th class="ar">hablar</th><th class="er">comer</th><th class="ir">vivir</th></tr>
+      <tr><td>yo</td><td class="ar">habla<span class="ending">ra</span></td><td class="er">comie<span class="ending">ra</span></td><td class="ir">vivie<span class="ending">ra</span></td></tr>
+      <tr><td>tú</td><td class="ar">habla<span class="ending">ras</span></td><td class="er">comie<span class="ending">ras</span></td><td class="ir">vivie<span class="ending">ras</span></td></tr>
+      <tr><td>él/ella/Ud.</td><td class="ar">habla<span class="ending">ra</span></td><td class="er">comie<span class="ending">ra</span></td><td class="ir">vivie<span class="ending">ra</span></td></tr>
+      <tr><td>nosotros</td><td class="ar">hablá<span class="ending">ramos</span></td><td class="er">comiéramos</td><td class="ir">viviéramos</td></tr>
+      <tr><td>ellos/Uds.</td><td class="ar">habla<span class="ending">ran</span></td><td class="er">comie<span class="ending">ran</span></td><td class="ir">vivie<span class="ending">ran</span></td></tr>
+    </table>
+    <div class="note">All preterite irregularities carry over: ser/ir→fuera · tener→tuviera · hacer→hiciera</div>
+  </div>
+
+  <!-- Imperative -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Imperative <span class="mood-tag imperative">Imperative</span></h2>
+      <span class="use">commands and instructions</span>
+    </div>
+    <table>
+      <tr><th>Form</th><th class="ar">hablar</th><th class="er">comer</th><th class="ir">vivir</th></tr>
+      <tr><td>tú (affirm.)</td><td class="ar">habla</td><td class="er">come</td><td class="ir">vive</td></tr>
+      <tr><td>tú (neg.)</td><td class="ar">no hables</td><td class="er">no comas</td><td class="ir">no vivas</td></tr>
+      <tr><td>Ud. (affirm.)</td><td class="ar">hable</td><td class="er">coma</td><td class="ir">viva</td></tr>
+      <tr><td>Ud. (neg.)</td><td class="ar">no hable</td><td class="er">no coma</td><td class="ir">no viva</td></tr>
+      <tr><td>nosotros</td><td class="ar">hablemos</td><td class="er">comamos</td><td class="ir">vivamos</td></tr>
+      <tr><td>Uds. (affirm.)</td><td class="ar">hablen</td><td class="er">coman</td><td class="ir">vivan</td></tr>
+    </table>
+    <div class="note">Irreg. tú affirm.: ten · ven · pon · sal · haz · di · sé · ve · da</div>
+  </div>
+
+  <!-- Present Perfect -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Present Perfect <span class="mood-tag compound">Compound</span></h2>
+      <span class="use">past actions relevant to the present</span>
+    </div>
+    <div class="formula"><strong>haber</strong> (present) + <strong>past participle</strong> (-ado / -ido)</div>
+    <table>
+      <tr><th>Pronoun</th><th>haber</th><th class="ar">hablar</th><th class="er">comer</th></tr>
+      <tr><td>yo</td><td>he</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>tú</td><td>has</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>él/ella/Ud.</td><td>ha</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>nosotros</td><td>hemos</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>ellos/Uds.</td><td>han</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+    </table>
+    <div class="note">Irreg. past participles: hecho · dicho · puesto · vuelto · visto · escrito · abierto · muerto</div>
+  </div>
+
+  <!-- Past Perfect (Pluperfect) -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Past Perfect (Pluperfect) <span class="mood-tag compound">Compound</span></h2>
+      <span class="use">had done — before another past event</span>
+    </div>
+    <div class="formula"><strong>haber</strong> (imperfect) + <strong>past participle</strong></div>
+    <table>
+      <tr><th>Pronoun</th><th>haber</th><th class="ar">hablar</th><th class="er">comer</th></tr>
+      <tr><td>yo</td><td>había</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>tú</td><td>habías</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>él/ella/Ud.</td><td>había</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>nosotros</td><td>habíamos</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>ellos/Uds.</td><td>habían</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+    </table>
+    <div class="note">e.g. Ya habían comido cuando llegamos. (They had already eaten when we arrived.)</div>
+  </div>
+
+  <!-- Future Perfect -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Future Perfect <span class="mood-tag compound">Compound</span></h2>
+      <span class="use">will have done — before a future point</span>
+    </div>
+    <div class="formula"><strong>haber</strong> (future) + <strong>past participle</strong></div>
+    <table>
+      <tr><th>Pronoun</th><th>haber</th><th class="ar">hablar</th><th class="er">comer</th></tr>
+      <tr><td>yo</td><td>habré</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>tú</td><td>habrás</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>él/ella/Ud.</td><td>habrá</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>nosotros</td><td>habremos</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>ellos/Uds.</td><td>habrán</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+    </table>
+    <div class="note">e.g. Para el lunes, habré terminado. (By Monday, I will have finished.)</div>
+  </div>
+
+  <!-- Conditional Perfect -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Conditional Perfect <span class="mood-tag compound">Compound</span></h2>
+      <span class="use">would have done — unreal past</span>
+    </div>
+    <div class="formula"><strong>haber</strong> (conditional) + <strong>past participle</strong></div>
+    <table>
+      <tr><th>Pronoun</th><th>haber</th><th class="ar">hablar</th><th class="er">comer</th></tr>
+      <tr><td>yo</td><td>habría</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>tú</td><td>habrías</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>él/ella/Ud.</td><td>habría</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>nosotros</td><td>habríamos</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>ellos/Uds.</td><td>habrían</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+    </table>
+    <div class="note">e.g. Habría ido, pero estaba enfermo. (I would have gone, but I was sick.)</div>
+  </div>
+
+  <!-- Present Perfect Subjunctive -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Present Perfect Subjunctive <span class="mood-tag subjunctive">Subjunctive</span></h2>
+      <span class="use">doubt/wish about past actions</span>
+    </div>
+    <div class="formula"><strong>haber</strong> (pres. subj.) + <strong>past participle</strong></div>
+    <table>
+      <tr><th>Pronoun</th><th>haber</th><th class="ar">hablar</th><th class="er">comer</th></tr>
+      <tr><td>yo</td><td>haya</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>tú</td><td>hayas</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>él/ella/Ud.</td><td>haya</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>nosotros</td><td>hayamos</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>ellos/Uds.</td><td>hayan</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+    </table>
+    <div class="note">e.g. Espero que hayan llegado. (I hope they have arrived.)</div>
+  </div>
+
+  <!-- Past Perfect Subjunctive -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Past Perfect Subjunctive <span class="mood-tag subjunctive">Subjunctive</span></h2>
+      <span class="use">unreal past conditions ("if I had…")</span>
+    </div>
+    <div class="formula"><strong>haber</strong> (imperf. subj.) + <strong>past participle</strong></div>
+    <table>
+      <tr><th>Pronoun</th><th>haber</th><th class="ar">hablar</th><th class="er">comer</th></tr>
+      <tr><td>yo</td><td>hubiera</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>tú</td><td>hubieras</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>él/ella/Ud.</td><td>hubiera</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>nosotros</td><td>hubiéramos</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+      <tr><td>ellos/Uds.</td><td>hubieran</td><td class="ar">hablado</td><td class="er">comido</td></tr>
+    </table>
+    <div class="note">e.g. Si hubiera sabido, habría venido. (If I had known, I would have come.)</div>
+  </div>
+
+  <!-- Progressive Tenses -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Progressive Tenses <span class="mood-tag other">Other</span></h2>
+      <span class="use">emphasizes action in progress</span>
+    </div>
+    <div class="formula"><strong>estar</strong> (any tense) + <strong>gerund</strong> (-ando / -iendo)</div>
+    <table>
+      <tr><th>Tense</th><th>estar form</th><th>+ gerund</th></tr>
+      <tr><td>Present</td><td>estoy/estás/está/estamos/están</td><td>hablando / comiendo / viviendo</td></tr>
+      <tr><td>Preterite</td><td>estuve/estuviste/estuvo/estuvimos/estuvieron</td><td>hablando</td></tr>
+      <tr><td>Imperfect</td><td>estaba/estabas/estaba/estábamos/estaban</td><td>hablando</td></tr>
+      <tr><td>Future</td><td>estaré/estarás/estará/estaremos/estarán</td><td>hablando</td></tr>
+    </table>
+    <div class="note">Irreg. gerunds: leer→leyendo · oír→oyendo · ir→yendo · pedir→pidiendo · dormir→durmiendo</div>
+  </div>
+
+  <!-- Periphrastic Future -->
+  <div class="section">
+    <div class="section-header">
+      <h2>Periphrastic Future <span class="mood-tag other">Other</span></h2>
+      <span class="use">near future plans and intentions</span>
+    </div>
+    <div class="formula"><strong>ir</strong> (present) + <strong>a</strong> + <strong>infinitive</strong></div>
+    <table>
+      <tr><th>Pronoun</th><th>ir (present)</th><th>Example</th></tr>
+      <tr><td>yo</td><td>voy</td><td>voy a hablar</td></tr>
+      <tr><td>tú</td><td>vas</td><td>vas a comer</td></tr>
+      <tr><td>él/ella/Ud.</td><td>va</td><td>va a vivir</td></tr>
+      <tr><td>nosotros</td><td>vamos</td><td>vamos a estudiar</td></tr>
+      <tr><td>ellos/Uds.</td><td>van</td><td>van a llegar</td></tr>
+    </table>
+    <div class="note">Most common way to express future in everyday Latin American Spanish speech.</div>
+  </div>
+
+  <!-- Key Irregulars -->
+  <div class="section wide">
+    <div class="section-header">
+      <h2>Key Irregular Verbs — Present Indicative <span class="mood-tag indicative">Indicative</span></h2>
+      <span class="use">most common fully irregular verbs</span>
+    </div>
+    <table>
+      <tr><th>Pronoun</th><th>ser</th><th>estar</th><th>ir</th><th>tener</th><th>hacer</th><th>poder</th><th>querer</th><th>saber</th><th>decir</th><th>venir</th></tr>
+      <tr><td>yo</td><td>soy</td><td>estoy</td><td>voy</td><td>tengo</td><td>hago</td><td>puedo</td><td>quiero</td><td>sé</td><td>digo</td><td>vengo</td></tr>
+      <tr><td>tú</td><td>eres</td><td>estás</td><td>vas</td><td>tienes</td><td>haces</td><td>puedes</td><td>quieres</td><td>sabes</td><td>dices</td><td>vienes</td></tr>
+      <tr><td>él/ella/Ud.</td><td>es</td><td>está</td><td>va</td><td>tiene</td><td>hace</td><td>puede</td><td>quiere</td><td>sabe</td><td>dice</td><td>viene</td></tr>
+      <tr><td>nosotros</td><td>somos</td><td>estamos</td><td>vamos</td><td>tenemos</td><td>hacemos</td><td>podemos</td><td>queremos</td><td>sabemos</td><td>decimos</td><td>venimos</td></tr>
+      <tr><td>ellos/Uds.</td><td>son</td><td>están</td><td>van</td><td>tienen</td><td>hacen</td><td>pueden</td><td>quieren</td><td>saben</td><td>dicen</td><td>vienen</td></tr>
+    </table>
+  </div>
+
+  <!-- Quick Reference -->
+  <div class="section wide">
+    <div class="section-header">
+      <h2>Quick Reference — Endings at a Glance</h2>
+    </div>
+    <table>
+      <tr>
+        <th>Tense / Mood</th>
+        <th class="ar">-ar · yo/tú/él/nos/ellos</th>
+        <th class="er">-er · yo/tú/él/nos/ellos</th>
+        <th class="ir">-ir · yo/tú/él/nos/ellos</th>
+      </tr>
+      <tr>
+        <td>Present Indicative</td>
+        <td class="ar">-o / -as / -a / -amos / -an</td>
+        <td class="er">-o / -es / -e / -emos / -en</td>
+        <td class="ir">-o / -es / -e / -imos / -en</td>
+      </tr>
+      <tr>
+        <td>Preterite</td>
+        <td class="ar">-é / -aste / -ó / -amos / -aron</td>
+        <td class="er">-í / -iste / -ió / -imos / -ieron</td>
+        <td class="ir">-í / -iste / -ió / -imos / -ieron</td>
+      </tr>
+      <tr>
+        <td>Imperfect</td>
+        <td class="ar">-aba / -abas / -aba / -ábamos / -aban</td>
+        <td class="er">-ía / -ías / -ía / -íamos / -ían</td>
+        <td class="ir">-ía / -ías / -ía / -íamos / -ían</td>
+      </tr>
+      <tr>
+        <td>Future (add to infinitive)</td>
+        <td class="ar" colspan="3">-é / -ás / -á / -emos / -án &nbsp;(same for all verb types)</td>
+      </tr>
+      <tr>
+        <td>Conditional (add to infinitive)</td>
+        <td class="ar" colspan="3">-ía / -ías / -ía / -íamos / -ían &nbsp;(same for all verb types)</td>
+      </tr>
+      <tr>
+        <td>Present Subjunctive</td>
+        <td class="ar">-e / -es / -e / -emos / -en</td>
+        <td class="er">-a / -as / -a / -amos / -an</td>
+        <td class="ir">-a / -as / -a / -amos / -an</td>
+      </tr>
+      <tr>
+        <td>Imperfect Subjunctive</td>
+        <td class="ar" colspan="3">-ra / -ras / -ra / -ramos / -ran &nbsp;(from ellos preterite stem, same for all)</td>
+      </tr>
+      <tr>
+        <td>Present Perfect</td>
+        <td class="ar" colspan="3">he/has/ha/hemos/han + past participle (-ado / -ido)</td>
+      </tr>
+      <tr>
+        <td>Past Perfect</td>
+        <td class="ar" colspan="3">había/habías/había/habíamos/habían + past participle</td>
+      </tr>
+      <tr>
+        <td>Future Perfect</td>
+        <td class="ar" colspan="3">habré/habrás/habrá/habremos/habrán + past participle</td>
+      </tr>
+      <tr>
+        <td>Conditional Perfect</td>
+        <td class="ar" colspan="3">habría/habrías/habría/habríamos/habrían + past participle</td>
+      </tr>
+      <tr>
+        <td>Pres. Perf. Subjunctive</td>
+        <td class="ar" colspan="3">haya/hayas/haya/hayamos/hayan + past participle</td>
+      </tr>
+      <tr>
+        <td>Past Perf. Subjunctive</td>
+        <td class="ar" colspan="3">hubiera/hubieras/hubiera/hubiéramos/hubieran + past participle</td>
+      </tr>
+      <tr>
+        <td>Progressive (any tense)</td>
+        <td class="ar" colspan="3">estar (conjugated in desired tense) + gerund (-ando / -iendo)</td>
+      </tr>
+      <tr>
+        <td>Periphrastic Future</td>
+        <td class="ar" colspan="3">ir (present: voy/vas/va/vamos/van) + a + infinitive</td>
+      </tr>
+    </table>
+  </div>
+
+</div>
+</body>
+</html>

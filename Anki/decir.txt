@@ -5,6 +5,62 @@
 #front column:3
 #back column:4
 #tags column:5
+Basic	Decir::Verb Tenses	I say / tell	yo digo	Decir Present Indicative
+Basic	Decir::Verb Tenses	you say / tell	tú dices	Decir Present Indicative
+Basic	Decir::Verb Tenses	he says / tells	él dice	Decir Present Indicative
+Basic	Decir::Verb Tenses	she says / tells	ella dice	Decir Present Indicative
+Basic	Decir::Verb Tenses	you (formal) say / tell	usted dice	Decir Present Indicative
+Basic	Decir::Verb Tenses	we say / tell	nosotros decimos	Decir Present Indicative
+Basic	Decir::Verb Tenses	you all say / tell	ustedes dicen	Decir Present Indicative
+Basic	Decir::Verb Tenses	they say / tell	ellos dicen	Decir Present Indicative
+Basic	Decir::Verb Tenses	I said / told	yo dije	Decir Preterite
+Basic	Decir::Verb Tenses	you said / told	tú dijiste	Decir Preterite
+Basic	Decir::Verb Tenses	he said / told	él dijo	Decir Preterite
+Basic	Decir::Verb Tenses	she said / told	ella dijo	Decir Preterite
+Basic	Decir::Verb Tenses	you (formal) said / told	usted dijo	Decir Preterite
+Basic	Decir::Verb Tenses	we said / told	nosotros dijimos	Decir Preterite
+Basic	Decir::Verb Tenses	you all said / told	ustedes dijeron	Decir Preterite
+Basic	Decir::Verb Tenses	they said / told	ellos dijeron	Decir Preterite
+Basic	Decir::Verb Tenses	I used to say / tell	yo decía	Decir Imperfect Indicative
+Basic	Decir::Verb Tenses	you used to say / tell	tú decías	Decir Imperfect Indicative
+Basic	Decir::Verb Tenses	he used to say / tell	él decía	Decir Imperfect Indicative
+Basic	Decir::Verb Tenses	she used to say / tell	ella decía	Decir Imperfect Indicative
+Basic	Decir::Verb Tenses	you (formal) used to say / tell	usted decía	Decir Imperfect Indicative
+Basic	Decir::Verb Tenses	we used to say / tell	nosotros decíamos	Decir Imperfect Indicative
+Basic	Decir::Verb Tenses	you all used to say / tell	ustedes decían	Decir Imperfect Indicative
+Basic	Decir::Verb Tenses	they used to say / tell	ellos decían	Decir Imperfect Indicative
+Basic	Decir::Verb Tenses	I will say / tell	yo diré	Decir Future Indicative
+Basic	Decir::Verb Tenses	you will say / tell	tú dirás	Decir Future Indicative
+Basic	Decir::Verb Tenses	he will say / tell	él dirá	Decir Future Indicative
+Basic	Decir::Verb Tenses	she will say / tell	ella dirá	Decir Future Indicative
+Basic	Decir::Verb Tenses	you (formal) will say / tell	usted dirá	Decir Future Indicative
+Basic	Decir::Verb Tenses	we will say / tell	nosotros diremos	Decir Future Indicative
+Basic	Decir::Verb Tenses	you all will say / tell	ustedes dirán	Decir Future Indicative
+Basic	Decir::Verb Tenses	they will say / tell	ellos dirán	Decir Future Indicative
+Basic	Decir::Verb Tenses	I would say / tell	yo diría	Decir Conditional
+Basic	Decir::Verb Tenses	you would say / tell	tú dirías	Decir Conditional
+Basic	Decir::Verb Tenses	he would say / tell	él diría	Decir Conditional
+Basic	Decir::Verb Tenses	she would say / tell	ella diría	Decir Conditional
+Basic	Decir::Verb Tenses	you (formal) would say / tell	usted diría	Decir Conditional
+Basic	Decir::Verb Tenses	we would say / tell	nosotros diríamos	Decir Conditional
+Basic	Decir::Verb Tenses	you all would say / tell	ustedes dirían	Decir Conditional
+Basic	Decir::Verb Tenses	they would say / tell	ellos dirían	Decir Conditional
+Basic	Decir::Verb Tenses	I say / tell (subjunctive)	yo diga	Decir Present Subjunctive
+Basic	Decir::Verb Tenses	you say / tell (subjunctive)	tú digas	Decir Present Subjunctive
+Basic	Decir::Verb Tenses	he says / tells (subjunctive)	él diga	Decir Present Subjunctive
+Basic	Decir::Verb Tenses	she says / tells (subjunctive)	ella diga	Decir Present Subjunctive
+Basic	Decir::Verb Tenses	you (formal) say / tell (subjunctive)	usted diga	Decir Present Subjunctive
+Basic	Decir::Verb Tenses	we say / tell (subjunctive)	nosotros digamos	Decir Present Subjunctive
+Basic	Decir::Verb Tenses	you all say / tell (subjunctive)	ustedes digan	Decir Present Subjunctive
+Basic	Decir::Verb Tenses	they say / tell (subjunctive)	ellos digan	Decir Present Subjunctive
+Basic	Decir::Verb Tenses	I said / told (subjunctive)	yo dijera	Decir Imperfect Subjunctive
+Basic	Decir::Verb Tenses	you said / told (subjunctive)	tú dijeras	Decir Imperfect Subjunctive
+Basic	Decir::Verb Tenses	he said / told (subjunctive)	él dijera	Decir Imperfect Subjunctive
+Basic	Decir::Verb Tenses	she said / told (subjunctive)	ella dijera	Decir Imperfect Subjunctive
+Basic	Decir::Verb Tenses	you (formal) said / told (subjunctive)	usted dijera	Decir Imperfect Subjunctive
+Basic	Decir::Verb Tenses	we said / told (subjunctive)	nosotros dijéramos	Decir Imperfect Subjunctive
+Basic	Decir::Verb Tenses	you all said / told (subjunctive)	ustedes dijeran	Decir Imperfect Subjunctive
+Basic	Decir::Verb Tenses	they said / told (subjunctive)	ellos dijeran	Decir Imperfect Subjunctive
 Basic	Decir::Present::Indicative	I say a prayer every morning before starting the day.	Digo una oración cada mañana antes de comenzar el día.	Decir Present Indicative
 Basic	Decir::Present::Indicative	What do you say when someone asks about your faith?	¿Qué dices cuando alguien pregunta sobre tu fe?	Decir Present Indicative
 Basic	Decir::Present::Indicative	She says the Lord is good and his mercy endures forever.	Dice que el Señor es bueno y su misericordia permanece para siempre.	Decir Present Indicative

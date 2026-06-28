@@ -5,6 +5,62 @@
 #front column:3
 #back column:4
 #tags column:5
+Basic	Ser::Verb Tenses	I am	yo soy	Ser Present Indicative
+Basic	Ser::Verb Tenses	you are	tú eres	Ser Present Indicative
+Basic	Ser::Verb Tenses	he is	él es	Ser Present Indicative
+Basic	Ser::Verb Tenses	she is	ella es	Ser Present Indicative
+Basic	Ser::Verb Tenses	you (formal) are	usted es	Ser Present Indicative
+Basic	Ser::Verb Tenses	we are	nosotros somos	Ser Present Indicative
+Basic	Ser::Verb Tenses	you all are	ustedes son	Ser Present Indicative
+Basic	Ser::Verb Tenses	they are	ellos son	Ser Present Indicative
+Basic	Ser::Verb Tenses	I was	yo fui	Ser Preterite
+Basic	Ser::Verb Tenses	you were	tú fuiste	Ser Preterite
+Basic	Ser::Verb Tenses	he was	él fue	Ser Preterite
+Basic	Ser::Verb Tenses	she was	ella fue	Ser Preterite
+Basic	Ser::Verb Tenses	you (formal) were	usted fue	Ser Preterite
+Basic	Ser::Verb Tenses	we were	nosotros fuimos	Ser Preterite
+Basic	Ser::Verb Tenses	you all were	ustedes fueron	Ser Preterite
+Basic	Ser::Verb Tenses	they were	ellos fueron	Ser Preterite
+Basic	Ser::Verb Tenses	I used to be	yo era	Ser Imperfect Indicative
+Basic	Ser::Verb Tenses	you used to be	tú eras	Ser Imperfect Indicative
+Basic	Ser::Verb Tenses	he used to be	él era	Ser Imperfect Indicative
+Basic	Ser::Verb Tenses	she used to be	ella era	Ser Imperfect Indicative
+Basic	Ser::Verb Tenses	you (formal) used to be	usted era	Ser Imperfect Indicative
+Basic	Ser::Verb Tenses	we used to be	nosotros éramos	Ser Imperfect Indicative
+Basic	Ser::Verb Tenses	you all used to be	ustedes eran	Ser Imperfect Indicative
+Basic	Ser::Verb Tenses	they used to be	ellos eran	Ser Imperfect Indicative
+Basic	Ser::Verb Tenses	I will be	yo seré	Ser Future Indicative
+Basic	Ser::Verb Tenses	you will be	tú serás	Ser Future Indicative
+Basic	Ser::Verb Tenses	he will be	él será	Ser Future Indicative
+Basic	Ser::Verb Tenses	she will be	ella será	Ser Future Indicative
+Basic	Ser::Verb Tenses	you (formal) will be	usted será	Ser Future Indicative
+Basic	Ser::Verb Tenses	we will be	nosotros seremos	Ser Future Indicative
+Basic	Ser::Verb Tenses	you all will be	ustedes serán	Ser Future Indicative
+Basic	Ser::Verb Tenses	they will be	ellos serán	Ser Future Indicative
+Basic	Ser::Verb Tenses	I would be	yo sería	Ser Conditional
+Basic	Ser::Verb Tenses	you would be	tú serías	Ser Conditional
+Basic	Ser::Verb Tenses	he would be	él sería	Ser Conditional
+Basic	Ser::Verb Tenses	she would be	ella sería	Ser Conditional
+Basic	Ser::Verb Tenses	you (formal) would be	usted sería	Ser Conditional
+Basic	Ser::Verb Tenses	we would be	nosotros seríamos	Ser Conditional
+Basic	Ser::Verb Tenses	you all would be	ustedes serían	Ser Conditional
+Basic	Ser::Verb Tenses	they would be	ellos serían	Ser Conditional
+Basic	Ser::Verb Tenses	I am (subjunctive)	yo sea	Ser Present Subjunctive
+Basic	Ser::Verb Tenses	you are (subjunctive)	tú seas	Ser Present Subjunctive
+Basic	Ser::Verb Tenses	he is (subjunctive)	él sea	Ser Present Subjunctive
+Basic	Ser::Verb Tenses	she is (subjunctive)	ella sea	Ser Present Subjunctive
+Basic	Ser::Verb Tenses	you (formal) are (subjunctive)	usted sea	Ser Present Subjunctive
+Basic	Ser::Verb Tenses	we are (subjunctive)	nosotros seamos	Ser Present Subjunctive
+Basic	Ser::Verb Tenses	you all are (subjunctive)	ustedes sean	Ser Present Subjunctive
+Basic	Ser::Verb Tenses	they are (subjunctive)	ellos sean	Ser Present Subjunctive
+Basic	Ser::Verb Tenses	I were (subjunctive)	yo fuera	Ser Imperfect Subjunctive
+Basic	Ser::Verb Tenses	you were (subjunctive)	tú fueras	Ser Imperfect Subjunctive
+Basic	Ser::Verb Tenses	he were (subjunctive)	él fuera	Ser Imperfect Subjunctive
+Basic	Ser::Verb Tenses	she were (subjunctive)	ella fuera	Ser Imperfect Subjunctive
+Basic	Ser::Verb Tenses	you (formal) were (subjunctive)	usted fuera	Ser Imperfect Subjunctive
+Basic	Ser::Verb Tenses	we were (subjunctive)	nosotros fuéramos	Ser Imperfect Subjunctive
+Basic	Ser::Verb Tenses	you all were (subjunctive)	ustedes fueran	Ser Imperfect Subjunctive
+Basic	Ser::Verb Tenses	they were (subjunctive)	ellos fueran	Ser Imperfect Subjunctive
 Basic	Ser::Present::Indicative	I am a child of God.	Soy hijo de Dios.	Ser Present Indicative
 Basic	Ser::Present::Indicative	Are you a member of this church?	¿Eres miembro de esta iglesia?	Ser Present Indicative
 Basic	Ser::Present::Indicative	He is the pastor of the congregation.	Es el pastor de la congregación.	Ser Present Indicative

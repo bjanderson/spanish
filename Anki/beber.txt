@@ -5,6 +5,62 @@
 #front column:3
 #back column:4
 #tags column:5
+Basic	Beber::Verb Tenses	I drink	yo bebo	Beber Present Indicative
+Basic	Beber::Verb Tenses	you drink	tú bebes	Beber Present Indicative
+Basic	Beber::Verb Tenses	he drinks	él bebe	Beber Present Indicative
+Basic	Beber::Verb Tenses	she drinks	ella bebe	Beber Present Indicative
+Basic	Beber::Verb Tenses	you (formal) drink	usted bebe	Beber Present Indicative
+Basic	Beber::Verb Tenses	we drink	nosotros bebemos	Beber Present Indicative
+Basic	Beber::Verb Tenses	you all drink	ustedes beben	Beber Present Indicative
+Basic	Beber::Verb Tenses	they drink	ellos beben	Beber Present Indicative
+Basic	Beber::Verb Tenses	I drank	yo bebí	Beber Preterite
+Basic	Beber::Verb Tenses	you drank	tú bebiste	Beber Preterite
+Basic	Beber::Verb Tenses	he drank	él bebió	Beber Preterite
+Basic	Beber::Verb Tenses	she drank	ella bebió	Beber Preterite
+Basic	Beber::Verb Tenses	you (formal) drank	usted bebió	Beber Preterite
+Basic	Beber::Verb Tenses	we drank	nosotros bebimos	Beber Preterite
+Basic	Beber::Verb Tenses	you all drank	ustedes bebieron	Beber Preterite
+Basic	Beber::Verb Tenses	they drank	ellos bebieron	Beber Preterite
+Basic	Beber::Verb Tenses	I used to drink	yo bebía	Beber Imperfect Indicative
+Basic	Beber::Verb Tenses	you used to drink	tú bebías	Beber Imperfect Indicative
+Basic	Beber::Verb Tenses	he used to drink	él bebía	Beber Imperfect Indicative
+Basic	Beber::Verb Tenses	she used to drink	ella bebía	Beber Imperfect Indicative
+Basic	Beber::Verb Tenses	you (formal) used to drink	usted bebía	Beber Imperfect Indicative
+Basic	Beber::Verb Tenses	we used to drink	nosotros bebíamos	Beber Imperfect Indicative
+Basic	Beber::Verb Tenses	you all used to drink	ustedes bebían	Beber Imperfect Indicative
+Basic	Beber::Verb Tenses	they used to drink	ellos bebían	Beber Imperfect Indicative
+Basic	Beber::Verb Tenses	I will drink	yo beberé	Beber Future Indicative
+Basic	Beber::Verb Tenses	you will drink	tú beberás	Beber Future Indicative
+Basic	Beber::Verb Tenses	he will drink	él beberá	Beber Future Indicative
+Basic	Beber::Verb Tenses	she will drink	ella beberá	Beber Future Indicative
+Basic	Beber::Verb Tenses	you (formal) will drink	usted beberá	Beber Future Indicative
+Basic	Beber::Verb Tenses	we will drink	nosotros beberemos	Beber Future Indicative
+Basic	Beber::Verb Tenses	you all will drink	ustedes beberán	Beber Future Indicative
+Basic	Beber::Verb Tenses	they will drink	ellos beberán	Beber Future Indicative
+Basic	Beber::Verb Tenses	I would drink	yo bebería	Beber Conditional
+Basic	Beber::Verb Tenses	you would drink	tú beberías	Beber Conditional
+Basic	Beber::Verb Tenses	he would drink	él bebería	Beber Conditional
+Basic	Beber::Verb Tenses	she would drink	ella bebería	Beber Conditional
+Basic	Beber::Verb Tenses	you (formal) would drink	usted bebería	Beber Conditional
+Basic	Beber::Verb Tenses	we would drink	nosotros beberíamos	Beber Conditional
+Basic	Beber::Verb Tenses	you all would drink	ustedes beberían	Beber Conditional
+Basic	Beber::Verb Tenses	they would drink	ellos beberían	Beber Conditional
+Basic	Beber::Verb Tenses	I drink (subjunctive)	yo beba	Beber Present Subjunctive
+Basic	Beber::Verb Tenses	you drink (subjunctive)	tú bebas	Beber Present Subjunctive
+Basic	Beber::Verb Tenses	he drinks (subjunctive)	él beba	Beber Present Subjunctive
+Basic	Beber::Verb Tenses	she drinks (subjunctive)	ella beba	Beber Present Subjunctive
+Basic	Beber::Verb Tenses	you (formal) drink (subjunctive)	usted beba	Beber Present Subjunctive
+Basic	Beber::Verb Tenses	we drink (subjunctive)	nosotros bebamos	Beber Present Subjunctive
+Basic	Beber::Verb Tenses	you all drink (subjunctive)	ustedes beban	Beber Present Subjunctive
+Basic	Beber::Verb Tenses	they drink (subjunctive)	ellos beban	Beber Present Subjunctive
+Basic	Beber::Verb Tenses	I drank (subjunctive)	yo bebiera	Beber Imperfect Subjunctive
+Basic	Beber::Verb Tenses	you drank (subjunctive)	tú bebieras	Beber Imperfect Subjunctive
+Basic	Beber::Verb Tenses	he drank (subjunctive)	él bebiera	Beber Imperfect Subjunctive
+Basic	Beber::Verb Tenses	she drank (subjunctive)	ella bebiera	Beber Imperfect Subjunctive
+Basic	Beber::Verb Tenses	you (formal) drank (subjunctive)	usted bebiera	Beber Imperfect Subjunctive
+Basic	Beber::Verb Tenses	we drank (subjunctive)	nosotros bebiéramos	Beber Imperfect Subjunctive
+Basic	Beber::Verb Tenses	you all drank (subjunctive)	ustedes bebieran	Beber Imperfect Subjunctive
+Basic	Beber::Verb Tenses	they drank (subjunctive)	ellos bebieran	Beber Imperfect Subjunctive
 Basic	Beber::Present::Indicative	I drink water every morning before reading the Bible and starting my day.	Bebo agua cada mañana antes de leer la Biblia y comenzar mi día.	Beber Present Indicative
 Basic	Beber::Present::Indicative	Do you drink coffee or tea during your morning devotional time with God?	¿Bebes café o té durante tu tiempo devocional matutino con Dios?	Beber Present Indicative
 Basic	Beber::Present::Indicative	She drinks herbal tea every evening before her night prayers and Bible reading.	Bebe té de hierbas cada noche antes de sus oraciones nocturnas y lectura bíblica.	Beber Present Indicative

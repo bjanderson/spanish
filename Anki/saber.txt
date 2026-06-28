@@ -5,6 +5,62 @@
 #front column:3
 #back column:4
 #tags column:5
+Basic	Saber::Verb Tenses	I know	yo sé	Saber Present Indicative
+Basic	Saber::Verb Tenses	you know	tú sabes	Saber Present Indicative
+Basic	Saber::Verb Tenses	he knows	él sabe	Saber Present Indicative
+Basic	Saber::Verb Tenses	she knows	ella sabe	Saber Present Indicative
+Basic	Saber::Verb Tenses	you (formal) know	usted sabe	Saber Present Indicative
+Basic	Saber::Verb Tenses	we know	nosotros sabemos	Saber Present Indicative
+Basic	Saber::Verb Tenses	you all know	ustedes saben	Saber Present Indicative
+Basic	Saber::Verb Tenses	they know	ellos saben	Saber Present Indicative
+Basic	Saber::Verb Tenses	I found out / knew	yo supe	Saber Preterite
+Basic	Saber::Verb Tenses	you found out / knew	tú supiste	Saber Preterite
+Basic	Saber::Verb Tenses	he found out / knew	él supo	Saber Preterite
+Basic	Saber::Verb Tenses	she found out / knew	ella supo	Saber Preterite
+Basic	Saber::Verb Tenses	you (formal) found out / knew	usted supo	Saber Preterite
+Basic	Saber::Verb Tenses	we found out / knew	nosotros supimos	Saber Preterite
+Basic	Saber::Verb Tenses	you all found out / knew	ustedes supieron	Saber Preterite
+Basic	Saber::Verb Tenses	they found out / knew	ellos supieron	Saber Preterite
+Basic	Saber::Verb Tenses	I used to know	yo sabía	Saber Imperfect Indicative
+Basic	Saber::Verb Tenses	you used to know	tú sabías	Saber Imperfect Indicative
+Basic	Saber::Verb Tenses	he used to know	él sabía	Saber Imperfect Indicative
+Basic	Saber::Verb Tenses	she used to know	ella sabía	Saber Imperfect Indicative
+Basic	Saber::Verb Tenses	you (formal) used to know	usted sabía	Saber Imperfect Indicative
+Basic	Saber::Verb Tenses	we used to know	nosotros sabíamos	Saber Imperfect Indicative
+Basic	Saber::Verb Tenses	you all used to know	ustedes sabían	Saber Imperfect Indicative
+Basic	Saber::Verb Tenses	they used to know	ellos sabían	Saber Imperfect Indicative
+Basic	Saber::Verb Tenses	I will know	yo sabré	Saber Future Indicative
+Basic	Saber::Verb Tenses	you will know	tú sabrás	Saber Future Indicative
+Basic	Saber::Verb Tenses	he will know	él sabrá	Saber Future Indicative
+Basic	Saber::Verb Tenses	she will know	ella sabrá	Saber Future Indicative
+Basic	Saber::Verb Tenses	you (formal) will know	usted sabrá	Saber Future Indicative
+Basic	Saber::Verb Tenses	we will know	nosotros sabremos	Saber Future Indicative
+Basic	Saber::Verb Tenses	you all will know	ustedes sabrán	Saber Future Indicative
+Basic	Saber::Verb Tenses	they will know	ellos sabrán	Saber Future Indicative
+Basic	Saber::Verb Tenses	I would know	yo sabría	Saber Conditional
+Basic	Saber::Verb Tenses	you would know	tú sabrías	Saber Conditional
+Basic	Saber::Verb Tenses	he would know	él sabría	Saber Conditional
+Basic	Saber::Verb Tenses	she would know	ella sabría	Saber Conditional
+Basic	Saber::Verb Tenses	you (formal) would know	usted sabría	Saber Conditional
+Basic	Saber::Verb Tenses	we would know	nosotros sabríamos	Saber Conditional
+Basic	Saber::Verb Tenses	you all would know	ustedes sabrían	Saber Conditional
+Basic	Saber::Verb Tenses	they would know	ellos sabrían	Saber Conditional
+Basic	Saber::Verb Tenses	I know (subjunctive)	yo sepa	Saber Present Subjunctive
+Basic	Saber::Verb Tenses	you know (subjunctive)	tú sepas	Saber Present Subjunctive
+Basic	Saber::Verb Tenses	he knows (subjunctive)	él sepa	Saber Present Subjunctive
+Basic	Saber::Verb Tenses	she knows (subjunctive)	ella sepa	Saber Present Subjunctive
+Basic	Saber::Verb Tenses	you (formal) know (subjunctive)	usted sepa	Saber Present Subjunctive
+Basic	Saber::Verb Tenses	we know (subjunctive)	nosotros sepamos	Saber Present Subjunctive
+Basic	Saber::Verb Tenses	you all know (subjunctive)	ustedes sepan	Saber Present Subjunctive
+Basic	Saber::Verb Tenses	they know (subjunctive)	ellos sepan	Saber Present Subjunctive
+Basic	Saber::Verb Tenses	I knew (subjunctive)	yo supiera	Saber Imperfect Subjunctive
+Basic	Saber::Verb Tenses	you knew (subjunctive)	tú supieras	Saber Imperfect Subjunctive
+Basic	Saber::Verb Tenses	he knew (subjunctive)	él supiera	Saber Imperfect Subjunctive
+Basic	Saber::Verb Tenses	she knew (subjunctive)	ella supiera	Saber Imperfect Subjunctive
+Basic	Saber::Verb Tenses	you (formal) knew (subjunctive)	usted supiera	Saber Imperfect Subjunctive
+Basic	Saber::Verb Tenses	we knew (subjunctive)	nosotros supiéramos	Saber Imperfect Subjunctive
+Basic	Saber::Verb Tenses	you all knew (subjunctive)	ustedes supieran	Saber Imperfect Subjunctive
+Basic	Saber::Verb Tenses	they knew (subjunctive)	ellos supieran	Saber Imperfect Subjunctive
 Basic	Saber::Present::Indicative	I know that God is faithful in every season of my life.	Sé que Dios es fiel en cada temporada de mi vida.	Saber Present Indicative
 Basic	Saber::Present::Indicative	Do you know where that verse about hope is found in Scripture?	¿Sabes dónde se encuentra ese versículo sobre la esperanza en las Escrituras?	Saber Present Indicative
 Basic	Saber::Present::Indicative	She knows the book of Psalms by heart and recites it during hard times.	Sabe el libro de los Salmos de memoria y lo recita en los tiempos difíciles.	Saber Present Indicative

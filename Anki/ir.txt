@@ -5,6 +5,62 @@
 #front column:3
 #back column:4
 #tags column:5
+Basic	Ir::Verb Tenses	I go	yo voy	Ir Present Indicative
+Basic	Ir::Verb Tenses	you go	tú vas	Ir Present Indicative
+Basic	Ir::Verb Tenses	he goes	él va	Ir Present Indicative
+Basic	Ir::Verb Tenses	she goes	ella va	Ir Present Indicative
+Basic	Ir::Verb Tenses	you (formal) go	usted va	Ir Present Indicative
+Basic	Ir::Verb Tenses	we go	nosotros vamos	Ir Present Indicative
+Basic	Ir::Verb Tenses	you all go	ustedes van	Ir Present Indicative
+Basic	Ir::Verb Tenses	they go	ellos van	Ir Present Indicative
+Basic	Ir::Verb Tenses	I went	yo fui	Ir Preterite
+Basic	Ir::Verb Tenses	you went	tú fuiste	Ir Preterite
+Basic	Ir::Verb Tenses	he went	él fue	Ir Preterite
+Basic	Ir::Verb Tenses	she went	ella fue	Ir Preterite
+Basic	Ir::Verb Tenses	you (formal) went	usted fue	Ir Preterite
+Basic	Ir::Verb Tenses	we went	nosotros fuimos	Ir Preterite
+Basic	Ir::Verb Tenses	you all went	ustedes fueron	Ir Preterite
+Basic	Ir::Verb Tenses	they went	ellos fueron	Ir Preterite
+Basic	Ir::Verb Tenses	I used to go	yo iba	Ir Imperfect Indicative
+Basic	Ir::Verb Tenses	you used to go	tú ibas	Ir Imperfect Indicative
+Basic	Ir::Verb Tenses	he used to go	él iba	Ir Imperfect Indicative
+Basic	Ir::Verb Tenses	she used to go	ella iba	Ir Imperfect Indicative
+Basic	Ir::Verb Tenses	you (formal) used to go	usted iba	Ir Imperfect Indicative
+Basic	Ir::Verb Tenses	we used to go	nosotros íbamos	Ir Imperfect Indicative
+Basic	Ir::Verb Tenses	you all used to go	ustedes iban	Ir Imperfect Indicative
+Basic	Ir::Verb Tenses	they used to go	ellos iban	Ir Imperfect Indicative
+Basic	Ir::Verb Tenses	I will go	yo iré	Ir Future Indicative
+Basic	Ir::Verb Tenses	you will go	tú irás	Ir Future Indicative
+Basic	Ir::Verb Tenses	he will go	él irá	Ir Future Indicative
+Basic	Ir::Verb Tenses	she will go	ella irá	Ir Future Indicative
+Basic	Ir::Verb Tenses	you (formal) will go	usted irá	Ir Future Indicative
+Basic	Ir::Verb Tenses	we will go	nosotros iremos	Ir Future Indicative
+Basic	Ir::Verb Tenses	you all will go	ustedes irán	Ir Future Indicative
+Basic	Ir::Verb Tenses	they will go	ellos irán	Ir Future Indicative
+Basic	Ir::Verb Tenses	I would go	yo iría	Ir Conditional
+Basic	Ir::Verb Tenses	you would go	tú irías	Ir Conditional
+Basic	Ir::Verb Tenses	he would go	él iría	Ir Conditional
+Basic	Ir::Verb Tenses	she would go	ella iría	Ir Conditional
+Basic	Ir::Verb Tenses	you (formal) would go	usted iría	Ir Conditional
+Basic	Ir::Verb Tenses	we would go	nosotros iríamos	Ir Conditional
+Basic	Ir::Verb Tenses	you all would go	ustedes irían	Ir Conditional
+Basic	Ir::Verb Tenses	they would go	ellos irían	Ir Conditional
+Basic	Ir::Verb Tenses	I go (subjunctive)	yo vaya	Ir Present Subjunctive
+Basic	Ir::Verb Tenses	you go (subjunctive)	tú vayas	Ir Present Subjunctive
+Basic	Ir::Verb Tenses	he goes (subjunctive)	él vaya	Ir Present Subjunctive
+Basic	Ir::Verb Tenses	she goes (subjunctive)	ella vaya	Ir Present Subjunctive
+Basic	Ir::Verb Tenses	you (formal) go (subjunctive)	usted vaya	Ir Present Subjunctive
+Basic	Ir::Verb Tenses	we go (subjunctive)	nosotros vayamos	Ir Present Subjunctive
+Basic	Ir::Verb Tenses	you all go (subjunctive)	ustedes vayan	Ir Present Subjunctive
+Basic	Ir::Verb Tenses	they go (subjunctive)	ellos vayan	Ir Present Subjunctive
+Basic	Ir::Verb Tenses	I went (subjunctive)	yo fuera	Ir Imperfect Subjunctive
+Basic	Ir::Verb Tenses	you went (subjunctive)	tú fueras	Ir Imperfect Subjunctive
+Basic	Ir::Verb Tenses	he went (subjunctive)	él fuera	Ir Imperfect Subjunctive
+Basic	Ir::Verb Tenses	she went (subjunctive)	ella fuera	Ir Imperfect Subjunctive
+Basic	Ir::Verb Tenses	you (formal) went (subjunctive)	usted fuera	Ir Imperfect Subjunctive
+Basic	Ir::Verb Tenses	we went (subjunctive)	nosotros fuéramos	Ir Imperfect Subjunctive
+Basic	Ir::Verb Tenses	you all went (subjunctive)	ustedes fueran	Ir Imperfect Subjunctive
+Basic	Ir::Verb Tenses	they went (subjunctive)	ellos fueran	Ir Imperfect Subjunctive
 Basic	Ir::Present::Indicative	I am going to the store.	Voy a la tienda.	Ir Present Indicative
 Basic	Ir::Present::Indicative	Do you have to go to the pharmacy?	¿Tienes que ir a la farmacia?	Ir Present Indicative
 Basic	Ir::Present::Indicative	I have to go to the park.	Tengo que ir al parque.	Ir Present Indicative

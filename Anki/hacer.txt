@@ -5,6 +5,62 @@
 #front column:3
 #back column:4
 #tags column:5
+Basic	Hacer::Verb Tenses	I do / make	yo hago	Hacer Present Indicative
+Basic	Hacer::Verb Tenses	you do / make	tú haces	Hacer Present Indicative
+Basic	Hacer::Verb Tenses	he does / makes	él hace	Hacer Present Indicative
+Basic	Hacer::Verb Tenses	she does / makes	ella hace	Hacer Present Indicative
+Basic	Hacer::Verb Tenses	you (formal) do / make	usted hace	Hacer Present Indicative
+Basic	Hacer::Verb Tenses	we do / make	nosotros hacemos	Hacer Present Indicative
+Basic	Hacer::Verb Tenses	you all do / make	ustedes hacen	Hacer Present Indicative
+Basic	Hacer::Verb Tenses	they do / make	ellos hacen	Hacer Present Indicative
+Basic	Hacer::Verb Tenses	I did / made	yo hice	Hacer Preterite
+Basic	Hacer::Verb Tenses	you did / made	tú hiciste	Hacer Preterite
+Basic	Hacer::Verb Tenses	he did / made	él hizo	Hacer Preterite
+Basic	Hacer::Verb Tenses	she did / made	ella hizo	Hacer Preterite
+Basic	Hacer::Verb Tenses	you (formal) did / made	usted hizo	Hacer Preterite
+Basic	Hacer::Verb Tenses	we did / made	nosotros hicimos	Hacer Preterite
+Basic	Hacer::Verb Tenses	you all did / made	ustedes hicieron	Hacer Preterite
+Basic	Hacer::Verb Tenses	they did / made	ellos hicieron	Hacer Preterite
+Basic	Hacer::Verb Tenses	I used to do / make	yo hacía	Hacer Imperfect Indicative
+Basic	Hacer::Verb Tenses	you used to do / make	tú hacías	Hacer Imperfect Indicative
+Basic	Hacer::Verb Tenses	he used to do / make	él hacía	Hacer Imperfect Indicative
+Basic	Hacer::Verb Tenses	she used to do / make	ella hacía	Hacer Imperfect Indicative
+Basic	Hacer::Verb Tenses	you (formal) used to do / make	usted hacía	Hacer Imperfect Indicative
+Basic	Hacer::Verb Tenses	we used to do / make	nosotros hacíamos	Hacer Imperfect Indicative
+Basic	Hacer::Verb Tenses	you all used to do / make	ustedes hacían	Hacer Imperfect Indicative
+Basic	Hacer::Verb Tenses	they used to do / make	ellos hacían	Hacer Imperfect Indicative
+Basic	Hacer::Verb Tenses	I will do / make	yo haré	Hacer Future Indicative
+Basic	Hacer::Verb Tenses	you will do / make	tú harás	Hacer Future Indicative
+Basic	Hacer::Verb Tenses	he will do / make	él hará	Hacer Future Indicative
+Basic	Hacer::Verb Tenses	she will do / make	ella hará	Hacer Future Indicative
+Basic	Hacer::Verb Tenses	you (formal) will do / make	usted hará	Hacer Future Indicative
+Basic	Hacer::Verb Tenses	we will do / make	nosotros haremos	Hacer Future Indicative
+Basic	Hacer::Verb Tenses	you all will do / make	ustedes harán	Hacer Future Indicative
+Basic	Hacer::Verb Tenses	they will do / make	ellos harán	Hacer Future Indicative
+Basic	Hacer::Verb Tenses	I would do / make	yo haría	Hacer Conditional
+Basic	Hacer::Verb Tenses	you would do / make	tú harías	Hacer Conditional
+Basic	Hacer::Verb Tenses	he would do / make	él haría	Hacer Conditional
+Basic	Hacer::Verb Tenses	she would do / make	ella haría	Hacer Conditional
+Basic	Hacer::Verb Tenses	you (formal) would do / make	usted haría	Hacer Conditional
+Basic	Hacer::Verb Tenses	we would do / make	nosotros haríamos	Hacer Conditional
+Basic	Hacer::Verb Tenses	you all would do / make	ustedes harían	Hacer Conditional
+Basic	Hacer::Verb Tenses	they would do / make	ellos harían	Hacer Conditional
+Basic	Hacer::Verb Tenses	I do / make (subjunctive)	yo haga	Hacer Present Subjunctive
+Basic	Hacer::Verb Tenses	you do / make (subjunctive)	tú hagas	Hacer Present Subjunctive
+Basic	Hacer::Verb Tenses	he does / makes (subjunctive)	él haga	Hacer Present Subjunctive
+Basic	Hacer::Verb Tenses	she does / makes (subjunctive)	ella haga	Hacer Present Subjunctive
+Basic	Hacer::Verb Tenses	you (formal) do / make (subjunctive)	usted haga	Hacer Present Subjunctive
+Basic	Hacer::Verb Tenses	we do / make (subjunctive)	nosotros hagamos	Hacer Present Subjunctive
+Basic	Hacer::Verb Tenses	you all do / make (subjunctive)	ustedes hagan	Hacer Present Subjunctive
+Basic	Hacer::Verb Tenses	they do / make (subjunctive)	ellos hagan	Hacer Present Subjunctive
+Basic	Hacer::Verb Tenses	I did / made (subjunctive)	yo hiciera	Hacer Imperfect Subjunctive
+Basic	Hacer::Verb Tenses	you did / made (subjunctive)	tú hicieras	Hacer Imperfect Subjunctive
+Basic	Hacer::Verb Tenses	he did / made (subjunctive)	él hiciera	Hacer Imperfect Subjunctive
+Basic	Hacer::Verb Tenses	she did / made (subjunctive)	ella hiciera	Hacer Imperfect Subjunctive
+Basic	Hacer::Verb Tenses	you (formal) did / made (subjunctive)	usted hiciera	Hacer Imperfect Subjunctive
+Basic	Hacer::Verb Tenses	we did / made (subjunctive)	nosotros hiciéramos	Hacer Imperfect Subjunctive
+Basic	Hacer::Verb Tenses	you all did / made (subjunctive)	ustedes hicieran	Hacer Imperfect Subjunctive
+Basic	Hacer::Verb Tenses	they did / made (subjunctive)	ellos hicieran	Hacer Imperfect Subjunctive
 Basic	Hacer::Present::Indicative	I do my devotional every morning.	Hago mi devoción cada mañana.	Hacer Present Indicative
 Basic	Hacer::Present::Indicative	Do you make time for prayer?	¿Haces tiempo para orar?	Hacer Present Indicative
 Basic	Hacer::Present::Indicative	She does her Bible reading every night.	Hace su lectura bíblica cada noche.	Hacer Present Indicative

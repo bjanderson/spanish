@@ -5,6 +5,62 @@
 #front column:3
 #back column:4
 #tags column:5
+Basic	Hablar::Verb Tenses	I speak / talk	yo hablo	Hablar Present Indicative
+Basic	Hablar::Verb Tenses	you speak / talk	tú hablas	Hablar Present Indicative
+Basic	Hablar::Verb Tenses	he speaks / talks	él habla	Hablar Present Indicative
+Basic	Hablar::Verb Tenses	she speaks / talks	ella habla	Hablar Present Indicative
+Basic	Hablar::Verb Tenses	you (formal) speak / talk	usted habla	Hablar Present Indicative
+Basic	Hablar::Verb Tenses	we speak / talk	nosotros hablamos	Hablar Present Indicative
+Basic	Hablar::Verb Tenses	you all speak / talk	ustedes hablan	Hablar Present Indicative
+Basic	Hablar::Verb Tenses	they speak / talk	ellos hablan	Hablar Present Indicative
+Basic	Hablar::Verb Tenses	I spoke / talked	yo hablé	Hablar Preterite
+Basic	Hablar::Verb Tenses	you spoke / talked	tú hablaste	Hablar Preterite
+Basic	Hablar::Verb Tenses	he spoke / talked	él habló	Hablar Preterite
+Basic	Hablar::Verb Tenses	she spoke / talked	ella habló	Hablar Preterite
+Basic	Hablar::Verb Tenses	you (formal) spoke / talked	usted habló	Hablar Preterite
+Basic	Hablar::Verb Tenses	we spoke / talked	nosotros hablamos	Hablar Preterite
+Basic	Hablar::Verb Tenses	you all spoke / talked	ustedes hablaron	Hablar Preterite
+Basic	Hablar::Verb Tenses	they spoke / talked	ellos hablaron	Hablar Preterite
+Basic	Hablar::Verb Tenses	I used to speak / talk	yo hablaba	Hablar Imperfect Indicative
+Basic	Hablar::Verb Tenses	you used to speak / talk	tú hablabas	Hablar Imperfect Indicative
+Basic	Hablar::Verb Tenses	he used to speak / talk	él hablaba	Hablar Imperfect Indicative
+Basic	Hablar::Verb Tenses	she used to speak / talk	ella hablaba	Hablar Imperfect Indicative
+Basic	Hablar::Verb Tenses	you (formal) used to speak / talk	usted hablaba	Hablar Imperfect Indicative
+Basic	Hablar::Verb Tenses	we used to speak / talk	nosotros hablábamos	Hablar Imperfect Indicative
+Basic	Hablar::Verb Tenses	you all used to speak / talk	ustedes hablaban	Hablar Imperfect Indicative
+Basic	Hablar::Verb Tenses	they used to speak / talk	ellos hablaban	Hablar Imperfect Indicative
+Basic	Hablar::Verb Tenses	I will speak / talk	yo hablaré	Hablar Future Indicative
+Basic	Hablar::Verb Tenses	you will speak / talk	tú hablarás	Hablar Future Indicative
+Basic	Hablar::Verb Tenses	he will speak / talk	él hablará	Hablar Future Indicative
+Basic	Hablar::Verb Tenses	she will speak / talk	ella hablará	Hablar Future Indicative
+Basic	Hablar::Verb Tenses	you (formal) will speak / talk	usted hablará	Hablar Future Indicative
+Basic	Hablar::Verb Tenses	we will speak / talk	nosotros hablaremos	Hablar Future Indicative
+Basic	Hablar::Verb Tenses	you all will speak / talk	ustedes hablarán	Hablar Future Indicative
+Basic	Hablar::Verb Tenses	they will speak / talk	ellos hablarán	Hablar Future Indicative
+Basic	Hablar::Verb Tenses	I would speak / talk	yo hablaría	Hablar Conditional
+Basic	Hablar::Verb Tenses	you would speak / talk	tú hablarías	Hablar Conditional
+Basic	Hablar::Verb Tenses	he would speak / talk	él hablaría	Hablar Conditional
+Basic	Hablar::Verb Tenses	she would speak / talk	ella hablaría	Hablar Conditional
+Basic	Hablar::Verb Tenses	you (formal) would speak / talk	usted hablaría	Hablar Conditional
+Basic	Hablar::Verb Tenses	we would speak / talk	nosotros hablaríamos	Hablar Conditional
+Basic	Hablar::Verb Tenses	you all would speak / talk	ustedes hablarían	Hablar Conditional
+Basic	Hablar::Verb Tenses	they would speak / talk	ellos hablarían	Hablar Conditional
+Basic	Hablar::Verb Tenses	I speak / talk (subjunctive)	yo hable	Hablar Present Subjunctive
+Basic	Hablar::Verb Tenses	you speak / talk (subjunctive)	tú hables	Hablar Present Subjunctive
+Basic	Hablar::Verb Tenses	he speaks / talks (subjunctive)	él hable	Hablar Present Subjunctive
+Basic	Hablar::Verb Tenses	she speaks / talks (subjunctive)	ella hable	Hablar Present Subjunctive
+Basic	Hablar::Verb Tenses	you (formal) speak / talk (subjunctive)	usted hable	Hablar Present Subjunctive
+Basic	Hablar::Verb Tenses	we speak / talk (subjunctive)	nosotros hablemos	Hablar Present Subjunctive
+Basic	Hablar::Verb Tenses	you all speak / talk (subjunctive)	ustedes hablen	Hablar Present Subjunctive
+Basic	Hablar::Verb Tenses	they speak / talk (subjunctive)	ellos hablen	Hablar Present Subjunctive
+Basic	Hablar::Verb Tenses	I spoke / talked (subjunctive)	yo hablara	Hablar Imperfect Subjunctive
+Basic	Hablar::Verb Tenses	you spoke / talked (subjunctive)	tú hablaras	Hablar Imperfect Subjunctive
+Basic	Hablar::Verb Tenses	he spoke / talked (subjunctive)	él hablara	Hablar Imperfect Subjunctive
+Basic	Hablar::Verb Tenses	she spoke / talked (subjunctive)	ella hablara	Hablar Imperfect Subjunctive
+Basic	Hablar::Verb Tenses	you (formal) spoke / talked (subjunctive)	usted hablara	Hablar Imperfect Subjunctive
+Basic	Hablar::Verb Tenses	we spoke / talked (subjunctive)	nosotros habláramos	Hablar Imperfect Subjunctive
+Basic	Hablar::Verb Tenses	you all spoke / talked (subjunctive)	ustedes hablaran	Hablar Imperfect Subjunctive
+Basic	Hablar::Verb Tenses	they spoke / talked (subjunctive)	ellos hablaran	Hablar Imperfect Subjunctive
 Basic	Hablar::Present::Indicative	I speak Spanish with my friends from church.	Hablo español con mis amigos de la iglesia.	Hablar Present Indicative
 Basic	Hablar::Present::Indicative	Do you speak with the pastor after service?	¿Hablas con el pastor después del culto?	Hablar Present Indicative
 Basic	Hablar::Present::Indicative	She speaks about God love wherever she goes.	Habla del amor de Dios dondequiera que va.	Hablar Present Indicative

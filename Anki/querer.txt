@@ -5,6 +5,62 @@
 #front column:3
 #back column:4
 #tags column:5
+Basic	Querer::Verb Tenses	I want	yo quiero	Querer Present Indicative
+Basic	Querer::Verb Tenses	you want	tú quieres	Querer Present Indicative
+Basic	Querer::Verb Tenses	he wants	él quiere	Querer Present Indicative
+Basic	Querer::Verb Tenses	she wants	ella quiere	Querer Present Indicative
+Basic	Querer::Verb Tenses	you (formal) want	usted quiere	Querer Present Indicative
+Basic	Querer::Verb Tenses	we want	nosotros queremos	Querer Present Indicative
+Basic	Querer::Verb Tenses	you all want	ustedes quieren	Querer Present Indicative
+Basic	Querer::Verb Tenses	they want	ellos quieren	Querer Present Indicative
+Basic	Querer::Verb Tenses	I wanted	yo quise	Querer Preterite
+Basic	Querer::Verb Tenses	you wanted	tú quisiste	Querer Preterite
+Basic	Querer::Verb Tenses	he wanted	él quiso	Querer Preterite
+Basic	Querer::Verb Tenses	she wanted	ella quiso	Querer Preterite
+Basic	Querer::Verb Tenses	you (formal) wanted	usted quiso	Querer Preterite
+Basic	Querer::Verb Tenses	we wanted	nosotros quisimos	Querer Preterite
+Basic	Querer::Verb Tenses	you all wanted	ustedes quisieron	Querer Preterite
+Basic	Querer::Verb Tenses	they wanted	ellos quisieron	Querer Preterite
+Basic	Querer::Verb Tenses	I used to want	yo quería	Querer Imperfect Indicative
+Basic	Querer::Verb Tenses	you used to want	tú querías	Querer Imperfect Indicative
+Basic	Querer::Verb Tenses	he used to want	él quería	Querer Imperfect Indicative
+Basic	Querer::Verb Tenses	she used to want	ella quería	Querer Imperfect Indicative
+Basic	Querer::Verb Tenses	you (formal) used to want	usted quería	Querer Imperfect Indicative
+Basic	Querer::Verb Tenses	we used to want	nosotros queríamos	Querer Imperfect Indicative
+Basic	Querer::Verb Tenses	you all used to want	ustedes querían	Querer Imperfect Indicative
+Basic	Querer::Verb Tenses	they used to want	ellos querían	Querer Imperfect Indicative
+Basic	Querer::Verb Tenses	I will want	yo querré	Querer Future Indicative
+Basic	Querer::Verb Tenses	you will want	tú querrás	Querer Future Indicative
+Basic	Querer::Verb Tenses	he will want	él querrá	Querer Future Indicative
+Basic	Querer::Verb Tenses	she will want	ella querrá	Querer Future Indicative
+Basic	Querer::Verb Tenses	you (formal) will want	usted querrá	Querer Future Indicative
+Basic	Querer::Verb Tenses	we will want	nosotros querremos	Querer Future Indicative
+Basic	Querer::Verb Tenses	you all will want	ustedes querrán	Querer Future Indicative
+Basic	Querer::Verb Tenses	they will want	ellos querrán	Querer Future Indicative
+Basic	Querer::Verb Tenses	I would want	yo querría	Querer Conditional
+Basic	Querer::Verb Tenses	you would want	tú querrías	Querer Conditional
+Basic	Querer::Verb Tenses	he would want	él querría	Querer Conditional
+Basic	Querer::Verb Tenses	she would want	ella querría	Querer Conditional
+Basic	Querer::Verb Tenses	you (formal) would want	usted querría	Querer Conditional
+Basic	Querer::Verb Tenses	we would want	nosotros querríamos	Querer Conditional
+Basic	Querer::Verb Tenses	you all would want	ustedes querrían	Querer Conditional
+Basic	Querer::Verb Tenses	they would want	ellos querrían	Querer Conditional
+Basic	Querer::Verb Tenses	I want (subjunctive)	yo quiera	Querer Present Subjunctive
+Basic	Querer::Verb Tenses	you want (subjunctive)	tú quieras	Querer Present Subjunctive
+Basic	Querer::Verb Tenses	he wants (subjunctive)	él quiera	Querer Present Subjunctive
+Basic	Querer::Verb Tenses	she wants (subjunctive)	ella quiera	Querer Present Subjunctive
+Basic	Querer::Verb Tenses	you (formal) want (subjunctive)	usted quiera	Querer Present Subjunctive
+Basic	Querer::Verb Tenses	we want (subjunctive)	nosotros queramos	Querer Present Subjunctive
+Basic	Querer::Verb Tenses	you all want (subjunctive)	ustedes quieran	Querer Present Subjunctive
+Basic	Querer::Verb Tenses	they want (subjunctive)	ellos quieran	Querer Present Subjunctive
+Basic	Querer::Verb Tenses	I wanted (subjunctive)	yo quisiera	Querer Imperfect Subjunctive
+Basic	Querer::Verb Tenses	you wanted (subjunctive)	tú quisieras	Querer Imperfect Subjunctive
+Basic	Querer::Verb Tenses	he wanted (subjunctive)	él quisiera	Querer Imperfect Subjunctive
+Basic	Querer::Verb Tenses	she wanted (subjunctive)	ella quisiera	Querer Imperfect Subjunctive
+Basic	Querer::Verb Tenses	you (formal) wanted (subjunctive)	usted quisiera	Querer Imperfect Subjunctive
+Basic	Querer::Verb Tenses	we wanted (subjunctive)	nosotros quisiéramos	Querer Imperfect Subjunctive
+Basic	Querer::Verb Tenses	you all wanted (subjunctive)	ustedes quisieran	Querer Imperfect Subjunctive
+Basic	Querer::Verb Tenses	they wanted (subjunctive)	ellos quisieran	Querer Imperfect Subjunctive
 Basic	Querer::Present::Indicative	I want to read the Bible.	Quiero leer la Biblia.	Querer Present Indicative
 Basic	Querer::Present::Indicative	Do you want to pray with me?	¿Quieres orar conmigo?	Querer Present Indicative
 Basic	Querer::Present::Indicative	He wants to come to Bible study.	Quiere venir al estudio bíblico.	Querer Present Indicative
