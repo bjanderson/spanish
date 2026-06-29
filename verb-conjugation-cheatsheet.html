@@ -49,7 +49,7 @@
     border-bottom: 1px solid #444;
     display: flex;
     justify-content: space-between;
-    align-items: baseline;
+    align-items: flex-start;
   }
 
   .section-header h2 {
@@ -78,6 +78,12 @@
   .mood-tag.imperative { background: #1a4a1a; color: #7af57a; }
   .mood-tag.compound { background: #4a2a1a; color: #f5a87a; }
   .mood-tag.other { background: #3a3a1a; color: #f5f07a; }
+
+  .yo-phrase {
+    font-size: 0.68rem;
+    color: #7ab8f5;
+    margin-top: 2px;
+  }
 
   table {
     width: 100%;
@@ -183,7 +189,10 @@
   <!-- Present Indicative -->
   <div class="section">
     <div class="section-header">
-      <h2>Present Indicative <span class="mood-tag indicative">Indicative</span></h2>
+      <div>
+        <h2>Present Indicative <span class="mood-tag indicative">Indicative</span></h2>
+        <div class="yo-phrase">yo: hablo — "I speak"</div>
+      </div>
       <span class="use">current facts, habits, truths</span>
     </div>
     <table>
@@ -200,7 +209,10 @@
   <!-- Preterite -->
   <div class="section">
     <div class="section-header">
-      <h2>Preterite <span class="mood-tag indicative">Indicative</span></h2>
+      <div>
+        <h2>Preterite <span class="mood-tag indicative">Indicative</span></h2>
+        <div class="yo-phrase">yo: hablé — "I spoke"</div>
+      </div>
       <span class="use">completed past actions</span>
     </div>
     <table>
@@ -217,7 +229,10 @@
   <!-- Imperfect -->
   <div class="section">
     <div class="section-header">
-      <h2>Imperfect <span class="mood-tag indicative">Indicative</span></h2>
+      <div>
+        <h2>Imperfect <span class="mood-tag indicative">Indicative</span></h2>
+        <div class="yo-phrase">yo: hablaba — "I used to speak"</div>
+      </div>
       <span class="use">habitual/ongoing past states</span>
     </div>
     <table>
@@ -234,7 +249,10 @@
   <!-- Future -->
   <div class="section">
     <div class="section-header">
-      <h2>Future <span class="mood-tag indicative">Indicative</span></h2>
+      <div>
+        <h2>Future <span class="mood-tag indicative">Indicative</span></h2>
+        <div class="yo-phrase">yo: hablaré — "I will speak"</div>
+      </div>
       <span class="use">future events, predictions</span>
     </div>
     <div class="formula">Add endings to the <strong>full infinitive</strong></div>
@@ -252,7 +270,10 @@
   <!-- Conditional -->
   <div class="section">
     <div class="section-header">
-      <h2>Conditional <span class="mood-tag indicative">Indicative</span></h2>
+      <div>
+        <h2>Conditional <span class="mood-tag indicative">Indicative</span></h2>
+        <div class="yo-phrase">yo: hablaría — "I would speak"</div>
+      </div>
       <span class="use">would; polite requests, hypotheticals</span>
     </div>
     <div class="formula">Add endings to the <strong>full infinitive</strong> (same stems as future)</div>
@@ -270,7 +291,10 @@
   <!-- Present Subjunctive -->
   <div class="section">
     <div class="section-header">
-      <h2>Present Subjunctive <span class="mood-tag subjunctive">Subjunctive</span></h2>
+      <div>
+        <h2>Present Subjunctive <span class="mood-tag subjunctive">Subjunctive</span></h2>
+        <div class="yo-phrase">yo: hable — "(that) I speak"</div>
+      </div>
       <span class="use">wishes, doubt, emotion, recommendations</span>
     </div>
     <div class="formula">From <strong>yo present</strong> (drop -o) + "opposite" vowel endings</div>
@@ -288,7 +312,10 @@
   <!-- Imperfect Subjunctive -->
   <div class="section">
     <div class="section-header">
-      <h2>Imperfect Subjunctive <span class="mood-tag subjunctive">Subjunctive</span></h2>
+      <div>
+        <h2>Imperfect Subjunctive <span class="mood-tag subjunctive">Subjunctive</span></h2>
+        <div class="yo-phrase">yo: hablara — "(that) I spoke"</div>
+      </div>
       <span class="use">past wishes; "if I were…"; polite requests</span>
     </div>
     <div class="formula">From <strong>ellos preterite</strong> (drop -ron) + endings below</div>
@@ -324,7 +351,10 @@
   <!-- Present Perfect -->
   <div class="section">
     <div class="section-header">
-      <h2>Present Perfect <span class="mood-tag compound">Compound</span></h2>
+      <div>
+        <h2>Present Perfect <span class="mood-tag compound">Compound</span></h2>
+        <div class="yo-phrase">yo: he hablado — "I have spoken"</div>
+      </div>
       <span class="use">past actions relevant to the present</span>
     </div>
     <div class="formula"><strong>haber</strong> (present) + <strong>past participle</strong> (-ado / -ido)</div>
@@ -342,7 +372,10 @@
   <!-- Past Perfect (Pluperfect) -->
   <div class="section">
     <div class="section-header">
-      <h2>Past Perfect (Pluperfect) <span class="mood-tag compound">Compound</span></h2>
+      <div>
+        <h2>Past Perfect (Pluperfect) <span class="mood-tag compound">Compound</span></h2>
+        <div class="yo-phrase">yo: había hablado — "I had spoken"</div>
+      </div>
       <span class="use">had done — before another past event</span>
     </div>
     <div class="formula"><strong>haber</strong> (imperfect) + <strong>past participle</strong></div>
@@ -360,7 +393,10 @@
   <!-- Future Perfect -->
   <div class="section">
     <div class="section-header">
-      <h2>Future Perfect <span class="mood-tag compound">Compound</span></h2>
+      <div>
+        <h2>Future Perfect <span class="mood-tag compound">Compound</span></h2>
+        <div class="yo-phrase">yo: habré hablado — "I will have spoken"</div>
+      </div>
       <span class="use">will have done — before a future point</span>
     </div>
     <div class="formula"><strong>haber</strong> (future) + <strong>past participle</strong></div>
@@ -378,7 +414,10 @@
   <!-- Conditional Perfect -->
   <div class="section">
     <div class="section-header">
-      <h2>Conditional Perfect <span class="mood-tag compound">Compound</span></h2>
+      <div>
+        <h2>Conditional Perfect <span class="mood-tag compound">Compound</span></h2>
+        <div class="yo-phrase">yo: habría hablado — "I would have spoken"</div>
+      </div>
       <span class="use">would have done — unreal past</span>
     </div>
     <div class="formula"><strong>haber</strong> (conditional) + <strong>past participle</strong></div>
@@ -396,7 +435,10 @@
   <!-- Present Perfect Subjunctive -->
   <div class="section">
     <div class="section-header">
-      <h2>Present Perfect Subjunctive <span class="mood-tag subjunctive">Subjunctive</span></h2>
+      <div>
+        <h2>Present Perfect Subjunctive <span class="mood-tag subjunctive">Subjunctive</span></h2>
+        <div class="yo-phrase">yo: haya hablado — "(that) I have spoken"</div>
+      </div>
       <span class="use">doubt/wish about past actions</span>
     </div>
     <div class="formula"><strong>haber</strong> (pres. subj.) + <strong>past participle</strong></div>
@@ -414,7 +456,10 @@
   <!-- Past Perfect Subjunctive -->
   <div class="section">
     <div class="section-header">
-      <h2>Past Perfect Subjunctive <span class="mood-tag subjunctive">Subjunctive</span></h2>
+      <div>
+        <h2>Past Perfect Subjunctive <span class="mood-tag subjunctive">Subjunctive</span></h2>
+        <div class="yo-phrase">yo: hubiera hablado — "(that) I had spoken"</div>
+      </div>
       <span class="use">unreal past conditions ("if I had…")</span>
     </div>
     <div class="formula"><strong>haber</strong> (imperf. subj.) + <strong>past participle</strong></div>
@@ -432,7 +477,10 @@
   <!-- Progressive Tenses -->
   <div class="section">
     <div class="section-header">
-      <h2>Progressive Tenses <span class="mood-tag other">Other</span></h2>
+      <div>
+        <h2>Progressive Tenses <span class="mood-tag other">Other</span></h2>
+        <div class="yo-phrase">yo: estoy hablando — "I am speaking"</div>
+      </div>
       <span class="use">emphasizes action in progress</span>
     </div>
     <div class="formula"><strong>estar</strong> (any tense) + <strong>gerund</strong> (-ando / -iendo)</div>
@@ -449,7 +497,10 @@
   <!-- Periphrastic Future -->
   <div class="section">
     <div class="section-header">
-      <h2>Periphrastic Future <span class="mood-tag other">Other</span></h2>
+      <div>
+        <h2>Periphrastic Future <span class="mood-tag other">Other</span></h2>
+        <div class="yo-phrase">yo: voy a hablar — "I am going to speak"</div>
+      </div>
       <span class="use">near future plans and intentions</span>
     </div>
     <div class="formula"><strong>ir</strong> (present) + <strong>a</strong> + <strong>infinitive</strong></div>
