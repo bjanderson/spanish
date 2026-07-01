@@ -5,21 +5,153 @@
 #front column:3
 #back column:4
 #tags column:5
-Basic (and reversed card)	Vocabulary::Other	cantar	to sing	vocabulary
-Basic (and reversed card)	Vocabulary::Other	comer	to eat	vocabulary
-Basic (and reversed card)	Vocabulary::Other	beber	to drink	vocabulary
-Basic (and reversed card)	Vocabulary::Other	leer	to read	vocabulary
-Basic (and reversed card)	Vocabulary::Other	escribir	to write	vocabulary
-Basic (and reversed card)	Vocabulary::Other	correr	to run	vocabulary
-Basic (and reversed card)	Vocabulary::Other	caminar	to walk	vocabulary
-Basic (and reversed card)	Vocabulary::Other	viajar	to travel	vocabulary
-Basic (and reversed card)	Vocabulary::Other	trabajar	to work	vocabulary
-Basic (and reversed card)	Vocabulary::Other	practicar	to practice	vocabulary
-Basic (and reversed card)	Vocabulary::Other	comprar	to buy	vocabulary
-Basic (and reversed card)	Vocabulary::Other	escuchar	to listen	vocabulary
-Basic (and reversed card)	Vocabulary::Other	vender	to sell	vocabulary
-Basic (and reversed card)	Vocabulary::Other	descansar	to rest	vocabulary
-Basic (and reversed card)	Vocabulary::Other	dibujar	to draw	vocabulary
+Basic (and reversed card)	Vocabulary::Basics	the	el/los/la/las
+Basic (and reversed card)	Vocabulary::Basics	and	y
+Basic (and reversed card)	Vocabulary::Basics	to	a
+Basic (and reversed card)	Vocabulary::Basics	of/from	de
+Basic (and reversed card)	Vocabulary::Basics	I	yo
+Basic (and reversed card)	Vocabulary::Basics	you	tú
+Basic (and reversed card)	Vocabulary::Basics	he	él
+Basic (and reversed card)	Vocabulary::Basics	she	ella
+Basic (and reversed card)	Vocabulary::Basics	they (m/f)	ellos/ellas
+Basic (and reversed card)	Vocabulary::Basics	we (m/f)	nosotros/nosotras
+Basic (and reversed card)	Vocabulary::Basics	you (all)/y'all	ustedes
+Basic (and reversed card)	Vocabulary::Basics	for	para
+Basic (and reversed card)	Vocabulary::Basics	if	si (no accent)
+Basic (and reversed card)	Vocabulary::Basics	then	entonces
+Basic (and reversed card)	Vocabulary::Basics	also	también
+Basic (and reversed card)	Vocabulary::Basics	very	muy
+Basic (and reversed card)	Vocabulary::Basics	a lot	mucho
+Basic (and reversed card)	Vocabulary::Basics	a little	un poco
+Basic (and reversed card)	Vocabulary::Basics	fast	rapido/a (trill the r)
+Basic (and reversed card)	Vocabulary::Basics	slow	despacio
+Basic (and reversed card)	Vocabulary::Basics	all	todo/a
+Basic (and reversed card)	Vocabulary::Basics	none	ninguno/a
+Basic (and reversed card)	Vocabulary::Basics	always	siempre
+Basic (and reversed card)	Vocabulary::Basics	never	nunca
+Basic (and reversed card)	Vocabulary::Basics	sometimes	a veces
+Basic (and reversed card)	Vocabulary::Basics	with	con
+Basic (and reversed card)	Vocabulary::Basics	without	sin (pronounced seen)
+Basic (and reversed card)	Vocabulary::Basics	about	sobre
+Basic (and reversed card)	Vocabulary::Basics	in	en
+Basic (and reversed card)	Vocabulary::Basics	out	afuera
+Basic (and reversed card)	Vocabulary::Basics	up	arriba
+Basic (and reversed card)	Vocabulary::Basics	down	abajo
+Basic (and reversed card)	Vocabulary::Basics	right (direction)	derecha
+Basic (and reversed card)	Vocabulary::Basics	left (direction)	izquierda
+Basic (and reversed card)	Vocabulary::Basics	straight (direction)	recto (trill the r)
+Basic (and reversed card)	Vocabulary::Basics	forward	adelante
+Basic (and reversed card)	Vocabulary::Basics	backward	atrás
+Basic (and reversed card)	Vocabulary::Basics	start	comenzar
+Basic (and reversed card)	Vocabulary::Basics	stop	basta
+Basic (and reversed card)	Vocabulary::Basics	go	ir
+Basic (and reversed card)	Vocabulary::Basics	good bye	adiós
+Basic (and reversed card)	Vocabulary::Basics	excuse me	disculpe
+Basic (and reversed card)	Vocabulary::Basics	I don't know	no sé
+Basic (and reversed card)	Vocabulary::Basics	I'm sorry	lo siento
+Basic (and reversed card)	Vocabulary::Basics	it's ok	está bien
+Basic (and reversed card)	Vocabulary::Basics	come here	ven aquí
+Basic (and reversed card)	Vocabulary::Basics	how do you say...	cómo se dice...
+Basic (and reversed card)	Vocabulary::Basics	Hello	Hola	Greetings
+Basic (and reversed card)	Vocabulary::Basics	Good morning	Buenos días	Greetings
+Basic (and reversed card)	Vocabulary::Basics	Good afternoon	Buenas tardes	Greetings
+Basic (and reversed card)	Vocabulary::Basics	Good evening	Buenas noches	Greetings
+Basic (and reversed card)	Vocabulary::Basics	How are you?	¿Cómo estás?	Greetings
+Basic (and reversed card)	Vocabulary::Basics	I'm fine, thank you.	Estoy bien, gracias.	Greetings
+Basic (and reversed card)	Vocabulary::Basics	What's your name?	¿Cómo te llamas?	Greetings
+Basic (and reversed card)	Vocabulary::Basics	My name is...	Me llamo...	Greetings
+Basic (and reversed card)	Vocabulary::Basics	Nice to meet you.	Mucho gusto.	Greetings
+Basic (and reversed card)	Vocabulary::Basics	See you later.	Hasta luego.	Greetings
+Basic (and reversed card)	Vocabulary::Basics	Please	Por favor	Basic_Phrases
+Basic (and reversed card)	Vocabulary::Basics	Thank you	Gracias	Basic_Phrases
+Basic (and reversed card)	Vocabulary::Basics	You're welcome	De nada	Basic_Phrases
+Basic (and reversed card)	Vocabulary::Basics	I'm sorry	Lo siento	Basic_Phrases
+Basic (and reversed card)	Vocabulary::Basics	Excuse me	Disculpe	Basic_Phrases
+Basic (and reversed card)	Vocabulary::Basics	Yes	Sí (note the accent emphasize the EE sound in sEE)	Basic_Phrases
+Basic (and reversed card)	Vocabulary::Basics	No	No	Basic_Phrases
+Basic (and reversed card)	Vocabulary::Basics	I (don't) understand.	(No) entiendo.	Basic_Phrases
+Basic (and reversed card)	Vocabulary::Basics	Could you repeat that?	¿Puede repetir eso?	Basic_Phrases
+Basic (and reversed card)	Vocabulary::Basics	More slowly, please.	Más despacio, por favor.	Basic_Phrases
+Basic (and reversed card)	Vocabulary::Basics	Where is the bathroom?	¿Dónde está el baño?	Travel
+Basic (and reversed card)	Vocabulary::Basics	How much does it cost?	¿Cuánto cuesta?	Travel
+Basic (and reversed card)	Vocabulary::Basics	I need a taxi.	Necesito un taxi.	Travel
+Basic (and reversed card)	Vocabulary::Basics	Where is the hotel?	¿Dónde está el hotel?	Travel
+Basic (and reversed card)	Vocabulary::Basics	Where is the airport?	¿Dónde está el aeropuerto?	Travel
+Basic (and reversed card)	Vocabulary::Basics	I am lost.	Estoy perdido.	Travel
+Basic (and reversed card)	Vocabulary::Basics	Turn left.	Gira a la izquierda.	Travel
+Basic (and reversed card)	Vocabulary::Basics	Turn right.	Gira a la derecha.	Travel
+Basic (and reversed card)	Vocabulary::Basics	Go straight ahead.	Sigue recto.	Travel
+Basic (and reversed card)	Vocabulary::Basics	I need help.	Necesito ayuda.	Travel
+Basic (and reversed card)	Vocabulary::Basics	A table for two, please.	Una mesa para dos, por favor.	Restaurant
+Basic (and reversed card)	Vocabulary::Basics	The menu, please.	El menú, por favor.	Restaurant
+Basic (and reversed card)	Vocabulary::Basics	What do you recommend?	¿Qué recomienda?	Restaurant
+Basic (and reversed card)	Vocabulary::Basics	I would like...	Quisiera...	Restaurant
+Basic (and reversed card)	Vocabulary::Basics	The check, please.	La cuenta, por favor.	Restaurant
+Basic (and reversed card)	Vocabulary::Basics	Water, please.	Agua, por favor.	Restaurant
+Basic (and reversed card)	Vocabulary::Basics	I'm hungry.	Tengo hambre.	Restaurant
+Basic (and reversed card)	Vocabulary::Basics	I'm thirsty.	Tengo sed.	Restaurant
+Basic (and reversed card)	Vocabulary::Basics	This is delicious!	¡Esto está delicioso!	Restaurant
+Basic (and reversed card)	Vocabulary::Basics	I am allergic to...	Soy alérgico a...	Restaurant
+Basic (and reversed card)	Vocabulary::Basics	My home	Mi casa	Home
+Basic (and reversed card)	Vocabulary::Basics	I live here.	Vivo aquí.	Home
+Basic (and reversed card)	Vocabulary::Basics	Come in!	¡Pasa!	Home
+Basic (and reversed card)	Vocabulary::Basics	Make yourself at home.	Estás en tu casa.	Home
+Basic (and reversed card)	Vocabulary::Basics	The kitchen is over there.	La cocina está allá.	Home
+Basic (and reversed card)	Vocabulary::Basics	My family	Mi familia	Family
+Basic (and reversed card)	Vocabulary::Basics	My mother	Mi mamá	Family
+Basic (and reversed card)	Vocabulary::Basics	My father	Mi papá	Family
+Basic (and reversed card)	Vocabulary::Basics	My brother	Mi hermano	Family
+Basic (and reversed card)	Vocabulary::Basics	My sister	Mi hermana	Family
+Basic (and reversed card)	Vocabulary::Basics	My children	Mis hijos	Family
+Basic (and reversed card)	Vocabulary::Basics	My husband	Mi esposo	Family
+Basic (and reversed card)	Vocabulary::Basics	My wife	Mi esposa	Family
+Basic (and reversed card)	Vocabulary::Basics	My grandfather	Mi abuelo	Family
+Basic (and reversed card)	Vocabulary::Basics	I love my family.	Amo a mi familia.	Family
+Basic (and reversed card)	Vocabulary::Basics	This is my friend.	Este es mi amigo.	Friends
+Basic (and reversed card)	Vocabulary::Basics	We are friends.	Somos amigos.	Friends
+Basic (and reversed card)	Vocabulary::Basics	Do you want to come with us?	¿Quieres venir con nosotros?	Friends
+Basic (and reversed card)	Vocabulary::Basics	Let's go!	¡Vamos!	Friends
+Basic (and reversed card)	Vocabulary::Basics	Have fun!	¡Diviértete!	Friends
+Basic (and reversed card)	Vocabulary::Basics	My dog	Mi perro	Pets
+Basic (and reversed card)	Vocabulary::Basics	My cat	Mi gato	Pets
+Basic (and reversed card)	Vocabulary::Basics	I have a pet.	Tengo una mascota.	Pets
+Basic (and reversed card)	Vocabulary::Basics	The dog is hungry.	El perro tiene hambre.	Pets
+Basic (and reversed card)	Vocabulary::Basics	The cat is sleeping.	El gato está dormido.	Pets
+Basic (and reversed card)	Vocabulary::Basics	I am a student.	Soy estudiante.	School
+Basic (and reversed card)	Vocabulary::Basics	I go to school.	Voy a la escuela.	School
+Basic (and reversed card)	Vocabulary::Basics	I am learning Spanish.	Estoy aprendiendo español.	School
+Basic (and reversed card)	Vocabulary::Basics	The teacher is here.	El maestro está aquí.	School
+Basic (and reversed card)	Vocabulary::Basics	I need to study.	Necesito estudiar.	School
+Basic (and reversed card)	Vocabulary::Basics	I feel sick.	Me siento enfermo.	Health
+Basic (and reversed card)	Vocabulary::Basics	I have a headache.	Tengo dolor de cabeza.	Health
+Basic (and reversed card)	Vocabulary::Basics	I need medicine.	Necesito medicina.	Health
+Basic (and reversed card)	Vocabulary::Basics	Call a doctor.	Llame a un médico.	Health
+Basic (and reversed card)	Vocabulary::Basics	I am at the doctor.	Estoy en el médico.	Health
+Basic (and reversed card)	Vocabulary::Basics	I work here.	Trabajo aquí.	Work
+Basic (and reversed card)	Vocabulary::Basics	Where do you work?	¿Dónde trabajas?	Work
+Basic (and reversed card)	Vocabulary::Basics	I have a meeting.	Tengo una reunión.	Work
+Basic (and reversed card)	Vocabulary::Basics	I am busy right now.	Estoy ocupado ahora mismo.	Work
+Basic (and reversed card)	Vocabulary::Basics	I finish work at five.	Termino el trabajo a las cinco.	Work
+Basic (and reversed card)	Vocabulary::Basics	I like music.	Me gusta la música.	Music
+Basic (and reversed card)	Vocabulary::Basics	I enjoy singing.	Me gusta cantar.	Music
+Basic (and reversed card)	Vocabulary::Basics	This song is beautiful.	Esta canción es hermosa.	Music
+Basic (and reversed card)	Vocabulary::Basics	Let's sing together.	Cantemos juntos.	Music
+Basic (and reversed card)	Vocabulary::Basics	What is your favorite song?	¿Cuál es tu canción favorita?	Music
+Basic (and reversed card)	Vocabulary::Basics	God bless you.	Dios te bendiga.	Church
+Basic (and reversed card)	Vocabulary::Basics	I believe in God.	Creo en Dios.	Church
+Basic (and reversed card)	Vocabulary::Basics	Jesus loves you.	Jesús te ama.	Church
+Basic (and reversed card)	Vocabulary::Basics	Let us pray.	Oremos.	Church
+Basic (and reversed card)	Vocabulary::Basics	The Bible says...	La Biblia dice...	Bible
+Basic (and reversed card)	Vocabulary::Basics	I go to church.	Voy a la iglesia.	Church
+Basic (and reversed card)	Vocabulary::Basics	Today is Sunday.	Hoy es domingo.	Church
+Basic (and reversed card)	Vocabulary::Basics	Praise the Lord.	Alabado sea el Señor.	Church
+Basic (and reversed card)	Vocabulary::Basics	God is good.	Dios es bueno.	Church
+Basic (and reversed card)	Vocabulary::Basics	I will pray for you.	Voy a orar por ti.	Church
+Basic (and reversed card)	Vocabulary::Basics	We are reading the Bible.	Estamos leyendo la Biblia.	Bible
+Basic (and reversed card)	Vocabulary::Basics	God loves you.	Dios te ama.	Church
+Basic (and reversed card)	Vocabulary::Basics	Have faith.	Ten fe.	Church
+Basic (and reversed card)	Vocabulary::Basics	The Lord is my shepherd.	El Señor es mi pastor.	Bible
+Basic (and reversed card)	Vocabulary::Basics	See you at church.	Te veo en la iglesia.	Church
 Basic (and reversed card)	Vocabulary::Bible	Dios	God	vocabulary
 Basic (and reversed card)	Vocabulary::Bible	Jesús	Jesus	vocabulary
 Basic (and reversed card)	Vocabulary::Bible	el Espíritu Santo	the Holy Spirit	vocabulary
@@ -691,6 +823,21 @@ Basic (and reversed card)	Vocabulary::Music	la audición	audition	vocabulary
 Basic (and reversed card)	Vocabulary::Music	el talento	talent	vocabulary
 Basic (and reversed card)	Vocabulary::Music	talentoso	talented	vocabulary
 Basic (and reversed card)	Vocabulary::Music	el cántico	canticle/song	vocabulary
+Basic (and reversed card)	Vocabulary::Other	cantar	to sing	vocabulary
+Basic (and reversed card)	Vocabulary::Other	comer	to eat	vocabulary
+Basic (and reversed card)	Vocabulary::Other	beber	to drink	vocabulary
+Basic (and reversed card)	Vocabulary::Other	leer	to read	vocabulary
+Basic (and reversed card)	Vocabulary::Other	escribir	to write	vocabulary
+Basic (and reversed card)	Vocabulary::Other	correr	to run	vocabulary
+Basic (and reversed card)	Vocabulary::Other	caminar	to walk	vocabulary
+Basic (and reversed card)	Vocabulary::Other	viajar	to travel	vocabulary
+Basic (and reversed card)	Vocabulary::Other	trabajar	to work	vocabulary
+Basic (and reversed card)	Vocabulary::Other	practicar	to practice	vocabulary
+Basic (and reversed card)	Vocabulary::Other	comprar	to buy	vocabulary
+Basic (and reversed card)	Vocabulary::Other	escuchar	to listen	vocabulary
+Basic (and reversed card)	Vocabulary::Other	vender	to sell	vocabulary
+Basic (and reversed card)	Vocabulary::Other	descansar	to rest	vocabulary
+Basic (and reversed card)	Vocabulary::Other	dibujar	to draw	vocabulary
 Basic (and reversed card)	Vocabulary::People	la persona	person	vocabulary
 Basic (and reversed card)	Vocabulary::People	el hombre	man	vocabulary
 Basic (and reversed card)	Vocabulary::People	la mujer	woman	vocabulary
